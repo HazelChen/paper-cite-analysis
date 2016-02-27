@@ -16,7 +16,6 @@ import org.apache.hadoop.mapreduce.lib.output.MultipleOutputs;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.StringTokenizer;
 
 /**
@@ -38,13 +37,13 @@ public class BibtexReduce extends Reducer<Text, Text, Text, Text> {
         try {
             connection = ConnectionFactory.createConnection(conf);
             Admin admin = connection.getAdmin();
-            if (!admin.tableExists(TableName.valueOf("cite_refine"))) {
+            if (!admin.tableExists(TableName.valueOf(PropertyConstant.TABLENAME))) {
                 ArrayList<String> columFamilies = new ArrayList<>(2);
                 columFamilies.add(PropertyConstant.ARTICLE);
                 columFamilies.add(PropertyConstant.INPROCEEDINGS);
-                HBaseDAO.createTable("cite_refine", columFamilies);
+                HBaseDAO.createTable(PropertyConstant.TABLENAME, columFamilies);
             }
-            table = connection.getTable(TableName.valueOf("cite_refine"));
+            table = connection.getTable(TableName.valueOf(PropertyConstant.TABLENAME));
         } catch (Exception e) {
             System.out.println("Error: while set up database configuration " + e);
             System.exit(-1);
