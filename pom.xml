@@ -19,6 +19,7 @@
         <module>apa-refine</module>
         <module>bibtex-refine</module>
         <module>inverted-index</module>
+        <module>search-analysis</module>
     </modules>
 
     <packaging>pom</packaging>

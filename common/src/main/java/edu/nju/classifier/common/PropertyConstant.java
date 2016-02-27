@@ -2,6 +2,8 @@ package edu.nju.classifier.common;
 
 public class PropertyConstant {
 
+    public static final String TABLENAME = "cite_refine";
+
     public static final String ARTICLE = "article";
     public static final String INPROCEEDINGS = "inproceedings";
 
