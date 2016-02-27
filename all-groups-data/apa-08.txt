@@ -1,0 +1,400 @@
+r1:﻿Grundmann, Matthias et al. “Efficient hierarchical graph-based video segmentation.” CVPR (2010).
+
+r2:Corso, J.J., Xu, C., & Xiong, C.. (2012). Streaming Hierarchical Video Segmentation. ECCV.
+
+r3:Felzenszwalb, P.F., & Huttenlocher, D.P.. (2004). Efficient Graph-Based Image Segmentation. International Journal of Computer Vision, 59, 167-181.
+
+r4:Deng, Y., & Manjunath, B.S.. (2001). Unsupervised Segmentation of Color-Texture Regions in Images and Video. IEEE Trans. Pattern Anal. Mach. Intell., 23, 800-810.
+
+r5:Avidan, S., Miller, E.L., Pfister, H., & Reina, A.V.. (2010). Multiple Hypothesis Video Segmentation from Superpixel Flows. ECCV.
+
+r6:Grauman, K., Kim, J., & Lee, Y.J.. (2011). Key-segments for video object segmentation. ICCV.
+
+r7:Arbelaez, P., Fowlkes, C.C., Maire, M., & Malik, J.. (2011). Contour Detection and Hierarchical Image Segmentation. IEEE Trans. Pattern Anal. Mach. Intell., 33, 898-916.
+
+r8:Boykov, Y., & Jolly, M.. (2001). Interactive Graph Cuts for Optimal Boundary and Region Segmentation of Objects in N-D Images. ICCV.
+
+r9:Lan, Z., Nguyen, M.H., & Torre, F.D.. (2011). Joint segmentation and classification of human actions in video. CVPR.
+
+r10:Sivic, J., & Zisserman, A.. (2003). Video Google: A Text Retrieval Approach to Object Matching in Videos. ICCV.
+
+r11:Essa, I.A., Grundmann, M., Han, M., & Kwatra, V.. (2010). Efficient hierarchical graph-based video segmentation. CVPR.
+
+r12:Brox, T., Cardenas, T.J., Galasso, F., Nagaraja, N.S., & Schiele, B.. (2013). A Unified Video Segmentation Benchmark: Annotation, Metrics and Analysis. ICCV.
+
+r13:Cipolla, R., Galasso, F., & Schiele, B.. (2012). Video Segmentation with Superpixels. ACCV.
+
+r14:Alahari, K., Lezama, J., Laptev, I., & Sivic, J.. (2011). Track to the future: Spatio-temporal video segmentation with long-range motion cues. CVPR.
+
+r15:Bai, X., & Sapiro, G.. (2007). A Geodesic Framework for Fast Interactive Image and Video Segmentation and Matting. ICCV.
+
+r16:Brendel, W., & Todorovic, S.. (2009). Video object segmentation by tracking regions. ICCV.
+
+r17:Ferrari, V., & Papazoglou, A.. (2013). Fast Object Segmentation in Unconstrained Video. ICCV.
+
+r18:Elhamifar, E., & Vidal, R.. (2009). Sparse subspace clustering. CVPR.
+
+r19:Boykov, Y., & Funka-Lea, G.. (2006). Graph Cuts and Efficient N-D Image Segmentation. International Journal of Computer Vision, 70, 109-131.
+
+r20:Bjntegaard, G., Luthra, A., Sullivan, G.J., & Wiegand, T.. (2003). Overview of the H.264/AVC video coding standard. IEEE Trans. Circuits Syst. Video Techn., 13, 560-576.
+
+r21:Gu, C., & Ren, X.. (2010). Figure-ground segmentation improves handled object recognition in egocentric video. CVPR.
+
+r22:Correia, P.L., & Pereira, F.M.. (2003). Objective evaluation of video segmentation quality. IEEE Transactions on Image Processing, 12, 186-200.
+
+r23:Cohen, M.F., Thiesson, B., Wang, J., & Xu, Y.. (2004). Image and Video Segmentation by Anisotropic Kernel Mean Shift. ECCV.
+
+r24:Fei-Fei, L., Karpathy, A., Leung, T., Shetty, S., Sukthankar, R., & Toderici, G.. (2014). Large-Scale Video Classification with Convolutional Neural Networks. CVPR.
+
+r25:Huang, Y., Liu, Q., & Metaxas, D.N.. (2009). Video object segmentation by hypergraph cut. CVPR.
+
+r26:Bai, X., Simons, D., Sapiro, G., & Wang, J.. (2009). Video SnapCut: robust video object cutout using localized classifiers. ACM Trans. Graph., 28.
+
+r27:Cohen, M.F., Shum, H., Wang, J., & Xu, Y.. (2004). Video tooning. ACM Trans. Graph., 23, 574-583.
+
+r28:Hampapur, A., Jain, R., & Weymouth, T.E.. (1995). Production Model Based Digital Video Segmentation. Multimedia Tools Appl., 1, 9-46.
+
+r29:Kumar, M.P., Torr, P.H., & Zisserman, A.. (2005). Learning Layered Motion Segmentation of Video. ICCV.
+
+r30:Hampapur, A., Jain, R., & Weymouth, T.E.. (1995). Production Model Based Digital Video Segmentation. Multimedia Tools Appl., 1, 9-46.
+
+r31:Criminisi, A., Essa, I.A., Winn, J.M., & Yin, P.. (2007). Tree-based Classifiers for Bilayer Video Segmentation. CVPR.
+
+r32:Cipolla, R., Johnson, M., & Shotton, J.. (2008). Semantic texton forests for image categorization and segmentation. CVPR.
+
+r33:Javed, O., Shah, M., & Zhang, D.. (2013). Video Object Segmentation through Spatially Accurate and Temporally Dense Extraction of Primary Object Regions. CVPR.
+
+r34:Chiu, W.W., & Fritz, M.. (2013). Multi-class Video Co-segmentation with a Generative Multi-video Model. CVPR.
+
+r35:Khan, S., & Shah, M.. (2001). Object Based Segmentation of Video Using Color, Motion and Spatial Information. CVPR.
+
+r36:Brostow, G.J., Cipolla, R., Fauqueur, J., & Shotton, J.. (2008). Segmentation and Recognition Using Structure from Motion Point Clouds. ECCV.
+
+r37:Kender, J.R., & Yeo, B.. (1998). Video Scene Segmentation via Continuous Video Coherence. CVPR.
+
+r38:Blake, A., Criminisi, A., Cross, G., Kolmogorov, V., & Rother, C.. (2005). Bi-Layer Segmentation of Binocular Stereo Video. CVPR.
+
+r39:Brox, T., & Ochs, P.. (2011). Object segmentation in video: A hierarchical variational approach for turning point trajectories into dense regions. ICCV.
+
+r40:Li, Y., Sun, J., & Shum, H.. (2005). Video object cut and paste. ACM Trans. Graph., 24, 595-600.
+
+r41:Criminisi, A., Essa, I.A., Winn, J.M., & Yin, P.. (2007). Tree-based Classifiers for Bilayer Video Segmentation. CVPR.
+
+r42:Latecki, L.J., & Ma, T.. (2012). Maximum weight cliques with mutex constraints for video object segmentation. CVPR.
+
+r43:López, A.M., Rubio, J.C., & Serrat, J.. (2012). Video Co-segmentation. ACCV.
+
+r44:Kang, S.B., Szeliski, R., Uyttendaele, M., Winder, S.A., & Zitnick, C.L.. (2004). High-quality video view interpolation using a layered representation. ACM Trans. Graph., 23, 600-608.
+
+r45:Hauptmann, A.G., & Witbrock, M.J.. (1998). Story Segmentation and Detection of Commercials in Broadcast News Video. ADL.
+
+r46:Athitsos, V., Sigal, L., & Sclaroff, S.. (2004). Skin Color-Based Video Segmentation under Time-Varying Illumination. IEEE Trans. Pattern Anal. Mach. Intell., 26, 862-877.
+
+r47:Agrawala, M., Bhat, P., Colburn, A., Cohen, M.F., & Wang, J.. (2005). Interactive video cutout. ACM Trans. Graph., 24, 585-594.
+
+r48:Paris, S.. (2008). Edge-Preserving Smoothing and Mean-Shift Segmentation of Video Streams. ECCV.
+
+r49:Humayun, A., Kim, T., Li, F., Rehg, J.M., & Tsai, D.. (2013). Video Segmentation by Tracking Many Figure-Ground Segments. ICCV.
+
+r50:Chang, S., & Sundaram, H.. (2000). Video Scene Segmentation using Video and Audio Features. ICMCS.
+
+r51:Brand, M., & Kettnaker, V.. (2000). Discovery and Segmentation of Activities in Video. IEEE Trans. Pattern Anal. Mach. Intell., 22, 844-851.
+
+r52:Ferman, A.M., Günsel, B., & Tekalp, A.M.. (1998). Temporal video segmentation using unsupervised clustering and semantic object tracking. J. Electronic Imaging, 7, 592-604.
+
+r53:Erdem, Ç.E., Sankur, B., & Tekalp, A.M.. (2003). Performance measures for video object segmentation and tracking. VCIP.
+
+r54:Criminisi, A., Rother, C., Shotton, J., & Winn, J.M.. (2009). TextonBoost for Image Understanding: Multi-Class Object Recognition and Segmentation by Jointly Modeling Texture, Layout, and Context. International Journal of Computer Vision, 81, 2-23.
+
+r55:Friedman, N., & Russell, S.J.. (1997). Image Segmentation in Video Sequences: A Probabilistic Approach. UAI.
+
+r56:Hauptmann, A.G., Liu, T., & Qi, Y.. (2003). Supervised classification for video shot segmentation. ICMCS.
+
+r57:Brox, T., Galasso, F., Keuper, M., & Schiele, B.. (2014). Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation. CVPR.
+
+r58:Fei-Fei, L., Niebles, J.C., & Wang, H.. (2006). Unsupervised Learning of Human Action Categories Using Spatial-Temporal Words. BMVC.
+
+r59:Shi, J., Visontai, M., & Zhong, H.. (2004). Detecting Unusual Activity in Video. CVPR.
+
+r60:Ahuja, N., & Cheng, H.. (2012). Exploiting nonlocal spatiotemporal structure for video segmentation. CVPR.
+
+r61:Brand, M., & Kettnaker, V.. (2000). Discovery and Segmentation of Activities in Video. IEEE Trans. Pattern Anal. Mach. Intell., 22, 844-851.
+
+r62:Agnihotri, L., Barbieri, M., Dimitrova, N., & Weda, H.. (2009). Video Segmentation. DB.
+
+r63:Chan, A.B., & Vasconcelos, N.. (2008). Modeling, Clustering, and Segmenting Video with Mixtures of Dynamic Textures. IEEE Trans. Pattern Anal. Mach. Intell., 30, 909-926.
+
+r64:Petersohn, C.. (2010). Temporal video segmentation. DE.
+
+r65:Fan, G., & Liu, L.. (2005). Combined key-frame extraction and object-based video segmentation. IEEE Trans. Circuits Syst. Video Techn., 15, 869-884.
+
+r66:Chen, X., Funkhouser, T.A., & Golovinskiy, A.. (2009). A benchmark for 3D mesh segmentation. ACM Trans. Graph., 28.
+
+r67:Boulgouris, N.V., Kompatsiaris, I., Mezaris, V., & Strintzis, M.G.. (2004). Real-time compressed-domain spatiotemporal segmentation and ontologies for video indexing and retrieval. IEEE Trans. Circuits Syst. Video Techn., 14, 606-621.
+
+r68:Hwang, J., & Kim, C.. (2002). Fast and automatic video object segmentation and tracking for content-based applications. IEEE Trans. Circuits Syst. Video Techn., 12, 122-129.
+
+r69:Essa, I.A., Schödl, A., Szeliski, R., & Salesin, D.. (2000). Video textures. SIGGRAPH.
+
+r70:Blake, A., Criminisi, A., & Sharp, T.. (2008). GeoS: Geodesic Image Segmentation. ECCV.
+
+r71:Criminisi, A., Rother, C., Shotton, J., & Winn, J.M.. (2006). TextonBoost: Joint Appearance, Shape and Context Modeling for Multi-class Object Recognition and Segmentation. ECCV.
+
+r72:Fu, H., Lin, S., Xu, D., & Zhang, B.. (2014). Object-Based Multiple Foreground Video Co-segmentation. CVPR.
+
+r73:Arora, C., Poleg, Y., & Peleg, S.. (2014). Temporal Segmentation of Egocentric Videos. CVPR.
+
+r74:Budvytis, I., Badrinarayanan, V., & Cipolla, R.. (2011). Semi-supervised video segmentation using tree structured graphical models. CVPR.
+
+r75:Fragkiadaki, K., Shi, J., & Zhang, G.. (2012). Video segmentation by tracing discontinuities in a trajectory embedding. CVPR.
+
+r76:Feng, S., Lavrenko, V., & Manmatha, R.. (2004). Multiple Bernoulli Relevance Models for Image and Video Annotation. CVPR.
+
+r77:Apostoloff, N., & Fitzgibbon, A.W.. (2006). Automatic Video Segmentation using Spatiotemporal T-Junctions. BMVC.
+
+r78:Chang, S., Divakaran, A., Sun, H., Vetro, A., Xu, P., & Xie, L.. (2001). Algorithms And System For Segmentation And Structure Analysis In Soccer Video. ICMCS.
+
+r79:Boreczky, J.S., & Wilcox, L.D.. (1998). A hidden Markov model framework for video segmentation using audio and image features. ICASSP.
+
+r80:Couprie, C., Farabet, C., LeCun, Y., & Najman, L.. (2013). Causal graph-based video segmentation. ICIP.
+
+r81:Haynor, D.R., Kim, Y., & Sun, S.. (2003). Semiautomatic video object segmentation using VSnakes. IEEE Trans. Circuits Syst. Video Techn., 13, 75-82.
+
+r82:Marqués, F., & Salembier, P.. (1999). Region-based representations of image and video: segmentation tools for multimedia services. IEEE Trans. Circuits Syst. Video Techn., 9, 1147-1169.
+
+r83:Adelson, E.H., & Wang, J.Y.. (1996). Spatio-temporal Segmentation of Video Data.
+
+r84:Chien, S., Chen, L., & Huang, Y.. (2003). Predictive watershed: a fast watershed algorithm for video segmentation. IEEE Trans. Circuits Syst. Video Techn., 13, 453-461.
+
+r85:Cucchiara, R., Grana, C., Piccardi, M., & Prati, A.. (2003). Detecting Moving Objects, Ghosts, and Shadows in Video Streams. IEEE Trans. Pattern Anal. Mach. Intell., 25, 1337-1342.
+
+r86:Cohen, S., Morse, B.S., & Price, B.L.. (2009). LIVEcut: Learning-based interactive video segmentation by evaluation of multiple propagated cues. ICCV.
+
+r87:Araújo, A.D., Couprie, M., Guimar?es, S.J., & Leite, N.J.. (2003). Video segmentation based on 2D image analysis. Pattern Recognition Letters, 24, 947-957.
+
+r88:Keutzer, K., & Sundaram, N.. (2011). Long term video segmentation through pixel level spectral clustering on GPUs. ICCVW.
+
+r89:Bobick, A.F., Essa, I.A., Kwatra, V., Sch?dl, A., & Turk, G.. (2003). Graphcut textures: image and video synthesis using graph cuts. ACM Trans. Graph., 22, 277-286.
+
+r90:Hendriks, E.A., Lagendijk, R.L., & Patras, I.. (2001). Video Segmentation by MAP Labeling of Watershed Segments. IEEE Trans. Pattern Anal. Mach. Intell., 23, 326-332.
+
+r91:Nam, J., & Tewfik, A.H.. (1997). Combined audio and visual streams analysis for video sequence segmentation. ICASSP.
+
+r92:Tron, R., & Vidal, R.. (2007). A Benchmark for the Comparison of 3-D Motion Segmentation Algorithms. CVPR.
+
+r93:Averbuch, A., & Tsaig, Y.. (2002). Automatic segmentation of moving objects in video sequences: a region labeling approach. IEEE Trans. Circuits Syst. Video Techn., 12, 597-612.
+
+r94:Boccignone, G., Chianese, A., Moscato, V., & Picariello, A.. (2005). Foveated shot detection for video segmentation. IEEE Trans. Circuits Syst. Video Techn., 15, 365-377.
+
+r95:Hebert, M., Pantofaru, C., & Unnikrishnan, R.. (2007). Toward Objective Evaluation of Image Segmentation Algorithms. IEEE Trans. Pattern Anal. Mach. Intell., 29, 929-944.
+
+r96:Leibe, B., & Schiele, B.. (2004). Combined Object Categorization and Segmentation with an Implicit Shape Model.
+
+r97:Bo, L., Fox, D., Lai, K., & Ren, X.. (2011). A large-scale hierarchical multi-view RGB-D object dataset. ICRA.
+
+r98:Caputo, B., Laptev, I., & Schüldt, C.. (2004). Recognizing Human Actions: A Local SVM Approach. ICPR.
+
+r99:Dibos, F., Koepfler, G., & Pelletier, S.. (2005). Real-time video segmentation. AVSS.
+
+r100:Comaniciu, D., & Meer, P.. (2002). Mean Shift: A Robust Approach Toward Feature Space Analysis. IEEE Trans. Pattern Anal. Mach. Intell., 24, 603-619.
+
+r101:Gong, S., & Xiang, T.. (2004). Activity Based Video Content Trajectory Representation and Segmentation. BMVC.
+
+r102:Carreira, J., & Sminchisescu, C.. (2012). CPMC: Automatic Object Segmentation Using Constrained Parametric Min-Cuts. IEEE Trans. Pattern Anal. Mach. Intell., 34, 1312-1328.
+
+r103:Shah, M., & Zhai, Y.. (2006). Video Scene Segmentation Using Markov Chain Monte Carlo. IEEE Transactions on Multimedia, 8, 686-697.
+
+r104:Fukuchi, K., Kimura, A., Miyazato, K., Takagi, S., & Yamato, J.. (2009). Saliency-based video segmentation with graph cuts and sequentially updated priors. ICMCS.
+
+r105:Aubert, G., Barlaud, M., & Jehan-Besson, S.. (2003). DREAM2S: Deformable Regions Driven by an Eulerian Accurate Minimization Method for Image and Video Segmentation. International Journal of Computer Vision, 53, 45-70.
+
+r106:Budvytis, I., Badrinarayanan, V., & Cipolla, R.. (2012). MoT - Mixture of Trees Probabilistic Graphical Model for Video Segmentation. BMVC.
+
+r107:Hausknecht, M.J., Monga, R., Ng, J.Y., Toderici, G., Vijayanarasimhan, S., & Vinyals, O.. (2015). Beyond short snippets: Deep networks for video classification. CVPR.
+
+r108:Han, K.J., & Tewfik, A.H.. (1997). Eigen-Image Based Video Segmentation and Indexing. ICIP.
+
+r109:Irani, M., & Zelnik-Manor, L.. (2001). Event-Based Analysis of Video. CVPR.
+
+r110:Snoek, C.G., & Worring, M.. (2009). Concept-Based Video Retrieval. Foundations and Trends in Information Retrieval, 2, 215-322.
+
+r111:Agam, G., & Ma, D.. (2012). Lecture video segmentation and indexing. DRR.
+
+r112:Jung, K., & Kim, E.Y.. (2005). Genetic algorithms for video segmentation. Pattern Recognition, 38, 59-73.
+
+r113:Fritts, J.E., Goldman, S.A., & Zhang, H.. (2008). Image segmentation evaluation: A survey of unsupervised methods. Computer Vision and Image Understanding, 110, 260-280.
+
+r114:Cremers, D., Deriche, R., & Rousson, M.. (2007). A Review of Statistical Approaches to Level Set Segmentation: Integrating Color, Texture, Motion and Shape. International Journal of Computer Vision, 72, 195-215.
+
+r115:Bai, X., Sapiro, G., & Wang, J.. (2010). Dynamic Color Flow: A Motion-Adaptive Color Model for Object Segmentation in Video. ECCV.
+
+r116:Kompatsiaris, I., Mezaris, V., & Strintzis, M.G.. (2004). Video object segmentation using Bayes-based temporal tracking and trajectory-based region merging. IEEE Trans. Circuits Syst. Video Techn., 14, 782-795.
+
+r117:Fan, G., & Song, X.. (2005). Joint Key-Frame Extraction and Object-Based Video Segmentation. WACV.
+
+r118:Chien, S., Chen, L., Huang, Y., Hsieh, B., & Ma, S.. (2004). Fast video segmentation algorithm with shadow cancellation, global motion compensation, and adaptive threshold techniques. IEEE Transactions on Multimedia, 6, 732-748.
+
+r119:Chang, S., & Zhong, D.. (1999). An integrated approach for content-based video object segmentation and retrieval. IEEE Trans. Circuits Syst. Video Techn., 9, 1259-1268.
+
+r120:Bouthemy, P., & Odobez, J.. (1998). Direct incremental model-based image motion segmentation for video analysis. Signal Processing, 66, 143-155.
+
+r121:Aubert, G., Barlaud, M., & Jehan-Besson, S.. (2001). Video Objects Segmentation Using Eulerian Region-Based Active Contours. ICCV.
+
+r122:Blank, M., Basri, R., Gorelick, L., Irani, M., & Shechtman, E.. (2005). Actions as Space-Time Shapes. ICCV.
+
+r123:Avidan, S., Rubinstein, M., & Shamir, A.. (2008). Improved seam carving for video retargeting. ACM Trans. Graph., 27.
+
+r124:Gong, Y., & Liu, X.. (2000). Video Shot Segmentation and Classification. ICPR.
+
+r125:Aguiar, E.D., Ahmed, N., Stoll, C., Seidel, H., Theobalt, C., & Thrun, S.. (2008). Performance capture from sparse multi-view video. ACM Trans. Graph., 27.
+
+r126:Nevatia, R., & Trichet, R.. (2014). Video Segmentation Descriptors for Event Recognition. ICPR.
+
+r127:Rosenhahn, B., & Scheuermann, B.. (2014). Multi-Sensor Fusion for Video Segmentation. IJPRAI, 28.
+
+r128:Nevatia, R., & Trichet, R.. (2013). Video segmentation with spatio-temporal tubes. AVSS.
+
+r129:Bu, J., Chen, C., Liu, X., Ruan, Y., Song, M., & Tao, D.. (2014). Weakly Supervised Multiclass Video Segmentation. CVPR.
+
+r130:Sakarya, U., & Telatar, Z.. (2008). Graph-based multilevel temporal video segmentation. Multimedia Syst., 14, 277-290.
+
+r131:Friedland, G., & Rojas, R.. (2008). Anthropocentric Video Segmentation for Lecture Webcasts. EURASIP J. Image and Video Processing, 2008.
+
+r132:Liu, C., Russell, B.C., Torralba, A., & Yuen, J.. (2009). LabelMe video: Building a video database with human annotations. ICCV.
+
+r133:Bolles, R.C., Eveland, C.K., & Konolige, K.. (1998). Background Modeling for Segmentation of Video-Rate Stereo Sequences. CVPR.
+
+r134:Wildt, D.D.. (2006). Automatic video segmentation by polygon evolution. DE.
+
+r135:Galasso, F., Hein, M., Khoreva, A., & Schiele, B.. (2014). Learning Must-Link Constraints for Video Segmentation Based on Spectral Clustering. DAGM.
+
+r136:Awan, A., Dobrian, F., Ganjam, A., Joseph, D.A., Sekar, V., Stoica, I., Zhan, J., & Zhang, H.. (2011). Understanding the impact of video quality on user engagement. SIGCOMM.
+
+r137:Fosler-Lussier, E., Galley, M., Jing, H., & McKeown, K.. (2003). Discourse Segmentation of Multi-Party Conversation. ACL.
+
+r138:Bugalho, M., Kompatsiaris, I., Mezaris, V., Meinedo, H., Sidiropoulos, P., & Trancoso, I.. (2011). Temporal Video Segmentation to Scenes Using High-Level Audiovisual Features. IEEE Trans. Circuits Syst. Video Techn., 21, 1163-1177.
+
+r139:Barlaud, M., Blu, T., Precioso, F., & Unser, M.. (2003). Smoothing B-spline active contour for fast and robust image and video segmentation. ICIP.
+
+r140:Hua, G., Sukthankar, R., Wang, L., Xue, J., & Zheng, N.. (2014). Video Object Discovery and Co-segmentation with Extremely Weak Supervision. ECCV.
+
+r141:Erdem, Ç.E., Sankur, B., & Tekalp, A.M.. (2001). Metrics for performance evaluation of video object segmentation and tracking without ground-truth. ICIP.
+
+r142:Cohen, I., Chen, L.S., Garg, A., Huang, T.S., & Sebe, N.. (2003). Facial expression recognition from video sequences: temporal and static modeling. Computer Vision and Image Understanding, 91, 160-187.
+
+r143:Brostow, G.J., Cipolla, R., & Fauqueur, J.. (2009). Semantic object classes in video: A high-definition ground truth database. Pattern Recognition Letters, 30, 88-97.
+
+r144:Laptev, I., Marszalek, M., & Schmid, C.. (2009). Actions in context. CVPR.
+
+r145:Civera, J., Ferrari, V., Leistner, C., Prest, A.& Schmid, C.. (2012). Learning object class detectors from weakly annotated video. CVPR.
+
+r146:Ha, Y., Lee, H., & Lee, H.. (2003). Spatial color descriptor for image retrieval and video segmentation. IEEE Transactions on Multimedia, 5, 358-367.
+
+r147:Aggarwal, J.K., & Ryoo, M.S.. (2009). Spatio-temporal relationship match: Video structure comparison for recognition of complex human activities. ICCV.
+
+r148:Ghosh, J., Grauman, K., & Lee, Y.J.. (2012). Discovering important people and objects for egocentric video summarization. CVPR.
+
+r149:Grauman, K., & Lu, Z.. (2013). Story-Driven Summarization for Egocentric Video. CVPR.
+
+r150:Ali, S., & Shah, M.. (2007). A Lagrangian Particle Dynamics Approach for Crowd Flow Segmentation and Stability Analysis. CVPR.
+
+r151:Chang, S., Chen, W., Meng, H.J., Sundaram, H., & Zhong, D.. (1998). A fully automated content-based video search engine supporting spatiotemporal queries. IEEE Trans. Circuits Syst. Video Techn., 8, 602-615.
+
+r152:Ji, S., & Park, H.. (1999). Region-Based Video Segmentation Using DCT Coefficients. ICIP.
+
+r153:Chatterjee, S., Jain, A., & Vidal, R.. (2013). Coarse-to-Fine Semantic Video Segmentation Using Supervoxel Trees. ICCV.
+
+r154:Huang, J., Liu, Z., & Wang, Y.. (1998). Integration of Audio and Visual Information for Content-based Video Segmentation. ICIP.
+
+r155:Roy, S., Singh, K.M., Thounaojam, D.M., & Trivedi, A.. (2013). A Survey on Video Segmentation. ICACNI.
+
+r156:Phan, T.Q., Shivakumara, P., Su, B., & Tan, C.L.. (2011). A Gradient Vector Flow-Based Method for Video Character Segmentation. ICDAR.
+
+r157:Chiu, P., Girgensohn, A., Polak, W., Rieffel, E.G., & Wilcox, L.. (2000). A Genetic Algorithm for Video Segmentation and Summarization. ICMCS.
+
+r158:Boulanger, P., Bischof, W.F., & Wu, Q.. (2008). Robust Real-Time Bi-Layer Video Segmentation Using Infrared Video. CRV.
+
+r159:Snoek, C., Smeulders, A.W., & Worring, M.. (2005). Early versus late fusion in semantic video analysis. MM.
+
+r160:Loe, K., Tan, T., & Wang, Y.. (2003). Video Segmentation Based on Graphical Models. CVPR.
+
+r161:Boccignone, G., Chianese, A., Moscato, V., & Picariello, A.. (2004). Using Attention for Video Segmentation. ICPR.
+
+r162:Chen, L., Kokkinos, I., Murphy, K., Papandreou, G., & Yuille, A.L.. (2014). Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs. CoRR, abs/1412.7062.
+
+r163:Jiang, H., Liu, T., Wang, J., Yuan, Z., & Zheng, N.. (2011). Automatic salient object segmentation based on context and shape prior. BMVC.
+
+r164:Colombari, A., Fusiello, A., & Murino, V.. (2007). Segmentation and tracking of multiple video objects. Pattern Recognition, 40, 1307-1317.
+
+r165:Cooper, M.. (2004). Video segmentation combining similarity analysis and classification. MM.
+
+r166:Chan, A.B., & Vasconcelos, N.. (2007). Classifying Video with Kernel Dynamic Textures. CVPR.
+
+r167:Bozdagi, G., Harrington, S., & Yu, H.. (1997). Feature Based Hierarchical Video Segmentation. ICIP.
+
+r168:Du, J., Gao, W., Huang, Q., & Zeng, W.. (2005). Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model. Real-Time Imaging, 11, 290-299.
+
+r169:Chen, S., Kashyap, R.L., Shyu, M., & Zhang, C.. (2001). Video Scene Change Detection Method Using Unsupervised Segmentation And Object Tracking. ICMCS.
+
+r170:Manjunath, B.S., & Saban, M.A.. (2003). Video region segmentation by spatio-temporal watersheds. ICIP.
+
+r171:Boccignone, G., Chianese, A., Moscato, V., & Picariello, A.. (2004). Using Attention for Video Segmentation. ICPR.
+
+r172:Irani, M., & Shechtman, E.. (2007). Matching Local Self-Similarities across Images and Videos. CVPR.
+
+r173:Harper, P., & Reilly, R.B.. (2000). Color Based Video Segmentation Using Level Sets. ICIP.
+
+r174:Greenspan, H., Goldberger, J., & Mayer, A.. (2003). Probabilistic Space-Time Video Modeling via Piecewise GMM. IEEE Trans. Pattern Anal. Mach. Intell., 26, 384-396.
+
+r175:Choi, S., Han, B., Kwak, S., & Lee, J.. (2012). Online Video Segmentation by Bayesian Split-Merge Clustering. ECCV.
+
+r176:Shah, M., & Zhai, Y.. (2005). A General Framework for Temporal Video Scene Segmentation. ICCV.
+
+r177:Beeferman, D., Berger, A.L., & Lafferty, J.D.. (1999). Statistical Models for Text Segmentation. Machine Learning, 34, 177-210.
+
+r178:Cavallaro, A., Ebrahimi, T., & Steiger, O.. (2003). Semantic segmentation and description for video transcoding. ICMCS.
+
+r179:Efros, A.A., Mori, G., Malik, J., & Ren, X.. (2004). Recovering Human Body Configurations: Combining Segmentation and Recognition. CVPR.
+
+r180:Ford, R.. (1998). Fuzzy-Logic Approach to Digital Video Segmentation. spieSR.
+
+r181:Cremers, D., Osher, S., & Soatto, S.. (2006). Kernel Density Estimation and Intrinsic Alignment for Shape Priors in Level Set Segmentation. International Journal of Computer Vision, 69, 335-351.
+
+r182:Aizawa, K., Xu, J., & Yamasaki, T.. (2005). 3D video segmentation using point distance histograms. ICIP.
+
+r183:Li, X., Liu, Z., Xu, D., & Yuan, Y.. (2005). Cast shadow detection in video segmentation. Pattern Recognition Letters, 26, 91-99.
+
+r184:Elhamifar, E., & Vidal, R.. (2013). Sparse Subspace Clustering: Algorithm, Theory, and Applications. CoRR, abs/1203.1005.
+
+r185:Li, Z., Lu, H., & Tan, Y.. (2004). Video segmentation based on sequential change detection. ICMCS.
+
+r186:Jang, D., & Yoo, H.. (2004). Automated Video Segmentation Using Computer Vision Techniques. International Journal of Information Technology and Decision Making, 3, 129-143.
+
+r187:Correia, P.L., & Pereira, F.M.. (2004). Classification of video segmentation application scenarios. IEEE Trans. Circuits Syst. Video Techn., 14, 735-741.
+
+r188:Liu, J., Liu, Z., Tang, X., & Xu, D.. (2004). Indoor shadow detection for video segmentation. ICMCS.
+
+r189:Athanasiadis, T., Avrithis, Y.S., Galmar, E., & Huet, B.. (2008). Spatiotemporal semantic video segmentation. MMSP.
+
+r190:Hu, W., Li, L., Maybank, S.J., Xie, N., & Zeng, X.. (2011). A Survey on Visual Content-Based Video Indexing and Retrieval. IEEE Transactions on Systems, Man, and Cybernetics, Part C, 41, 797-819.
+
+r191:Cremers, D., Osher, S., & Soatto, S.. (2006). Kernel Density Estimation and Intrinsic Alignment for Shape Priors in Level Set Segmentation. International Journal of Computer Vision, 69, 335-351.
+
+r192:Chien, S., Chen, L., Huang, Y., & Ma, S.. (2001). Automatic Video Segmentation For MPEG-4 Using Predictivewatershed. ICMCS.
+
+r193:Broxton, T., Interian, Y., Vaver, J., & Wattenhofer, M.. (2010). Catching a Viral Video. ICDM.
+
+r194:Bach, F.R., Duchenne, O., Laptev, I., Ponce, J., & Sivic, J.. (2009). Automatic annotation of human actions in video. ICCV.
+
+r195:Islam, T., Kasturi, R., Sarkar, S., Sankar, R., & Vajaria, H.. (2006). Audio Segmentation and Speaker Localization in Meeting Videos. ICPR.
+
+r196:Borgo, R., Chen, M., Höferlin, M., Kurzhals, K., Legg, P.A., Walton, S.J., & Weiskopf, D.. (2003). Video Visualization. EUROGRAPHICS.
+
+r197:Ko, C.C., Ong, E.P., & Zhou, J.Y.. (2000). Video Object Segmentation and Tracking for Content-Based Video Coding. ICMCS.
+
+r198:Cao, X., & Suganthan, P.N.. (2002). Neural Network Based Temporal Video Segmentation. Int. J. Neural Syst., 12, 263-269.
+
+r199:Pritch, Y., Peleg, S., & Rav-Acha, A.. (2006). Making a Long Video Short: Dynamic Video Synopsis. CVPR.
+
+r200:Pritch, Y., Peleg, S., & Rav-Acha, A.. (2008). Nonchronological Video Synopsis and Indexing. IEEE Trans. Pattern Anal. Mach. Intell., 30, 1971-1984.
+

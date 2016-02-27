@@ -1,0 +1,1497 @@
+@article{Brin1998ComputerNetworks,
+  title={Reprint of: The anatomy of a large-scale hypertextual web search engine},
+  author={Sergey Brin and Lawrence Page},
+  journal={Computer Networks},
+  year={1998},
+  volume={56},
+  pages={3825-3833}
+}
+
+@inproceedings{Santini2006MM,
+  title={Video Search},
+  author={Simone Santini},
+  booktitle={MM},
+  year={2006}
+}
+
+@article{Zhu2013PatternAnalAppl,
+  title={Transductive multi-distance learning for video search},
+  author={Songhao Zhu and Zhiwei Liang and Yuncai Liu},
+  journal={Pattern Anal. Appl.},
+  year={2013},
+  volume={16},
+  pages={117-124}
+}
+
+@inproceedings{Bertini2011CBMI,
+  title={Interactive video search and browsing systems},
+  author={Marco Bertini and Alberto Del Bimbo and Andrea Ferracani and Daniele Pezzatini},
+  booktitle={CBMI},
+  year={2011}
+}
+
+@inproceedings{Yang2009PavideogeAMetadataMarkupVideoStructureinVideoSearchEngine,
+  title={Pavideoge: A Metadata Markup Video Structure in Video Search Engine},
+  author={Pu Yang and Jun Guo and Guang Chen},
+  year={2009}
+}
+
+@inproceedings{Tellex2010ICMI,
+  title={Grounding spatial language for video search},
+  author={Stefanie Tellex and Thomas Kollar and George Shaw and Nicholas Roy and Deb Roy},
+  booktitle={ICMI},
+  year={2010}
+}
+
+@article{Wei2010IEEETransKnowlDataEng,
+  title={Multimodal Fusion for Video Search Reranking},
+  author={Shikui Wei and Yao Zhao and Zhenfeng Zhu and Nan Liu},
+  journal={IEEE Trans. Knowl. Data Eng.},
+  year={2010},
+  volume={22},
+  pages={1191-1199}
+}
+
+@inproceedings{Zavesky2008CIVR,
+  title={Columbia University's semantic video search engine 2008},
+  author={Eric Zavesky and Shih-Fu Chang},
+  booktitle={CIVR},
+  year={2008}
+}
+
+@inproceedings{Stassinopoulos2008MM,
+  title={Fast video search using scene durations},
+  author={George I. Stassinopoulos and Serafeim Papastefanos and Fotis Andritsopoulos},
+  booktitle={MM},
+  year={2008}
+}
+
+@inproceedings{Halvey2007HT,
+  title={Analysis of online video search and sharing},
+  author={Martin Halvey and Mark T. Keane},
+  booktitle={HT},
+  year={2007}
+}
+
+@inproceedings{Xie2007ICMCS,
+  title={Dynamic Multimodal Fusion in Video Search},
+  author={Lexing Xie and Apostol Natsev and Jelena Tesic},
+  booktitle={ICMCS},
+  year={2007}
+}
+
+@inproceedings{Yao2013MM,
+  title={Annotation for free: video tagging by mining user search behavior},
+  author={Ting Yao and Tao Mei and Chong-Wah Ngo and Shipeng Li},
+  booktitle={MM},
+  year={2013}
+}
+
+@inproceedings{Liu2007MM,
+  title={Video search re-ranking via multi-graph propagation},
+  author={Jingjing Liu and Wei Lai and Xian-Sheng Hua and Yalou Huang and Shipeng Li},
+  booktitle={MM},
+  year={2007}
+}
+
+@inproceedings{Christel2007CIVR,
+  title={Merging storyboard strategies and automatic retrieval for improving interactive video search},
+  author={Michael G. Christel and Rong Yan},
+  booktitle={CIVR},
+  year={2007}
+}
+
+@inproceedings{Yang2007CIVR,
+  title={Online video recommendation based on multimodal fusion and relevance feedback},
+  author={Bo Yang and Tao Mei and Xian-Sheng Hua and Linjun Yang and Shi-Qiang Yang and Mingjing Li},
+  booktitle={CIVR},
+  year={2007}
+}
+
+@inproceedings{Boiman2005ICCV,
+  title={Detecting Irregularities in Images and in Video},
+  author={Oren Boiman and Michal Irani},
+  booktitle={ICCV},
+  year={2005}
+}
+
+@inproceedings{Yuan2004PCM,
+  title={Fast and Robust Short Video Clip Search for Copy Detection},
+  author={Junsong Yuan and Ling-Yu Duan and Qi Tian and Surendra Ranganath and Changsheng Xu},
+  booktitle={PCM},
+  year={2004}
+}
+
+@inproceedings{Waitelonis2009isemantics,
+  title={Augmenting Video Search with Linked Open Data},
+  author={Jörg Waitelonis and Harald Sack},
+  booktitle={i-semantics},
+  year={2009}
+}
+
+@inproceedings{Gurrin2006ECIR,
+  title={Supporting Relevance Feedback in Video Search},
+  author={Cathal Gurrin and Dag Johansen and Alan F. Smeaton},
+  booktitle={ECIR},
+  year={2006}
+}
+
+@inproceedings{Lee2012CVPR,
+  title={Discovering important people and objects for egocentric video summarization},
+  author={Yong Jae Lee and Joydeep Ghosh and Kristen Grauman},
+  booktitle={CVPR},
+  year={2012}
+}
+
+@article{Cha2009IEEEACMTransNetw,
+  title={Analyzing the video popularity characteristics of large-scale user generated content systems},
+  author={Meeyoung Cha and Haewoon Kwak and Pablo Rodriguez and Yong-Yeol Ahn and Sue B. Moon},
+  journal={IEEE/ACM Trans. Netw.},
+  year={2009},
+  volume={17},
+  pages={1357-1370}
+}
+
+@article{Zobel2006ACMComputSurv,
+  title={Inverted files for text search engines},
+  author={Justin Zobel and Alistair Moffat},
+  journal={ACM Comput. Surv.},
+  year={2006},
+  volume={38}
+}
+
+@article{Aguiar2008ACMTransGraph,
+  title={Performance capture from sparse multi-view video},
+  author={Edilson de Aguiar and Carsten Stoll and Christian Theobalt and Naveed Ahmed and Hans-Peter Seidel and Sebastian Thrun},
+  journal={ACM Trans. Graph.},
+  year={2008},
+  volume={27}
+}
+
+@article{Chang1998IEEETransCircuitsSystVideoTechn,
+  title={A fully automated content-based video search engine supporting spatiotemporal queries},
+  author={Shih-Fu Chang and William Chen and Horace J. Meng and Hari Sundaram and Di Zhong},
+  journal={IEEE Trans. Circuits Syst. Video Techn.},
+  year={1998},
+  volume={8},
+  pages={602-615}
+}
+
+@inproceedings{Cheng2008IWQOS,
+  title={Statistics and Social Network of YouTube Videos},
+  author={Xu Cheng and Cameron Dale and Jiangchuan Liu},
+  booktitle={IWQOS},
+  year={2008}
+}
+
+@inproceedings{Lu2013CVPR,
+  title={Story-Driven Summarization for Egocentric Video},
+  author={Zheng Lu and Kristen Grauman},
+  booktitle={CVPR},
+  year={2013}
+}
+
+@inproceedings{Snoek2005MM,
+  title={Early versus late fusion in semantic video analysis},
+  author={Cees Snoek and Marcel Worring and Arnold W. M. Smeulders},
+  booktitle={MM},
+  year={2005}
+}
+
+@inproceedings{Jiang2011MIR,
+  title={Consumer video understanding: a benchmark database and an evaluation of human and machine performance},
+  author={Yu-Gang Jiang and Guangnan Ye and Shih-Fu Chang and Daniel P. W. Ellis and Alexander C. Loui},
+  booktitle={MIR},
+  year={2011}
+}
+
+@article{Zitnick2004ACMTransGraph,
+  title={High-quality video view interpolation using a layered representation},
+  author={C. Lawrence Zitnick and Sing Bing Kang and Matthew Uyttendaele and Simon A. J. Winder and Richard Szeliski},
+  journal={ACM Trans. Graph.},
+  year={2004},
+  volume={23},
+  pages={600-608}
+}
+
+@inproceedings{Hauptmann2004MM,
+  title={Successful approaches in the TREC video retrieval evaluations},
+  author={Alexander G. Hauptmann and Michael G. Christel},
+  booktitle={MM},
+  year={2004}
+}
+
+@inproceedings{Liu2007MMSP,
+  title={Object-Sensitive Query Analysis for Video Search},
+  author={Jingjing Liu and Xian-Sheng Hua and Shipeng Li},
+  booktitle={MMSP},
+  year={2007}
+}
+
+@inproceedings{Shechtman2007CVPR,
+  title={Matching Local Self-Similarities across Images and Videos},
+  author={Eli Shechtman and Michal Irani},
+  booktitle={CVPR},
+  year={2007}
+}
+
+@inproceedings{Li2005ICIP,
+  title={Wyner-Ziv video side estimator: conventional motion search methods revisited},
+  author={Zhen Li and Edward J. Delp},
+  booktitle={ICIP},
+  year={2005}
+}
+
+@inproceedings{Andrs2000VDB,
+  title={Toward the MEdiaSys VIdeo Search Engine (MEVISE)},
+  author={Frédéric Andrès and Kinji Ono and Shinichi Satoh and Nicolas Dessaigne},
+  booktitle={VDB},
+  year={2000}
+}
+
+@inproceedings{Laptev2008CVPR,
+  title={Learning realistic human actions from movies},
+  author={Ivan Laptev and Marcin Marszalek and Cordelia Schmid and Benjamin Rozenfeld},
+  booktitle={CVPR},
+  year={2008}
+}
+
+@article{Li2005ACMTransGraph,
+  title={Video object cut and paste},
+  author={Yin Li and Jian Sun and Heung-Yeung Shum},
+  journal={ACM Trans. Graph.},
+  year={2005},
+  volume={24},
+  pages={595-600}
+}
+
+@inproceedings{Wexler2004CVPR,
+  title={Space-Time Video Completion},
+  author={Yonatan Wexler and Eli Shechtman and Michal Irani},
+  booktitle={CVPR},
+  year={2004}
+}
+
+@article{Kim2014KnowlBasedSyst,
+  title={GeoTree: Using spatial information for georeferenced video search},
+  author={Youngwoo Kim and Jinha Kim and Hwanjo Yu},
+  journal={Knowl.-Based Syst.},
+  year={2014},
+  volume={61},
+  pages={1-12}
+}
+
+@article{Li2011MultimediaToolsAppl,
+  title={MQSS: multimodal query suggestion and searching for video search},
+  author={Lusong Li and Jing Li},
+  journal={Multimedia Tools Appl.},
+  year={2011},
+  volume={54},
+  pages={55-68}
+}
+
+@inproceedings{Nakamura2009WISE,
+  title={Video Search by Impression Extracted from Social Annotation},
+  author={Satoshi Nakamura and Katsumi Tanaka},
+  booktitle={WISE},
+  year={2009}
+}
+
+@inproceedings{Li2009DEXAW,
+  title={Multimodal Query Suggestion and Searching for Video Search},
+  author={Lusong Li and Jing Li},
+  booktitle={DEXAW},
+  year={2009}
+}
+
+@inproceedings{Wan2008ICMCS,
+  title={Exploiting story-level context to improve video search},
+  author={Kongwah Wan},
+  booktitle={ICMCS},
+  year={2008}
+}
+
+@article{Fan2004IEEETransactionsonMultimedia,
+  title={ClassView: hierarchical video shot classification, indexing, and accessing},
+  author={Jianping Fan and Ahmed K. Elmagarmid and Xingquan Zhu and Walid G. Aref and Lide Wu},
+  journal={IEEE Transactions on Multimedia},
+  year={2004},
+  volume={6},
+  pages={70-86}
+}
+
+@inproceedings{Kennedy2007CIVR,
+  title={A reranking approach for context-based concept fusion in video indexing and retrieval},
+  author={Lyndon S. Kennedy and Shih-Fu Chang},
+  booktitle={CIVR},
+  year={2007}
+}
+
+@article{Funkhouser2003ACMTransGraph,
+  title={A search engine for 3D models},
+  author={Thomas A. Funkhouser and Patrick Min and Michael M. Kazhdan and Joyce Chen and J. Alex Halderman and David P. Dobkin and David Pokrass Jacobs},
+  journal={ACM Trans. Graph.},
+  year={2003},
+  volume={22},
+  pages={83-105}
+}
+
+@inproceedings{Niebles2006BMVC,
+  title={Unsupervised Learning of Human Action Categories Using Spatial-Temporal Words},
+  author={Juan Carlos Niebles and Hongcheng Wang and Li Fei-Fei},
+  booktitle={BMVC},
+  year={2006}
+}
+
+@inproceedings{Liu2013MM,
+  title={Listen, look, and gotcha: instant video search with mobile phones by layered audio-video indexing},
+  author={Wu Liu and Tao Mei and Yongdong Zhang and Jintao Li and Shipeng Li},
+  booktitle={MM},
+  year={2013}
+}
+
+@article{Wei2008IEEETransactionsonMultimedia,
+  title={Selection of Concept Detectors for Video Search by Ontology-Enriched Semantic Spaces},
+  author={Xiao-Yong Wei and Chong-Wah Ngo and Yu-Gang Jiang},
+  journal={IEEE Transactions on Multimedia},
+  year={2008},
+  volume={10},
+  pages={1085-1096}
+}
+
+@article{Sand2004ACMTransGraph,
+  title={Video matching},
+  author={Peter Sand and Seth J. Teller},
+  journal={ACM Trans. Graph.},
+  year={2004},
+  volume={23},
+  pages={592-599}
+}
+
+@inproceedings{Rooij2007CIVR,
+  title={MediaMill: semantic video search using the RotorBrowser},
+  author={Ork de Rooij and Cees G. M. Snoek and Marcel Worring},
+  booktitle={CIVR},
+  year={2007}
+}
+
+@inproceedings{Snoek2005MM,
+  title={MediaMill: exploring news video archives based on learned semantics},
+  author={Cees Snoek and Marcel Worring and Jan C. van Gemert and Jan-Mark Geusebroek and Dennis Koelma and Giang P. Nguyen and Ork de Rooij and Frank J. Seinstra},
+  booktitle={MM},
+  year={2005}
+}
+
+@article{McGuinness2014IJMIR,
+  title={The Video Browser Showdown: a live evaluation of interactive video search tools},
+  author={Wolfgang Weiss and Klaus Schoeffmann and Hongliang Bai and Claudiu Cobârzan and David Ahlström and Frank Hopfgartner and Manfred del Fabro and Duy-Dinh Le and Christian Frisson and Cathal Gurrin and Werner Bailer and Kevin McGuinness},
+  journal={IJMIR},
+  year={2014},
+  volume={3},
+  pages={113-127}
+}
+
+@inproceedings{Halvorsen2010MM,
+  title={vESP: enriching enterprise document search results with aligned video summarization},
+  author={Pål Halvorsen and Dag Johansen and Bjørn Olstad and Tomas Kupka and Sverre Tennøe},
+  booktitle={MM},
+  year={2010}
+}
+
+@inproceedings{Klein2007ISMAR,
+  title={Parallel Tracking and Mapping for Small AR Workspaces},
+  author={Georg Klein and David W. Murray},
+  booktitle={ISMAR},
+  year={2007}
+}
+
+@article{Lu2006IEEETransKnowlDataEng,
+  title={Hierarchical Indexing Structure for Efficient Similarity Search in Video Retrieval},
+  author={Hong Lu and Beng Chin Ooi and Heng Tao Shen and Xiangyang Xue},
+  journal={IEEE Trans. Knowl. Data Eng.},
+  year={2006},
+  volume={18},
+  pages={1544-1559}
+}
+
+@article{Wang2012IEEETransactionsonMultimedia,
+  title={Event Driven Web Video Summarization by Tag Localization and Key-Shot Identification},
+  author={Meng Wang and Richang Hong and Guangda Li and Zheng-Jun Zha and Shuicheng Yan and Tat-Seng Chua},
+  journal={IEEE Transactions on Multimedia},
+  year={2012},
+  volume={14},
+  pages={975-985}
+}
+
+@article{Kwatra2003ACMTransGraph,
+  title={Graphcut textures: image and video synthesis using graph cuts},
+  author={Vivek Kwatra and Arno Sch?dl and Irfan A. Essa and Greg Turk and Aaron F. Bobick},
+  journal={ACM Trans. Graph.},
+  year={2003},
+  volume={22},
+  pages={277-286}
+}
+
+@inproceedings{Nagata2006ICMCS,
+  title={Videopot: Indexing-Based Desktop Video Search System},
+  author={Hidenobu Nagata and Dan Mikami and Shozo Azuma and Masashi Morimoto},
+  booktitle={ICMCS},
+  year={2006}
+}
+
+@inproceedings{Everingham2006BMVC,
+  title={Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video},
+  author={Mark Everingham and Josef Sivic and Andrew Zisserman},
+  booktitle={BMVC},
+  year={2006}
+}
+
+@inproceedings{Wang2010CVPR,
+  title={Locality-constrained Linear Coding for image classification},
+  author={Jinjun Wang and Jianchao Yang and Kai Yu and Fengjun Lv and Thomas S. Huang and Yihong Gong},
+  booktitle={CVPR},
+  year={2010}
+}
+
+@article{Hindle2011WorldWideWeb,
+  title={Clustering Web video search results based on integration of multiple features},
+  author={Alex Hindle and Jie Shao and Dan Lin and Jiaheng Lu and Rui Zhang},
+  journal={World Wide Web},
+  year={2011},
+  volume={14},
+  pages={53-73}
+}
+
+@inproceedings{Ryoo2009ICCV,
+  title={Spatio-temporal relationship match: Video structure comparison for recognition of complex human activities},
+  author={Michael S. Ryoo and Jake K. Aggarwal},
+  booktitle={ICCV},
+  year={2009}
+}
+
+@inproceedings{Yang2008ICMCS,
+  title={Video search reranking via online ordinal reranking},
+  author={Yi-Hsuan Yang and Winston H. Hsu},
+  booktitle={ICMCS},
+  year={2008}
+}
+
+@inproceedings{Xu2012ECCV,
+  title={Streaming Hierarchical Video Segmentation},
+  author={Chenliang Xu and Caiming Xiong and Jason J. Corso},
+  booktitle={ECCV},
+  year={2012}
+}
+
+@inproceedings{Cheung2005CVPR,
+  title={Video Epitomes},
+  author={Vincent Cheung and Brendan J. Frey and Nebojsa Jojic},
+  booktitle={CVPR},
+  year={2005}
+}
+
+@article{Carranza2003ACMTransGraph,
+  title={Free-viewpoint video of human actors},
+  author={Joel Carranza and Christian Theobalt and Marcus A. Magnor and Hans-Peter Seidel},
+  journal={ACM Trans. Graph.},
+  year={2003},
+  volume={22},
+  pages={569-577}
+}
+
+@article{Pritch2008IEEETransPatternAnalMachIntell,
+  title={Nonchronological Video Synopsis and Indexing},
+  author={Yael Pritch and Alex Rav-Acha and Shmuel Peleg},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2008},
+  volume={30},
+  pages={1971-1984}
+}
+
+@inproceedings{Karpathy2014CVPR,
+  title={Large-Scale Video Classification with Convolutional Neural Networks},
+  author={Andrej Karpathy and George Toderici and Sanketh Shetty and Thomas Leung and Rahul Sukthankar and Li Fei-Fei},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@article{Halvey2010InfProcessManage,
+  title={An asynchronous collaborative search system for online video search},
+  author={Martin Halvey and David Vallet and David Hannah and Yue Feng and Joemon M. Jose},
+  journal={Inf. Process. Manage.},
+  year={2010},
+  volume={46},
+  pages={733-748}
+}
+
+@inproceedings{McDonald2005CIVR,
+  title={A Comparison of Score, Rank and Probability-Based Fusion Methods for Video Shot Retrieval},
+  author={Kieran McDonald and Alan F. Smeaton},
+  booktitle={CIVR},
+  year={2005}
+}
+
+@inproceedings{LawTo2007CIVR,
+  title={Video copy detection: a comparative study},
+  author={Julien Law-To and Li Chen and Alexis Joly and Ivan Laptev and Olivier Buisson and Valérie Gouet-Brunet and Nozha Boujemaa and Fred Stentiford},
+  booktitle={CIVR},
+  year={2007}
+}
+
+@article{Yang2009CoRR,
+  title={Pavideoge: A New Video Processing Method in Video Search Engine},
+  author={Pu Yang and Jun Guo and Guang Chen},
+  journal={CoRR},
+  year={2009},
+  volume={abs/0909.2496}
+}
+
+@article{Kofler2014IEEETransactionsonMultimedia,
+  title={Predicting Failing Queries in Video Search},
+  author={Christoph Kofler and Linjun Yang and Martha Larson and Tao Mei and Alan Hanjalic and Shipeng Li},
+  journal={IEEE Transactions on Multimedia},
+  year={2014},
+  volume={16},
+  pages={1973-1985}
+}
+
+@inproceedings{Wan2012MMM,
+  title={Topic Based Query Suggestions for Video Search},
+  author={Kong-Wah Wan and Ah-Hwee Tan and Joo-Hwee Lim and Liang-Tien Chia},
+  booktitle={MMM},
+  year={2012}
+}
+
+@inproceedings{Chen2012WIAMIS,
+  title={The AXES-lite video search engine},
+  author={Shu Chen and Kevin McGuinness and Robin Aly and Noel E. OConnor and Franciska de Jong},
+  booktitle={WIAMIS},
+  year={2012}
+}
+
+@article{Wexler2007IEEETransPatternAnalMachIntell,
+  title={Space-Time Completion of Video},
+  author={Yonatan Wexler and Eli Shechtman and Michal Irani},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2007},
+  volume={29},
+  pages={463-476}
+}
+
+@inproceedings{Halvey2010RIAO,
+  title={Promoting temporal diversity in video search results},
+  author={Martin Halvey and Anuj Goyal and Robert Villa and Joemon M. Jose},
+  booktitle={RIAO},
+  year={2010}
+}
+
+@inproceedings{Hakeem2009MM,
+  title={Semantic video search using natural language queries},
+  author={Asaad Hakeem and Mun Wai Lee and Omar Javed and Niels Haering},
+  booktitle={MM},
+  year={2009}
+}
+
+@article{Schwarz2007IEEETransCircuitsSystVideoTechn,
+  title={Overview of the Scalable Video Coding Extension of the H.264/AVC Standard},
+  author={Heiko Schwarz and Detlev Marpe and Thomas Wiegand},
+  journal={IEEE Trans. Circuits Syst. Video Techn.},
+  year={2007},
+  volume={17},
+  pages={1103-1120}
+}
+
+@inproceedings{Ay2008MM,
+  title={Viewable scene modeling for geospatial video search},
+  author={Sakire Arslan Ay and Roger Zimmermann and Seon Ho Kim},
+  booktitle={MM},
+  year={2008}
+}
+
+@inproceedings{Liu2008ICMCS,
+  title={Query-independent learning for video search},
+  author={Yuan Liu and Tao Mei and Guo-Jun Qi and Xiuqing Wu and Xian-Sheng Hua},
+  booktitle={ICMCS},
+  year={2008}
+}
+
+@article{Smith1997IEEEMultiMedia,
+  title={Visually Searching the Web for Content},
+  author={John R. Smith and Shih-Fu Chang},
+  journal={IEEE MultiMedia},
+  year={1997},
+  volume={4},
+  pages={12-20}
+}
+
+@inproceedings{Christel2008CIVR,
+  title={Supporting video library exploratory search: when storyboards are not enough},
+  author={Michael G. Christel},
+  booktitle={CIVR},
+  year={2008}
+}
+
+@article{Jing2008IEEETransPatternAnalMachIntell,
+  title={VisualRank: Applying PageRank to Large-Scale Image Search},
+  author={Yushi Jing and Shumeet Baluja},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2008},
+  volume={30},
+  pages={1877-1890}
+}
+
+@inproceedings{Luan2008CIVR,
+  title={Adaptive multiple feedback strategies for interactive video search},
+  author={Huan-Bo Luan and Yantao Zheng and Shi-Yong Neo and Yongdong Zhang and Shouxun Lin and Tat-Seng Chua},
+  booktitle={CIVR},
+  year={2008}
+}
+
+@inproceedings{Duchenne2009ICCV,
+  title={Automatic annotation of human actions in video},
+  author={Olivier Duchenne and Ivan Laptev and Josef Sivic and Francis R. Bach and Jean Ponce},
+  booktitle={ICCV},
+  year={2009}
+}
+
+@inproceedings{Yang2007TRECVID,
+  title={IBM Research TRECVID-2007 Video Retrieval System},
+  author={Jelena Tesic and Murray Campbell and Apostol Natsev and Alexander Haubold and Ming Liu and John R. Smith and Lexing Xie and Rong Yan and Jun Yang},
+  booktitle={TRECVID},
+  year={2007}
+}
+
+@inproceedings{Srinivasan1999ICMCS,
+  title={"What is in that Video Anyway?" In Search of Better Browsing},
+  author={Savitha Srinivasan and Dulce B. Ponceleon and Arnon Amir and Dragutin Petkovic},
+  booktitle={ICMCS},
+  year={1999}
+}
+
+@inproceedings{Simonyan2014NIPS,
+  title={Two-Stream Convolutional Networks for Action Recognition in Videos},
+  author={Karen Simonyan and Andrew Zisserman},
+  booktitle={NIPS},
+  year={2014}
+}
+
+@inproceedings{Gionis1999VLDB,
+  title={Similarity Search in High Dimensions via Hashing},
+  author={Aristides Gionis and Piotr Indyk and Rajeev Motwani},
+  booktitle={VLDB},
+  year={1999}
+}
+
+@inproceedings{Klaue2003CPE,
+  title={EvalVid - A Framework for Video Transmission and Quality Evaluation},
+  author={Jirka Klaue and Berthold Rathke and Adam Wolisz},
+  booktitle={CPE},
+  year={2003}
+}
+
+@article{Kim2009IEEETransPatternAnalMachIntell,
+  title={Canonical Correlation Analysis of Video Volume Tensors for Action Categorization and Detection},
+  author={Tae-Kyun Kim and Roberto Cipolla},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2009},
+  volume={31},
+  pages={1415-1428}
+}
+
+@article{Wactlar1996IEEEComputer,
+  title={Intelligent Access to Digital Video: Informedia Project},
+  author={Howard D. Wactlar and Takeo Kanade and Michael A. Smith and Scott M. Stevens},
+  journal={IEEE Computer},
+  year={1996},
+  volume={29},
+  pages={46-52}
+}
+
+@inproceedings{Wang2000VIP,
+  title={Cataloging and Search Engine for Video Library},
+  author={Henry C. Wang and David Dagan Feng and Jesse S. Jin},
+  booktitle={VIP},
+  year={2000}
+}
+
+@inproceedings{Adcock2008CIVR,
+  title={Experiments in interactive video search by addition and subtraction},
+  author={John Adcock and Matthew L. Cooper and Jeremy Pickens},
+  booktitle={CIVR},
+  year={2008}
+}
+
+@article{Kupka2012MultimediaToolsAppl,
+  title={Search-based composition, streaming and playback of video archive content},
+  author={Tomas Kupka and Håkon Riiser and Dag Johansen and Åge Kvalnes and Carsten Griwodz and Joseph Hurley and Pål Halvorsen and Bjørn Olstad and Cathal Gurrin and Håvard D. Johansen},
+  journal={Multimedia Tools Appl.},
+  year={2012},
+  volume={61},
+  pages={419-445}
+}
+
+@inproceedings{Lampert2008CVPR,
+  title={Beyond sliding windows: Object localization by efficient subwindow search},
+  author={Christoph H. Lampert and Matthew B. Blaschko and Thomas Hofmann},
+  booktitle={CVPR},
+  year={2008}
+}
+
+@article{Agarwala2005ACMTransGraph,
+  title={Panoramic video textures},
+  author={Aseem Agarwala and Ke Colin Zheng and Chris Pal and Maneesh Agrawala and Michael F. Cohen and Brian Curless and David Salesin and Richard Szeliski},
+  journal={ACM Trans. Graph.},
+  year={2005},
+  volume={24},
+  pages={821-827}
+}
+
+@inproceedings{Lai2006MM,
+  title={Towards content-based relevance ranking for video search},
+  author={Wei Lai and Xian-Sheng Hua and Wei-Ying Ma},
+  booktitle={MM},
+  year={2006}
+}
+
+@inproceedings{Wei2008MM,
+  title={Fusing semantics, observability, reliability and diversity of concept detectors for video search},
+  author={Xiao-Yong Wei and Chong-Wah Ngo},
+  booktitle={MM},
+  year={2008}
+}
+
+@article{Wiegand2003IEEETransCircuitsSystVideoTechn,
+  title={Overview of the H.264/AVC video coding standard},
+  author={Thomas Wiegand and Gary J. Sullivan and Gisle Bjntegaard and Ajay Luthra},
+  journal={IEEE Trans. Circuits Syst. Video Techn.},
+  year={2003},
+  volume={13},
+  pages={560-576}
+}
+
+@inproceedings{Nishi2014ICUIMC,
+  title={Video search in video sharing site based on public video lists},
+  author={Yuki Nishi and Saneyasu Yamaguchi and Aki Kobayashi},
+  booktitle={ICUIMC},
+  year={2014}
+}
+
+@article{Itti2004IEEETransactionsonImageProcessing,
+  title={Automatic foveation for video compression using a neurobiological model of visual attention},
+  author={Laurent Itti},
+  journal={IEEE Transactions on Image Processing},
+  year={2004},
+  volume={13},
+  pages={1304-1318}
+}
+
+@inproceedings{Joly2005BDA,
+  title={Statistical similarity search applied to content-based video copy detection},
+  author={Alexis Joly and Olivier Buisson and Carl Frélicot},
+  booktitle={BDA},
+  year={2005}
+}
+
+@inproceedings{Yuan2011MM,
+  title={Learning concept bundles for video search with complex queries},
+  author={Jin Yuan and Zheng-Jun Zha and Yan-Tao Zheng and Meng Wang and Xiangdong Zhou and Tat-Seng Chua},
+  booktitle={MM},
+  year={2011}
+}
+
+@inproceedings{Luo2008ECCV,
+  title={Photo and Video Quality Evaluation: Focusing on the Subject},
+  author={Yiwen Luo and Xiaoou Tang},
+  booktitle={ECCV},
+  year={2008}
+}
+
+@article{Ngo2005IEEETransCircuitsSystVideoTechn,
+  title={Video summarization and scene detection by graph modeling},
+  author={Chong-Wah Ngo and Yu-Fei Ma and HongJiang Zhang},
+  journal={IEEE Trans. Circuits Syst. Video Techn.},
+  year={2005},
+  volume={15},
+  pages={296-305}
+}
+
+@inproceedings{Zhou2007ADC,
+  title={Efficient Similarity Search by Summarization in Large Video Database},
+  author={Xiangmin Zhou and Xiaofang Zhou and Heng Tao Shen},
+  booktitle={ADC},
+  year={2007}
+}
+
+@inproceedings{Gou2010MIR,
+  title={SNDocRank: a social network-based video search ranking framework},
+  author={Liang Gou and Hung-Hsuan Chen and Jung-Hyun Kim and Xiaolong Zhang and C. Lee Giles},
+  booktitle={MIR},
+  year={2010}
+}
+
+@article{Bai2009ACMTransGraph,
+  title={Video SnapCut: robust video object cutout using localized classifiers},
+  author={Xue Bai and Jue Wang and David Simons and Guillermo Sapiro},
+  journal={ACM Trans. Graph.},
+  year={2009},
+  volume={28}
+}
+
+@inproceedings{Ngo2007TRECVID,
+  title={Experimenting VIREO-374: Bag-of-Visual-Words and Visual-Based Ontology for Semantic Video Indexing and search},
+  author={Chong-Wah Ngo and Yu-Gang Jiang and Xiao-Yong Wei and Feng Wang and Wanlei Zhao and Hung-Khoon Tan and Xiao Wu},
+  booktitle={TRECVID},
+  year={2007}
+}
+
+@inproceedings{Sivic2003ICCV,
+  title={Video Google: A Text Retrieval Approach to Object Matching in Videos},
+  author={Josef Sivic and Andrew Zisserman},
+  booktitle={ICCV},
+  year={2003}
+}
+
+@inproceedings{Kuehne2011ICCV,
+  title={HMDB: A large video database for human motion recognition},
+  author={Hildegard Kuehne and Hueihan Jhuang and Estíbaliz Garrote and Tomaso A. Poggio and Thomas Serre},
+  booktitle={ICCV},
+  year={2011}
+}
+
+@article{Jgou2011IEEETransPatternAnalMachIntell,
+  title={Product Quantization for Nearest Neighbor Search},
+  author={Hervé Jégou and Matthijs Douze and Cordelia Schmid},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2011},
+  volume={33},
+  pages={117-128}
+}
+
+@inproceedings{Cha2007IMC,
+  title={I tube, you tube, everybody tubes: analyzing the world's largest user generated content video system},
+  author={Meeyoung Cha and Haewoon Kwak and Pablo Rodriguez and Yong-Yeol Ahn and Sue B. Moon},
+  booktitle={IMC},
+  year={2007}
+}
+
+@article{Tian2012CoRR,
+  title={Sparse Transfer Learning for Interactive Video Search Reranking},
+  author={Xinmei Tian and Dacheng Tao and Yong Rui},
+  journal={CoRR},
+  year={2012},
+  volume={abs/1103.2756}
+}
+
+@article{Snoek2009FoundationsandTrendsinInformationRetrieval,
+  title={Concept-Based Video Retrieval},
+  author={Cees G. M. Snoek and Marcel Worring},
+  journal={Foundations and Trends in Information Retrieval},
+  year={2009},
+  volume={2},
+  pages={215-322}
+}
+
+@inproceedings{Schoeffmann2015MM,
+  title={Interactive Video Search},
+  author={Klaus Schoeffmann and Frank Hopfgartner},
+  booktitle={MM},
+  year={2015}
+}
+
+@inproceedings{Gupta2009CVPR,
+  title={Understanding videos, constructing plots learning a visually grounded storyline model from annotated videos},
+  author={Abhinav Gupta and Praveen Srinivasan and Jianbo Shi and Larry S. Davis},
+  booktitle={CVPR},
+  year={2009}
+}
+
+@inproceedings{Smith2008WIAMIS,
+  title={Unleashing Video Search},
+  author={John R. Smith},
+  booktitle={WIAMIS},
+  year={2008}
+}
+
+@inproceedings{Sarukkai2005MIR,
+  title={Video search: opportunities & challenges},
+  author={Ramesh Sarukkai},
+  booktitle={MIR},
+  year={2005}
+}
+
+@inproceedings{Chang1997MM,
+  title={VideoQ: An Automated Content Based Video Search System Using Visual Cues},
+  author={Shih-Fu Chang and William Chen and Horace J. Meng and Hari Sundaram and Di Zhong},
+  booktitle={MM},
+  year={1997}
+}
+
+@inproceedings{Hauptmann2002JCDL,
+  title={Video-cuebik: adapting image search to video shots},
+  author={Alexander G. Hauptmann and Norman Papernick},
+  booktitle={JCDL},
+  year={2002}
+}
+
+@inproceedings{Yuan2004MIR,
+  title={Fast and robust short video clip search using an index structure},
+  author={Junsong Yuan and Ling-Yu Duan and Qi Tian and Changsheng Xu},
+  booktitle={MIR},
+  year={2004}
+}
+
+@inproceedings{Li2007CIVR,
+  title={Video search in concept subspace: a text-like paradigm},
+  author={Xirong Li and Dong Wang and Jianmin Li and Bo Zhang},
+  booktitle={CIVR},
+  year={2007}
+}
+
+@inproceedings{Jiang2009MM,
+  title={Semantic context transfer across heterogeneous sources for domain adaptive video search},
+  author={Yu-Gang Jiang and Chong-Wah Ngo and Shih-Fu Chang},
+  booktitle={MM},
+  year={2009}
+}
+
+@inproceedings{Adcock2005CIVR,
+  title={Interactive Video Search Using Multilevel Indexing},
+  author={John Adcock and Matthew L. Cooper and Andreas Girgensohn and Lynn Wilcox},
+  booktitle={CIVR},
+  year={2005}
+}
+
+@article{Zhu2000IEEETransactionsonImageProcessing,
+  title={A new diamond search algorithm for fast block-matching motion estimation},
+  author={Shan Zhu and Kai-Kuang Ma},
+  journal={IEEE Transactions on Image Processing},
+  year={2000},
+  volume={9},
+  pages={287-290}
+}
+
+@inproceedings{Ferrari2008CVPR,
+  title={Progressive search space reduction for human pose estimation},
+  author={Vittorio Ferrari and Manuel J. Marín-Jiménez and Andrew Zisserman},
+  booktitle={CVPR},
+  year={2008}
+}
+
+@inproceedings{Snoek2007ICMCS,
+  title={Are Concept Detector Lexicons Effective for Video Search?},
+  author={Cees G. M. Snoek and Marcel Worring},
+  booktitle={ICMCS},
+  year={2007}
+}
+
+@inproceedings{Zhou2010IMC,
+  title={The impact of YouTube recommendation system on video views},
+  author={Renjie Zhou and Samamon Khemmarat and Lixin Gao},
+  booktitle={IMC},
+  year={2010}
+}
+
+@inproceedings{Smith1997spieSR,
+  title={Image and Video Search Engine for the World Wide Web},
+  author={John R. Smith and Shih-Fu Chang},
+  booktitle={spieSR},
+  year={1997}
+}
+
+@inproceedings{Sivic2006CLOR,
+  title={Video Google: Efficient Visual Search of Videos},
+  author={Josef Sivic and Andrew Zisserman},
+  booktitle={CLOR},
+  year={2006}
+}
+
+@article{Money2008JVisualCommunicationandImageRepresentation,
+  title={Video summarisation: A conceptual framework and survey of the state of the art},
+  author={Arthur G. Money and Harry W. Agius},
+  journal={J. Visual Communication and Image Representation},
+  year={2008},
+  volume={19},
+  pages={121-143}
+}
+
+@inproceedings{Wei2007MM,
+  title={Ontology-enriched semantic space for video search},
+  author={Xiao-Yong Wei and Chong-Wah Ngo},
+  booktitle={MM},
+  year={2007}
+}
+
+@inproceedings{Rooij2008CIVR,
+  title={Balancing thread based navigation for targeted video search},
+  author={Ork de Rooij and Cees G. M. Snoek and Marcel Worring},
+  booktitle={CIVR},
+  year={2008}
+}
+
+@article{Kashino2003IEEETransactionsonMultimedia,
+  title={A quick search method for audio and video signals based on histogram pruning},
+  author={Kunio Kashino and Takayuki Kurozumi and Hiroshi Murase},
+  journal={IEEE Transactions on Multimedia},
+  year={2003},
+  volume={5},
+  pages={348-357}
+}
+
+@inproceedings{Jegou2008ECCV,
+  title={Hamming Embedding and Weak Geometric Consistency for Large Scale Image Search},
+  author={Herve Jegou and Matthijs Douze and Cordelia Schmid},
+  booktitle={ECCV},
+  year={2008}
+}
+
+@inproceedings{Snoek2010MM,
+  title={The mediamill search engine video},
+  author={Cees G. M. Snoek},
+  booktitle={MM},
+  year={2010}
+}
+
+@inproceedings{Setz2009ICMCS,
+  title={Can social tagged images aid concept-based video search?},
+  author={Arjan T. Setz and Cees G. M. Snoek},
+  booktitle={ICMCS},
+  year={2009}
+}
+
+@inproceedings{Adcock2007FXPALMediaMagicVideoSearchSystem,
+  title={FXPAL MediaMagic Video Search System},
+  author={John Adcock and Matthew Cooper and Francine Chen},
+  year={2007}
+}
+
+@inproceedings{Doyle2012JCDL,
+  title={NLM video search},
+  author={John P. Doyle and Doron Shalvi and Edward C. Luczak},
+  booktitle={JCDL},
+  year={2012}
+}
+
+@inproceedings{Adcock2007CIVR,
+  title={MediaMagic video search system},
+  author={John Adcock and Matthew L. Cooper and Francine Chen},
+  booktitle={CIVR},
+  year={2007}
+}
+
+@article{Snoek2007IEEETransactionsonMultimedia,
+  title={A Learned Lexicon-Driven Paradigm for Interactive Video Retrieval},
+  author={Cees G. M. Snoek and Marcel Worring and Dennis Koelma and Arnold W. M. Smeulders},
+  journal={IEEE Transactions on Multimedia},
+  year={2007},
+  volume={9},
+  pages={280-292}
+}
+
+@inproceedings{Everts2007TRECVID,
+  title={The MediaMill TRECVID 2007 Semantic Video Search Engine},
+  author={Bouke Huurnink and Jan C. van Gemert and Cees G. M. Snoek and M. van Liempt and Jasper R. R. Uijlings and Ork de Rooij and Koen E. A. van de Sande and Dennis Koelma and Marcel Worring and Arnold W. M. Smeulders and Jan-Mark Geusebroek and Ivo Everts},
+  booktitle={TRECVID},
+  year={2007}
+}
+
+@inproceedings{Zhong2004CVPR,
+  title={Detecting Unusual Activity in Video},
+  author={Hua Zhong and Jianbo Shi and Mirkó Visontai},
+  booktitle={CVPR},
+  year={2004}
+}
+
+@inproceedings{Worring2007ICASSP,
+  title={The Mediamill Semantic Video Search Engine},
+  author={Marcel Worring and Cees G. M. Snoek and Ork de Rooij and Giang P. Nguyen and Arnold W. M. Smeulders},
+  booktitle={ICASSP},
+  year={2007}
+}
+
+@inproceedings{Gibbon2008DAGLIB,
+  title={Introduction to video search engines},
+  author={David C. Gibbon and Zhu Liu},
+  booktitle={DAGLIB},
+  year={2008}
+}
+
+@inproceedings{Clarity2014ClearviewAvAnalyzersSystemGuide,
+  title={Clearview Av Analyzers System Guide},
+  author={Video Clarity},
+  year={2014}
+}
+
+@inproceedings{Hopfgartner2008MM,
+  title={Search trails using user feedback to improve video search},
+  author={Frank Hopfgartner and David Vallet and Martin Halvey and Joemon M. Jose},
+  booktitle={MM},
+  year={2008}
+}
+
+@inproceedings{Snoek2006CIVR,
+  title={Learned Lexicon-Driven Interactive Video Retrieval},
+  author={Cees Snoek and Marcel Worring and Dennis Koelma and Arnold W. M. Smeulders},
+  booktitle={CIVR},
+  year={2006}
+}
+
+@article{Snoek2007IEEETransactionsonMultimedia,
+  title={Adding Semantics to Detectors for Video Retrieval},
+  author={Cees G. M. Snoek and Bouke Huurnink and Laura Hollink and Maarten de Rijke and Guus Schreiber and Marcel Worring},
+  journal={IEEE Transactions on Multimedia},
+  year={2007},
+  volume={9},
+  pages={975-986}
+}
+
+@article{Huang2009ACMTransInfSyst,
+  title={Bounded coordinate system indexing for real-time video clip search},
+  author={Zi Huang and Heng Tao Shen and Jie Shao and Xiaofang Zhou and Bin Cui},
+  journal={ACM Trans. Inf. Syst.},
+  year={2009},
+  volume={27}
+}
+
+@inproceedings{Sack2010SEMCO,
+  title={Exploratory Semantic Video Search with yovisto},
+  author={Harald Sack and Jörg Waitelonis},
+  booktitle={SEMCO},
+  year={2010}
+}
+
+@inproceedings{Dumont2007CBMI,
+  title={Video Search Using a Visual Dictionary},
+  author={Emilie Dumont and Bernard Mérialdo},
+  booktitle={CBMI},
+  year={2007}
+}
+
+@inproceedings{Wu2007MM,
+  title={Practical elimination of near-duplicates from web video search},
+  author={Xiao Wu and Alexander G. Hauptmann and Chong-Wah Ngo},
+  booktitle={MM},
+  year={2007}
+}
+
+@inproceedings{Yuan2009CVPR,
+  title={Discriminative subvolume search for efficient action detection},
+  author={Junsong Yuan and Zicheng Liu and Ying Wu},
+  booktitle={CVPR},
+  year={2009}
+}
+
+@inproceedings{Snoek2011MM,
+  title={Internet video search},
+  author={Cees G. M. Snoek and Arnold W. M. Smeulders},
+  booktitle={MM},
+  year={2011}
+}
+
+@inproceedings{Tian2008MM,
+  title={Bayesian video search reranking},
+  author={Xinmei Tian and Linjun Yang and Jingdong Wang and Yichen Yang and Xiuqing Wu and Xian-Sheng Hua},
+  booktitle={MM},
+  year={2008}
+}
+
+@inproceedings{Schdl2000SIGGRAPH,
+  title={Video textures},
+  author={Arno Schödl and Richard Szeliski and David Salesin and Irfan A. Essa},
+  booktitle={SIGGRAPH},
+  year={2000}
+}
+
+@inproceedings{Wang2009CVPR,
+  title={Boosted multi-task learning for face verification with applications to web image and video search},
+  author={Xiaogang Wang and Cha Zhang and Zhengyou Zhang},
+  booktitle={CVPR},
+  year={2009}
+}
+
+@article{Sivic2009IEEETransPatternAnalMachIntell,
+  title={Efficient Visual Search of Videos Cast as Text Retrieval},
+  author={Josef Sivic and Andrew Zisserman},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2009},
+  volume={31},
+  pages={591-606}
+}
+
+@inproceedings{Chang2007ICASSP,
+  title={Recent Advances and Challenges of Semantic Image/Video Search},
+  author={Shih-Fu Chang and Wei-Ying Ma and Arnold W. M. Smeulders},
+  booktitle={ICASSP},
+  year={2007}
+}
+
+@article{Sullivan2012IEEETransCircuitsSystVideoTechn,
+  title={Overview of the High Efficiency Video Coding (HEVC) Standard},
+  author={Gary J. Sullivan and Jens-Rainer Ohm and Woojin Han and Thomas Wiegand},
+  journal={IEEE Trans. Circuits Syst. Video Techn.},
+  year={2012},
+  volume={22},
+  pages={1649-1668}
+}
+
+@inproceedings{Lin2014CVPR,
+  title={Visual Semantic Search: Retrieving Videos via Complex Textual Queries},
+  author={Dahua Lin and Sanja Fidler and Chen Kong and Raquel Urtasun},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Moxley2008ICMCS,
+  title={Automatic video annotation through search and mining},
+  author={Emily Moxley and Tao Mei and Xian-Sheng Hua and Wei-Ying Ma and B. S. Manjunath},
+  booktitle={ICMCS},
+  year={2008}
+}
+
+@inproceedings{Hsu2006MM,
+  title={Video search reranking via information bottleneck principle},
+  author={Winston H. Hsu and Lyndon S. Kennedy and Shih-Fu Chang},
+  booktitle={MM},
+  year={2006}
+}
+
+@article{Pastra2006JVRB,
+  title={Video Search: New Challenges in the Pervasive Digital Video Era},
+  author={Katerina Pastra and Stelios Piperidis},
+  journal={JVRB},
+  year={2006},
+  volume={3}
+}
+
+@article{Wu2009IEEETransactionsonMultimedia,
+  title={Real-Time Near-Duplicate Elimination for Web Video Search With Content and Context},
+  author={Xiao Wu and Chong-Wah Ngo and Alexander G. Hauptmann and Hung-Khoon Tan},
+  journal={IEEE Transactions on Multimedia},
+  year={2009},
+  volume={11},
+  pages={196-207}
+}
+
+@inproceedings{Zhai2006MM,
+  title={Visual attention detection in video sequences using spatiotemporal cues},
+  author={Yun Zhai and Mubarak Shah},
+  booktitle={MM},
+  year={2006}
+}
+
+@article{Zhao2010IEEETransactionsonMultimedia,
+  title={On the Annotation of Web Videos by Efficient Near-Duplicate Search},
+  author={Wanlei Zhao and Xiao Wu and Chong-Wah Ngo},
+  journal={IEEE Transactions on Multimedia},
+  year={2010},
+  volume={12},
+  pages={448-461}
+}
+
+@article{Rubinstein2008ACMTransGraph,
+  title={Improved seam carving for video retargeting},
+  author={Michael Rubinstein and Ariel Shamir and Shai Avidan},
+  journal={ACM Trans. Graph.},
+  year={2008},
+  volume={27}
+}
+
+@inproceedings{Ay2009MM,
+  title={GRVS: a georeferenced video search engine},
+  author={Sakire Arslan Ay and Lingyan Zhang and Seon Ho Kim and He Ma and Roger Zimmermann},
+  booktitle={MM},
+  year={2009}
+}
+
+@inproceedings{Waitelonis2009ISM,
+  title={Towards Exploratory Video Search Using Linked Data},
+  author={Jörg Waitelonis and Harald Sack},
+  booktitle={ISM},
+  year={2009}
+}
+
+@inproceedings{Figueiredo2011WSDM,
+  title={The tube over time: characterizing popularity growth of youtube videos},
+  author={Flavio Figueiredo and Fabrício Benevenuto and Jussara M. Almeida},
+  booktitle={WSDM},
+  year={2011}
+}
+
+@inproceedings{Smeaton2006MIR,
+  title={Evaluation campaigns and TRECVid},
+  author={Alan F. Smeaton and Paul Over and Wessel Kraaij},
+  booktitle={MIR},
+  year={2006}
+}
+
+@inproceedings{Cappallo2015MM,
+  title={Query-by-Emoji Video Search},
+  author={Spencer Cappallo and Thomas Mensink and Cees G. M. Snoek},
+  booktitle={MM},
+  year={2015}
+}
+
+@inproceedings{Hsu2007MM,
+  title={Video search reranking through random walk over document-level context graph},
+  author={Winston H. Hsu and Lyndon S. Kennedy and Shih-Fu Chang},
+  booktitle={MM},
+  year={2007}
+}
+
+@inproceedings{Foley2009CIVR,
+  title={DCU collaborative video search system},
+  author={Colum Foley and Peter Wilkins and Alan F. Smeaton},
+  booktitle={CIVR},
+  year={2009}
+}
+
+@article{Snavely2006ACMTransGraph,
+  title={Photo tourism: exploring photo collections in 3D},
+  author={Noah Snavely and Steven M. Seitz and Richard Szeliski},
+  journal={ACM Trans. Graph.},
+  year={2006},
+  volume={25},
+  pages={835-846}
+}
+
+@inproceedings{Yuan2004ICPR,
+  title={Fast and Robust Search Method for Short Video Clips from Large Video Collection},
+  author={Junsong Yuan and Qi Tian and Surendra Ranganath},
+  booktitle={ICPR},
+  year={2004}
+}
+
+@inproceedings{Chang2007CIVR,
+  title={Columbia University's semantic video search engine},
+  author={Shih-Fu Chang and Lyndon S. Kennedy and Eric Zavesky},
+  booktitle={CIVR},
+  year={2007}
+}
+
+@article{Hanjalic2005IEEETransactionsonMultimedia,
+  title={Affective video content representation and modeling},
+  author={Alan Hanjalic and Li-Qun Xu},
+  journal={IEEE Transactions on Multimedia},
+  year={2005},
+  volume={7},
+  pages={143-154}
+}
+
+@inproceedings{Cheung2000ICIP,
+  title={Efficient Video Similarity Measurement and Search},
+  author={Sen-Ching S. Cheung and Avideh Zakhor},
+  booktitle={ICIP},
+  year={2000}
+}
+
+@article{Ay2010MultimediaSyst,
+  title={Relevance ranking in georeferenced video search},
+  author={Sakire Arslan Ay and Roger Zimmermann and Seon Ho Kim},
+  journal={Multimedia Syst.},
+  year={2010},
+  volume={16},
+  pages={105-125}
+}
+
+@article{Cheung2005IEEETransactionsonMultimedia,
+  title={Fast similarity search and clustering of video sequences on the world-wide-web},
+  author={Sen-Ching S. Cheung and Avideh Zakhor},
+  journal={IEEE Transactions on Multimedia},
+  year={2005},
+  volume={7},
+  pages={524-537}
+}
+
+@inproceedings{Grundmann2010CVPR,
+  title={Efficient hierarchical graph-based video segmentation},
+  author={Matthias Grundmann and Vivek Kwatra and Mei Han and Irfan A. Essa},
+  booktitle={CVPR},
+  year={2010}
+}
+
+@inproceedings{Search2001WebSearchYourWayImprovingWebsearchingwithuserpreferences,
+  title={Web Search -- Your Way: Improving Web searching with user preferences},
+  author={Web Search and Eric J. Glover and Steve Lawrence and Michael D. Gordon and William P. Birmingham and C Lee Giles},
+  year={2001}
+}
+
+@inproceedings{Santini2008MM,
+  title={Video Search},
+  author={Simone Santini},
+  booktitle={MM},
+  year={2008}
+}
+
+@inproceedings{Deng2009CVPR,
+  title={ImageNet: A large-scale hierarchical image database},
+  author={Jia Deng and Wei Dong and Richard Socher and Li-Jia Li and Kai Li and Li Fei-Fei},
+  booktitle={CVPR},
+  year={2009}
+}
+
+@inproceedings{Feng2004CVPR,
+  title={Multiple Bernoulli Relevance Models for Image and Video Annotation},
+  author={Shaolei Feng and Raghavan Manmatha and Victor Lavrenko},
+  booktitle={CVPR},
+  year={2004}
+}
+
+@inproceedings{Christel2007MM,
+  title={Establishing the utility of non-text search for news video retrieval with real world users},
+  author={Michael G. Christel},
+  booktitle={MM},
+  year={2007}
+}
+
+@article{Lehman2011EvolutionaryComputation,
+  title={Abandoning Objectives: Evolution Through the Search for Novelty Alone},
+  author={Joel Lehman and Kenneth O. Stanley},
+  journal={Evolutionary Computation},
+  year={2011},
+  volume={19},
+  pages={189-223}
+}
+
+@inproceedings{Taskiran1998ICIP,
+  title={A Compressed Video Database Structured for Active Browsing and Search},
+  author={Cüneyt M. Taskiran and Jau-Yuen Chen and Charles A. Bouman and Edward J. Delp},
+  booktitle={ICIP},
+  year={1998}
+}
+
+@inproceedings{Sadanand2012CVPR,
+  title={Action bank: A high-level representation of activity in video},
+  author={Sreemanananth Sadanand and Jason J. Corso},
+  booktitle={CVPR},
+  year={2012}
+}
+
+@inproceedings{Lee2008ISM,
+  title={LeeDeo: Web-Crawled Academic Video Search Engine},
+  author={Dongwon Lee and Hung-sik Kim and Eun Kyung Kim and Su Yan and Johnny Chen and Jeongkyu Lee},
+  booktitle={ISM},
+  year={2008}
+}
+
+@inproceedings{Marszalek2009CVPR,
+  title={Actions in context},
+  author={Marcin Marszalek and Ivan Laptev and Cordelia Schmid},
+  booktitle={CVPR},
+  year={2009}
+}
+
+@inproceedings{Kulis2009ICCV,
+  title={Kernelized locality-sensitive hashing for scalable image search},
+  author={Brian Kulis and Kristen Grauman},
+  booktitle={ICCV},
+  year={2009}
+}
+
+@article{Kofler2014IEEETransactionsonMultimedia,
+  title={Intent-Aware Video Search Result Optimization},
+  author={Christoph Kofler and Martha Larson and Alan Hanjalic},
+  journal={IEEE Transactions on Multimedia},
+  year={2014},
+  volume={16},
+  pages={1421-1433}
+}
+

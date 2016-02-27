@@ -1,0 +1,1519 @@
+@article{Rubner2000InternationalJournalofComputerVision,
+			  title={The Earth Mover's Distance as a Metric for Image Retrieval},
+			  author={Yossi Rubner and Carlo Tomasi and Leonidas J. Guibas},
+			  journal={International Journal of Computer Vision},
+			  year={2000},
+			  volume={40},
+			  pages={99-121}
+			}
+
+@article{Bowyer2000IEEETransPatternAnalMachIntell,
+			  title={A 20th Anniversary Survey: Introduction to 'Content-Based Image Retrieval at the End of the Early Years'},
+			  author={Kevin W. Bowyer and Patrick J. Flynn},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={2000},
+			  volume={22},
+			  pages={1348}
+			}
+
+@inproceedings{Jeon2003SIGIR,
+			  title={Automatic image annotation and retrieval using cross-media relevance models},
+			  author={Jiwoon Jeon and Victor Lavrenko and R. Manmatha},
+			  booktitle={SIGIR},
+			  year={2003}
+			}
+
+@inproceedings{Perdoch2009CVPR,
+			  title={Efficient representation of local geometry for large scale object retrieval},
+			  author={Michal Perdoch and Ondrej Chum and Jiri Matas},
+			  booktitle={CVPR},
+			  year={2009}
+			}
+
+@article{Schmid1997IEEETransPatternAnalMachIntell,
+			  title={Local Grayvalue Invariants for Image Retrieval},
+			  author={Cordelia Schmid and Roger Mohr},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={1997},
+			  volume={19},
+			  pages={530-535}
+			}
+
+@article{Han2002IEEETransactionsonImageProcessing,
+			  title={Fuzzy color histogram and its use in color image retrieval},
+			  author={Ju Han and Kai-Kuang Ma},
+			  journal={IEEE Transactions on Image Processing},
+			  year={2002},
+			  volume={11},
+			  pages={944-952}
+			}
+
+@inproceedings{Tighe2010ECCV,
+			  title={SuperParsing: Scalable Nonparametric Image Parsing with Superpixels},
+			  author={Joseph Tighe and Svetlana Lazebnik},
+			  booktitle={ECCV},
+			  year={2010}
+			}
+
+@inproceedings{Yu2012CVPR,
+			  title={Weak attributes for large-scale image retrieval},
+			  author={Felix X. Yu and Rongrong Ji and Ming-Hen Tsai and Guangnan Ye and Shih-Fu Chang},
+			  booktitle={CVPR},
+			  year={2012}
+			}
+
+@inproceedings{Westerveld2000RIAO,
+			  title={Image Retrieval: Content versus Context},
+			  author={Thijs Westerveld},
+			  booktitle={RIAO},
+			  year={2000}
+			}
+
+@article{Han2005IEEETransactionsonImageProcessing,
+			  title={A memory learning framework for effective image retrieval},
+			  author={Junwei Han and King N. Ngan and Mingjing Li and HongJiang Zhang},
+			  journal={IEEE Transactions on Image Processing},
+			  year={2005},
+			  volume={14},
+			  pages={511-524}
+			}
+
+@inproceedings{Shechtman2007CVPR,
+			  title={Matching Local Self-Similarities across Images and Videos},
+			  author={Eli Shechtman and Michal Irani},
+			  booktitle={CVPR},
+			  year={2007}
+			}
+
+@inproceedings{Wang2011ICCV,
+			  title={Contextual weighting for vocabulary tree based image retrieval},
+			  author={Xiaoyu Wang and Ming Yang and Timothée Cour and Shenghuo Zhu and Kai Yu and Tony X. Han},
+			  booktitle={ICCV},
+			  year={2011}
+			}
+
+@article{Torres2006RITA,
+			  title={Content-Based Image Retrieval: Theory and Applications},
+			  author={Ricardo da Silva Torres and Alexandre X. Falcão},
+			  journal={RITA},
+			  year={2006},
+			  volume={13},
+			  pages={161-185}
+			}
+
+@article{Carneiro2007IEEETransPatternAnalMachIntell,
+			  title={Supervised Learning of Semantic Classes for Image Annotation and Retrieval},
+			  author={Gustavo Carneiro and Antoni B. Chan and Pedro J. Moreno and Nuno Vasconcelos},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={2007},
+			  volume={29},
+			  pages={394-410}
+			}
+
+@inproceedings{Jia2014MM,
+			  title={Caffe: Convolutional Architecture for Fast Feature Embedding},
+			  author={Yangqing Jia and Evan Shelhamer and Jeff Donahue and Sergey Karayev and Jonathan Long and Ross B. Girshick and Sergio Guadarrama and Trevor Darrell},
+			  booktitle={MM},
+			  year={2014}
+			}
+
+@inproceedings{Li2006MM,
+			  title={Image annotation by large-scale content-based image retrieval},
+			  author={Xirong Li and Le Chen and Lei Zhang and Fuzong Lin and Wei-Ying Ma},
+			  booktitle={MM},
+			  year={2006}
+			}
+
+@article{Mikolajczyk2005InternationalJournalofComputerVision,
+			  title={A Comparison of Affine Region Detectors},
+			  author={Krystian Mikolajczyk and Tinne Tuytelaars and Cordelia Schmid and Andrew Zisserman and Jiri Matas and Frederik Schaffalitzky and Timor Kadir and Luc J. Van Gool},
+			  journal={International Journal of Computer Vision},
+			  year={2005},
+			  volume={65},
+			  pages={43-72}
+			}
+
+@article{Chen2005IEEETransactionsonImageProcessing,
+			  title={CLUE: cluster-based retrieval of images by unsupervised learning},
+			  author={Yixin Chen and James Ze Wang and Robert Krovetz},
+			  journal={IEEE Transactions on Image Processing},
+			  year={2005},
+			  volume={14},
+			  pages={1187-1201}
+			}
+
+@article{Salembier2000IEEETransactionsonImageProcessing,
+			  title={Binary partition tree as an efficient representation for image processing, segmentation, and information retrieval},
+			  author={Philippe Salembier and Luis Garrido},
+			  journal={IEEE Transactions on Image Processing},
+			  year={2000},
+			  volume={9},
+			  pages={561-576}
+			}
+
+@article{He2006IEEETransactionsonImageProcessing,
+			  title={Generalized Manifold-Ranking-Based Image Retrieval},
+			  author={Jingrui He and Mingjing Li and HongJiang Zhang and Hanghang Tong and Changshui Zhang},
+			  journal={IEEE Transactions on Image Processing},
+			  year={2006},
+			  volume={15},
+			  pages={3170-3177}
+			}
+
+@inproceedings{Howarth2004CIVR,
+			  title={Evaluation of Texture Features for Content-Based Image Retrieval},
+			  author={Peter Howarth and Stefan M. Rüger},
+			  booktitle={CIVR},
+			  year={2004}
+			}
+
+@inproceedings{Hermes1995CASCON,
+			  title={Content-based image retrieval},
+			  author={Thorsten Hermes and Christoph Klauck and Jutta Kreyß and J. Zhang},
+			  booktitle={CASCON},
+			  year={1995}
+			}
+
+@inproceedings{Cox1996ICPR,
+			  title={PicHunter: Bayesian relevance feedback for image retrieval},
+			  author={Ingemar J. Cox and Matthew L. Miller and Stephen M. Omohundro and Peter N. Yianilos},
+			  booktitle={ICPR},
+			  year={1996}
+			}
+
+@inproceedings{Li2010CIVR,
+			  title={Unsupervised multi-feature tag relevance learning for social image retrieval},
+			  author={Xirong Li and Cees G. M. Snoek and Marcel Worring},
+			  booktitle={CIVR},
+			  year={2010}
+			}
+
+@inproceedings{Perronnin2010CVPR,
+			  title={Large-scale image retrieval with compressed Fisher vectors},
+			  author={Florent Perronnin and Yan Liu and Jorge Sánchez and Herve Poirier},
+			  booktitle={CVPR},
+			  year={2010}
+			}
+
+@inproceedings{Tomasi1998ICCV,
+			  title={Bilateral Filtering for Gray and Color Images},
+			  author={Carlo Tomasi and Roberto Manduchi},
+			  booktitle={ICCV},
+			  year={1998}
+			}
+
+@article{Mehtre1997InfProcessManage,
+			  title={Shape Measures for Content Based Image Retrieval: A Comparison},
+			  author={Babu M. Mehtre and Mohan S. Kankanhalli and Wing Foon Lee},
+			  journal={Inf. Process. Manage.},
+			  year={1997},
+			  volume={33},
+			  pages={319-337}
+			}
+
+@inproceedings{Vasconcelos1999NIPS,
+			  title={Learning from User Feedback in Image Retrieval Systems},
+			  author={Nuno Vasconcelos and Andrew Lippman},
+			  booktitle={NIPS},
+			  year={1999}
+			}
+
+@inproceedings{Karpathy2014NIPS,
+			  title={Deep Fragment Embeddings for Bidirectional Image Sentence Mapping},
+			  author={Andrej Karpathy and Armand Joulin and Li Fei-Fei},
+			  booktitle={NIPS},
+			  year={2014}
+			}
+
+@inproceedings{He2004MM,
+			  title={Incremental semi-supervised subspace learning for image retrieval},
+			  author={Xiaofei He},
+			  booktitle={MM},
+			  year={2004}
+			}
+
+@inproceedings{Guillaumin2009ICCV,
+			  title={TagProp: Discriminative metric learning in nearest neighbor models for image auto-annotation},
+			  author={Matthieu Guillaumin and Thomas Mensink and Jakob J. Verbeek and Cordelia Schmid},
+			  booktitle={ICCV},
+			  year={2009}
+			}
+
+@inproceedings{Chum2008BMVC,
+			  title={Near Duplicate Image Detection: min-Hash and tf-idf Weighting},
+			  author={Ondrej Chum and James Philbin and Andrew Zisserman},
+			  booktitle={BMVC},
+			  year={2008}
+			}
+
+@article{Deng2001IEEETransactionsonImageProcessing,
+			  title={An efficient color representation for image retrieval},
+			  author={Yining Deng and B. S. Manjunath and Charles S. Kenney and Michael S. Moore and Hyundoo Shin},
+			  journal={IEEE Transactions on Image Processing},
+			  year={2001},
+			  volume={10},
+			  pages={140-147}
+			}
+
+@article{Zhang2002SigProcImageComm,
+			  title={Shape-based image retrieval using generic Fourier descriptor},
+			  author={Dengsheng Zhang and Guojun Lu},
+			  journal={Sig. Proc.: Image Comm.},
+			  year={2002},
+			  volume={17},
+			  pages={825-848}
+			}
+
+@inproceedings{Feng2004CVPR,
+			  title={Multiple Bernoulli Relevance Models for Image and Video Annotation},
+			  author={Shaolei Feng and Raghavan Manmatha and Victor Lavrenko},
+			  booktitle={CVPR},
+			  year={2004}
+			}
+
+@inproceedings{Babenko2014ECCV,
+			  title={Neural Codes for Image Retrieval},
+			  author={Artem Babenko and Anton Slesarev and Alexander Chigorin and Victor S. Lempitsky},
+			  booktitle={ECCV},
+			  year={2014}
+			}
+
+@article{Liu1996IEEETransPatternAnalMachIntell,
+			  title={Periodicity, Directionality, and Randomness: Wold Features for Image Modeling and Retrieval},
+			  author={Fang Liu and Rosalind W. Picard},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={1996},
+			  volume={18},
+			  pages={722-733}
+			}
+
+@inproceedings{Wang2000VISUAL,
+			  title={SIMPLIcity: Semantics-sensitive Integrated Matching for Picture Libraries},
+			  author={James Ze Wang and Jia Li and Gio Wiederhold},
+			  booktitle={VISUAL},
+			  year={2000}
+			}
+
+@inproceedings{Bimbo1995ICIAP,
+			  title={Image Retrieval by Elastic Matching of User Sketches},
+			  author={Alberto Del Bimbo and Pietro Pala},
+			  booktitle={ICIAP},
+			  year={1995}
+			}
+
+@article{Peng1999ComputerVisionandImageUnderstanding,
+			  title={Probabilistic Feature Relevance Learning for Content-Based Image Retrieval},
+			  author={Jing Peng and Bir Bhanu and Shan Qing},
+			  journal={Computer Vision and Image Understanding},
+			  year={1999},
+			  volume={75},
+			  pages={150-164}
+			}
+
+@inproceedings{Kulis2009ICCV,
+			  title={Kernelized locality-sensitive hashing for scalable image search},
+			  author={Brian Kulis and Kristen Grauman},
+			  booktitle={ICCV},
+			  year={2009}
+			}
+
+@article{Su2015CoRR,
+			  title={ImageNet Large Scale Visual Recognition Challenge},
+			  author={Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein},
+			  journal={CoRR},
+			  year={2015},
+			  volume={abs/1409.0575}
+			}
+
+@article{Li2002PatternRecognition,
+			  title={Statistical correlation analysis in image retrieval},
+			  author={Mingjing Li and Zheng Chen and HongJiang Zhang},
+			  journal={Pattern Recognition},
+			  year={2002},
+			  volume={35},
+			  pages={2687-2693}
+			}
+
+@inproceedings{Lavrenko2003NIPS,
+			  title={A Model for Learning the Semantics of Pictures},
+			  author={Victor Lavrenko and R. Manmatha and Jiwoon Jeon},
+			  booktitle={NIPS},
+			  year={2003}
+			}
+
+@inproceedings{Makadia2008ECCV,
+			  title={A New Baseline for Image Annotation},
+			  author={Ameesh Makadia and Vladimir Pavlovic and Sanjiv Kumar},
+			  booktitle={ECCV},
+			  year={2008}
+			}
+
+@inproceedings{Nakai2006DAS,
+			  title={Use of Affine Invariants in Locally Likely Arrangement Hashing for Camera-Based Document Image Retrieval},
+			  author={Tomohiro Nakai and Koichi Kise and Masakazu Iwamura},
+			  booktitle={DAS},
+			  year={2006}
+			}
+
+@inproceedings{Lazebnik2006CVPR,
+			  title={Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories},
+			  author={Svetlana Lazebnik and Cordelia Schmid and Jean Ponce},
+			  booktitle={CVPR},
+			  year={2006}
+			}
+
+@article{Aslandogan1999IEEETransKnowlDataEng,
+			  title={Techniques and Systems for Image and Video Retrieval},
+			  author={Y. Alp Aslandogan and Clement T. Yu},
+			  journal={IEEE Trans. Knowl. Data Eng.},
+			  year={1999},
+			  volume={11},
+			  pages={56-63}
+			}
+
+@inproceedings{Hoi2005CVPR,
+			  title={A Semi-Supervised Active Learning Framework for Image Retrieval},
+			  author={Steven C. H. Hoi and Michael R. Lyu},
+			  booktitle={CVPR},
+			  year={2005}
+			}
+
+@article{Martin2004IEEETransPatternAnalMachIntell,
+			  title={Learning to Detect Natural Image Boundaries Using Local Brightness, Color, and Texture Cues},
+			  author={David R. Martin and Charless C. Fowlkes and Jitendra Malik},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={2004},
+			  volume={26},
+			  pages={530-549}
+			}
+
+@article{Everingham2010InternationalJournalofComputerVision,
+			  title={The Pascal Visual Object Classes (VOC) Challenge},
+			  author={Mark Everingham and Luc J. Van Gool and Christopher K. I. Williams and John M. Winn and Andrew Zisserman},
+			  journal={International Journal of Computer Vision},
+			  year={2010},
+			  volume={88},
+			  pages={303-338}
+			}
+
+@inproceedings{Xia2014AAAI,
+			  title={Supervised Hashing for Image Retrieval via Image Representation Learning},
+			  author={Rongkai Xia and Yan Pan and Hanjiang Lai and Cong Liu and Shuicheng Yan},
+			  booktitle={AAAI},
+			  year={2014}
+			}
+
+@article{Kherfi2004ACMComputSurv,
+			  title={Image Retrieval from the World Wide Web: Issues, Techniques, and Systems},
+			  author={Mohammed Lamine Kherfi and Djemel Ziou and Alan Bernardi},
+			  journal={ACM Comput. Surv.},
+			  year={2004},
+			  volume={36},
+			  pages={35-67}
+			}
+
+@article{Chen2001JASIST,
+			  title={Web mining for Web image retrieval},
+			  author={Zheng Chen and Liu Wenyin and Feng Zhang and Mingjing Li and HongJiang Zhang},
+			  journal={JASIST},
+			  year={2001},
+			  volume={52},
+			  pages={831-839}
+			}
+
+@inproceedings{Johnson2015CVPR,
+			  title={Image retrieval using scene graphs},
+			  author={Justin Johnson and Ranjay Krishna and Michael Stark and Li-Jia Li and David A. Shamma and Michael S. Bernstein and Li Fei-Fei},
+			  booktitle={CVPR},
+			  year={2015}
+			}
+
+@article{Lu2008IEEETransPatternAnalMachIntell,
+			  title={Document Image Retrieval through Word Shape Coding},
+			  author={Shijian Lu and Linlin Li and Chew Lim Tan},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={2008},
+			  volume={30},
+			  pages={1913-1918}
+			}
+
+@inproceedings{Zhou2010MM,
+			  title={Spatial coding for large scale partial-duplicate web image search},
+			  author={Wengang Zhou and Yijuan Lu and Houqiang Li and Yibing Song and Qi Tian},
+			  booktitle={MM},
+			  year={2010}
+			}
+
+@article{Liu2007PatternRecognition,
+			  title={A survey of content-based image retrieval with high-level semantics},
+			  author={Ying Liu and Dengsheng Zhang and Guojun Lu and Wei-Ying Ma},
+			  journal={Pattern Recognition},
+			  year={2007},
+			  volume={40},
+			  pages={262-282}
+			}
+
+@article{Si2006MultimediaSyst,
+			  title={Collaborative image retrieval via regularized metric learning},
+			  author={Luo Si and Rong Jin and Steven C. H. Hoi and Michael R. Lyu},
+			  journal={Multimedia Syst.},
+			  year={2006},
+			  volume={12},
+			  pages={34-44}
+			}
+
+@inproceedings{Lin2003WEBI,
+			  title={Web Image Retrieval Re-Ranking with Relevance Model},
+			  author={Wei-Hao Lin and Rong Jin and Alexander G. Hauptmann},
+			  booktitle={WEBI},
+			  year={2003}
+			}
+
+@article{Eakins2002PatternRecognition,
+			  title={Towards intelligent image retrieval},
+			  author={John P. Eakins},
+			  journal={Pattern Recognition},
+			  year={2002},
+			  volume={35},
+			  pages={3-14}
+			}
+
+@inproceedings{Natsev1999SIGMOD,
+			  title={WALRUS: A Similarity Retrieval Algorithm for Image Databases},
+			  author={Apostol Natsev and Rajeev Rastogi and Kyuseok Shim},
+			  booktitle={SIGMOD},
+			  year={1999}
+			}
+
+@inproceedings{Xu2011SIGIR,
+			  title={Efficient manifold ranking for image retrieval},
+			  author={Bin Xu and Jiajun Bu and Chun Chen and Deng Cai and Xiaofei He and Wei Liu and Jiebo Luo},
+			  booktitle={SIGIR},
+			  year={2011}
+			}
+
+@article{Akgl2011JDigitalImaging,
+			  title={Content-Based Image Retrieval in Radiology: Current Status and Future Directions},
+			  author={Ceyhun Burak Akgül and Daniel L. Rubin and Sandy Napel and Christopher F. Beaulieu and Hayit Greenspan and Burak Acar},
+			  journal={J. Digital Imaging},
+			  year={2011},
+			  volume={24},
+			  pages={208-222}
+			}
+
+@article{Cands2013CoRR,
+			  title={Phase Retrieval via Matrix Completion},
+			  author={Emmanuel J. Candès and Yonina C. Eldar and Thomas Strohmer and Vladislav Voroninski},
+			  journal={CoRR},
+			  year={2013},
+			  volume={abs/1109.0573}
+			}
+
+@inproceedings{Frome2006NIPS,
+			  title={Image Retrieval and Classification Using Local Distance Functions},
+			  author={Andrea Frome and Yoram Singer and Jitendra Malik},
+			  booktitle={NIPS},
+			  year={2006}
+			}
+
+@inproceedings{Hays2008CVPR,
+			  title={IM2GPS: estimating geographic information from a single image},
+			  author={James Hays and Alexei A. Efros},
+			  booktitle={CVPR},
+			  year={2008}
+			}
+
+@inproceedings{Hu2008CVPR,
+			  title={Multiple-instance ranking: Learning to rank images for image retrieval},
+			  author={Yang Hu and Mingjing Li and Nenghai Yu},
+			  booktitle={CVPR},
+			  year={2008}
+			}
+
+@inproceedings{Hoi2006CVPR,
+			  title={Learning Distance Metrics with Contextual Constraints for Image Retrieval},
+			  author={Steven C. H. Hoi and Wei Liu and Michael R. Lyu and Wei-Ying Ma},
+			  booktitle={CVPR},
+			  year={2006}
+			}
+
+@inproceedings{Rubner1998ICCV,
+			  title={A Metric for Distributions with Applications to Image Databases},
+			  author={Yossi Rubner and Carlo Tomasi and Leonidas J. Guibas},
+			  booktitle={ICCV},
+			  year={1998}
+			}
+
+@inproceedings{Wang2008SIGIR,
+			  title={Learning to reduce the semantic gap in web image retrieval and annotation},
+			  author={Changhu Wang and Lei Zhang and Hong-Jiang Zhang},
+			  booktitle={SIGIR},
+			  year={2008}
+			}
+
+@inproceedings{Wang2006MM,
+			  title={Does ontology help in image retrieval?: a comparison between keyword, text ontology and multi-modality ontology approaches},
+			  author={Huan Wang and Song Liu and Liang-Tien Chia},
+			  booktitle={MM},
+			  year={2006}
+			}
+
+@article{Wolf2005IEEETransactionsonRobotics,
+			  title={Robust vision-based localization by combining an image-retrieval system with Monte Carlo localization},
+			  author={Jürgen Wolf and Wolfram Burgard and Hans Burkhardt},
+			  journal={IEEE Transactions on Robotics},
+			  year={2005},
+			  volume={21},
+			  pages={208-216}
+			}
+
+@inproceedings{Ponte1998SIGIR,
+			  title={A Language Modeling Approach to Information Retrieval},
+			  author={Jay M. Ponte and W. Bruce Croft},
+			  booktitle={SIGIR},
+			  year={1998}
+			}
+
+@article{Laaksonen2000PatternRecognitionLetters,
+			  title={PicSOM - content-based image retrieval with self-organizing maps},
+			  author={Jorma Laaksonen and Markus Koskela and Sami Laakso and Erkki Oja},
+			  journal={Pattern Recognition Letters},
+			  year={2000},
+			  volume={21},
+			  pages={1199-1207}
+			}
+
+@article{Vasconcelos2004IEEETransactionsonSignalProcessing,
+			  title={Minimum probability of error image retrieval},
+			  author={Nuno Vasconcelos},
+			  journal={IEEE Transactions on Signal Processing},
+			  year={2004},
+			  volume={52},
+			  pages={2322-2336}
+			}
+
+@inproceedings{Mller2012CLEF,
+			  title={Overview of the ImageCLEF 2012 Medical Image Retrieval and Classification Tasks},
+			  author={Henning Müller and Alba Garcia Seco de Herrera and Jayashree Kalpathy-Cramer and Dina Demner-Fushman and Sameer K. Antani and Ivan Eggel},
+			  booktitle={CLEF},
+			  year={2012}
+			}
+
+@article{Su2003IEEETransactionsonImageProcessing,
+			  title={Relevance feedback in content-based image retrieval: Bayesian framework, feature subspaces, and progressive learning},
+			  author={Zhong Su and HongJiang Zhang and Stan Z. Li and Shaoping Ma},
+			  journal={IEEE Transactions on Image Processing},
+			  year={2003},
+			  volume={12},
+			  pages={924-937}
+			}
+
+@article{Bolettieri2009CoRR,
+			  title={CoPhIR: a Test Collection for Content-Based Image Retrieval},
+			  author={Paolo Bolettieri and Andrea Esuli and Fabrizio Falchi and Claudio Lucchese and Raffaele Perego and Tommaso Piccioli and Fausto Rabitti},
+			  journal={CoRR},
+			  year={2009},
+			  volume={abs/0905.4627}
+			}
+
+@inproceedings{Karpathy2015CVPR,
+			  title={Deep visual-semantic alignments for generating image descriptions},
+			  author={Andrej Karpathy and Li Fei-Fei},
+			  booktitle={CVPR},
+			  year={2015}
+			}
+
+@inproceedings{Mller2002CIVR,
+			  title={The Truth about Corel - Evaluation in Image Retrieval},
+			  author={Henning Müller and Stéphane Marchand-Maillet and Thierry Pun},
+			  booktitle={CIVR},
+			  year={2002}
+			}
+
+@inproceedings{Shirahatti2005CVPR,
+			  title={Evaluating Image Retrieval},
+			  author={Nikhil V. Shirahatti and Kobus Barnard},
+			  booktitle={CVPR},
+			  year={2005}
+			}
+
+@inproceedings{Rother2006CVPR,
+			  title={Cosegmentation of Image Pairs by Histogram Matching - Incorporating a Global Constraint into MRFs},
+			  author={Carsten Rother and Thomas P. Minka and Andrew Blake and Vladimir Kolmogorov},
+			  booktitle={CVPR},
+			  year={2006}
+			}
+
+@inproceedings{Belongie2004ColorandTexturebasedImageSegmentationUsingEmandItsApplicationtoContentbasedImageRetrieval,
+			  title={Color-and Texture-based Image Segmentation Using Em and Its Application to Content-based Image Retrieval},
+			  author={Serge Belongie and Chad Carson and Hayit Greenspan and Jitendra Malik},
+			  year={2004}
+			}
+
+@inproceedings{Stehling2002CIKM,
+			  title={A compact and efficient image retrieval approach based on border/interior pixel classification},
+			  author={Renato O. Stehling and Mario A. Nascimento and Alexandre X. Falcão},
+			  booktitle={CIKM},
+			  year={2002}
+			}
+
+@inproceedings{Harmandas1997SIGIR,
+			  title={Image Retrieval by Hypertext Links},
+			  author={V. Harmandas and Mark Sanderson and Mark D. Dunlop},
+			  booktitle={SIGIR},
+			  year={1997}
+			}
+
+@inproceedings{Viola2001ICCV,
+			  title={Robust Real-Time Face Detection},
+			  author={Paul A. Viola and Michael J. Jones},
+			  booktitle={ICCV},
+			  year={2001}
+			}
+
+@inproceedings{Vasconcelos2000CVPR,
+			  title={A Probabilistic Architecture for Content-Based Image Retrieval},
+			  author={Nuno Vasconcelos and Andrew Lippman},
+			  booktitle={CVPR},
+			  year={2000}
+			}
+
+@inproceedings{Mller2000ICPR,
+			  title={Strategies for Positive and Negative Relevance Feedback in Image Retrieval},
+			  author={Henning Müller and Wolfgang Müller and Stéphane Marchand-Maillet and Thierry Pun and David Squire},
+			  booktitle={ICPR},
+			  year={2000}
+			}
+
+@inproceedings{Li2010NIPS,
+			  title={Object Bank: A High-Level Image Representation for Scene Classification & Semantic Feature Sparsification},
+			  author={Li-Jia Li and Hao Su and Eric P. Xing and Li Fei-Fei},
+			  booktitle={NIPS},
+			  year={2010}
+			}
+
+@inproceedings{Ke2004CVPR,
+			  title={PCA-SIFT: A More Distinctive Representation for Local Image Descriptors},
+			  author={Yan Ke and Rahul Sukthankar},
+			  booktitle={CVPR},
+			  year={2004}
+			}
+
+@inproceedings{Hodosh2013IJCAI,
+			  title={Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics (Extended Abstract)},
+			  author={Micah Hodosh and Peter Young and Julia Hockenmaier},
+			  booktitle={IJCAI},
+			  year={2013}
+			}
+
+@article{Lew2006TOMCCAP,
+			  title={Content-based multimedia information retrieval: State of the art and challenges},
+			  author={Michael S. Lew and Nicu Sebe and Chabane Djeraba and Ramesh Jain},
+			  journal={TOMCCAP},
+			  year={2006},
+			  volume={2},
+			  pages={1-19}
+			}
+
+@inproceedings{Clough2003CLEF,
+			  title={The CLEF 2005 Cross-Language Image Retrieval Track},
+			  author={Paul D. Clough and Henning Müller and Thomas Deselaers and Michael Grubinger and Thomas Martin Lehmann and Jeffery R. Jensen and William R. Hersh},
+			  booktitle={CLEF},
+			  year={2003}
+			}
+
+@inproceedings{Mller2008CLEF,
+			  title={Overview of the ImageCLEFmed 2008 Medical Image Retrieval Task},
+			  author={Henning Müller and Jayashree Kalpathy-Cramer and Charles E. Kahn Jr. and William Hatt and Steven Bedrick and William R. Hersh},
+			  booktitle={CLEF},
+			  year={2008}
+			}
+
+@inproceedings{Deselaers2009CIVR,
+			  title={Jointly optimising relevance and diversity in image retrieval},
+			  author={Thomas Deselaers and Tobias Gass and Philippe Dreuw and Hermann Ney},
+			  booktitle={CIVR},
+			  year={2009}
+			}
+
+@inproceedings{Bradshaw2000MM,
+			  title={Semantic based image retrieval: a probabilistic approach},
+			  author={Ben Bradshaw},
+			  booktitle={MM},
+			  year={2000}
+			}
+
+@inproceedings{Wang2003CVPR,
+			  title={Bootstrapping SVM Active Learning by Incorporating Unlabelled Images for Image Retrieval},
+			  author={Lei Wang and Kap Luk Chan and Zhihua Zhang},
+			  booktitle={CVPR},
+			  year={2003}
+			}
+
+@inproceedings{Sumana2008MMSP,
+			  title={Content based image retrieval using curvelet transform},
+			  author={Ishrat Jahan Sumana and Md. Monirul Islam and Dengsheng Zhang and Guojun Lu},
+			  booktitle={MMSP},
+			  year={2008}
+			}
+
+@article{Huang2003PatternRecognition,
+			  title={Image retrieval by texture similarity},
+			  author={Po-Whei Huang and S. K. Dai},
+			  journal={Pattern Recognition},
+			  year={2003},
+			  volume={36},
+			  pages={665-679}
+			}
+
+@inproceedings{Rui1998spieSR,
+			  title={Relevance Feedback Techniques in Interactive Content-Based Image Retrieval},
+			  author={Yong Rui and Thomas S. Huang and Sharad Mehrotra},
+			  booktitle={spieSR},
+			  year={1998}
+			}
+
+@inproceedings{Manning2008DAGLIB,
+			  title={Introduction to information retrieval},
+			  author={Christopher D. Manning and Prabhakar Raghavan and Hinrich Schütze},
+			  booktitle={DAGLIB},
+			  year={2008}
+			}
+
+@inproceedings{Tsai2009MOBIMEDIA,
+			  title={Location coding for mobile image retrieval},
+			  author={Sam S. Tsai and David M. Chen and Gabriel Takacs and Vijay Chandrasekhar and Jatinder Pal Singh and Bernd Girod},
+			  booktitle={MOBIMEDIA},
+			  year={2009}
+			}
+
+@inproceedings{He2007SIGIR,
+			  title={Laplacian optimal design for image retrieval},
+			  author={Xiaofei He and Wanli Min and Deng Cai and Kun Zhou},
+			  booktitle={SIGIR},
+			  year={2007}
+			}
+
+@article{Mao2014CoRR,
+			  title={Explain Images with Multimodal Recurrent Neural Networks},
+			  author={Junhua Mao and Wei Xu and Yi Yang and Jiang Wang and Alan L. Yuille},
+			  journal={CoRR},
+			  year={2014},
+			  volume={abs/1410.1090}
+			}
+
+@article{Carson2002IEEETransPatternAnalMachIntell,
+			  title={Blobworld: Image Segmentation Using Expectation-Maximization and Its Application to Image Querying},
+			  author={Chad Carson and Serge J. Belongie and Hayit Greenspan and Jitendra Malik},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={2002},
+			  volume={24},
+			  pages={1026-1038}
+			}
+
+@article{Liu2010PatternRecognition,
+			  title={Image retrieval based on multi-texton histogram},
+			  author={Guang-Hai Liu and Lei Zhang and Yingkun Hou and Zuoyong Li and Jing-Yu Yang},
+			  journal={Pattern Recognition},
+			  year={2010},
+			  volume={43},
+			  pages={2380-2389}
+			}
+
+@inproceedings{Yu2002ICIP,
+			  title={Color texture moments for content-based image retrieval},
+			  author={Hui Yu and Mingjing Li and HongJiang Zhang and Jufu Feng},
+			  booktitle={ICIP},
+			  year={2002}
+			}
+
+@article{Qiu2002PatternRecognition,
+			  title={Indexing chromatic and achromatic patterns for content-based colour image retrieval},
+			  author={Guoping Qiu},
+			  journal={Pattern Recognition},
+			  year={2002},
+			  volume={35},
+			  pages={1675-1686}
+			}
+
+@inproceedings{Puzicha1997CVPR,
+			  title={Non-parametric Similarity Measures for Unsupervised Texture Segmentation and Image Retrieval},
+			  author={Jan Puzicha and Thomas Hofmann and Joachim M. Buhmann},
+			  booktitle={CVPR},
+			  year={1997}
+			}
+
+@inproceedings{He2002MM,
+			  title={Learning and inferring a semantic space from user's relevance feedback for image retrieval},
+			  author={Xiaofei He and Wei-Ying Ma and Oliver King and Mingjing Li and HongJiang Zhang},
+			  booktitle={MM},
+			  year={2002}
+			}
+
+@article{Do2002IEEETransactionsonImageProcessing,
+			  title={Wavelet-based texture retrieval using generalized Gaussian density and Kullback-Leibler distance},
+			  author={Minh N. Do and Martin Vetterli},
+			  journal={IEEE Transactions on Image Processing},
+			  year={2002},
+			  volume={11},
+			  pages={146-158}
+			}
+
+@inproceedings{Sivic2003ICCV,
+			  title={Video Google: A Text Retrieval Approach to Object Matching in Videos},
+			  author={Josef Sivic and Andrew Zisserman},
+			  booktitle={ICCV},
+			  year={2003}
+			}
+
+@inproceedings{Siddiquie2011CVPR,
+			  title={Image ranking and retrieval based on multi-attribute queries},
+			  author={Behjat Siddiquie and Rogério Schmidt Feris and Larry S. Davis},
+			  booktitle={CVPR},
+			  year={2011}
+			}
+
+@inproceedings{He2004MM,
+			  title={Manifold-ranking based image retrieval},
+			  author={Jingrui He and Mingjing Li and HongJiang Zhang and Hanghang Tong and Changshui Zhang},
+			  booktitle={MM},
+			  year={2004}
+			}
+
+@inproceedings{Zhang2011CVPR,
+			  title={Image retrieval with geometry-preserving visual phrases},
+			  author={Yimeng Zhang and Zhaoyin Jia and Tsuhan Chen},
+			  booktitle={CVPR},
+			  year={2011}
+			}
+
+@inproceedings{Rui2000CVPR,
+			  title={Optimizing Learning in Image Retrieval},
+			  author={Yong Rui and Thomas S. Huang},
+			  booktitle={CVPR},
+			  year={2000}
+			}
+
+@inproceedings{Krizhevsky2012NIPS,
+			  title={ImageNet Classification with Deep Convolutional Neural Networks},
+			  author={Alex Krizhevsky and Ilya Sutskever and Geoffrey E. Hinton},
+			  booktitle={NIPS},
+			  year={2012}
+			}
+
+@inproceedings{Nistr2006CVPR,
+			  title={Scalable Recognition with a Vocabulary Tree},
+			  author={David Nistér and Henrik Stewénius},
+			  booktitle={CVPR},
+			  year={2006}
+			}
+
+@article{Swets1996IEEETransPatternAnalMachIntell,
+			  title={Using Discriminant Eigenfeatures for Image Retrieval},
+			  author={Daniel L. Swets and Juyang Weng},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={1996},
+			  volume={18},
+			  pages={831-836}
+			}
+
+@article{Jain1996PatternRecognition,
+			  title={Image retrieval using color and shape},
+			  author={Anil K. Jain and Aditya Vailaya},
+			  journal={Pattern Recognition},
+			  year={1996},
+			  volume={29},
+			  pages={1233-1244}
+			}
+
+@article{Mller2004IJMedicalInformatics,
+			  title={A review of content-based image retrieval systems in medical applications - clinical benefits and future directions},
+			  author={Henning Müller and Nicolas Michoux and David Bandon and Antoine Geissbühler},
+			  journal={I. J. Medical Informatics},
+			  year={2004},
+			  volume={73},
+			  pages={1-23}
+			}
+
+@inproceedings{Huiskes2008MIR,
+			  title={The MIR flickr retrieval evaluation},
+			  author={Mark J. Huiskes and Michael S. Lew},
+			  booktitle={MIR},
+			  year={2008}
+			}
+
+@article{Datta2008ACMComputSurv,
+			  title={Image retrieval: Ideas, influences, and trends of the new age},
+			  author={Ritendra Datta and Dhiraj Joshi and Jia Li and James Ze Wang},
+			  journal={ACM Comput. Surv.},
+			  year={2008},
+			  volume={40}
+			}
+
+@article{Zhou2003MultimediaSyst,
+			  title={Relevance feedback in image retrieval: A comprehensive review},
+			  author={Xiang Sean Zhou and Thomas S. Huang},
+			  journal={Multimedia Syst.},
+			  year={2003},
+			  volume={8},
+			  pages={536-544}
+			}
+
+@inproceedings{Wang2010CVPR,
+			  title={Semi-supervised hashing for scalable image retrieval},
+			  author={Jun Wang and Ondrej Kumar and Shih-Fu Chang},
+			  booktitle={CVPR},
+			  year={2010}
+			}
+
+@article{Deselaers2008InfRetr,
+			  title={Features for image retrieval: an experimental comparison},
+			  author={Thomas Deselaers and Daniel Keysers and Hermann Ney},
+			  journal={Inf. Retr.},
+			  year={2008},
+			  volume={11},
+			  pages={77-107}
+			}
+
+@article{Vogel2007InternationalJournalofComputerVision,
+			  title={Semantic Modeling of Natural Scenes for Content-Based Image Retrieval},
+			  author={Julia Vogel and Bernt Schiele},
+			  journal={International Journal of Computer Vision},
+			  year={2007},
+			  volume={72},
+			  pages={133-157}
+			}
+
+@inproceedings{Chua2009CIVR,
+			  title={NUS-WIDE: a real-world web image database from National University of Singapore},
+			  author={Tat-Seng Chua and Jinhui Tang and Richang Hong and Haojie Li and Zhiping Luo and Yantao Zheng},
+			  booktitle={CIVR},
+			  year={2009}
+			}
+
+@inproceedings{Lux2008MM,
+			  title={Lire: lucene image retrieval: an extensible java CBIR library},
+			  author={Mathias Lux and Savvas A. Chatzichristofis},
+			  booktitle={MM},
+			  year={2008}
+			}
+
+@inproceedings{Rui1997ICIP,
+			  title={Content-Based Image Retrieval with Relevance Feedback in MARS},
+			  author={Yong Rui and Thomas S. Huang and Sharad Mehrotra},
+			  booktitle={ICIP},
+			  year={1997}
+			}
+
+@inproceedings{Torralba2008CVPR,
+			  title={Small codes and large image databases for recognition},
+			  author={Antonio Torralba and Robert Fergus and Yair Weiss},
+			  booktitle={CVPR},
+			  year={2008}
+			}
+
+@inproceedings{Datta2005MIR,
+			  title={Content-based image retrieval: approaches and trends of the new age},
+			  author={Ritendra Datta and Jia Li and James Ze Wang},
+			  booktitle={MIR},
+			  year={2005}
+			}
+
+@inproceedings{Razavian2014CVPR,
+			  title={CNN Features Off-the-Shelf: An Astounding Baseline for Recognition},
+			  author={Ali Sharif Razavian and Hossein Azizpour and Josephine Sullivan and Stefan Carlsson},
+			  booktitle={CVPR},
+			  year={2014}
+			}
+
+@article{Manjunath1996IEEETransPatternAnalMachIntell,
+			  title={Texture Features for Browsing and Retrieval of Image Data},
+			  author={B. S. Manjunath and Wei-Ying Ma},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={1996},
+			  volume={18},
+			  pages={837-842}
+			}
+
+@inproceedings{Chatzichristofis2008ICVS,
+			  title={CEDD: Color and Edge Directivity Descriptor: A Compact Descriptor for Image Indexing and Retrieval},
+			  author={Savvas A. Chatzichristofis and Yiannis S. Boutalis},
+			  booktitle={ICVS},
+			  year={2008}
+			}
+
+@inproceedings{Arandjelovic2012CVPR,
+			  title={Three things everyone should know to improve object retrieval},
+			  author={Relja Arandjelovic and Andrew Zisserman},
+			  booktitle={CVPR},
+			  year={2012}
+			}
+
+@inproceedings{Malisiewicz2011ICCV,
+			  title={Ensemble of exemplar-SVMs for object detection and beyond},
+			  author={Tomasz Malisiewicz and Abhinav Gupta and Alexei A. Efros},
+			  booktitle={ICCV},
+			  year={2011}
+			}
+
+@inproceedings{He2004MM,
+			  title={Learning an image manifold for retrieval},
+			  author={Xiaofei He and Wei-Ying Ma and HongJiang Zhang},
+			  booktitle={MM},
+			  year={2004}
+			}
+
+@inproceedings{Carson1999VISUAL,
+			  title={Blobworld: A System for Region-Based Image Indexing and Retrieval},
+			  author={Chad Carson and Megan Thomas and Serge J. Belongie and Joseph M. Hellerstein and Jitendra Malik},
+			  booktitle={VISUAL},
+			  year={1999}
+			}
+
+@article{Gevers2000IEEETransactionsonImageProcessing,
+			  title={PicToSeek: combining color and shape invariant features for image retrieval},
+			  author={Theo Gevers and Arnold W. M. Smeulders},
+			  journal={IEEE Transactions on Image Processing},
+			  year={2000},
+			  volume={9},
+			  pages={102-119}
+			}
+
+@inproceedings{Rasiwasia2010MM,
+			  title={A new approach to cross-modal multimedia retrieval},
+			  author={Nikhil Rasiwasia and Jose Costa Pereira and Emanuele Coviello and Gabriel Doyle and Gert R. G. Lanckriet and Roger Levy and Nuno Vasconcelos},
+			  booktitle={MM},
+			  year={2010}
+			}
+
+@article{Russell2008InternationalJournalofComputerVision,
+			  title={LabelMe: A Database and Web-Based Tool for Image Annotation},
+			  author={Bryan C. Russell and Antonio Torralba and Kevin P. Murphy and William T. Freeman},
+			  journal={International Journal of Computer Vision},
+			  year={2008},
+			  volume={77},
+			  pages={157-173}
+			}
+
+@inproceedings{Viola2001CVPR,
+			  title={Rapid Object Detection using a Boosted Cascade of Simple Features},
+			  author={Paul A. Viola and Michael J. Jones},
+			  booktitle={CVPR},
+			  year={2001}
+			}
+
+@article{Tao2006IEEETransPatternAnalMachIntell,
+			  title={Asymmetric Bagging and Random Subspace for Support Vector Machines-Based Relevance Feedback in Image Retrieval},
+			  author={Dacheng Tao and Xiaoou Tang and Xuelong Li and Xindong Wu},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={2006},
+			  volume={28},
+			  pages={1088-1099}
+			}
+
+@inproceedings{Philbin2007CVPR,
+			  title={Object retrieval with large vocabularies and fast spatial matching},
+			  author={James Philbin and Ondrej Chum and Michael Isard and Josef Sivic and Andrew Zisserman},
+			  booktitle={CVPR},
+			  year={2007}
+			}
+
+@inproceedings{Guo2001CVPR,
+			title={Learning Similarity Measure for Natural Image Retrieval with Relevance Feedback},
+  			author={Guodong Guo and Anil K. Jain and Wei-Ying Ma and HongJiang Zhang},
+  			booktitle={CVPR},
+  			year={2001}
+			}
+
+@inproceedings{Wu2009CVPR,
+  			title={Bundling features for large scale partial-duplicate web image search},
+  			author={Zhong Wu and Qifa Ke and Michael Isard and Jian Sun},
+  			booktitle={CVPR},
+  			year={2009}
+			}
+
+@inproceedings{Chen2001ICIP,
+  			title={One-class SVM for learning in image retrieval},
+  			author={Yunqiang Chen and Xiang Sean Zhou and Thomas S. Huang},
+  			booktitle={ICIP},
+  			year={2001}
+			}
+
+@inproceedings{Vinyals2015CVPR,
+  			title={Show and tell: A neural image caption generator},
+  			author={Oriol Vinyals and Alexander Toshev and Samy Bengio and Dumitru Erhan},
+  			booktitle={CVPR},
+  			year={2015}
+			}
+
+@article{Jain1998PatternRecognition,
+  			title={Shape-Based Retrieval: A Case Study With Trademark Image Databases},
+  			author={Anil K. Jain and Aditya Vailaya},
+  			journal={Pattern Recognition},
+  			year={1998},
+  			volume={31},
+  			pages={1369-1390}
+			}
+
+@inproceedings{Jgou2012ECCV,
+  			title={Negative Evidences and Co-occurences in Image Retrieval: The Benefit of PCA and Whitening},
+  			author={Hervé Jégou and Ondrej Chum},
+  			booktitle={ECCV},
+  			year={2012}
+			}
+
+@article{Wu2013IEEETransPatternAnalMachIntell,
+  			title={Tag Completion for Image Retrieval},
+  			author={Lei Wu and Rong Jin and Anil K. Jain},
+  			journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  			year={2013},
+  			volume={35},
+  			pages={716-727}
+			}
+
+@inproceedings{Li2008MIR,
+ 			title={Learning tag relevance by neighbor voting for social image retrieval},
+ 			author={Xirong Li and Cees G. M. Snoek and Marcel Worring},
+  			booktitle={MIR},
+  			year={2008}
+			}
+
+@article{Squire2000PatternRecognitionLetters,
+  			title={Content-based query of image databases: inspirations from text retrieval},
+  			author={David McG. Squire and Wolfgang Müller and Henning Müller and Thierry Pun},
+  			journal={Pattern Recognition Letters},
+  			year={2000},
+  			volume={21},
+  			pages={1193-1198}
+			}
+
+@inproceedings{Song2006MM,
+  			title={Diversifying the image retrieval results},
+  			author={Kai Song and YongHong Tian and Wen Gao and Tiejun Huang},
+  			booktitle={MM},
+  			year={2006}
+			}
+
+@article{Rui1999JVisualCommunicationandImageRepresentation,
+			  title={Image Retrieval: Current Techniques, Promising Directions, and Open Issues},
+			  author={Yong Rui and Thomas S. Huang and Shih-Fu Chang},
+			  journal={J. Visual Communication and Image Representation},
+			  year={1999},
+			  volume={10},
+			  pages={39-62}
+			}
+
+@article{He2003IEEETransCircuitsSystVideoTechn,
+  			title={Learning a semantic space from user's relevance feedback for image retrieval},
+  			author={Xiaofei He and Oliver King and Wei-Ying Ma and Mingjing Li and HongJiang Zhang},
+  			journal={IEEE Trans. Circuits Syst. Video Techn.},
+  			year={2003},
+  			volume={13},
+  			pages={39-48}
+			}
+
+@inproceedings{Huang2010CVPR,
+  			  title={Image retrieval via probabilistic hypergraph ranking},
+			  author={Yuchi Huang and Qingshan Liu and Shaoting Zhang and Dimitris N. Metaxas},
+			  booktitle={CVPR},
+			  year={2010}
+			}
+
+@inproceedings{Rahmani2005MIR,
+			  title={Localized content based image retrieval},
+			  author={Rouhollah Rahmani and Sally A. Goldman and Hui Zhang and John Krettek and Jason E. Fritts},
+			  booktitle={MIR},
+			  year={2005}
+			}
+
+@inproceedings{Hrster2007CIVR,
+			  title={Image retrieval on large-scale image databases},
+			  author={Eva Hörster and Rainer Lienhart and Malcolm Slaney},
+			  booktitle={CIVR},
+ 	 		  year={2007}
+			}
+
+@inproceedings{Ahn2004CHI,
+			  title={Labeling images with a computer game},
+			  author={Luis von Ahn and Laura Dabbish},
+			  booktitle={CHI},
+			  year={2004}
+			}
+
+@article{Torralba2008IEEETransPatternAnalMachIntell,
+			  title={80 Million Tiny Images: A Large Data Set for Nonparametric Object and Scene Recognition},
+			  author={Antonio Torralba and Robert Fergus and William T. Freeman},
+			  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+			  year={2008},
+			  volume={30},
+			  pages={1958-1970}
+			}
+
+@article{Hoi2006IEEETransKnowlDataEng,
+			  title={A Unified Log-Based Relevance Feedback Scheme for Image Retrieval},
+			  author={Steven C. H. Hoi and Michael R. Lyu and Rong Jin},
+			  journal={IEEE Trans. Knowl. Data Eng.},
+			  year={2006},
+			  volume={18},
+			  pages={509-524}
+			}
+
+@inproceedings{Schmid2001CVPR,
+			  title={Constructing models for content-based image retrieval},
+			  author={Cordelia Schmid},
+ 			  booktitle={CVPR},
+			  year={2001}
+			}
+
+@inproceedings{Wu2000CVPR,
+			  title={Discriminant-EM Algorithm with Application to Image Retrieval},
+			  author={Ying Wu and Qi Tian and Thomas S. Huang},
+			  booktitle={CVPR},
+			  year={2000}
+			}
+
+@inproceedings{Wang2010CVPR,
+			  title={Locality-constrained Linear Coding for image classification},
+			  author={Jinjun Wang and Jianchao Yang and Kai Yu and Fengjun Lv and Thomas S. Huang and Yihong Gong},
+			  booktitle={CVPR},
+			  year={2010}
+			}
+
+@inproceedings{Tieu2000CVPR,
+			  title={Boosting Image Retrieval},
+			  author={Kinh Tieu and Paul A. Viola},
+			  booktitle={CVPR},
+			  year={2000}
+			}
+
+@inproceedings{Douze2011CVPR,
+			  title={Combining attributes and Fisher vectors for efficient image retrieval},
+			  author={Matthijs Douze and Arnau Ramisa and Cordelia Schmid},
+			  booktitle={CVPR},
+			  year={2011}
+			}
+
+@inproceedings{Li2000MM,
+			  title={IRM: integrated region matching for image retrieval},
+			  author={Jia Li and James Ze Wang and Gio Wiederhold},
+			  booktitle={MM},
+			  year={2000}
+			}
+
+@inproceedings{Cheng2011CVPR,
+			  title={Global contrast based salient region detection},
+			  author={Ming-Ming Cheng and Guo-Xin Zhang and Niloy J. Mitra and Xiaolei Huang and Shi-Min Hu},
+			  booktitle={CVPR},
+			  year={2011}
+			}
+
+@inproceedings{Chatzichristofis2008WIAMIS,
+			  title={FCTH: Fuzzy Color and Texture Histogram - A Low Level Feature for Accurate Image Retrieval},
+			  author={Savvas A. Chatzichristofis and Yiannis S. Boutalis},
+			  booktitle={WIAMIS},
+			  year={2008}
+			}
+
+@inproceedings{Zhang2012ECCV,
+			  title={Query Specific Fusion for Image Retrieval},
+			  author={Shaoting Zhang and Ming Yang and Timothée Cour and Kai Yu and Dimitris N. Metaxas},
+			  booktitle={ECCV},
+			  year={2012}
+			}
+
+@inproceedings{Mller2009CLEF,
+			  title={Overview of the CLEF 2009 Medical Image Retrieval Track},
+			  author={Henning Müller and Jayashree Kalpathy-Cramer and Ivan Eggel and Steven Bedrick and Saïd Radhouani and Brian Bakke and Charles E. Kahn Jr. and William R. Hersh},
+			  booktitle={CLEF},
+			  year={2009}
+			}
+
+@inproceedings{Clough2004CIVR,
+			  title={The CLEF Cross Language Image Retrieval Track (ImageCLEF) 2004},
+			  author={Paul D. Clough and Mark Sanderson and Henning Müller},
+			  booktitle={CIVR},
+			  year={2004}
+			}
+
+@inproceedings{Schaefer2004spieSR,
+			  title={UCID: an uncompressed color image database},
+			  author={Gerald Schaefer and Michal Stich},
+			  booktitle={spieSR},
+ 			  year={2004}
+			}
+
+@inproceedings{Deng2011CVPR,
+			  title={Hierarchical semantic indexing for large scale image retrieval},
+			  author={Jia Deng and Alexander C. Berg and Li Fei-Fei},
+			  booktitle={CVPR},
+			  year={2011}
+			}
+
+@inproceedings{Chum2007ICCV,
+			  title={Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval},
+			  author={Ondrej Chum and James Philbin and Josef Sivic and Michael Isard and Andrew Zisserman},
+			  booktitle={ICCV},
+			  year={2007}
+			}
+
+@inproceedings{Philbin2008CVPR,
+			  title={Lost in quantization: Improving particular object retrieval in large scale image databases},
+			  author={James Philbin and Ondrej Chum and Michael Isard and Josef Sivic and Andrew Zisserman},
+			  booktitle={CVPR},
+			  year={2008}
+			}
+
+@inproceedings{Shen2013CVPR,
+			  title={Detecting and Aligning Faces by Image Retrieval},
+			  author={Xiaohui Shen and Zhe Lin and Jonathan Brandt and Ying Wu},
+			  booktitle={CVPR},
+			  year={2013}
+			}
+
+@inproceedings{Blei2003SIGIR,
+			  title={Modeling annotated data},
+			  author={David M. Blei and Michael I. Jordan},
+			  booktitle={SIGIR},
+			  year={2003}
+			}
+
+@article{Eitz2011IEEETransVisComputGraph,
+			  title={Sketch-Based Image Retrieval: Benchmark and Bag-of-Features Descriptors},
+			  author={Mathias Eitz and Kristian Hildebrand and Tamy Boubekeur and Marc Alexa},
+			  journal={IEEE Trans. Vis. Comput. Graph.},
+ 			  year={2011},
+			  volume={17},
+			  pages={1624-1636}
+			}
+
+@inproceedings{Schubert2000ContentbasedImageRetrievalinMedicalApplications,
+			  title={Content-based Image Retrieval in Medical Applications},
+			  author={Thomas M. Lehmann and B Fischer and H Ney and K Spitzer and Mo Güld and Rwth Aachen and D Keysers and H Schubert and Tm Lehmann},
+			  year={2000}
+			}
+
+@inproceedings{Zhang2001ICIP,
+			  title={Support vector machine learning for image retrieval},
+			  author={Lei Zhang and Fuzong Lin and Bo Zhang},
+			  booktitle={ICIP},
+			  year={2001}
+			}
+
+@article{Cox2000IEEETransactionsonImageProcessing,
+			  title={The Bayesian image retrieval system, PicHunter: theory, implementation, and psychophysical experiments},
+			  author={Ingemar J. Cox and Matthew L. Miller and Thomas P. Minka and Thomas V. Papathomas and Peter N. Yianilos},
+			  journal={IEEE Transactions on Image Processing},
+			  year={2000},
+			  volume={9},
+			  pages={20-37}
+			}
+
+@inproceedings{Hertz2004CVPR,
+			  title={Learning Distance Functions for Image Retrieval},
+			  author={Tomer Hertz and Aharon Bar-Hillel and Daphna Weinshall},
+			  booktitle={CVPR},
+			  year={2004}
+			}
+
+@inproceedings{Hyvnen2003WWW,
+			  title={Ontology-Based Image Retrieval},
+			  author={Eero Hyvönen and Samppa Saarela and Avril Styrman and Kim Viljanen},
+			  booktitle={WWW},
+			  year={2003}
+			}
+
+@inproceedings{Tuytelaars1999VISUAL,
+			  title={Content-Based Image Retrieval Based on Local Affinely Invariant Regions},
+			  author={Tinne Tuytelaars and Luc J. Van Gool},
+			  booktitle={VISUAL},
+			  year={1999}
+			}
+
+@inproceedings{Frome2007ICCV,
+			  title={Learning Globally-Consistent Local Distance Functions for Shape-Based Image Retrieval and Classification},
+			  author={Andrea Frome and Yoram Singer and Fei Sha and Jitendra Malik},
+			  booktitle={ICCV},
+			  year={2007}
+			}
+
+@inproceedings{Bay2006ECCV,
+			  title={SURF: Speeded Up Robust Features},
+			  author={Herbert Bay and Tinne Tuytelaars and Luc J. Van Gool},
+			  booktitle={ECCV},
+			  year={2006}
+			}
+
+@inproceedings{Hoi2008CVPR,
+			  title={Semi-supervised distance metric learning for Collaborative Image Retrieval},
+			  author={Steven C. H. Hoi and Wei Liu and Shih-Fu Chang},
+			  booktitle={CVPR},
+			  year={2008}
+			}
+
+@article{Tian2001JElectronicImaging,
+			  title={Image retrieval using wavelet-based salient points},
+			  author={Qi Tian and Nicu Sebe and Michael S. Lew and Etienne Loupias and Thomas S. Huang},
+			  journal={J. Electronic Imaging},
+			  year={2001},
+			  volume={10},
+			  pages={835-849}
+			}
+
+@article{Chang2003IEEETransCircuitsSystVideoTechn,
+			  title={CBSA: content-based soft annotation for multimodal image retrieval using Bayes point machines},
+			  author={Edward Y. Chang and Kingshy Goh and Gerard Sychay and Gang Wu},
+			  journal={IEEE Trans. Circuits Syst. Video Techn.},
+			  year={2003},
+			  volume={13},
+			  pages={26-38}
+			}
+
+@inproceedings{Lu2000MM,
+			  title={A unified framework for semantics and feature based relevance feedback in image retrieval systems},
+			  author={Ye Lu and Chunhui Hu and Xingquan Zhu and HongJiang Zhang and Qiang Yang},
+			  booktitle={MM},
+ 			  year={2000}
+			}
+
+@inproceedings{Sattler2012BMVC,
+			  title={Image Retrieval for Image-Based Localization Revisited},
+			  author={Torsten Sattler and Tobias Weyand and Bastian Leibe and Leif Kobbelt},
+			  booktitle={BMVC},
+			  year={2012}
+			}
+
+@inproceedings{Krizhevsky2011ESANN,
+			  title={Using very deep autoencoders for content-based image retrieval},
+			  author={Alex Krizhevsky and Geoffrey E. Hinton},
+			  booktitle={ESANN},
+			  year={2011}
+			}
+
+@inproceedings{Metzler2004CIVR,
+			  title={An Inference Network Approach to Image Retrieval},
+			  author={Donald Metzler and R. Manmatha},
+			  booktitle={CIVR},
+			  year={2004}
+			}
+
+@inproceedings{Deselaers2004DAGM,
+			  title={Features for Image Retrieval: A Quantitative Comparison},
+ 			  author={Thomas Deselaers and Daniel Keysers and Hermann Ney},
+			  booktitle={DAGM},
+			  year={2004}
+			}
+
+@inproceedings{Huang1997CVPR,
+			  title={Image Indexing Using Color Correlograms},
+			  author={Jing Huang and Ravi Kumar and Mandar Mitra and Wei-Jing Zhu and Ramin Zabih},
+			  booktitle={CVPR},
+			  year={1997}
+			}
+
+@inproceedings{Puzicha1999ICCV,
+			  title={Empirical Evaluation of Dissimilarity Measures for Color and Texture},
+			  author={Jan Puzicha and Yossi Rubner and Carlo Tomasi and Joachim M. Buhmann},
+			  booktitle={ICCV},
+			  year={1999}
+			}
+
