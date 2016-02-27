@@ -2,6 +2,7 @@ package edu.nju.paperCiteAnalysis.invertedIndex;
 
 import edu.nju.classifier.common.InvertedIndexDBConstant;
 import edu.nju.classifier.common.PropertyConstant;
+import edu.nju.classifier.hbaseUtil.HBaseDAO;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.TableName;
 import org.apache.hadoop.hbase.client.*;

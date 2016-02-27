@@ -41,15 +41,15 @@ public class Main {
         scan.setCacheBlocks(false);  // don't set to true for MR jobs
 
         try {
-            Connection connection = ConnectionFactory.createConnection(config);
+            Connection connection = ConnectionFactory.createConnection(new Configuration());
             Admin admin = connection.getAdmin();
             if (!admin.tableExists(TableName.valueOf(args[1]))) {
                 ArrayList<String> columFamilies = new ArrayList<>();
                 columFamilies.add(InvertedIndexDBConstant.COLUMN_FAMILY);
-                HBaseDAO.createTable(PropertyConstant.TABLENAME, columFamilies);
+                HBaseDAO.createTable(args[1], columFamilies);
             }
         } catch (Exception e) {
-            System.out.println("Error: while set up database configuration " + e);
+            System.err.println("Error: while set up database configuration " + e);
             System.exit(-1);
         }
 
