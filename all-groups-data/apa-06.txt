@@ -1,0 +1,398 @@
+Brin, S., & Page, L.. (1998). Reprint of: The anatomy of a large-scale hypertextual web search engine. Computer Networks, 56, 3825-3833.
+
+Santini, S.. (2006). Video Search. MM.
+
+Liang, Z., Liu, Y., & Zhu, S.. (2013). Transductive multi-distance learning for video search. Pattern Anal. Appl., 16, 117-124.
+
+Bertini, M., Bimbo, A.D., Ferracani, A., & Pezzatini, D.. (2011). Interactive video search and browsing systems. CBMI.
+
+Chen, G., Guo, J., & Yang, P.. (2009). Pavideoge: A Metadata Markup Video Structure in Video Search Engine.
+
+Kollar, T., Roy, N., Roy, D., Shaw, G., & Tellex, S.. (2010). Grounding spatial language for video search. ICMI.
+
+Liu, N., Wei, S., Zhao, Y., & Zhu, Z.. (2010). Multimodal Fusion for Video Search Reranking. IEEE Trans. Knowl. Data Eng., 22, 1191-1199.
+
+Chang, S., & Zavesky, E.. (2008). Columbia University's semantic video search engine 2008. CIVR.
+
+Andritsopoulos, F., Papastefanos, S., & Stassinopoulos, G.I.. (2008). Fast video search using scene durations. MM.
+
+Halvey, M., & Keane, M.T.. (2007). Analysis of online video search and sharing. HT.
+
+Natsev, A., Tesic, J., & Xie, L.. (2007). Dynamic Multimodal Fusion in Video Search. ICMCS.
+
+Li, S., Mei, T., Ngo, C., & Yao, T.. (2013). Annotation for free: video tagging by mining user search behavior. MM.
+
+Hua, X., Huang, Y., Liu, J., Lai, W., & Li, S.. (2007). Video search re-ranking via multi-graph propagation. MM.
+
+Christel, M.G., & Yan, R.. (2007). Merging storyboard strategies and automatic retrieval for improving interactive video search. CIVR.
+
+Hua, X., Li, M., Mei, T., Yang, B., Yang, L., & Yang, S.. (2007). Online video recommendation based on multimodal fusion and relevance feedback. CIVR.
+
+Boiman, O., & Irani, M.. (2005). Detecting Irregularities in Images and in Video. ICCV.
+
+Duan, L., Ranganath, S., Tian, Q., Xu, C., & Yuan, J.. (2004). Fast and Robust Short Video Clip Search for Copy Detection. PCM.
+
+Sack, H., & Waitelonis, J.. (2009). Augmenting Video Search with Linked Open Data. i-semantics.
+
+Gurrin, C., Johansen, D., & Smeaton, A.F.. (2006). Supporting Relevance Feedback in Video Search. ECIR.
+
+Ghosh, J., Grauman, K., & Lee, Y.J.. (2012). Discovering important people and objects for egocentric video summarization. CVPR.
+
+Ahn, Y., Cha, M., Kwak, H., Moon, S.B., & Rodriguez, P.. (2009). Analyzing the video popularity characteristics of large-scale user generated content systems. IEEE/ACM Trans. Netw., 17, 1357-1370.
+
+Moffat, A., & Zobel, J.. (2006). Inverted files for text search engines. ACM Comput. Surv., 38.
+
+Aguiar, E.D., Ahmed, N., Stoll, C., Seidel, H., Theobalt, C., & Thrun, S.. (2008). Performance capture from sparse multi-view video. ACM Trans. Graph., 27.
+
+Chang, S., Chen, W., Meng, H.J., Sundaram, H., & Zhong, D.. (1998). A fully automated content-based video search engine supporting spatiotemporal queries. IEEE Trans. Circuits Syst. Video Techn., 8, 602-615.
+
+Cheng, X., Dale, C., & Liu, J.. (2008). Statistics and Social Network of YouTube Videos. IWQOS.
+
+Grauman, K., & Lu, Z.. (2013). Story-Driven Summarization for Egocentric Video. CVPR.
+
+Snoek, C., Smeulders, A.W., & Worring, M.. (2005). Early versus late fusion in semantic video analysis. MM.
+
+Chang, S., Ellis, D.P., Jiang, Y., Loui, A.C., & Ye, G.. (2011). Consumer video understanding: a benchmark database and an evaluation of human and machine performance. MIR.
+
+Kang, S.B., Szeliski, R., Uyttendaele, M., Winder, S.A., & Zitnick, C.L.. (2004). High-quality video view interpolation using a layered representation. ACM Trans. Graph., 23, 600-608.
+
+Christel, M.G., & Hauptmann, A.G.. (2004). Successful approaches in the TREC video retrieval evaluations. MM.
+
+Hua, X., Liu, J., & Li, S.. (2007). Object-Sensitive Query Analysis for Video Search. MMSP.
+
+Irani, M., & Shechtman, E.. (2007). Matching Local Self-Similarities across Images and Videos. CVPR.
+
+Delp, E.J., & Li, Z.. (2005). Wyner-Ziv video side estimator: conventional motion search methods revisited. ICIP.
+
+Andrès, F., Dessaigne, N., Ono, K., & Satoh, S.. (2000). Toward the MEdiaSys VIdeo Search Engine (MEVISE). VDB.
+
+Laptev, I., Marszalek, M., Rozenfeld, B., & Schmid, C.. (2008). Learning realistic human actions from movies. CVPR.
+
+Li, Y., Sun, J., & Shum, H.. (2005). Video object cut and paste. ACM Trans. Graph., 24, 595-600.
+
+Irani, M., Shechtman, E., & Wexler, Y.. (2004). Space-Time Video Completion. CVPR.
+
+Kim, Y., Kim, J., & Yu, H.. (2014). GeoTree: Using spatial information for georeferenced video search. Knowl.-Based Syst., 61, 1-12.
+
+Li, L., & Li, J.. (2011). MQSS: multimodal query suggestion and searching for video search. Multimedia Tools Appl., 54, 55-68.
+
+Nakamura, S., & Tanaka, K.. (2009). Video Search by Impression Extracted from Social Annotation. WISE.
+
+Li, L., & Li, J.. (2009). Multimodal Query Suggestion and Searching for Video Search. DEXAW.
+
+Wan, K.. (2008). Exploiting story-level context to improve video search. ICMCS.
+
+Aref, W.G., Elmagarmid, A.K., Fan, J., Wu, L., & Zhu, X.. (2004). ClassView: hierarchical video shot classification, indexing, and accessing. IEEE Transactions on Multimedia, 6, 70-86.
+
+Chang, S., & Kennedy, L.S.. (2007). A reranking approach for context-based concept fusion in video indexing and retrieval. CIVR.
+
+Chen, J., Dobkin, D.P., Funkhouser, T.A., Halderman, J.A., Jacobs, D.P., Kazhdan, M.M., & Min, P.. (2003). A search engine for 3D models. ACM Trans. Graph., 22, 83-105.
+
+Fei-Fei, L., Niebles, J.C., & Wang, H.. (2006). Unsupervised Learning of Human Action Categories Using Spatial-Temporal Words. BMVC.
+
+Liu, W., Li, J., Li, S., Mei, T., & Zhang, Y.. (2013). Listen, look, and gotcha: instant video search with mobile phones by layered audio-video indexing. MM.
+
+Jiang, Y., Ngo, C., & Wei, X.. (2008). Selection of Concept Detectors for Video Search by Ontology-Enriched Semantic Spaces. IEEE Transactions on Multimedia, 10, 1085-1096.
+
+Sand, P., & Teller, S.J.. (2004). Video matching. ACM Trans. Graph., 23, 592-599.
+
+Rooij, O.D., Snoek, C.G., & Worring, M.. (2007). MediaMill: semantic video search using the RotorBrowser. CIVR.
+
+Gemert, J.C., Geusebroek, J., Koelma, D., Nguyen, G.P., Rooij, O.D., Snoek, C., Seinstra, F.J., & Worring, M.. (2005). MediaMill: exploring news video archives based on learned semantics. MM.
+
+Ahlström, D., Bailer, W., Bai, H., Cobârzan, C., Fabro, M.D., Frisson, C., Gurrin, C., Hopfgartner, F., Le, D., McGuinness, K., Schoeffmann, K., & Weiss, W.. (2014). The Video Browser Showdown: a live evaluation of interactive video search tools. IJMIR, 3, 113-127.
+
+Halvorsen, P., Johansen, D., Kupka, T., Olstad, B., & Tennøe, S.. (2010). vESP: enriching enterprise document search results with aligned video summarization. MM.
+
+Klein, G., & Murray, D.W.. (2007). Parallel Tracking and Mapping for Small AR Workspaces. ISMAR.
+
+Lu, H., Ooi, B.C., Shen, H.T., & Xue, X.. (2006). Hierarchical Indexing Structure for Efficient Similarity Search in Video Retrieval. IEEE Trans. Knowl. Data Eng., 18, 1544-1559.
+
+Chua, T., Hong, R., Li, G., Wang, M., Yan, S., & Zha, Z.. (2012). Event Driven Web Video Summarization by Tag Localization and Key-Shot Identification. IEEE Transactions on Multimedia, 14, 975-985.
+
+Bobick, A.F., Essa, I.A., Kwatra, V., Sch?dl, A., & Turk, G.. (2003). Graphcut textures: image and video synthesis using graph cuts. ACM Trans. Graph., 22, 277-286.
+
+Azuma, S., Mikami, D., Morimoto, M., & Nagata, H.. (2006). Videopot: Indexing-Based Desktop Video Search System. ICMCS.
+
+Everingham, M., Sivic, J., & Zisserman, A.. (2006). Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video. BMVC.
+
+Gong, Y., Huang, T.S., Lv, F., Wang, J., Yang, J., & Yu, K.. (2010). Locality-constrained Linear Coding for image classification. CVPR.
+
+Hindle, A., Lin, D., Lu, J., Shao, J., & Zhang, R.. (2011). Clustering Web video search results based on integration of multiple features. World Wide Web, 14, 53-73.
+
+Aggarwal, J.K., & Ryoo, M.S.. (2009). Spatio-temporal relationship match: Video structure comparison for recognition of complex human activities. ICCV.
+
+Hsu, W.H., & Yang, Y.. (2008). Video search reranking via online ordinal reranking. ICMCS.
+
+Corso, J.J., Xu, C., & Xiong, C.. (2012). Streaming Hierarchical Video Segmentation. ECCV.
+
+Cheung, V., Frey, B.J., & Jojic, N.. (2005). Video Epitomes. CVPR.
+
+Carranza, J., Magnor, M.A., Seidel, H., & Theobalt, C.. (2003). Free-viewpoint video of human actors. ACM Trans. Graph., 22, 569-577.
+
+Pritch, Y., Peleg, S., & Rav-Acha, A.. (2008). Nonchronological Video Synopsis and Indexing. IEEE Trans. Pattern Anal. Mach. Intell., 30, 1971-1984.
+
+Fei-Fei, L., Karpathy, A., Leung, T., Shetty, S., Sukthankar, R., & Toderici, G.. (2014). Large-Scale Video Classification with Convolutional Neural Networks. CVPR.
+
+Feng, Y., Halvey, M., Hannah, D., Jose, J.M., & Vallet, D.. (2010). An asynchronous collaborative search system for online video search. Inf. Process. Manage., 46, 733-748.
+
+McDonald, K., & Smeaton, A.F.. (2005). A Comparison of Score, Rank and Probability-Based Fusion Methods for Video Shot Retrieval. CIVR.
+
+Buisson, O., Boujemaa, N., Chen, L., Gouet-Brunet, V., Joly, A., Law-To, J., Laptev, I., & Stentiford, F.. (2007). Video copy detection: a comparative study. CIVR.
+
+Chen, G., Guo, J., & Yang, P.. (2009). Pavideoge: A New Video Processing Method in Video Search Engine. CoRR, abs/0909.2496.
+
+Hanjalic, A., Kofler, C., Larson, M., Li, S., Mei, T., & Yang, L.. (2014). Predicting Failing Queries in Video Search. IEEE Transactions on Multimedia, 16, 1973-1985.
+
+Chia, L., Lim, J., Tan, A., & Wan, K.. (2012). Topic Based Query Suggestions for Video Search. MMM.
+
+Aly, R., Chen, S., Jong, F.D., McGuinness, K., & OConnor, N.E.. (2012). The AXES-lite video search engine. WIAMIS.
+
+Irani, M., Shechtman, E., & Wexler, Y.. (2007). Space-Time Completion of Video. IEEE Trans. Pattern Anal. Mach. Intell., 29, 463-476.
+
+Goyal, A., Halvey, M., Jose, J.M., & Villa, R.. (2010). Promoting temporal diversity in video search results. RIAO.
+
+Hakeem, A., Haering, N., Javed, O., & Lee, M.W.. (2009). Semantic video search using natural language queries. MM.
+
+Marpe, D., Schwarz, H., & Wiegand, T.. (2007). Overview of the Scalable Video Coding Extension of the H.264/AVC Standard. IEEE Trans. Circuits Syst. Video Techn., 17, 1103-1120.
+
+Ay, S.A., Kim, S.H., & Zimmermann, R.. (2008). Viewable scene modeling for geospatial video search. MM.
+
+Hua, X., Liu, Y., Mei, T., Qi, G., & Wu, X.. (2008). Query-independent learning for video search. ICMCS.
+
+Chang, S., & Smith, J.R.. (1997). Visually Searching the Web for Content. IEEE MultiMedia, 4, 12-20.
+
+Christel, M.G.. (2008). Supporting video library exploratory search: when storyboards are not enough. CIVR.
+
+Baluja, S., & Jing, Y.. (2008). VisualRank: Applying PageRank to Large-Scale Image Search. IEEE Trans. Pattern Anal. Mach. Intell., 30, 1877-1890.
+
+Chua, T., Luan, H., Lin, S., Neo, S., Zheng, Y., & Zhang, Y.. (2008). Adaptive multiple feedback strategies for interactive video search. CIVR.
+
+Bach, F.R., Duchenne, O., Laptev, I., Ponce, J., & Sivic, J.. (2009). Automatic annotation of human actions in video. ICCV.
+
+Campbell, M., Haubold, A., Liu, M., Natsev, A., Smith, J.R., Tesic, J., Xie, L., Yang, J., & Yan, R.. (2007). IBM Research TRECVID-2007 Video Retrieval System. TRECVID.
+
+Amir, A., Ponceleon, D.B., Petkovic, D., & Srinivasan, S.. (1999). "What is in that Video Anyway?" In Search of Better Browsing. ICMCS.
+
+Simonyan, K., & Zisserman, A.. (2014). Two-Stream Convolutional Networks for Action Recognition in Videos. NIPS.
+
+Gionis, A., Indyk, P., & Motwani, R.. (1999). Similarity Search in High Dimensions via Hashing. VLDB.
+
+Klaue, J., Rathke, B., & Wolisz, A.. (2003). EvalVid - A Framework for Video Transmission and Quality Evaluation. CPE.
+
+Cipolla, R., & Kim, T.. (2009). Canonical Correlation Analysis of Video Volume Tensors for Action Categorization and Detection. IEEE Trans. Pattern Anal. Mach. Intell., 31, 1415-1428.
+
+Kanade, T., Smith, M.A., Stevens, S.M., & Wactlar, H.D.. (1996). Intelligent Access to Digital Video: Informedia Project. IEEE Computer, 29, 46-52.
+
+Feng, D.D., Jin, J.S., & Wang, H.C.. (2000). Cataloging and Search Engine for Video Library. VIP.
+
+Adcock, J., Cooper, M.L., & Pickens, J.. (2008). Experiments in interactive video search by addition and subtraction. CIVR.
+
+Gurrin, C., Griwodz, C., Hurley, J., Halvorsen, P., Johansen, D., Johansen, H.D., Kupka, T., Kvalnes, Å., Olstad, B., & Riiser, H.. (2012). Search-based composition, streaming and playback of video archive content. Multimedia Tools Appl., 61, 419-445.
+
+Blaschko, M.B., Hofmann, T., & Lampert, C.H.. (2008). Beyond sliding windows: Object localization by efficient subwindow search. CVPR.
+
+Agarwala, A., Agrawala, M., Cohen, M.F., Curless, B., Pal, C., Salesin, D., Szeliski, R., & Zheng, K.C.. (2005). Panoramic video textures. ACM Trans. Graph., 24, 821-827.
+
+Hua, X., Lai, W., & Ma, W.. (2006). Towards content-based relevance ranking for video search. MM.
+
+Ngo, C., & Wei, X.. (2008). Fusing semantics, observability, reliability and diversity of concept detectors for video search. MM.
+
+Bjntegaard, G., Luthra, A., Sullivan, G.J., & Wiegand, T.. (2003). Overview of the H.264/AVC video coding standard. IEEE Trans. Circuits Syst. Video Techn., 13, 560-576.
+
+Kobayashi, A., Nishi, Y., & Yamaguchi, S.. (2014). Video search in video sharing site based on public video lists. ICUIMC.
+
+Itti, L.. (2004). Automatic foveation for video compression using a neurobiological model of visual attention. IEEE Transactions on Image Processing, 13, 1304-1318.
+
+Buisson, O., Frélicot, C., & Joly, A.. (2005). Statistical similarity search applied to content-based video copy detection. BDA.
+
+Chua, T., Wang, M., Yuan, J., Zha, Z., Zheng, Y., & Zhou, X.. (2011). Learning concept bundles for video search with complex queries. MM.
+
+Luo, Y., & Tang, X.. (2008). Photo and Video Quality Evaluation: Focusing on the Subject. ECCV.
+
+Ma, Y., Ngo, C., & Zhang, H.. (2005). Video summarization and scene detection by graph modeling. IEEE Trans. Circuits Syst. Video Techn., 15, 296-305.
+
+Shen, H.T., Zhou, X., & Zhou, X.. (2007). Efficient Similarity Search by Summarization in Large Video Database. ADC.
+
+Chen, H., Gou, L., Giles, C.L., Kim, J., & Zhang, X.. (2010). SNDocRank: a social network-based video search ranking framework. MIR.
+
+Bai, X., Simons, D., Sapiro, G., & Wang, J.. (2009). Video SnapCut: robust video object cutout using localized classifiers. ACM Trans. Graph., 28.
+
+Jiang, Y., Ngo, C., Tan, H., Wei, X., Wang, F., Wu, X., & Zhao, W.. (2007). Experimenting VIREO-374: Bag-of-Visual-Words and Visual-Based Ontology for Semantic Video Indexing and search. TRECVID.
+
+Sivic, J., & Zisserman, A.. (2003). Video Google: A Text Retrieval Approach to Object Matching in Videos. ICCV.
+
+Garrote, E., Jhuang, H., Kuehne, H., Poggio, T.A., & Serre, T.. (2011). HMDB: A large video database for human motion recognition. ICCV.
+
+Douze, M., Jégou, H., & Schmid, C.. (2011). Product Quantization for Nearest Neighbor Search. IEEE Trans. Pattern Anal. Mach. Intell., 33, 117-128.
+
+Ahn, Y., Cha, M., Kwak, H., Moon, S.B., & Rodriguez, P.. (2007). I tube, you tube, everybody tubes: analyzing the world's largest user generated content video system. IMC.
+
+Rui, Y., Tian, X., & Tao, D.. (2012). Sparse Transfer Learning for Interactive Video Search Reranking. CoRR, abs/1103.2756.
+
+Snoek, C.G., & Worring, M.. (2009). Concept-Based Video Retrieval. Foundations and Trends in Information Retrieval, 2, 215-322.
+
+Hopfgartner, F., & Schoeffmann, K.. (2015). Interactive Video Search. MM.
+
+Davis, L.S., Gupta, A., Srinivasan, P., & Shi, J.. (2009). Understanding videos, constructing plots learning a visually grounded storyline model from annotated videos. CVPR.
+
+Smith, J.R.. (2008). Unleashing Video Search. WIAMIS.
+
+Sarukkai, R.. (2005). Video search: opportunities & challenges. MIR.
+
+Chang, S., Chen, W., Meng, H.J., Sundaram, H., & Zhong, D.. (1997). VideoQ: An Automated Content Based Video Search System Using Visual Cues. MM.
+
+Hauptmann, A.G., & Papernick, N.. (2002). Video-cuebik: adapting image search to video shots. JCDL.
+
+Duan, L., Tian, Q., Xu, C., & Yuan, J.. (2004). Fast and robust short video clip search using an index structure. MIR.
+
+Li, X., Li, J., Wang, D., & Zhang, B.. (2007). Video search in concept subspace: a text-like paradigm. CIVR.
+
+Chang, S., Jiang, Y., & Ngo, C.. (2009). Semantic context transfer across heterogeneous sources for domain adaptive video search. MM.
+
+Adcock, J., Cooper, M.L., Girgensohn, A., & Wilcox, L.. (2005). Interactive Video Search Using Multilevel Indexing. CIVR.
+
+Ma, K., & Zhu, S.. (2000). A new diamond search algorithm for fast block-matching motion estimation. IEEE Transactions on Image Processing, 9, 287-290.
+
+Ferrari, V., Marín-Jiménez, M.J., & Zisserman, A.. (2008). Progressive search space reduction for human pose estimation. CVPR.
+
+Snoek, C.G., & Worring, M.. (2007). Are Concept Detector Lexicons Effective for Video Search?. ICMCS.
+
+Gao, L., Khemmarat, S., & Zhou, R.. (2010). The impact of YouTube recommendation system on video views. IMC.
+
+Chang, S., & Smith, J.R.. (1997). Image and Video Search Engine for the World Wide Web. spieSR.
+
+Sivic, J., & Zisserman, A.. (2006). Video Google: Efficient Visual Search of Videos. CLOR.
+
+Agius, H.W., & Money, A.G.. (2008). Video summarisation: A conceptual framework and survey of the state of the art. J. Visual Communication and Image Representation, 19, 121-143.
+
+Ngo, C., & Wei, X.. (2007). Ontology-enriched semantic space for video search. MM.
+
+Rooij, O.D., Snoek, C.G., & Worring, M.. (2008). Balancing thread based navigation for targeted video search. CIVR.
+
+Kashino, K., Kurozumi, T., & Murase, H.. (2003). A quick search method for audio and video signals based on histogram pruning. IEEE Transactions on Multimedia, 5, 348-357.
+
+Douze, M., Jegou, H., & Schmid, C.. (2008). Hamming Embedding and Weak Geometric Consistency for Large Scale Image Search. ECCV.
+
+Snoek, Cees G. M.. “The mediamill search engine video.” MM (2010).
+
+Setz, A.T., & Snoek, C.G.. (2009). Can social tagged images aid concept-based video search?. ICMCS.
+
+Adcock, J., Cooper, M., & Chen, F.. (2007). FXPAL MediaMagic Video Search System.
+
+Doyle, J.P., Luczak, E.C., & Shalvi, D.. (2012). NLM video search. JCDL.
+
+Adcock, J., Cooper, M.L., & Chen, F.. (2007). MediaMagic video search system. CIVR.
+
+Koelma, D., Snoek, C.G., Smeulders, A.W., & Worring, M.. (2007). A Learned Lexicon-Driven Paradigm for Interactive Video Retrieval. IEEE Transactions on Multimedia, 9, 280-292.
+
+Everts, I., Gemert, J.C., Geusebroek, J., Huurnink, B., Koelma, D., Liempt, M.V., Rooij, O.D., Smeulders, A.W., Sande, K.E., Snoek, C.G., Uijlings, J.R., & Worring, M.. (2007). The MediaMill TRECVID 2007 Semantic Video Search Engine. TRECVID.
+
+Shi, J., Visontai, M., & Zhong, H.. (2004). Detecting Unusual Activity in Video. CVPR.
+
+Nguyen, G.P., Rooij, O.D., Snoek, C.G., Smeulders, A.W., & Worring, M.. (2007). The Mediamill Semantic Video Search Engine. ICASSP.
+
+Gibbon, D.C., & Liu, Z.. (2008). Introduction to video search engines. DAGLIB.
+
+Clarity, V.. (2014). Clearview Av Analyzers System Guide.
+
+Hopfgartner, F., Halvey, M., Jose, J.M., & Vallet, D.. (2008). Search trails using user feedback to improve video search. MM.
+
+Koelma, D., Snoek, C., Smeulders, A.W., & Worring, M.. (2006). Learned Lexicon-Driven Interactive Video Retrieval. CIVR.
+
+Huurnink, B., Hollink, L., Rijke, M.D., Snoek, C.G., Schreiber, G., & Worring, M.. (2007). Adding Semantics to Detectors for Video Retrieval. IEEE Transactions on Multimedia, 9, 975-986.
+
+Cui, B., Huang, Z., Shen, H.T., Shao, J., & Zhou, X.. (2009). Bounded coordinate system indexing for real-time video clip search. ACM Trans. Inf. Syst., 27.
+
+Sack, H., & Waitelonis, J.. (2010). Exploratory Semantic Video Search with yovisto. SEMCO.
+
+Dumont, E., & Mérialdo, B.. (2007). Video Search Using a Visual Dictionary. CBMI.
+
+Hauptmann, A.G., Ngo, C., & Wu, X.. (2007). Practical elimination of near-duplicates from web video search. MM.
+
+Liu, Z., Wu, Y., & Yuan, J.. (2009). Discriminative subvolume search for efficient action detection. CVPR.
+
+Snoek, C.G., & Smeulders, A.W.. (2011). Internet video search. MM.
+
+Hua, X., Tian, X., Wang, J., Wu, X., Yang, L., & Yang, Y.. (2008). Bayesian video search reranking. MM.
+
+Essa, I.A., Schödl, A., Szeliski, R., & Salesin, D.. (2000). Video textures. SIGGRAPH.
+
+Wang, X., Zhang, C., & Zhang, Z.. (2009). Boosted multi-task learning for face verification with applications to web image and video search. CVPR.
+
+Sivic, J., & Zisserman, A.. (2009). Efficient Visual Search of Videos Cast as Text Retrieval. IEEE Trans. Pattern Anal. Mach. Intell., 31, 591-606.
+
+Chang, S., Ma, W., & Smeulders, A.W.. (2007). Recent Advances and Challenges of Semantic Image/Video Search. ICASSP.
+
+Han, W., Ohm, J., Sullivan, G.J., & Wiegand, T.. (2012). Overview of the High Efficiency Video Coding (HEVC) Standard. IEEE Trans. Circuits Syst. Video Techn., 22, 1649-1668.
+
+Fidler, S., Kong, C., Lin, D., & Urtasun, R.. (2014). Visual Semantic Search: Retrieving Videos via Complex Textual Queries. CVPR.
+
+Hua, X., Moxley, E., Mei, T., Ma, W., & Manjunath, B.S.. (2008). Automatic video annotation through search and mining. ICMCS.
+
+Chang, S., Hsu, W.H., & Kennedy, L.S.. (2006). Video search reranking via information bottleneck principle. MM.
+
+Pastra, K., & Piperidis, S.. (2006). Video Search: New Challenges in the Pervasive Digital Video Era. JVRB, 3.
+
+Hauptmann, A.G., Ngo, C., Tan, H., & Wu, X.. (2009). Real-Time Near-Duplicate Elimination for Web Video Search With Content and Context. IEEE Transactions on Multimedia, 11, 196-207.
+
+Shah, M., & Zhai, Y.. (2006). Visual attention detection in video sequences using spatiotemporal cues. MM.
+
+Ngo, C., Wu, X., & Zhao, W.. (2010). On the Annotation of Web Videos by Efficient Near-Duplicate Search. IEEE Transactions on Multimedia, 12, 448-461.
+
+Avidan, S., Rubinstein, M., & Shamir, A.. (2008). Improved seam carving for video retargeting. ACM Trans. Graph., 27.
+
+Ay, S.A., Kim, S.H., Ma, H., Zhang, L., & Zimmermann, R.. (2009). GRVS: a georeferenced video search engine. MM.
+
+Sack, H., & Waitelonis, J.. (2009). Towards Exploratory Video Search Using Linked Data. ISM.
+
+Almeida, J.M., Benevenuto, F., & Figueiredo, F.. (2011). The tube over time: characterizing popularity growth of youtube videos. WSDM.
+
+Kraaij, W., Over, P., & Smeaton, A.F.. (2006). Evaluation campaigns and TRECVid. MIR.
+
+Cappallo, S., Mensink, T., & Snoek, C.G.. (2015). Query-by-Emoji Video Search. MM.
+
+Chang, S., Hsu, W.H., & Kennedy, L.S.. (2007). Video search reranking through random walk over document-level context graph. MM.
+
+Foley, C., Smeaton, A.F., & Wilkins, P.. (2009). DCU collaborative video search system. CIVR.
+
+Snavely, N., Seitz, S.M., & Szeliski, R.. (2006). Photo tourism: exploring photo collections in 3D. ACM Trans. Graph., 25, 835-846.
+
+Ranganath, S., Tian, Q., & Yuan, J.. (2004). Fast and Robust Search Method for Short Video Clips from Large Video Collection. ICPR.
+
+Chang, S., Kennedy, L.S., & Zavesky, E.. (2007). Columbia University's semantic video search engine. CIVR.
+
+Hanjalic, A., & Xu, L.. (2005). Affective video content representation and modeling. IEEE Transactions on Multimedia, 7, 143-154.
+
+Cheung, S.S., & Zakhor, A.. (2000). Efficient Video Similarity Measurement and Search. ICIP.
+
+Ay, S.A., Kim, S.H., & Zimmermann, R.. (2010). Relevance ranking in georeferenced video search. Multimedia Syst., 16, 105-125.
+
+Cheung, S.S., & Zakhor, A.. (2005). Fast similarity search and clustering of video sequences on the world-wide-web. IEEE Transactions on Multimedia, 7, 524-537.
+
+Essa, I.A., Grundmann, M., Han, M., & Kwatra, V.. (2010). Efficient hierarchical graph-based video segmentation. CVPR.
+
+Birmingham, W.P., Glover, E.J., Gordon, M.D., Giles, C.L., Lawrence, S., & Search, W.. (2001). Web Search -- Your Way: Improving Web searching with user preferences.
+
+Santini, S.. (2008). Video Search. MM.
+
+Deng, J., Dong, W., Fei-Fei, L., Li, L., Li, K., & Socher, R.. (2009). ImageNet: A large-scale hierarchical image database. CVPR.
+
+Feng, S., Lavrenko, V., & Manmatha, R.. (2004). Multiple Bernoulli Relevance Models for Image and Video Annotation. CVPR.
+
+Christel, M.G.. (2007). Establishing the utility of non-text search for news video retrieval with real world users. MM.
+
+Lehman, J., & Stanley, K.O.. (2011). Abandoning Objectives: Evolution Through the Search for Novelty Alone. Evolutionary Computation, 19, 189-223.
+
+Bouman, C.A., Chen, J., Delp, E.J., & Taskiran, C.M.. (1998). A Compressed Video Database Structured for Active Browsing and Search. ICIP.
+
+Corso, J.J., & Sadanand, S.. (2012). Action bank: A high-level representation of activity in video. CVPR.
+
+Chen, J., Kim, H., Kim, E.K., Lee, D., Lee, J., & Yan, S.. (2008). LeeDeo: Web-Crawled Academic Video Search Engine. ISM.
+
+Laptev, I., Marszalek, M., & Schmid, C.. (2009). Actions in context. CVPR.
+
+Grauman, K., & Kulis, B.. (2009). Kernelized locality-sensitive hashing for scalable image search. ICCV.
+
+Hanjalic, A., Kofler, C., & Larson, M.. (2014). Intent-Aware Video Search Result Optimization. IEEE Transactions on Multimedia, 16, 1421-1433.
+

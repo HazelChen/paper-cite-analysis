@@ -1,0 +1,400 @@
+Leggetter, C. J. and Philip C. Woodland. “Maximum likelihood linear regression for speaker adaptation of continuous density hidden Markov models.” Computer Speech & Language 9 (1995): 171-185.
+
+Joachims, Thorsten. “Training linear SVMs in linear time.” KDD (2006).
+
+Mateos, Gonzalo et al. “Distributed sparse linear regression.” IEEE Transactions on Signal Processing 58 (2010): 5262-5276.
+
+Naseem, Imran et al. “Linear Regression for Face Recognition.” IEEE Trans. Pattern Anal. Mach. Intell. 32 (2010): 2106-2112.
+
+Breiman, Leo. “Bagging Predictors.” Machine Learning 24 (1996): 123-140.
+
+Smola, Alexander J. and Bernhard Schölkopf. “A tutorial on support vector regression.” Statistics and Computing 14 (2004): 199-222.
+
+Cristianini, Nello and John Shawe-Taylor. “An Introduction to Support Vector Machines and Other Kernel-based Learning Methods.” DAGLIB (2001).
+
+Yang, Jianchao et al. “Linear spatial pyramid matching using sparse coding for image classification.” CVPR (2009).
+
+Larsson, Erik G. and Yngve Selén. “Linear Regression with a Sparse Parameter Vector.” ICASSP (2006).
+
+Han, Jiawei and Micheline Kamber. “Data Mining: Concepts and Techniques.” MK (2000).
+
+Leggetter, C. J. and Philip C. Woodland. “Maximum likelihood linear regression for speaker adaptation of continuous density hidden Markov models.” Computer Speech & Language 9 (1995): 171-185.
+
+Joachims, Thorsten. “Training linear SVMs in linear time.” KDD (2006).
+
+Mateos, Gonzalo et al. “Distributed sparse linear regression.” IEEE Transactions on Signal Processing 58 (2010): 5262-5276.
+
+Naseem, Imran et al. “Linear Regression for Face Recognition.” IEEE Trans. Pattern Anal. Mach. Intell. 32 (2010): 2106-2112.
+
+Breiman, Leo. “Bagging Predictors.” Machine Learning 24 (1996): 123-140.
+
+Smola, Alexander J. and Bernhard Schölkopf. “A tutorial on support vector regression.” Statistics and Computing 14 (2004): 199-222.
+
+Cristianini, Nello and John Shawe-Taylor. “An Introduction to Support Vector Machines and Other Kernel-based Learning Methods.” DAGLIB (2001).
+
+Yang, Jianchao et al. “Linear spatial pyramid matching using sparse coding for image classification.” CVPR (2009).
+
+Larsson, Erik G. and Yngve Selén. “Linear Regression with a Sparse Parameter Vector.” ICASSP (2006).
+
+Han, Jiawei and Micheline Kamber. “Data Mining: Concepts and Techniques.” MK (2000).
+
+Das, Abhimanyu and David Kempe. “Algorithms for subset selection in linear regression.” STOC (2008).
+
+Nair, Vinod and Geoffrey E. Hinton. “Rectified Linear Units Improve Restricted Boltzmann Machines.” ICML (2010).
+
+Bishop, Christopher M. and Nasser M. Nasrabadi. “Pattern Recognition and Machine Learning.” J. Electronic Imaging 16 (2007): 049901.
+
+Saunders, Craig et al. “Ridge Regression Learning Algorithm in Dual Variables.” ICML (1998).
+
+Cao, Xudong et al. “Face alignment by Explicit Shape Regression.” CVPR (2012).
+
+Takeda, Hiroyuki et al. “Kernel Regression for Image Processing and Reconstruction.” IEEE Transactions on Image Processing 16 (2007): 349-366.
+
+Du, Wenliang et al. “Privacy-Preserving Multivariate Statistical Analysis: Linear Regression and Classification.” SDM (2004).
+
+Walsh, Thomas J. et al. “Exploring compact reinforcement-learning representations with linear regression.” UAI (2009).
+
+Dobra, Alin and Johannes Gehrke. “SECRET: a scalable linear regression tree algorithm.” KDD (2002).
+
+Chen, Kuan-Ting et al. “Fast speaker adaptation using eigenspace-based maximum likelihood linear regression.” INTERSPEECH (2000).
+
+Wright, John et al. “Robust Face Recognition via Sparse Representation.” IEEE Trans. Pattern Anal. Mach. Intell. 31 (2009): 210-227.
+
+Chang, Chih-Chung and Chih-Jen Lin. “LIBSVM: A library for support vector machines.” ACM TIST 2 (2011): 27.
+
+Joseph, P. J. et al. “Construction and use of linear regression models for processor performance analysis.” HPCA (2006).
+
+Karalic, Aram. “Employing Linear Regression in Regression Tree Leaves.” ECAI (1992).
+
+Vovk, Volodya. “Competitive On-line Linear Regression.” NIPS (1997).
+
+Drucker, Harris et al. “Support Vector Regression Machines.” NIPS (1996).
+
+Meng, Xiangrui and Michael W. Mahoney. “Low-distortion subspace embeddings in input-sparsity time and applications to robust linear regression.” STOC (2013).
+
+Nguyen, Dong et al. “Author Age Prediction from Text using Linear Regression.”  (2011).
+
+Strehl, Alexander L. and Michael L. Littman. “Online Linear Regression and Its Application to Model-Based Reinforcement Learning.” NIPS (2007).
+
+Witten, Ian H. and Eibe Frank. “Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations.” MK (1999).
+
+Siohan, Olivier et al. “Structural maximum a posteriori linear regression for fast HMM adaptation.” Computer Speech & Language 16 (2002): 5-24.
+
+Bazrafshan, Marzieh et al. “Tuning as Linear Regression.” NAACL (2012).
+
+Recht, Benjamin et al. “Guaranteed Minimum-Rank Solutions of Linear Matrix Equations via Nuclear Norm Minimization.” SIAM Review 52 (2010): 471-501.
+
+Jin, Yuzhe and Bhaskar D. Rao. “Algorithms for robust linear regression by exploiting the connection to sparse signal recovery.” ICASSP (2010).
+
+Landwehr, Niels et al. “Logistic Model Trees.” ECML (2003).
+
+Raskutti, Garvesh et al. “Minimax rates of estimation for high-dimensional linear regression over $\ell_q$-balls.”  (2009).
+
+Dantone, Matthias et al. “Real-time facial feature detection using conditional regression forests.” CVPR (2012).
+
+Mangasarian, Olvi L. and David R. Musicant. “Robust Linear and Support Vector Regression.” IEEE Trans. Pattern Anal. Mach. Intell. 22 (2000): 950-955.
+
+Vijayakumar, Sethu and Stefan Schaal. “Locally Weighted Projection Regression : an O(n) Algorithm for Incremental Real Time Learning in High Dimensional Space.”  (2001).
+
+Candela, Joaquin Quiñonero and Carl Edward Rasmussen. “A Unifying View of Sparse Approximate Gaussian Process Regression.” Journal of Machine Learning Research 6 (2005): 1939-1959.
+
+Goel, Nagendra et al. “The Kaldi Speech Recognition Toolkit.”  (2013).
+
+Tappen, Marshall F. et al. “Estimating Intrinsic Component Images using Non-Linear Regression.” CVPR (2006).
+
+Guestrin, Carlos et al. “Distributed regression: an efficient framework for modeling sensor network data.” IPSN (2004).
+
+Meyer, Gilles et al. “Linear Regression under Fixed-Rank Constraints: A Riemannian Approach.” ICML (2011).
+
+Dollár, Piotr et al. “Cascaded pose regression.” CVPR (2010).
+
+Bastien, Philippe et al. “PLS generalised linear regression.” Computational Statistics & Data Analysis 48 (2005): 17-46.
+
+Neumann, László et al. “Gradient Estimation in Volume Data using 4D Linear Regression.” Comput. Graph. Forum 19 (2000): 351-358.
+
+Papineni, Kishore et al. “Bleu: a Method for Automatic Evaluation of Machine Translation.” ACL (2002).
+
+Vogel, David S. et al. “Scalable look-ahead linear regression trees.” KDD (2007).
+
+Huang, Xiaohong and Wei Pan. “Linear regression and two-class classification with gene expression data.” Bioinformatics 19 (2003): 2072-2078.
+
+Chu, Wei and Zoubin Ghahramani. “Gaussian Processes for Ordinal Regression.” Journal of Machine Learning Research 6 (2005): 1019-1041.
+
+Rahimi, Ali and Benjamin Recht. “Random Features for Large-Scale Kernel Machines.” NIPS (2007).
+
+Lin, Chih-Jen et al. “Trust region Newton methods for large-scale logistic regression.” ICML (2007).
+
+Agarwal, Ankur and Bill Triggs. “3D Human Pose from Silhouettes by Relevance Vector Regression.” CVPR (2004).
+
+Chu, Cheng-Tao et al. “Map-Reduce for Machine Learning on Multicore.” NIPS (2006).
+
+Kim, Jingu and Haesun Park. “Fast Active-set-type Algorithms for L1-regularized Linear Regression.” JMLR (2010).
+
+Hazan, Elad and Tomer Koren. “Linear Regression with Limited Observation.” ICML (2012).
+
+Hall, Mark A. et al. “The WEKA data mining software: an update.” SIGKDD Explorations 11 (2009): 10-18.
+
+Gunawardana, Asela and William Byrne. “Discriminative speaker adaptation with conditional maximum likelihood linear regression.” INTERSPEECH (2001).
+
+Lu, Feng et al. “Inferring human gaze from appearance via adaptive linear regression.” ICCV (2011).
+
+Lu, Zhaosong et al. “Convex optimization methods for dimension reduction and coefficient estimation in multivariate linear regression.” Math. Program. 131 (2012): 163-194.
+
+Blei, David M. and Jon D. McAuliffe. “Supervised Topic Models.” NIPS (2007).
+
+Ferrari-Trecate, Giancarlo and Marco Muselli. “A New Learning Method for Piecewise Linear Regression.” ICANN (2002).
+
+Xiong, Xuehan and Fernando De la Torre. “Supervised Descent Method and Its Applications to Face Alignment.” CVPR (2013).
+
+Hatzivassiloglou, Vasileios and Kathleen McKeown. “Predicting the Semantic Orientation of Adjectives.” ACL (1997).
+
+Koh, Kwangmoo et al. “An Interior-point Method for Large-scale 1 -regularized Logistic Regression.”  (2007).
+
+Gaffney, Scott and Padhraic Smyth. “Trajectory Clustering with Mixtures of Regression Models.” KDD (1999).
+
+Cristinacce, David and Timothy F. Cootes. “Boosted Regression Active Shape Models.” BMVC (2007).
+
+Gales, M. J. F.. “Maximum likelihood linear transformations for HMM-based speech recognition.” Computer Speech & Language 12 (1998): 75-98.
+
+He, Xiaodong and Wu Chou. “Minimum classification error linear regression for acoustic model adaptation of continuous density HMMs.” ICASSP (2003).
+
+Ren, Shaoqing et al. “Face Alignment at 3000 FPS via Regressing Local Binary Features.” CVPR (2014).
+
+Ye, Jieping. “Least squares linear discriminant analysis.” ICML (2007).
+
+Tipping, Michael E.. “Sparse Bayesian Learning and the Relevance Vector Machine.” Journal of Machine Learning Research 1 (2001): 211-244.
+
+Cai, Deng et al. “Spectral Regression for Efficient Regularized Subspace Learning.” ICCV (2007).
+
+Frénay, Benoît and Michel Verleysen. “Parameter-insensitive kernel in extreme learning for non-linear support vector regression.” Neurocomputing 74 (2011): 2526-2531.
+
+Agarwal, Ankur and Bill Triggs. “Recovering 3D Human Pose from Monocular Images.” IEEE Trans. Pattern Anal. Mach. Intell. 28 (2006): 44-58.
+
+Rosipal, Roman and Leonard J. Trejo. “Kernel Partial Least Squares Regression in Reproducing Kernel Hilbert Space.” Journal of Machine Learning Research 2 (2001): 97-123.
+
+Dempster, A P. et al. “Maximum Likelihood from Incomplete Data via the Em Algorithm Maximum Likelihood from Incomplete Data via the Em Algorithm.”  (2007).
+
+Krishnapuram, Balaji et al. “Sparse Multinomial Logistic Regression: Fast Algorithms and Generalization Bounds.” IEEE Trans. Pattern Anal. Mach. Intell. 27 (2005): 957-968.
+
+Mimno, David M. and Andrew McCallum. “Topic Models Conditioned on Arbitrary Features with Dirichlet-multinomial Regression.” UAI (2008).
+
+Zhou, Xiaobo et al. “Missing-value estimation using linear and non-linear regression with Bayesian gene selection.” Bioinformatics 19 (2003): 2302-2307.
+
+Clarkson, Kenneth L. et al. “The Fast Cauchy Transform and Faster Robust Linear Regression.” SODA (2013).
+
+Ho, Chia-Hua and Chih-Jen Lin. “Large-scale linear support vector regression.” Journal of Machine Learning Research 13 (2012): 3323-3348.
+
+Carreira, João and Cristian Sminchisescu. “Constrained parametric min-cuts for automatic object segmentation.” CVPR (2010).
+
+Chaganty, Arun Tejasvi and Percy Liang. “Spectral Experts for Estimating Mixtures of Linear Regressions.” ICML (2013).
+
+Vijayakumar, Sethu et al. “Incremental Online Learning in High Dimensions.” Neural Computation 17 (2005): 2602-2634.
+
+Chotimongkol, Ananlada and Alexander I. Rudnicky. “N-best speech hypotheses reordering using linear regression.” INTERSPEECH (2001).
+
+Rothermel, Gregg and Mary Jean Harrold. “A Safe, Efficient Regression Test Selection Technique.” ACM Trans. Softw. Eng. Methodol. 6 (1997): 173-210.
+
+Torgo, Luís and Joaquim Pinto da Costa. “Clustered Partial Linear Regression.” ECML (2000).
+
+Breiman, Leo. “Stacked Regressions.” Machine Learning 24 (1996): 49-64.
+
+Sarwar, Badrul M. et al. “Item-based collaborative filtering recommendation algorithms.” WWW (2001).
+
+Yang, Eunho et al. “Elementary Estimators for High-Dimensional Linear Regression.” ICML (2014).
+
+Maillard, Odalric-Ambrym and Rémi Munos. “Compressed Least-Squares Regression.” NIPS (2009).
+
+Cherkassky, Vladimir and Yunqian Ma. “Practical selection of SVM parameters and noise estimation for SVM regression.” Neural Networks 17 (2004): 113-126.
+
+Öztireli, A. Cengiz et al. “Feature Preserving Point Set Surfaces based on Non-Linear Kernel Regression.” Comput. Graph. Forum 28 (2009): 493-501.
+
+Goetschalckx, Robby et al. “Cost-Sensitive Parsimonious Linear Regression.” ICDM (2008).
+
+Whitehouse, Kamin and David E. Culler. “Calibration as parameter estimation in sensor networks.” MOBICOM (2002).
+
+Clarkson, Kenneth L. and David P. Woodruff. “Numerical linear algebra in the streaming model.” STOC (2009).
+
+Sugiyama, Masashi. “Active Learning in Approximately Linear Regression Based on Conditional Expectation of Generalization Error.” Journal of Machine Learning Research 7 (2006): 141-166.
+
+Ray, Soumya and David Page. “Multiple Instance Regression.” ICML (2001).
+
+Zhang, Jun et al. “Functional Mechanism: Regression Analysis under Differential Privacy.” CoRR abs/1208.0219 (2012): n. pag.
+
+Guyon, Isabelle and André Elisseeff. “An Introduction to Variable and Feature Selection.” Journal of Machine Learning Research 3 (2003): 1157-1182.
+
+Yi, Xinyang et al. “Alternating Minimization for Mixed Linear Regression.” ICML (2014).
+
+Chaudhuri, Kamalika and Claire Monteleoni. “Privacy-preserving logistic regression.” NIPS (2008).
+
+Tropp, Joel A.. “Just relax: convex programming methods for identifying sparse signals in noise.” IEEE Transactions on Information Theory 52 (2006): 1030-1051.
+
+Mangasarian, Olvi L. and David R. Musicant. “Large Scale Kernel Regression via Linear Programming.” Machine Learning 46 (2002): 255-269.
+
+Chien, Jen-Tzung. “Quasi-Bayes linear regression for sequential learning of hidden Markov models.” IEEE Transactions on Speech and Audio Processing 10 (2002): 268-278.
+
+Grefenstette, Edward et al. “Multi-Step Regression Learning for Compositional Distributional Semantics.” CoRR abs/1301.6939 (2013): n. pag.
+
+Vapnik, Vladimir et al. “Support Vector Method for Function Approximation, Regression Estimation and Signal Processing.” NIPS (1996).
+
+Chu, Wei and S. Sathiya Keerthi. “New approaches to support vector ordinal regression.” ICML (2005).
+
+Collobert, Ronan and Samy Bengio. “SVMTorch: Support Vector Machines for Large-Scale Regression Problems.” Journal of Machine Learning Research 1 (2001): 143-160.
+
+Schmidt, Daniel Francis and Enes Makalic. “MML Invariant Linear Regression.” AUSAI (2009).
+
+Williams, Christopher K. I. and Carl Edward Rasmussen. “Gaussian Processes for Regression.” NIPS (1995).
+
+Oliva, Aude and Antonio Torralba. “Modeling the Shape of the Scene: A Holistic Representation of the Spatial Envelope.” International Journal of Computer Vision 42 (2001): 145-175.
+
+Rockafellar, R. Tyrrell et al. “Risk Tuning with Generalized Linear Regression.” Math. Oper. Res. 33 (2008): 712-729.
+
+Tropp, Joel A. and Stephen J. Wright. “Computational Methods for Sparse Solution of Linear Inverse Problems.” Proceedings of the IEEE 98 (2010): 948-958.
+
+Kaban, Ata. “New Bounds on Compressive Linear Least Squares Regression.” AISTATS (2014).
+
+Collins, Michael et al. “Logistic Regression, AdaBoost and Bregman Distances.” COLT (2000).
+
+Sarlós, Tamás. “Improved Approximation Algorithms for Large Matrices via Random Projections.” FOCS (2006).
+
+Lee, Benjamin C. and David M. Brooks. “Accurate and efficient regression modeling for microarchitectural performance and power prediction.” ASPLOS (2006).
+
+Hannah, Lauren et al. “Dirichlet Process Mixtures of Generalized Linear Models.” JMLR (2010).
+
+Ferraro, Maria Brigida et al. “A linear regression model for imprecise response.” Int. J. Approx. Reasoning 51 (2010): 759-770.
+
+Plan, Yaniv and Roman Vershynin. “Robust 1-bit compressed sensing and sparse logistic regression: A convex programming approach.” CoRR abs/1202.1212 (2013): n. pag.
+
+Li, Chaoqun and Hongwei Li. “An Improved Instance Weighted Linear Regression.” JCIT 5 (2010): 122-128.
+
+Xu, Xin and Eibe Frank. “Logistic Regression and Boosting for Labeled Bags of Instances.” PAKDD (2004).
+
+Kersting, Kristian et al. “Most likely heteroscedastic Gaussian process regression.” ICML (2007).
+
+Gerchinovitz, Sébastien. “Sparsity Regret Bounds for Individual Sequences in Online Linear Regression.” JMLR (2011).
+
+Liu, Xianming et al. “Image interpolation via regularized local linear regression.” PCS (2010).
+
+Jaakkola, Tommi S. and David Haussler. “Probabilistic kernel regression models.” AISTATS (1999).
+
+Kim, Seyoung and Eric P. Xing. “Tree-Guided Group Lasso for Multi-Task Regression with Structured Sparsity.” ICML (2010).
+
+Salimans, Tim and David A. Knowles. “Fixed-Form Variational Posterior Approximation through Stochastic Linear Regression.” CoRR abs/1206.6679 (2012): n. pag.
+
+Hsieh, Cho-Jui et al. “A dual coordinate descent method for large-scale linear SVM.” ICML (2008).
+
+Boutsidis, Christos et al. “Sparse Features for PCA-Like Linear Regression.” NIPS (2011).
+
+Zhou, Shaohua Kevin and Dorin Comaniciu. “Shape Regression Machine.” IPMI (2007).
+
+Cootes, Timothy F. et al. “Robust and Accurate Shape Model Fitting Using Random Forest Regression Voting.” ECCV (2012).
+
+DUrso, Pierpaolo and Adriana Santoro. “Fuzzy clusterwise linear regression analysis with symmetrical fuzzy output variable.” Computational Statistics & Data Analysis 51 (2006): 287-313.
+
+Wiesel, Ami et al. “Linear Regression With Gaussian Model Uncertainty: Algorithms and Bounds.” IEEE Transactions on Signal Processing 56 (2008): 2194-2205.
+
+Lawrence, Neil D. and Raquel Urtasun. “Non-linear matrix factorization with Gaussian processes.” ICML (2009).
+
+DUrso, Pierpaolo. “Linear regression analysis for fuzzy/crisp input and fuzzy/crisp output data.” Computational Statistics & Data Analysis 42 (2003): 47-72.
+
+Atkeson, Christopher G. et al. “Locally Weighted Learning.” Artif. Intell. Rev. 11 (1997): 11-73.
+
+Davis, Bradley C. et al. “Population Shape Regression From Random Design Data.” ICCV (2007).
+
+Shannon, William D. et al. “Tree-Based Models for Fiting Stratified Linear Regression Models.” J. Classification 19 (2002): 113-130.
+
+Elbaum, Sebastian G. et al. “Prioritizing test cases for regression testing.” ISSTA (2000).
+
+Chu, Wei and S. Sathiya Keerthi. “Support Vector Ordinal Regression.” Neural Computation 19 (2007): 792-815.
+
+Gupta, Maya R. et al. “Adaptive Local Linear Regression With Application to Printer Color Management.” IEEE Transactions on Image Processing 17 (2008): 936-945.
+
+Asur, Sitaram and Bernardo A. Huberman. “Predicting the Future with Social Media.” WEBI (2010).
+
+Maróti, Miklós et al. “The flooding time synchronization protocol.” SENSYS (2004).
+
+Yang, Miin-Shen and Hsien-Hsiung Liu. “Fuzzy least-squares algorithms for interactive fuzzy linear regression models.” Fuzzy Sets and Systems 135 (2003): 305-316.
+
+Li, Zheng et al. “Search Algorithms for Regression Test Case Prioritization.” IEEE Trans. Software Eng. 33 (2007): 225-237.
+
+Ari, Bertan and H. Altay Güvenir. “Clustered linear regression.” Knowl.-Based Syst. 15 (2002): 169-175.
+
+Yamada, Makoto and Masashi Sugiyama. “Dependence Minimizing Regression with Model Selection for Non-Linear Causal Inference under Non-Gaussian Noise.” AAAI (2010).
+
+Zhu, Jun et al. “MedLDA: maximum margin supervised topic models for regression and classification.” ICML (2009).
+
+Chai, Xiujuan et al. “Local Linear Regression (LLR) for Pose Invariant Face Recognition.” FGR (2006).
+
+Bourdev, Lubomir D. and Jitendra Malik. “Poselets: Body part detectors trained using 3D human pose annotations.” ICCV (2009).
+
+Lee, Wee Sun and Bing Liu. “Learning with Positive and Unlabeled Examples Using Weighted Logistic Regression.” ICML (2003).
+
+Pang, Bo and Lillian Lee. “Seeing Stars: Exploiting Class Relationships for Sentiment Categorization with Respect to Rating Scales.” ACL (2005).
+
+Guo, Guodong et al. “Image-Based Human Age Estimation by Manifold Learning and Locally Adjusted Robust Regression.” IEEE Transactions on Image Processing 17 (2008): 1178-1188.
+
+Chan, Antoni B. and Nuno Vasconcelos. “Bayesian Poisson regression for crowd counting.” ICCV (2009).
+
+Kivinen, Jyrki and Manfred K. Warmuth. “Relative Loss Bounds for Multidimensional Regression Problems.” NIPS (1997).
+
+Demiriz, Ayhan et al. “Linear Programming Boosting via Column Generation.” Machine Learning 46 (2002): 225-254.
+
+Valstar, Michel François et al. “Facial point detection using boosted regression and graph models.” CVPR (2010).
+
+Simonyan, Karen and Andrew Zisserman. “Very Deep Convolutional Networks for Large-Scale Image Recognition.” CoRR abs/1409.1556 (2014): n. pag.
+
+Li, Li-Jia et al. “Object Bank: A High-Level Image Representation for Scene Classification & Semantic Feature Sparsification.” NIPS (2010).
+
+Xue, Gengjian et al. “Foreground estimation based on robust linear regression model.” ICIP (2011).
+
+Weinberger, Kilian Q. and Gerald Tesauro. “Metric Learning for Kernel Regression.” JMLR (2007).
+
+Zhao, Bing et al. “Efficient Optimization For Bilingual Sentence Alignment Based On Linear Regression.”  (2003).
+
+Mikolov, Tomas et al. “Distributed Representations of Words and Phrases and their Compositionality.” NIPS (2013).
+
+Sauer, Patrick et al. “Accurate Regression Procedures for Active Appearance Models.” BMVC (2011).
+
+Cortes, Corinna et al. “Learning Non-Linear Combinations of Kernels.” NIPS (2009).
+
+Torgo, Luís. “Functional Models for Regression Tree Leaves.” ICML (1997).
+
+Zeng, Hua-Jun et al. “Learning to cluster web search results.” SIGIR (2004).
+
+Zhao, Qibin et al. “Higher-Order Partial Least Squares (HOPLS): A Generalized Multi-Linear Regression Method.” CoRR abs/1207.1230 (2013): n. pag.
+
+Criminisi, Antonio et al. “Regression Forests for Efficient Anatomy Detection and Localization in CT Studies.” MICCAI (2010).
+
+Rwebangira, Mugizi Robert and John Lafferty. “Local Linear Semi-supervised Regression.”  (2009).
+
+Sugiyama, Masashi and Shinichi Nakajima. “Pool-based active learning in approximate linear regression.” Machine Learning 75 (2009): 249-274.
+
+Dredze, Mark et al. “Confidence-weighted linear classification.” ICML (2008).
+
+Merz, Christopher J. and Michael J. Pazzani. “Combining Neural Network Regression Estimates with Regularized Linear Weights.” NIPS (1996).
+
+Schein, Andrew I. and Lyle H. Ungar. “Active learning for logistic regression: an evaluation.” Machine Learning 68 (2007): 235-265.
+
+Chen, Xi et al. “Smoothing proximal gradient method for general structured sparse regression.”  (2010).
+
+Carvalho, Carlos Giovanni Nunes de et al. “Multiple linear regression to improve prediction accuracy in WSN data reduction.” LANOMS (2011).
+
+Ristanoski, Goce et al. “Time Series Forecasting Using Distribution Enhanced Linear Regression.” PAKDD (2013).
+
+Chan, Antoni B. and Nuno Vasconcelos. “Counting People With Low-Level Features and Bayesian Regression.” IEEE Transactions on Image Processing 21 (2012): 2160-2177.
+
+Lai, Jian and Xudong Jiang. “Robust face recognition using trimmed linear regression.” ICASSP (2013).
+
+Seeger, Matthias W. et al. “Fast Forward Selection to Speed Up Sparse Gaussian Process Regression.” AISTATS (2003).
+
+Girshick, Ross B. et al. “Efficient regression of general-activity human poses from depth images.” ICCV (2011).
+
+Graves, Todd L. et al. “An Empirical Study of Regression Test Selection Techniques.” ICSE (1998).
+
+Sculley, D.. “Combined regression and ranking.” KDD (2010).
+
+Gu, Allan and Avideh Zakhor. “Optical Proximity Correction with Linear Regression.”  (2007).
+
+Tropp, Joel A. and Anna C. Gilbert. “Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit.” IEEE Transactions on Information Theory 53 (2007): 4655-4666.
+
+Wang, Weiguang et al. “Block Regularized Lasso for Multivariate Multi-Response Linear Regression.” AISTATS (2013).
+

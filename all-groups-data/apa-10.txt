@@ -1,0 +1,399 @@
+﻿Hinton, G.E., Osindero, S., & Teh, Y.W.. (2006). A Fast Learning Algorithm for Deep Belief Nets. Neural Computation, 18, 1527-1554.
+
+Bengio, Y.. (2009). Learning Deep Architectures for AI. Foundations and Trends in Machine Learning, 2, 1-127.
+
+Hinton, G.E., Krizhevsky, A., & Sutskever, I.. (2012). ImageNet Classification with Deep Convolutional Neural Networks. NIPS.
+
+Collobert, R., & Weston, J.. (2008). A unified architecture for natural language processing: deep neural networks with multitask learning. ICML.
+
+Donahue, J., Darrell, T., Hoffman, J., Jia, Y., Tzeng, E., Vinyals, O., & Zhang, N.. (2014). DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition. ICML.
+
+Khosla, A., Kim, M., Lee, H., Ngiam, J., Nam, J., & Ng, A.Y.. (2011). Multimodal Deep Learning. ICML.
+
+Grosse, R.B., Lee, H., Ng, A.Y., & Ranganath, R.. (2009). Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations. ICML.
+
+Bengio, Y., Bengio, S., Courville, A.C., Erhan, D., Manzagol, P., & Vincent, P.. (2010). Why Does Unsupervised Pre-training Help Deep Learning?. Journal of Machine Learning Research, 11, 625-660.
+
+Srivastava, N., & Salakhutdinov, R.. (2012). Multimodal Learning with Deep Boltzmann Machines. NIPS.
+
+Martens, J.. (2010). Deep learning via Hessian-free optimization. ICML.
+
+Bordes, A., Bengio, Y., & Glorot, X.. (2011). Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach. ICML.
+
+Donahue, J., Darrell, T., Girshick, R.B., Guadarrama, S., Jia, Y., Karayev, S., Long, J., & Shelhamer, E.. (2014). Caffe: Convolutional Architecture for Fast Feature Embedding. MM.
+
+Bengio, Y., Larochelle, H., Lajoie, I., Manzagol, P., & Vincent, P.. (2010). Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion. Journal of Machine Learning Research, 11, 3371-3408.
+
+Collobert, R., Ratle, F., & Weston, J.. (2008). Deep learning via semi-supervised embedding. ICML.
+
+Schmidhuber, J.. (2015). Deep Learning in Neural Networks: An Overview. CoRR, abs/1404.7828.
+
+Lapedriza, À., Oliva, A., Torralba, A., Xiao, J., & Zhou, B.. (2014). Learning Deep Features for Scene Recognition using Places Database. NIPS.
+
+Dahl, G.E., Hinton, G.E., Martens, J., & Sutskever, I.. (2013). On the importance of initialization and momentum in deep learning. ICML.
+
+Simonyan, K., & Zisserman, A.. (2014). Very Deep Convolutional Networks for Large-Scale Image Recognition. CoRR, abs/1409.1556.
+
+Hinton, G.E., & Salakhutdinov, R.. (2009). Deep Boltzmann Machines. JMLR.
+
+Lee, H., Largman, Y., Ng, A.Y., & Pham, P.T.. (2009). Unsupervised feature learning for audio classification using convolutional deep belief networks. NIPS.
+
+Bengio, Y., Courville, A.C., & Vincent, P.. (2013). Representation Learning: A Review and New Perspectives. IEEE Trans. Pattern Anal. Mach. Intell., 35, 1798-1828.
+
+Coates, A., Le, Q.V., Lahiri, A., Ngiam, J., Ng, A.Y., & Prochnow, B.. (2011). On optimization methods for deep learning. ICML.
+
+Chen, Y., Sun, Y., Tang, X., & Wang, X.. (2014). Deep Learning Face Representation by Joint Identification-Verification. NIPS.
+
+Acero, A., Deng, L., Gong, Y., Huang, J., He, X., Li, J., Seide, F., Seltzer, M.L., Williams, J., Yu, D., Yao, K., & Zweig, G.. (2013). Recent advances in deep learning for speech research at Microsoft. ICASSP.
+
+Bengio, Y., Lamblin, P., Larochelle, H., & Popovici, D.. (2006). Greedy Layer-Wise Training of Deep Networks. NIPS.
+
+Sun, Y., Tang, X., & Wang, X.. (2014). Deep Learning Face Representation from Predicting 10, 000 Classes. CVPR.
+
+Bengio, Y., & Glorot, X.. (2010). Understanding the difficulty of training deep feedforward neural networks. JMLR.
+
+Chen, K., Corrado, G., Devin, M., Dean, J., Le, Q.V., Mao, M.Z., Monga, R., Ng, A.Y., Ranzato, M., Senior, A.W., Tucker, P.A., & Yang, K.. (2012). Large Scale Distributed Deep Networks. NIPS.
+
+Antonoglou, I., Graves, A., Kavukcuoglu, K., Mnih, V., Riedmiller, M.A., Silver, D., & Wierstra, D.. (2013). Playing Atari with Deep Reinforcement Learning. CoRR, abs/1312.5602.
+
+Boureau, Y., LeCun, Y., & Ranzato, M.. (2007). Sparse Feature Learning for Deep Belief Networks. NIPS.
+
+Le, Q.V.. (2012). Building high-level features using large scale unsupervised learning. ICASSP.
+
+Coates, A., Catanzaro, B.C., Huval, B., Ng, A.Y., Wang, T., & Wu, D.J.. (2013). Deep learning with COTS HPC systems. ICML.
+
+Dong, C., He, K., Loy, C.C., & Tang, X.. (2014). Learning a Deep Convolutional Network for Image Super-Resolution. ECCV.
+
+Deng, L., Dahl, G., Hinton, G., Jaitly, N., Kingsbury, B., Mohamed, A., Nguyen, P., Sainath, T., Senior, A., Vanhoucke, V., & Yu, D.. (2012). Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups. IEEE Signal Process. Mag., 29, 82-97.
+
+Ouyang, W., & Wang, X.. (2013). Joint Deep Learning for Pedestrian Detection. ICCV.
+
+Anguelov, D., Erhan, D., Jia, Y., Liu, W., Rabinovich, A., Reed, S., Sermanet, P., Szegedy, C., & Vanhoucke, V.. (2015). Going deeper with convolutions. CVPR.
+
+Bengio, Y., Courville, A.C., & Vincent, P.. (2012). Unsupervised Feature Learning and Deep Learning: A Review and New Perspectives. CoRR, abs/1206.5538.
+
+Le, Q.V., Sutskever, I., & Vinyals, O.. (2014). Sequence to Sequence Learning with Neural Networks. NIPS.
+
+Ioffe, S., & Szegedy, C.. (2015). Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift. ICML.
+
+Coates, A., Lee, H., & Ng, A.Y.. (2011). An Analysis of Single-Layer Networks in Unsupervised Feature Learning. JMLR.
+
+Huang, G.B., Lee, H., & Learned-Miller, E.G.. (2012). Learning hierarchical representations for face verification with convolutional deep belief networks. CVPR.
+
+Bengio, Y., Larochelle, H., Manzagol, P., & Vincent, P.. (2008). Extracting and composing robust features with denoising autoencoders. ICML.
+
+Lenz, I., Lee, H., & Saxena, A.. (2013). Deep Learning for Detecting Robotic Grasps. RSS.
+
+Graves, A., Hinton, G.E., & Mohamed, A.. (2013). Speech recognition with deep recurrent neural networks. ICASSP.
+
+Acero, A., Dahl, G.E., Deng, L., & Yu, D.. (2012). Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition. IEEE Transactions on Audio, Speech & Language Processing, 20, 30-42.
+
+Chen, B., Leung, T., Philbin, J., Rosenberg, C., Song, Y., Wang, J., Wang, J., & Wu, Y.. (2014). Learning Fine-Grained Image Similarity with Deep Ranking. CVPR.
+
+Hu, J., Lu, J., & Tan, Y.. (2014). Discriminative Deep Metric Learning for Face Verification in the Wild. CVPR.
+
+Collobert, R., Mobahi, H., & Weston, J.. (2009). Deep learning from temporal coherence in video. ICML.
+
+Collobert, R.. (2011). Deep Learning for Efficient Discriminative Parsing. JMLR.
+
+Chen, L., Schwing, A.G., Urtasun, R., & Yuille, A.L.. (2015). Learning Deep Structured Models. ICML.
+
+Deng, L., Hinton, G.E., & Kingsbury, B.. (2013). New types of deep neural network learning for speech recognition and related applications: an overview. ICASSP.
+
+Ekanadham, C., Lee, H., & Ng, A.Y.. (2007). Sparse deep belief net model for visual area V2. NIPS.
+
+Dahl, G.E., Hinton, G.E., & Mohamed, A.. (2012). Acoustic Modeling Using Deep Belief Networks. IEEE Transactions on Audio, Speech & Language Processing, 20, 14-22.
+
+Acero, A., Deng, L., Gao, J., Huang, P., He, X., & Heck, L.P.. (2013). Learning deep structured semantic models for web search using clickthrough data. CIKM.
+
+Bengio, Y.. (2012). Deep Learning of Representations for Unsupervised and Transfer Learning. JMLR.
+
+Chatfield, K., Simonyan, K., Vedaldi, A., & Zisserman, A.. (2014). Return of the Devil in the Details: Delving Deep into Convolutional Nets. BMVC.
+
+Chetlur, S., Cohen, J., Catanzaro, B., Shelhamer, E., Tran, J., Vandermersch, P., & Woolley, C.. (2014). cuDNN: Efficient Primitives for Deep Learning. CoRR, abs/1410.0759.
+
+Madhavan, A., Ng, A.Y., & Raina, R.. (2009). Large-scale deep unsupervised learning using graphics processors. ICML.
+
+Cho, Y., & Saul, L.K.. (2009). Kernel Methods for Deep Learning. NIPS.
+
+He, K., Ren, S., Sun, J., & Zhang, X.. (2015). Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification. CoRR, abs/1502.01852.
+
+Deng, L., Platt, J.C., & Yu, D.. (2012). Scalable stacking and learning for building deep architectures. ICASSP.
+
+Bordes, A., Bengio, Y., & Glorot, X.. (2011). Deep Sparse Rectifier Neural Networks. JMLR.
+
+Cristianini, N., & Shawe-Taylor, J.. (2001). An Introduction to Support Vector Machines and Other Kernel-based Learning Methods. DAGLIB.
+
+LeCun, Y., Raiko, T., & Valpola, H.. (2012). Deep Learning Made Easier by Linear Transformations in Perceptrons. JMLR.
+
+Denil, M., Dinh, L., Freitas, N.D., Ranzato, M., & Shakibi, B.. (2013). Predicting Parameters in Deep Learning. NIPS.
+
+Ciresan, D.C., Meier, U., & Schmidhuber, J.. (2012). Multi-column deep neural networks for image classification. CVPR.
+
+Luo, P., Tang, X., Wang, X., & Zhu, Z.. (2013). Deep Learning Identity-Preserving Face Space. ICCV.
+
+Luo, P., Tang, X., & Wang, X.. (2012). Hierarchical face parsing via deep learning. CVPR.
+
+Bengio, Y., Collobert, R., Louradour, J., & Weston, J.. (2009). Curriculum learning. ICML.
+
+Chuang, J., Manning, C.D., Ng, A., Perelygin, A., Potts, C., Socher, R., & Wu, J.. (2013). Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank.
+
+Bergstra, J., Bengio, Y., Courville, A.C., Erhan, D., & Larochelle, H.. (2007). An empirical evaluation of deep architectures on problems with many factors of variation. ICML.
+
+Larochelle, H., & Salakhutdinov, R.. (2010). Efficient Learning of Deep Boltzmann Machines. JMLR.
+
+Tang, Y.. (2013). Deep Learning using Linear Support Vector Machines.
+
+Simpson, A.J.. (2015). Abstract Learning via Demodulation in a Deep Neural Network. CoRR, abs/1502.04042.
+
+Sun, Y., Tang, X., & Wang, X.. (2013). Hybrid Deep Learning for Face Verification. ICCV.
+
+Kingma, D.P., Mohamed, S., Rezende, D.J., & Welling, M.. (2014). Semi-supervised Learning with Deep Generative Models. NIPS.
+
+Eck, D., & Hamel, P.. (2010). Learning Features from Music Audio with Deep Belief Networks. ISMIR.
+
+Cao, Z., Doudou, C., Fan, H., Jiang, Y., & Yin, Q.. (2014). Learning Deep Face Representation. CoRR, abs/1403.2802.
+
+Ganguli, S., McClelland, J.L., & Saxe, A.M.. (2013). Exact solutions to the nonlinear dynamics of learning in deep linear neural networks. CoRR, abs/1312.6120.
+
+He, K., Ren, S., Sun, J., & Zhang, X.. (2014). Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition. ECCV.
+
+Bian, J., Gao, B., & Liu, T.. (2014). Knowledge-Powered Deep Learning for Word Embedding. PKDD.
+
+Deng, L., & Yu, D.. (2014). Deep Learning: Methods and Applications. Foundations and Trends in Signal Processing, 7, 197-387.
+
+Ba, J., & Caruana, R.. (2014). Do Deep Nets Really Need to be Deep?. NIPS.
+
+Kaelbling, L.P., Littman, M.L., & Moore, A.W.. (1996). Reinforcement Learning: A Survey. CoRR, cs.AI/9605103.
+
+Mohamed, S., Rezende, D.J., & Wierstra, D.. (2014). Stochastic Backpropagation and Approximate Inference in Deep Generative Models. ICML.
+
+Erez, T., Hunt, J.J., Heess, N., Lillicrap, T.P., Pritzel, A., Silver, D., Tassa, Y., & Wierstra, D.. (2015). Continuous control with deep reinforcement learning. CoRR, abs/1509.02971.
+
+Agrawal, A., Gupta, S., Gopalakrishnan, K., & Narayanan, P.. (2015). Deep Learning with Limited Numerical Precision. ICML.
+
+Huang, P., Hasegawa-Johnson, M., Kim, M., & Smaragdis, P.. (2014). Deep learning for monaural speech separation. ICASSP.
+
+Ranzato, M., Taigman, Y., Wolf, L., & Yang, M.. (2014). DeepFace: Closing the Gap to Human-Level Performance in Face Verification. CVPR.
+
+Fei-Fei, L., & Karpathy, A.. (2015). Deep visual-semantic alignments for generating image descriptions. CVPR.
+
+Apacible, J., Chilimbi, T.M., Kalyanaraman, K., & Suzue, Y.. (2014). Project Adam: Building an Efficient and Scalable Deep Learning Training System. OSDI.
+
+Donahue, J., Darrell, T., Girshick, R.B., & Malik, J.. (2014). Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation. CVPR.
+
+Chan, T., Gao, S., Jia, K., Lu, J., Ma, Y., & Zeng, Z.. (2015). PCANet: A Simple Deep Learning Baseline for Image Classification?. CoRR, abs/1404.3606.
+
+Bengio, Y., Bergstra, J., Courville, A.C., Dauphin, Y., Desjardins, G., Glorot, X., Goodfellow, I.J., Lavoie, E., Mesnil, G., Muller, X., Rifai, S., Vincent, P., & Warde-Farley, D.. (2012). Unsupervised and Transfer Learning Challenge: a Deep Learning Approach. JMLR.
+
+Ng, A.Y., Yu, K., Zou, W.Y., & Zhu, S.. (2012). Deep Learning of Invariant Features via Simulated Fixations in Video. NIPS.
+
+Li, G., Seide, F., & Yu, D.. (2011). Conversational Speech Transcription Using Context-Dependent Deep Neural Networks. ICML.
+
+Bath, B.P., Huval, B., Manning, C.D., Ng, A.Y., & Socher, R.. (2012). Convolutional-Recursive Deep Learning for 3D Object Classification. NIPS.
+
+Wang, N., & Yeung, D.. (2013). Learning a Deep Compact Image Representation for Visual Tracking. NIPS.
+
+Salakhutdinov, R.. (2014). Deep learning. KDD.
+
+Szegedy, C., & Toshev, A.. (2014). DeepPose: Human Pose Estimation via Deep Neural Networks. CVPR.
+
+Alain, G., Bengio, Y., Laufer, E., & Yosinski, J.. (2014). Deep Generative Stochastic Networks Trainable by Backprop. ICML.
+
+Frank, E., & Witten, I.H.. (1999). Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations. MK.
+
+Luo, P., Loy, C.C., Tang, X., & Zhang, Z.. (2014). Facial Landmark Detection by Deep Multi-task Learning. ECCV.
+
+Hoi, S.C., Miao, C., Wu, P., Wang, D., Xia, H., & Zhao, P.. (2013). Online multimodal deep similarity learning with application to image retrieval. MM.
+
+Baccouche, M., Baskurt, A., Garcia, C., Mamalet, F., & Wolf, C.. (2011). Sequential Deep Learning for Human Action Recognition. HBU.
+
+Ranzato, M., & Szummer, M.. (2008). Semi-supervised learning of compact document representations with deep networks. ICML.
+
+Bender, O., Deselaers, T., Hasan, S., & Ney, H.. (2009). A Deep Learning Approach to Machine Transliteration.
+
+Bengio, Y., Larochelle, H., Louradour, J., & Lamblin, P.. (2009). Exploring Strategies for Training Deep Neural Networks. Journal of Machine Learning Research, 10, 1-40.
+
+Hoi, S.C., Li, J., Wan, J., Wang, D., Wu, P., Zhu, J., & Zhang, Y.. (2014). Deep Learning for Content-Based Image Retrieval: A Comprehensive Study. MM.
+
+Huang, D., Harn, L., Mehta, M., & Medhi, D.. (2004). Location-aware key management scheme for wireless sensor networks. SASN.
+
+Arora, S., Bhaskara, A., Ge, R., & Ma, T.. (2014). Provable Bounds for Learning Some Deep Representations. ICML.
+
+Bengio, S., Corrado, G.S., Dean, J., Frome, A., Mikolov, T., Ranzato, M., & Shlens, J.. (2013). DeViSE: A Deep Visual-Semantic Embedding Model. NIPS.
+
+Domingos, P.M., & Poon, H.. (2011). Sum-product networks: A new deep architecture. ICCVW.
+
+Donahue, J., Mooney, R.J., Rohrbach, M., Saenko, K., Venugopalan, S., & Xu, H.. (2015). Translating Videos to Natural Language Using Deep Recurrent Neural Networks. NAACL.
+
+Deng, L., He, X., Hakkani-Tür, D.Z., & Tür, G.. (2012). Use of kernel deep convex networks and end-to-end learning for spoken language understanding. SLT.
+
+Chen, Z., Koh, P.W., Ngiam, J., & Ng, A.Y.. (2011). Learning Deep Energy Models. ICML.
+
+Balakrishnan, S., Chopra, S., & Gopalan, R.. (2013). DLID: Deep Learning for Domain Adaptation by Interpolating between Domains.
+
+Bengio, Y.. (2012). Practical recommendations for gradient-based training of deep architectures. CoRR, abs/1206.5533.
+
+Grosse, R.B., Lee, H., Ng, A.Y., & Ranganath, R.. (2011). Unsupervised learning of hierarchical representations with convolutional deep belief networks. Commun. ACM, 54, 95-103.
+
+Cao, Y., Jordan, M., Long, M., & Wang, J.. (2015). Learning Transferable Features with Deep Adaptation Networks. ICML.
+
+Azizpour, H., Carlsson, S., Razavian, A.S., & Sullivan, J.. (2014). CNN Features Off-the-Shelf: An Astounding Baseline for Recognition. CVPR.
+
+Salakhutdinov, R., Tenenbaum, J.B., & Torralba, A.. (2013). Learning with Hierarchical-Deep Models. IEEE Trans. Pattern Anal. Mach. Intell., 35, 1958-1971.
+
+Bahdanau, D., Bengio, Y., Chorowski, J., Dumoulin, V., Merriënboer, B.V., Serdyuk, D., & Warde-Farley, D.. (2015). Blocks and Fuel: Frameworks for deep learning. CoRR, abs/1506.00619.
+
+Hinton, G.E., & Salakhutdinov, R.. (2012). An Efficient Learning Procedure for Deep Boltzmann Machines. Neural Computation, 24, 1967-2006.
+
+Darrell, T., Long, J., & Shelhamer, E.. (2015). Fully convolutional networks for semantic segmentation. CVPR.
+
+Jin, Z., Li, G., Liu, Y., Mou, L., Peng, H., & Zhang, L.. (2015). Building Program Vector Representations for Deep Learning. KSEM.
+
+Lange, S., & Riedmiller, M.A.. (2010). Deep auto-encoder neural networks in reinforcement learning. IJCNN.
+
+Liu, T., Qin, B., Tang, D., Wei, & Zhou, M.. (2014). Coooolll: A Deep Learning System for Twitter Sentiment Classification.
+
+Povey, D., & Vinyals, O.. (2012). Krylov Subspace Descent for Deep Learning. JMLR.
+
+Adams, R.P., Larochelle, H., & Snoek, J.. (2012). Practical Bayesian Optimization of Machine Learning Algorithms. NIPS.
+
+Bengio, Y., Bornschein, J., Lee, D., & Lin, Z.. (2015). Towards Biologically Plausible Deep Learning. CoRR, abs/1502.04156.
+
+Salakhutdinov, R.. (2010). Learning Deep Boltzmann Machines using Adaptive MCMC. ICML.
+
+Mehta, P., & Schwab, D.J.. (2014). An exact mapping between the Variational Renormalization Group and Deep Learning. CoRR, abs/1410.3831.
+
+Bengio, Y.. (2014). Scaling up deep learning. KDD.
+
+Kim, Y., Lee, H., & Provost, E.M.. (2013). Deep learning for robust feature generation in audiovisual emotion recognition. ICASSP.
+
+Bengio, Y., Bengio, S., Erhan, D., Manzagol, P., & Vincent, P.. (2009). The Difficulty of Training Deep Architectures and the Effect of Unsupervised Pre-Training. JMLR.
+
+Liong, V.E., Lu, J., Moulin, P., Wang, G., & Zhou, J.. (2015). Deep hashing for compact binary codes learning. CVPR.
+
+Goodfellow, I.J., Le, Q.V., Lee, H., Ng, A.Y., & Saxe, A.M.. (2009). Measuring Invariances in Deep Networks. NIPS.
+
+Murray, I., & Salakhutdinov, R.. (2008). On the quantitative analysis of deep belief networks. ICML.
+
+Lee, H., Sohn, K., & Shang, W.. (2014). Improved Multimodal Deep Learning with Variation of Information. NIPS.
+
+Chen, X., & Lin, X.. (2014). Big Data Deep Learning: Challenges and Perspectives. IEEE Access, 2, 514-525.
+
+Andrew, G., Arora, R., Bilmes, J.A., & Livescu, K.. (2013). Deep Canonical Correlation Analysis. ICML.
+
+Harmeling, S., Lampert, C.H., & Nickisch, H.. (2009). Learning to detect unseen object classes by between-class attribute transfer. CVPR.
+
+Ganguli, S., Maheswaranathan, N., Sohl-Dickstein, J., & Weiss, E.A.. (2015). Deep Unsupervised Learning using Nonequilibrium Thermodynamics. ICML.
+
+Bengio, Y., Cho, K., Gülçehre, Ç., & Pascanu, R.. (2013). How to Construct Deep Recurrent Neural Networks. CoRR, abs/1312.6026.
+
+Dahl, G.E., Hinton, G.E., & Sainath, T.N.. (2013). Improving deep neural networks for LVCSR using rectified linear units and dropout. ICASSP.
+
+Lee, D.. (2013). Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks.
+
+Lampert, C.H., Sydorov, V., & Sakurada, M.. (2014). Deep Fisher Kernels - End to End Learning of the Fisher Kernel GMM Parameters. CVPR.
+
+Calhoun, V.D., Hjelm, D.R., Plis, S.M., & Salakhutdinov, R.. (2013). Deep learning for neuroimaging: a validation study. CoRR, abs/1312.5847.
+
+Damianou, A.C., & Lawrence, N.D.. (2013). Deep Gaussian Processes. AISTATS.
+
+Collobert, R., Das, S.G., Qi, Y., & Weston, J.. (2014). Deep Learning for Character-Based Information Extraction. ECIR.
+
+Chu, X., Ouyang, W., & Wang, X.. (2014). Multi-source Deep Learning for Human Pose Estimation. CVPR.
+
+Kim, Y.. (2014). Convolutional Neural Networks for Sentence Classification. EMNLP.
+
+Coates, A., & Ng, A.Y.. (2011). Selecting Receptive Fields in Deep Networks. NIPS.
+
+Dang, Q., Shan, Y., Sun, G., Wu, R., & Yan, S.. (2015). Deep Image: Scaling up Image Recognition. CoRR, abs/1501.02876.
+
+Chen, H., Xu, T., & Zheng, X.. (2013). Deep Learning for Chinese Word Segmentation and POS Tagging. EMNLP.
+
+Guo, X., Lee, H., Lewis, R.L., Singh, S.P., & Wang, X.. (2014). Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning. NIPS.
+
+Bengio, Y., Dauphin, Y., Mesnil, G., & Rifai, S.. (2013). Better Mixing via Deep Representations. ICML.
+
+Ando, R.K., & Zhang, T.. (2005). A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data. Journal of Machine Learning Research, 6, 1817-1853.
+
+Wang, H., Wang, N., & Yeung, D.. (2015). Collaborative Deep Learning for Recommender Systems. KDD.
+
+Alcicek, C., Beattie, C., Blackwell, S., Fearon, R., Kavukcuoglu, K., Legg, S., Maria, A.D., Mnih, V., Nair, A., Petersen, S., Panneershelvam, V., Srinivasan, P., Silver, D., & Suleyman, M.. (2015). Massively Parallel Methods for Deep Reinforcement Learning. CoRR, abs/1507.04296.
+
+Bengio, Y., Bergstra, J., Bastien, F., Dumoulin, V., Goodfellow, I.J., Lamblin, P., Mirza, M., Pascanu, R., & Warde-Farley, D.. (2013). Pylearn2: a machine learning research library. CoRR, abs/1308.4214.
+
+Bello, J.P., Humphrey, E.J., & LeCun, Y.. (2012). Moving Beyond Feature Design: Deep Architectures and Automatic Feature Learning in Music Informatics. ISMIR.
+
+Arel, I., Coop, R., & Rose, D.. (2009). DeSTIN: A Scalable Deep Learning Architecture with Application to High-Dimensional Robust Pattern Recognition. AAAIFS.
+
+Bottou, L., Collobert, R., Karlen, M., Kavukcuoglu, K., Kuksa, P.P., & Weston, J.. (2011). Natural Language Processing (almost) from Scratch. CoRR, abs/1103.0398.
+
+Edwards, C.. (2015). Growing pains for deep learning. Commun. ACM, 58, 14-16.
+
+Bengio, Y.. (2014). Deep learning and cultural evolution. GECCO.
+
+Coates, A.. (2013). Deep Learning for Machine Vision. BMVC.
+
+Anthes, G.. (2013). Deep learning comes of age. Commun. ACM, 56, 13-15.
+
+Blunsom, P., Hermann, K.M., Pulman, S., & Yu, L.. (2014). Deep Learning for Answer Sentence Selection. CoRR, abs/1412.1632.
+
+Huang, R., Schuurmans, D., Szepesvári, C., & Xu, B.. (2015). Learning with a Strong Adversary. CoRR, abs/1511.03034.
+
+Hinton, G.E., Krizhevsky, A., Srivastava, N., Sutskever, I., & Salakhutdinov, R.. (2014). Dropout: a simple way to prevent neural networks from overfitting. Journal of Machine Learning Research, 15, 1929-1958.
+
+Adams, R.P., Ghahramani, Z., & Wallach, H.M.. (2010). Learning the Structure of Deep Sparse Graphical Models. JMLR.
+
+Ouyang, W., Wang, X., & Zeng, X.. (2013). Multi-stage Contextual Deep Learning for Pedestrian Detection. ICCV.
+
+Cui, Q., Chen, E., Gao, B., Liu, T., & Tian, F.. (2014). Learning Deep Representations for Graph Clustering. AAAI.
+
+Lai, H., Liu, Y., Pan, Y., & Yan, S.. (2015). Simultaneous feature learning and hash coding with deep neural networks. CVPR.
+
+Hinton, G.E., LeCun, Y., & Ranzato, M.. (2015). Guest Editorial: Deep Learning. International Journal of Computer Vision, 113, 1-2.
+
+Bengio, Y., & Courville, A.C.. (2013). Deep Learning of Representations. ISRL.
+
+Friedman, N., Getoor, L., Koller, D., & Pfeffer, A.. (1999). Learning Probabilistic Relational Models. IJCAI.
+
+Abbeel, P., Darrell, T., Finn, C., & Levine, S.. (2015). End-to-End Training of Deep Visuomotor Policies. CoRR, abs/1504.00702.
+
+Bottou, L., Laptev, I., Oquab, M., & Sivic, J.. (2014). Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks. CVPR.
+
+Chen, B., Carin, L., Dunson, D.B., Polatkan, G., & Sapiro, G.. (2011). The Hierarchical Beta Process for Convolutional Factor Analysis and Deep Learning. ICML.
+
+Arora, R., Bilmes, J.A., Livescu, K., & Wang, W.. (2015). On Deep Multi-View Representation Learning. ICML.
+
+Zhang, M., & Zhou, Z.. (2007). ML-KNN: A lazy learning approach to multi-label learning. Pattern Recognition, 40, 2038-2048.
+
+Du, D., Huang, C., Jayasumana, S., Romera-Paredes, B., Su, Z., Torr, P.H., Vineet, V., & Zheng, S.. (2015). Conditional Random Fields as Recurrent Neural Networks. CoRR, abs/1502.03240.
+
+Tang, Y.. (2013). Deep Learning using Support Vector Machines. CoRR, abs/1306.0239.
+
+Anguelov, D., Erhan, D., Szegedy, C., & Toshev, A.. (2014). Scalable Object Detection Using Deep Neural Networks. CVPR.
+
+Bazzani, L., Denil, M., Freitas, N.D., & Larochelle, H.. (2012). Learning where to Attend with Deep Architectures for Image Tracking. CoRR, abs/1109.3737.
+
+Erhan, D., Larochelle, H., & Vincent, P.. (2009). Deep Learning using Robust Interdependent Codes. JMLR.
+
+Pan, S.J., Tsang, I.W., Yan, Y., & Zhou, J.T.. (2014). Hybrid Heterogeneous Transfer Learning through Deep Learning. AAAI.
+
+Eigen, D., Fergus, R., LeCun, Y., Mathieu, M., Sermanet, P., & Zhang, X.. (2013). OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks. CoRR, abs/1312.6229.
+
+Gal, Y., & Ghahramani, Z.. (2015). Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning. CoRR, abs/1506.02142.
+
+Liu, W.. (2015). Hashing by Deep Learning.
+
+Hornik, K., Stinchcombe, M.B., & White, H.. (1989). Multilayer feedforward networks are universal approximators. Neural Networks, 2, 359-366.
+
+Lin, L., Liang, Z., Wang, X., Zhang, L., & Zuo, W.. (2014). Deep Joint Task Learning for Generic Object Extraction. NIPS.
+
+Sun, Y., Tang, X., & Wang, X.. (2013). Deep Convolutional Network Cascade for Facial Point Detection. CVPR.
+
+Deisenroth, M.P., Sch?n, T.B., & Wahlstr?m, N.. (2015). From Pixels to Torques: Policy Learning with Deep Dynamical Models. CoRR, abs/1502.02251.
+
+Baraniuk, R.G., Nguyen, T., & Patel, A.B.. (2015). A Probabilistic Theory of Deep Learning. CoRR, abs/1504.00641.
+
+Bauer, J., Bethard, S., Finkel, J.R., Manning, C.D., McClosky, D., & Surdeanu, M.. (2014). The Stanford CoreNLP Natural Language Processing Toolkit. ACL.
+
+Lin, Y., Wang, X., Xie, S., & Yang, T.. (2015). Hyper-class augmented and regularized deep learning for fine-grained image classification. CVPR.

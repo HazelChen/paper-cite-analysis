@@ -1,0 +1,399 @@
+Caputo, B., Laptev, I., & Sch¨¹ldt, C.. (2004). Recognizing Human Actions: A Local SVM Approach. ICPR.
+
+Shalev-Shwartz, S., Singer, Y., & Srebro, N.. (2007). Pegasos: Primal Estimated sub-GrAdient SOlver for SVM. ICML.
+
+Chang, C., & Lin, C.. (2011). LIBSVM: A library for support vector machines. ACM TIST, 2, 27.
+
+Joachims, T.. (2006). Training linear SVMs in linear time. KDD.
+
+Chang, K., Hsieh, C., Keerthi, S.S., Lin, C., & Sundararajan, S.. (2008). A dual coordinate descent method for large-scale linear SVM. ICML.
+
+Dalal, N., & Triggs, B.. (2005). Histograms of Oriented Gradients for Human Detection. CVPR.
+
+Efros, A.A., Gupta, A., & Malisiewicz, T.. (2011). Ensemble of exemplar-SVMs for object detection and beyond. ICCV.
+
+Berg, A.C., Maire, M., Malik, J., & Zhang, H.. (2006). SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition. CVPR.
+
+Cao, Y., Huang, Y., Hon, H., Liu, T., Li, H., & Xu, J.. (2006). Adapting ranking SVM to document retrieval. SIGIR.
+
+Eskin, E., Leslie, C.S., & Noble, W.S.. (2002). The Spectrum Kernel: A String Kernel for SVM Protein Classification. PSB.
+
+Finley, T., Joachims, T., & Yu, C.J.. (2009). Cutting-plane training of structural SVMs. Machine Learning, 77, 27-59.
+
+Duan, L., Maybank, S.J., Tsang, I.W., & Xu, D.. (2009). Domain Transfer SVM for video concept detection. CVPR.
+
+Campbell, W.M., Reynolds, D.A., Sturim, D.E., & Solomonoff, A.. (2006). SVM Based Speaker Verification using a GMM Supervector Kernel and NAP Variability Compensation. ICASSP.
+
+Bottou, L., Cosatto, E., Durdanovic, I., Graf, H.P., & Vapnik, V.. (2004). Parallel Support Vector Machines: The Cascade SVM. NIPS.
+
+Chang, C., Hsu, C., & Lin, C.. (2010). A Practical Guide to Support Vector Classification.
+
+Cheung, P., Kwok, J.T., & Tsang, I.W.. (2005). Core Vector Machines: Fast SVM Training on Very Large Data Sets. Journal of Machine Learning Research, 6, 363-392.
+
+Hatch, A.O., Kajarekar, S.S., & Stolcke, A.. (2006). Within-class covariance normalization for SVM-based speaker recognition. INTERSPEECH.
+
+Fine, S., & Scheinberg, K.. (2001). Efficient SVM Training Using Low-Rank Kernel Representations. Journal of Machine Learning Research, 2, 243-264.
+
+Cherkassky, V., & Ma, Y.. (2004). Practical selection of SVM parameters and noise estimation for SVM regression. Neural Networks, 17, 113-126.
+
+Shalev-Shwartz, S., & Srebro, N.. (2008). SVM optimization: inverse dependence on training set size. ICML.
+
+Bennett, K.P., & Bredensteiner, E.J.. (2000). Duality and Geometry in SVM Classifiers. ICML.
+
+Gulshan, V., Vedaldi, A., Varma, M., & Zisserman, A.. (2009). Multiple kernels for object detection. ICCV.
+
+Forsyth, D.. (2010). Object Detection with Discriminatively Trained Part-Based Models. IEEE Computer, 47, 6-7.
+
+Cour, T., Cao, L., Huang, T.S., Lin, Y., Lv, F., Yang, M., Yu, K., & Zhu, S.. (2011). Large-scale image classification: Fast feature extraction and SVM training. CVPR.
+
+Farquhar, J.D., Hardoon, D.R., Meng, H., Shawe-Taylor, J., & Szedm¨¢k, S.. (2005). Two view learning: SVM-2K, Theory and Practice. NIPS.
+
+Bhattacharyya, C., Keerthi, S.S., Murthy, K.R., & Shevade, S.K.. (2001). Improvements to Platt's SMO Algorithm for SVM Classifier Design. Neural Computation, 13, 637-649.
+
+Eskin, E., Leslie, C.S., Noble, W.S., & Weston, J.. (2002). Mismatch String Kernels for SVM Protein Classification. NIPS.
+
+Chen, Y., Huang, T.S., & Zhou, X.S.. (2001). One-class SVM for learning in image retrieval. ICIP.
+
+Ho, P., Moreno, P.J., & Vasconcelos, N.. (2003). A Kullback-Leibler Divergence Based Kernel for SVM Classification in Multimedia Applications. NIPS.
+
+Joachims, T., & Yu, C.J.. (2009). Learning structural SVMs with latent variables. ICML.
+
+Cesa-Bianchi, N., Gentile, C., & Zaniboni, L.. (2006). Hierarchical classification: combining Bayes with SVM. ICML.
+
+Cristianini, N., & Shawe-Taylor, J.. (2001). An Introduction to Support Vector Machines and Other Kernel-based Learning Methods. DAGLIB.
+
+Duan, K., Keerthi, S.S., & Poo, A.N.. (2003). Evaluation of simple performance measures for tuning SVM hyperparameters. Neurocomputing, 51, 41-59.
+
+Burges, C.J., & Crisp, D.J.. (1999). A Geometric Interpretation of v-SVM Classifiers. NIPS.
+
+Xiong, T., & Ye, J.. (2007). SVM versus Least Squares SVM. JMLR.
+
+Boardman, I., Campbell, W.M., & Solomonoff, A.. (2005). Advances In Channel Compensation For SVM Speaker Recognition. ICASSP.
+
+Burges, C.J.. (1998). A Tutorial on Support Vector Machines for Pattern Recognition. Data Min. Knowl. Discov., 2, 121-167.
+
+Blanz, V., Huang, J., & Heisele, B.. (2002). Face Recognition Using Component-Based SVM Classification and Morphable Models. SVM.
+
+Joachims, T.. (2005). A support vector method for multivariate performance measures. ICML.
+
+Li, X., Tao, D., Tang, X., & Wu, X.. (2006). Asymmetric Bagging and Random Subspace for Support Vector Machines-Based Relevance Feedback in Image Retrieval. IEEE Trans. Pattern Anal. Mach. Intell., 28, 1088-1099.
+
+Cesa-Bianchi, N., Gentile, C., & Zaniboni, L.. (2006). Hierarchical classification: combining Bayes with SVM. ICML.
+
+Friedrichs, F., & Igel, C.. (2004). Evolutionary tuning of multiple SVM parameters. ESANN.
+
+Manevitz, L.M., & Yousef, M.. (2001). One-Class SVMs for Document Classification. Journal of Machine Learning Research, 2, 139-154.
+
+Duan, K., & Keerthi, S.S.. (2005). Which Is the Best Multiclass SVM Method? An Empirical Study. MCS.
+
+Hauptmann, A.G., Jin, R., Yang, Y., & Zhang, J.. (2003). Modified Logistic Regression: An Approximation to SVM and Its Applications in Large-Scale Text Categorization. ICML.
+
+Andrews, S., Hofmann, T., & Tsochantaridis, I.. (2002). Support Vector Machines for Multiple-Instance Learning. NIPS.
+
+Chan, A.B., Lanckriet, G.R., & Vasconcelos, N.. (2007). Direct convex relaxations of sparse SVM. ICML.
+
+Hsu, C., & Lin, C.. (2002). A comparison of methods for multiclass support vector machines. IEEE Transactions on Neural Networks, 13, 415-425.
+
+Suykens, J.A., & Vandewalle, J.. (1999). Least Squares Support Vector Machine Classifiers. Neural Processing Letters, 9, 293-300.
+
+Hoi, S.C., Jin, R., Lyu, M.R., & Zhu, J.. (2008). Semi-supervised SVM batch mode active learning for image retrieval. CVPR.
+
+Dietterich, T.G., & Wu, P.. (2004). Improving SVM accuracy by training on auxiliary data sources. ICML.
+
+Tipping, M.E.. (2001). Sparse Bayesian Learning and the Relevance Vector Machine. Journal of Machine Learning Research, 1, 211-244.
+
+Campbell, W.M., Quillen, C., & Solomonoff, A.. (2004). Channel compensation for SVM speaker recognition. ODYSSEY.
+
+Avidan, S.. (2001). Support Vector Tracking. CVPR.
+
+Yu, H.. (2005). SVM selective sampling for ranking with application to data retrieval. KDD.
+
+Tan, M., Tsang, I.W., & Wang, L.. (2010). Learning Sparse SVM for Feature Selection on Very High Dimensional Datasets. ICML.
+
+Bartlett, P.L., Huang, L., Rubinstein, B.I., & Taft, N.. (2009). Learning in a Large Function Space: Privacy-Preserving Mechanisms for SVM Learning. CoRR, abs/0911.5708.
+
+Chang, Y., & Lin, C.. (2008). Feature Ranking Using Linear SVM. JMLR.
+
+Bertelli, L., Gokturk, B., Vu, D., & Yu, T.. (2011). Kernelized structural SVM learning for supervised object segmentation. CVPR.
+
+Altun, Y., Hofmann, T., Joachims, T., & Tsochantaridis, I.. (2004). Support vector machine learning for interdependent and structured output spaces. ICML.
+
+Fumera, G., & Roli, F.. (2002). Support Vector Machines with Embedded Reject Option. SVM.
+
+Hauptmann, A.G., Jin, R., Liu, Y., & Yan, R.. (2003). On predicting rare classes with SVM ensembles in scene classification. ICASSP.
+
+Hua, X., Lai, W., Li, S., Mei, T., Wu, X., & Yuan, X.. (2006). Automatic Video Genre Categorization using Hierarchical SVM. ICIP.
+
+Li, Y., & Shawe-Taylor, J.. (2007). The Svm with Uneven Margins and Chinese Document Categorisation.
+
+Neumann, J., Schn?rr, C., & Steidl, G.. (2005). Combined SVM-Based Feature Selection and Classification. Machine Learning, 61, 129-150.
+
+Ganapathiraju, A., Hamaker, J., & Picone, J.. (2000). Hybrid SVM/HMM architectures for speech recognition. INTERSPEECH.
+
+Allen, P.K., Jebara, T., Miller, A.T., & Pelossof, R.. (2004). An SVM Learning Approach to Robotic Grasping. ICRA.
+
+Joachims, T.. (2002). Optimizing search engines using clickthrough data. KDD.
+
+Bontcheva, K., Cunningham, H., & Li, Y.. (2004). SVM Based Learning System for Information Extraction. DSMML.
+
+Hauptmann, A.G., Yang, J., & Yan, R.. (2007). Adapting SVM Classifiers to Data with Shifted Distributions. ICDM.
+
+Bach, F.R., Jordan, M.I., & Lanckriet, G.R.. (2004). Multiple kernel learning, conic duality, and the SMO algorithm. ICML.
+
+Huang, J., Shao, X., & Wechsler, H.. (1998). Face pose discrimination using support vector machines (SVM). ICPR.
+
+Altun, Y., Hofmann, T., Joachims, T., & Tsochantaridis, I.. (2005). Large Margin Methods for Structured and Interdependent Output Variables. Journal of Machine Learning Research, 6, 1453-1484.
+
+Azizpour, H., Carlsson, S., Razavian, A.S., & Sullivan, J.. (2014). CNN Features Off-the-Shelf: An Astounding Baseline for Recognition. CVPR.
+
+Cauwenberghs, G., & Diehl, C.P.. (2003). Svm Incremental Learning, Adaptation and Optimization.
+
+Bhattacharyya, C., Keerthi, S.S., Murthy, K.R., & Shevade, S.K.. (2000). Improvements to the SMO algorithm for SVM regression. IEEE Trans. Neural Netw. Learning Syst., 11, 1188-1193.
+
+Blanzieri, E., & Bryl, A.. (2007). Instance-Based Spam Filtering Using SVM Nearest Neighbor Classifier. FLAIRS.
+
+Bhasin, M., & Raghava, G.P.. (2004). ESLpred: SVM-based method for subcellular localization of eukaryotic proteins using dipeptide composition and PSI-BLAST. Nucleic Acids Research, 32, 414-419.
+
+Chang, S., Jebara, T., Kumar, S., Liu, D., & Yu, F.X.. (2013). ¡Øsvm for Learning with Label Proportions.
+
+Campbell, W.M., Reynolds, D.A., & Sturim, D.E.. (2006). Support vector machines using GMM supervectors for speaker verification. IEEE Signal Process. Lett., 13, 308-311.
+
+Chang, Y., Chang, K., Hsieh, C., Lin, C., & Ringgaard, M.. (2010). Training and Testing Low-degree Polynomial Data Mappings via Linear SVM. Journal of Machine Learning Research, 11, 1471-1490.
+
+Huang, F.J., & LeCun, Y.. (2006). Large-scale Learning with SVM and Convolutional for Generic Object Categorization. CVPR.
+
+Chen, N., Xing, E.P., & Zhu, J.. (2011). Infinite Latent SVM for Classification and Multi-task Learning. NIPS.
+
+Bakir, G.H., Bottou, L., & Weston, J.. (2004). Breaking SVM Complexity with Cross-Training. NIPS.
+
+R?tsch, G., Sonnenburg, S., & Sch?lkopf, B.. (2005). Large scale genomic sequence SVM classifiers. ICML.
+
+Cauwenberghs, G., & Genov, R.. (2002). Kerneltron: Support Vector `Machine' in Silicon. SVM.
+
+Platt, J.C.. (1998). Sequential Minimal Optimization: a Fast Algorithm for Training Support Vector Machines.
+
+Bousquet, O., Lal, T.N., Sch?lkopf, B., Weston, J., & Zhou, D.. (2003). Learning with Local and Global Consistency. NIPS.
+
+Chawla, N.V., Krasser, S., Tang, Y., & Zhang, Y.. (2009). SVMs Modeling for Highly Imbalanced Classification. IEEE Transactions on Systems, Man, and Cybernetics, Part B, 39, 281-288.
+
+Bontcheva, K., Cunningham, H., & Li, Y.. (2005). Using Uneven Margins SVM and Perceptron for Information Extraction. CONLL.
+
+Bordes, A., & Bottou, L.. (2005). The Huller: A Simple and Efficient Online SVM. ECML.
+
+Bang, S.Y., Je, H., Kim, H., Kim, D., & Pang, S.. (2002). Support Vector Machine Ensemble with Bagging. SVM.
+
+Hein, M., Lapin, M., & Schiele, B.. (2014). Learning Using Privileged Information: SVM+ and Weighted SVM. CoRR, abs/1306.3161.
+
+Bontcheva, K., Cunningham, H., & Li, Y.. (2009). Adapting SVM for data sparseness and imbalance: a case study in information extraction. Natural Language Engineering, 15, 241-271.
+
+Tao, D., & Tang, X.. (2004). Random Sampling Based SVM for Relevance Feedback Image Retrieval. CVPR.
+
+Gong, Y., Huang, T.S., Yang, J., & Yu, K.. (2009). Linear spatial pyramid matching using sparse coding for image classification. CVPR.
+
+Wu, J.. (2010). A Fast Dual Method for HIK SVM Learning. ECCV.
+
+Manning, C.D., & Wang, S.I.. (2012). Baselines and Bigrams: Simple, Good Sentiment and Topic Classification. ACL.
+
+Bengio, Y., Bengio, S., & Collobert, R.. (2002). Scaling Large Learning Problems with Hard Parallel Mixtures. SVM.
+
+Ganesh, A., Ma, Y., Sastry, S.S., Wright, J., & Yang, A.Y.. (2009). Robust Face Recognition via Sparse Representation. IEEE Trans. Pattern Anal. Mach. Intell., 31, 210-227.
+
+Joachims, T.. (2000). Estimating the Generalization Performance of an SVM Efficiently. ICML.
+
+Belkin, M., Niyogi, P., & Sindhwani, V.. (2006). Manifold Regularization: A Geometric Framework for Learning from Labeled and Unlabeled Examples. Journal of Machine Learning Research, 7, 2399-2434.
+
+Felzenszwalb, P.F., McAllester, D.A., & Ramanan, D.. (2008). A discriminatively trained, multiscale, deformable part model. CVPR.
+
+Lan, L., Moerchen, F., Wang, Z., & Zhang, K.. (2012). Scaling up Kernel SVM on Limited Resources: A Low-rank Linearization Approach. JMLR.
+
+Drucker, H., Vapnik, V., & Wu, D.. (1999). Support vector machines for spam categorization. IEEE Transactions on Neural Networks, 10, 1048-1054.
+
+Chen, N., Xing, E.P., & Zhu, J.. (2011). Infinite SVM: a Dirichlet Process Mixture of Large-margin Kernel Machines. ICML.
+
+Dietterich, T.G., & Valentini, G.. (2004). Bias-Variance Analysis of Support Vector Machines for the Development of SVM-Based Ensemble Methods. Journal of Machine Learning Research, 5, 725-775.
+
+Hauptmann, A.G., Yang, J., & Yan, R.. (2007). Cross-domain video concept detection using adaptive svms. MM.
+
+Jiang, X., Vaidya, J., & Yu, H.. (2006). Privacy-preserving SVM using nonlinear kernels on horizontally partitioned data. SAC.
+
+Chen, W., Hsu, S., & Shen, H.. (2005). Application of SVM and ANN for intrusion detection. Computers & OR, 32, 2617-2634.
+
+Chan, K.L., Wang, L., & Zhang, Z.. (2003). Bootstrapping SVM Active Learning by Incorporating Unlabelled Images for Image Retrieval. CVPR.
+
+Campbell, W.M.. (2008). A covariance kernel for SVM language recognition. ICASSP.
+
+Huang, Z., Tang, Y., & Zhang, Y.. (2007). Development of Two-Stage SVM-RFE Gene Selection Strategy for Microarray Expression Data Analysis. IEEE/ACM Trans. Comput. Biology Bioinform., 4, 365-381.
+
+Hazan, T., Jhuang, H., & Wolf, L.. (2007). Modeling Appearances with Low-Rank SVM. CVPR.
+
+Bengio, Y., Larochelle, H., Lajoie, I., Manzagol, P., & Vincent, P.. (2010). Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion. Journal of Machine Learning Research, 11, 3371-3408.
+
+Dehak, N., Dehak, R., Dumouchel, P., Kenny, P., & Ouellet, P.. (2011). Front-End Factor Analysis for Speaker Verification. IEEE Transactions on Audio, Speech & Language Processing, 19, 788-798.
+
+Elisseeff, A., & Weston, J.. (2001). A kernel method for multi-labelled classification. NIPS.
+
+Koller, D., & Tong, S.. (2000). Support Vector Machine Active Learning with Application sto Text Classification. ICML.
+
+Han, J., Yu, H., & Yang, J.. (2003). Classifying large data sets using SVMs with hierarchical clusters. KDD.
+
+Blitzer, J., Saul, L.K., & Weinberger, K.Q.. (2005). Distance Metric Learning for Large Margin Nearest Neighbor Classification. NIPS.
+
+Joachims, T.. (1999). Transductive Inference for Text Classification using Support Vector Machines. ICML.
+
+Ayat, N., Cheriet, M., & Suen, C.Y.. (2002). Optimization of the SVM Kernels Using an Empirical Error Minimization Scheme. SVM.
+
+Gu, G., Lee, W., & Perdisci, R.. (2006). Using an Ensemble of One-Class SVM Classifiers to Harden Payload-based Anomaly Detection Systems. ICDM.
+
+Levy, N., & Wolf, L.. (2013). The SVM-Minus Similarity Score for Video Face Recognition. CVPR.
+
+DeCoste, D., & Keerthi, S.S.. (2005). A Modified Finite Newton Method for Fast Solution of Large Scale Linear SVMs. Journal of Machine Learning Research, 6, 341-361.
+
+Boiman, O., Irani, M., & Shechtman, E.. (2008). In defense of Nearest-Neighbor based image classification. CVPR.
+
+Franc, V., Hlav¨¢c, V., & Uricar, M.. (2012). Detector of Facial Landmarks Learned by the Structured Output SVM. VISAPP.
+
+Campbell, C., Girolami, M., & Ying, Y.. (2009). Analysis of SVM with Indefinite Kernels. NIPS.
+
+Chapelle, O.. (2007). Training a Support Vector Machine in the Primal. Neural Computation, 19, 1155-1178.
+
+Finley, T., Joachims, T., Radlinski, F., & Yue, Y.. (2007). A support vector method for optimizing average precision. SIGIR.
+
+Gim¨¦nez, J., & M¨¤rquez, L.. (2003). Fast and accurate part-of-speech tagging: The SVM approach revisited. RANLP.
+
+Hwang, S., Kim, Y., & Yu, H.. (2009). RV-SVM: An Efficient Method for Learning Ranking SVM. PAKDD.
+
+Dai, Y., Liu, B., Li, X., Lee, W.S., & Yu, P.S.. (2003). Building Text Classifiers Using Positive and Unlabeled Examples. ICDM.
+
+Do, T., & Poulet, F.. (2004). Enhancing SVM with Visualization. DIS.
+
+Bazi, Y., & Melgani, F.. (2006). Toward an Optimal SVM Classification System for Hyperspectral Remote Sensing Images. IEEE T. Geoscience and Remote Sensing, 44, 3374-3385.
+
+Evgeniou, T., & Pontil, M.. (2004). Regularized multi--task learning. KDD.
+
+Mori, G., Vahdat, A., Wang, Y., & Yang, W.. (2012). Kernel Latent SVM for Visual Recognition. NIPS.
+
+Bourlard, H., Chen, D., & Thiran, J.. (2001). Text Identification in Complex Background Using SVM. CVPR.
+
+Chan, K.L., Wang, L., & Xue, P.. (2004). Incorporating Prior Knowledge into SVM for Image Retrieval. ICPR.
+
+Hastie, T., Rosset, S., Tibshirani, R., & Zhu, J.. (2004). The Entire Regularization Path for the Support Vector Machine. NIPS.
+
+Li, X., Sung, E., & Wang, L.. (2008). AdaBoost with SVM-based component classifiers. Eng. Appl. of AI, 21, 785-795.
+
+Ahuja, N., Kriegman, D.J., & Yang, M.. (2002). Detecting Faces in Images: A Survey. IEEE Trans. Pattern Anal. Mach. Intell., 24, 34-58.
+
+Finley, T., & Joachims, T.. (2008). Training structural SVMs when exact inference is intractable. ICML.
+
+Chorbev, I., Gjorgjevikj, D., & Madzarov, G.. (2009). A Multi-class SVM Classifier Utilizing Binary Decision Tree. Informatica (Slovenia), 33, 225-233.
+
+Chen, Y., & Wang, J.Z.. (2004). Image Categorization by Learning and Reasoning with Regions. Journal of Machine Learning Research, 5, 913-939.
+
+Dai, H.K., Heisterkamp, D.R., & Peng, J.. (2001). LDA/SVM Driven Nearest Neighbor Classification. CVPR.
+
+Chen, Y., Hu, M., & Kwok, J.T.. (2009). Building Sparse Multiple-Kernel SVM Classifiers. IEEE Transactions on Neural Networks, 20, 827-839.
+
+Akbani, R., Japkowicz, N., & Kwek, S.. (2004). Applying Support Vector Machines to Imbalanced Datasets. ECML.
+
+Joshi, A.K., & Shen, L.. (2003). An SVM-based voting algorithm with application to parse reranking. CONLL.
+
+Chapelle, O., Mukherjee, S., Pontil, M., Poggio, T.A., Vapnik, V., & Weston, J.. (2000). Feature Selection for SVMs. NIPS.
+
+Bang, S.Y., Je, H., Kim, H., Kim, D., & Pang, S.. (2003). Constructing support vector machine ensemble. Pattern Recognition, 36, 2757-2767.
+
+Cherry, C., & Foster, G.. (2012). Batch Tuning Strategies for Statistical Machine Translation. NAACL.
+
+Ares, M., Brown, M.P., Cristianini, N., Furey, T.S., Grundy, W.N., Haussler, D., Lin, D., & Sugnet, C.W.. (1999). Knowledge-based Analysis of Microarray Gene Expression Data by Using Support Vector Machines.
+
+Lee, Y., Wu, Y., & Yang, J.. (2008). Robust and efficient multiclass SVM models for phrase pattern recognition. Pattern Recognition, 41, 2874-2889.
+
+Chang, K., Roth, D., & Srikumar, V.. (2013). Multi-core Structural SVM Training. PKDD.
+
+Wu, Q., & Zhou, D.. (2005). SVM Soft Margin Classifiers: Linear Programming versus Quadratic Programming. Neural Computation, 17, 1160-1187.
+
+Crammer, K., Vucetic, S., & Wang, Z.. (2012). Breaking the curse of kernelization: budgeted stochastic gradient descent for large-scale SVM training. Journal of Machine Learning Research, 13, 3103-3131.
+
+Nadeu, C., & Temko, A.. (2006). Classification of acoustic events using SVM-based clustering schemes. Pattern Recognition, 39, 682-694.
+
+Aggrwal, P., Goyal, P., Jose, C., & Varma, M.. (2013). Local Deep Kernel Learning for Efficient Non-linear SVM Prediction. ICML.
+
+Liu, X., & Yang, Y.. (1999). A Re-Examination of Text Categorization Methods. SIGIR.
+
+R¨¹ping, S.. (2010). SVM Classifier Estimation from Group Probabilities. ICML.
+
+Chua, T., Duan, L., Tsang, I.W., & Xu, D.. (2009). Domain adaptation from multiple sources via auxiliary classifiers. ICML.
+
+Do, H., Kalousis, A., Wang, J., & Woznica, A.. (2012). A metric learning perspective of SVM: on the relation of LMNN and SVM. JMLR.
+
+Bednarski, D.W., Cristianini, N., Duffy, N., Furey, T.S., Haussler, D., & Schummer, M.. (2000). Support vector machine classification and validation of cancer tissue samples using microarray expression data. Bioinformatics, 16, 906-914.
+
+Barnhill, S., Guyon, I., Vapnik, V., & Weston, J.. (2002). Gene Selection for Cancer Classification using Support Vector Machines. Machine Learning, 46, 389-422.
+
+Kim, K.. (2003). Financial time series forecasting using support vector machines. Neurocomputing, 55, 307-319.
+
+Bortolozzi, F., Justino, E.J., & Sabourin, R.. (2005). A comparison of SVM and HMM classifiers in the off-line signature verification. Pattern Recognition Letters, 26, 1377-1385.
+
+Boujelbene, S.Z., Ellouze, N., & Mezghanni, D.B.. (2009). Robust Text Independent Speaker Identification Using Hybrid GMM-SVM System. JDCTA, 3, 103-110.
+
+Fang, L., Hu, Y., & He, G.. (2006). Privacy-Preserving SVM Classification on Vertically Partitioned Data without Secure Multi-party Computation. ICNC.
+
+Chapelle, O., Keerthi, S.S., & Sindhwani, V.. (2006). An Efficient Method for Gradient-Based Adaptation of Hyperparameters in SVM Models. NIPS.
+
+Campbell, W.M., Campbell, J.P., Reynolds, D.A., Singer, E., & Torres-Carrasquillo, P.A.. (2006). Support vector machines for speaker and language recognition. Computer Speech & Language, 20, 210-229.
+
+Dong, J., Krzyzak, A., & Suen, C.Y.. (2005). Fast SVM Training Algorithm with Decomposition on Very Large Data Sets. IEEE Trans. Pattern Anal. Mach. Intell., 27, 603-618.
+
+Bruzzone, L., Chi, M., & Marconcini, M.. (2006). A Novel Transductive SVM for Semisupervised Classification of Remote-Sensing Images. IEEE T. Geoscience and Remote Sensing, 44, 3363-3373.
+
+Burges, C.J., & Crisp, D.J.. (1999). Uniqueness of the SVM Solution. NIPS.
+
+Ayat, N., Cheriet, M., & Suen, C.Y.. (2005). Automatic model selection for the optimization of SVM kernels. Pattern Recognition, 38, 1733-1745.
+
+R?tsch, G., Sonnenburg, S., Sch?fer, C., & Sch?lkopf, B.. (2006). Large Scale Multiple Kernel Learning. Journal of Machine Learning Research, 7, 1531-1565.
+
+Alba, E., Garc¨ªa-Nieto, J., Jourdan, L., & Talbi, E.. (2007). Gene selection in cancer classification using PSO/SVM and GA/SVM hybrid algorithms. CEC.
+
+Avidan, S.. (2003). Subset Selection for Efficient SVM Tracking. CVPR.
+
+Huang, J., Lu, J., & Ling, C.X.. (2003). Comparing Naive Bayes, Decision Trees, and SVM with AUC and Accuracy. ICDM.
+
+Macho, D., Nadeu, C., & Temko, A.. (2007). Enhanced SVM Training for Robust Speech Activity Detection. ICASSP.
+
+Fulkerson, B., & Vedaldi, A.. (2010). Vlfeat: an open and portable library of computer vision algorithms. MM.
+
+Zou, H.. (2007). An Improved 1-norm SVM for Simultaneous Classification and Variable Selection. JMLR.
+
+Kurita, T., & Watanabe, K.. (2008). RANSAC-SVM for large-scale datasets. ICPR.
+
+Donahue, J., Darrell, T., Girshick, R.B., & Malik, J.. (2014). Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation. CVPR.
+
+Campos, M.M., Milenova, B.L., & Yarmus, J.. (2005). SVM in Oracle Database 10g: Removing the Barriers to Widespread Adoption of Support Vector Machines. VLDB.
+
+Diab, M., Hacioglu, K., & Jurafsky, D.. (2004). Automatic Tagging Of Arabic Text: From Raw Text To Base Phrase Chunks.
+
+Chen, Z., Chen, Y., Yang, Q., Yan, J., Zhuang, D., & Zhang, B.. (2005). Efficient Text Classification by Weighted Proximal SVM. ICDM.
+
+Nguyen, M.H., Perez, J., & Torre, F.D.. (2008). Facial feature detection with optimal pixel reduction SVM. FGR.
+
+Bellili, A., Gilloux, M., & Gallinari, P.. (2001). An Hybrid MLP-SVM Handwritten Digit Recognizer. ICDAR.
+
+Byun, H., Kang, S., & Lee, S.. (2002). Real-Time Pedestrian Detection Using Support Vector Machines. SVM.
+
+Gong, P., Zhu, X., Zhao, Z., & Zhang, C.. (2012). Learning similarity metric with SVM. IJCNN.
+
+Brown, M., Gao, J., Gunn, S.R., & Harris, C.J.. (2002). A Probabilistic Framework for SVM Regression and Error Bar Estimation. Machine Learning, 46, 71-89.
+
+Han, T.X., Wang, X., & Yan, S.. (2009). An HOG-LBP human detector with partial occlusion handling. ICCV.
+
+Hammer, B., Strickert, M., & Villmann, T.. (2004). Relevance LVQ versus SVM. ICAISC.
+
+Hazan, T., Man, A., & Shashua, A.. (2008). A Parallel Decomposition Solver for SVM: Distributed dual ascend using Fenchel Duality. CVPR.
+
+Bunescu, R.C., & Pasca, M.. (2006). Using Encyclopedic Knowledge for Named entity Disambiguation. EACL.
+
+Osugi, T.T., Scott, S.D., Tao, Q., & Vinodchandran, N.V.. (2004). SVM-based generalized multiple-instance learning via approximate box counting. ICML.
+
+Caputo, B., Mozos, ¨®.M., & Pronobis, A.. (2008). SVM-based discriminative accumulation scheme for place recognition. ICRA.
+
+Boughorbel, S., Fleuret, F., & Tarel, J.. (2004). Non-Mercer Kernels for SVM Object Recognition. BMVC.
+
+Jaggi, M., Lacoste-Julien, S., Pletscher, P., & Schmidt, M.W.. (2013). Block-Coordinate Frank-Wolfe Optimization for Structural SVMs. ICML.

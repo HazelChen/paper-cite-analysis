@@ -1,0 +1,400 @@
+Leggetter, C.J., & Woodland, P.C.. (1995). Maximum likelihood linear regression for speaker adaptation of continuous density hidden Markov models. Computer Speech & Language, 9, 171-185.
+
+Joachims, T.. (2006). Training linear SVMs in linear time. KDD.
+
+Bazerque, J.A., Giannakis, G.B., & Mateos, G.. (2010). Distributed sparse linear regression. IEEE Transactions on Signal Processing, 58, 5262-5276.
+
+Bennamoun, M., Naseem, I., & Togneri, R.. (2010). Linear Regression for Face Recognition. IEEE Trans. Pattern Anal. Mach. Intell., 32, 2106-2112.
+
+Breiman, L.. (1996). Bagging Predictors. Machine Learning, 24, 123-140.
+
+Smola, A.J., & Schölkopf, B.. (2004). A tutorial on support vector regression. Statistics and Computing, 14, 199-222.
+
+Cristianini, N., & Shawe-Taylor, J.. (2001). An Introduction to Support Vector Machines and Other Kernel-based Learning Methods. DAGLIB.
+
+Gong, Y., Huang, T.S., Yang, J., & Yu, K.. (2009). Linear spatial pyramid matching using sparse coding for image classification. CVPR.
+
+Larsson, E.G., & Selén, Y.. (2006). Linear Regression with a Sparse Parameter Vector. ICASSP.
+
+Han, J., & Kamber, M.. (2000). Data Mining: Concepts and Techniques. MK.
+
+Leggetter, C.J., & Woodland, P.C.. (1995). Maximum likelihood linear regression for speaker adaptation of continuous density hidden Markov models. Computer Speech & Language, 9, 171-185.
+
+Joachims, T.. (2006). Training linear SVMs in linear time. KDD.
+
+Bazerque, J.A., Giannakis, G.B., & Mateos, G.. (2010). Distributed sparse linear regression. IEEE Transactions on Signal Processing, 58, 5262-5276.
+
+Bennamoun, M., Naseem, I., & Togneri, R.. (2010). Linear Regression for Face Recognition. IEEE Trans. Pattern Anal. Mach. Intell., 32, 2106-2112.
+
+Breiman, L.. (1996). Bagging Predictors. Machine Learning, 24, 123-140.
+
+Smola, A.J., & Schölkopf, B.. (2004). A tutorial on support vector regression. Statistics and Computing, 14, 199-222.
+
+Cristianini, N., & Shawe-Taylor, J.. (2001). An Introduction to Support Vector Machines and Other Kernel-based Learning Methods. DAGLIB.
+
+Gong, Y., Huang, T.S., Yang, J., & Yu, K.. (2009). Linear spatial pyramid matching using sparse coding for image classification. CVPR.
+
+Larsson, E.G., & Selén, Y.. (2006). Linear Regression with a Sparse Parameter Vector. ICASSP.
+
+Han, J., & Kamber, M.. (2000). Data Mining: Concepts and Techniques. MK.
+
+Das, A., & Kempe, D.. (2008). Algorithms for subset selection in linear regression. STOC.
+
+Hinton, G.E., & Nair, V.. (2010). Rectified Linear Units Improve Restricted Boltzmann Machines. ICML.
+
+Bishop, C.M., & Nasrabadi, N.M.. (2007). Pattern Recognition and Machine Learning. J. Electronic Imaging, 16, 049901.
+
+Gammerman, A., Saunders, C., & Vovk, V.. (1998). Ridge Regression Learning Algorithm in Dual Variables. ICML.
+
+Cao, X., Sun, J., Wei, Y., & Wen, F.. (2012). Face alignment by Explicit Shape Regression. CVPR.
+
+Farsiu, S., Milanfar, P., & Takeda, H.. (2007). Kernel Regression for Image Processing and Reconstruction. IEEE Transactions on Image Processing, 16, 349-366.
+
+Chen, S., Du, W., & Han, Y.S.. (2004). Privacy-Preserving Multivariate Statistical Analysis: Linear Regression and Classification. SDM.
+
+Diuk, C., Littman, M.L., Szita, I., & Walsh, T.J.. (2009). Exploring compact reinforcement-learning representations with linear regression. UAI.
+
+Dobra, A., & Gehrke, J.. (2002). SECRET: a scalable linear regression tree algorithm. KDD.
+
+Chen, K., Liau, W., Lee, L., & Wang, H.. (2000). Fast speaker adaptation using eigenspace-based maximum likelihood linear regression. INTERSPEECH.
+
+Ganesh, A., Ma, Y., Sastry, S.S., Wright, J., & Yang, A.Y.. (2009). Robust Face Recognition via Sparse Representation. IEEE Trans. Pattern Anal. Mach. Intell., 31, 210-227.
+
+Chang, C., & Lin, C.. (2011). LIBSVM: A library for support vector machines. ACM TIST, 2, 27.
+
+Joseph, P.J., Thazhuthaveetil, M.J., & Vaswani, K.. (2006). Construction and use of linear regression models for processor performance analysis. HPCA.
+
+Karalic, A.. (1992). Employing Linear Regression in Regression Tree Leaves. ECAI.
+
+Vovk, V.. (1997). Competitive On-line Linear Regression. NIPS.
+
+Burges, C.J., Drucker, H., Kaufman, L., Smola, A.J., & Vapnik, V.. (1996). Support Vector Regression Machines. NIPS.
+
+Meng, X., & Mahoney, M.W.. (2013). Low-distortion subspace embeddings in input-sparsity time and applications to robust linear regression. STOC.
+
+Nguyen, D., Rosé, C.P., & Smith, N.A.. (2011). Author Age Prediction from Text using Linear Regression.
+
+Littman, M.L., & Strehl, A.L.. (2007). Online Linear Regression and Its Application to Model-Based Reinforcement Learning. NIPS.
+
+Frank, E., & Witten, I.H.. (1999). Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations. MK.
+
+Lee, C., Myrvoll, T.A., & Siohan, O.. (2002). Structural maximum a posteriori linear regression for fast HMM adaptation. Computer Speech & Language, 16, 5-24.
+
+Bazrafshan, M., Chung, T., & Gildea, D.. (2012). Tuning as Linear Regression. NAACL.
+
+Fazel, M., Parrilo, P.A., & Recht, B.. (2010). Guaranteed Minimum-Rank Solutions of Linear Matrix Equations via Nuclear Norm Minimization. SIAM Review, 52, 471-501.
+
+Jin, Y., & Rao, B.D.. (2010). Algorithms for robust linear regression by exploiting the connection to sparse signal recovery. ICASSP.
+
+Frank, E., Hall, M.A., & Landwehr, N.. (2003). Logistic Model Trees. ECML.
+
+Raskutti, G., Wainwright, M.J., & Yu, B.. (2009). Minimax rates of estimation for high-dimensional linear regression over $\ell_q$-balls.
+
+Dantone, M., Fanelli, G., Gall, J., & Gool, L.J.. (2012). Real-time facial feature detection using conditional regression forests. CVPR.
+
+Mangasarian, O.L., & Musicant, D.R.. (2000). Robust Linear and Support Vector Regression. IEEE Trans. Pattern Anal. Mach. Intell., 22, 950-955.
+
+Schaal, S., & Vijayakumar, S.. (2001). Locally Weighted Projection Regression : an O(n) Algorithm for Incremental Real Time Learning in High Dimensional Space.
+
+Candela, J.Q., & Rasmussen, C.E.. (2005). A Unifying View of Sparse Approximate Gaussian Process Regression. Journal of Machine Learning Research, 6, 1939-1959.
+
+Boulianne, G., Burget, L., Goel, N., Ghoshal, A., Glembek, O., Hannemann, M., Motlíček, P., Povey, D., Qian, Y., Silovsk´y, J., Stemmer, G., Schwarz, P., & Vesel´y, K.. (2013). The Kaldi Speech Recognition Toolkit.
+
+Adelson, E.H., Freeman, W.T., & Tappen, M.F.. (2006). Estimating Intrinsic Component Images using Non-Linear Regression. CVPR.
+
+Bodík, P., Guestrin, C., Madden, S., Paskin, M.A., & Thibaux, R.. (2004). Distributed regression: an efficient framework for modeling sensor network data. IPSN.
+
+Bonnabel, S., Meyer, G., & Sepulchre, R.. (2011). Linear Regression under Fixed-Rank Constraints: A Riemannian Approach. ICML.
+
+Dollár, P., Perona, P., & Welinder, P.. (2010). Cascaded pose regression. CVPR.
+
+Bastien, P., Tenenhaus, M., & Vinzi, V.E.. (2005). PLS generalised linear regression. Computational Statistics & Data Analysis, 48, 17-46.
+
+Csébfalvi, B., Gröller, E., König, A., & Neumann, L.. (2000). Gradient Estimation in Volume Data using 4D Linear Regression. Comput. Graph. Forum, 19, 351-358.
+
+Papineni, K., Roukos, S., Ward, T., & Zhu, W.. (2002). Bleu: a Method for Automatic Evaluation of Machine Translation. ACL.
+
+Asparouhov, O., Scheffer, T., & Vogel, D.S.. (2007). Scalable look-ahead linear regression trees. KDD.
+
+Huang, X., & Pan, W.. (2003). Linear regression and two-class classification with gene expression data. Bioinformatics, 19, 2072-2078.
+
+Chu, W., & Ghahramani, Z.. (2005). Gaussian Processes for Ordinal Regression. Journal of Machine Learning Research, 6, 1019-1041.
+
+Rahimi, A., & Recht, B.. (2007). Random Features for Large-Scale Kernel Machines. NIPS.
+
+Keerthi, S.S., Lin, C., & Weng, R.C.. (2007). Trust region Newton methods for large-scale logistic regression. ICML.
+
+Agarwal, A., & Triggs, B.. (2004). 3D Human Pose from Silhouettes by Relevance Vector Regression. CVPR.
+
+Bradski, G.R., Chu, C., Kim, S.K., Lin, Y., Ng, A.Y., Olukotun, K., & Yu, Y.. (2006). Map-Reduce for Machine Learning on Multicore. NIPS.
+
+Kim, J., & Park, H.. (2010). Fast Active-set-type Algorithms for L1-regularized Linear Regression. JMLR.
+
+Hazan, E., & Koren, T.. (2012). Linear Regression with Limited Observation. ICML.
+
+Frank, E., Hall, M.A., Holmes, G., Pfahringer, B., Reutemann, P., & Witten, I.H.. (2009). The WEKA data mining software: an update. SIGKDD Explorations, 11, 10-18.
+
+Byrne, W., & Gunawardana, A.. (2001). Discriminative speaker adaptation with conditional maximum likelihood linear regression. INTERSPEECH.
+
+Lu, F., Okabe, T., Sugano, Y., & Sato, Y.. (2011). Inferring human gaze from appearance via adaptive linear regression. ICCV.
+
+Lu, Z., Monteiro, R.D., & Yuan, M.. (2012). Convex optimization methods for dimension reduction and coefficient estimation in multivariate linear regression. Math. Program., 131, 163-194.
+
+Blei, D.M., & McAuliffe, J.D.. (2007). Supervised Topic Models. NIPS.
+
+Ferrari-Trecate, G., & Muselli, M.. (2002). A New Learning Method for Piecewise Linear Regression. ICANN.
+
+Torre, F.D., & Xiong, X.. (2013). Supervised Descent Method and Its Applications to Face Alignment. CVPR.
+
+Hatzivassiloglou, V., & McKeown, K.. (1997). Predicting the Semantic Orientation of Adjectives. ACL.
+
+Boyd, S., Koh, K., Kim, S., & Lin, Y.. (2007). An Interior-point Method for Large-scale 1 -regularized Logistic Regression.
+
+Gaffney, S., & Smyth, P.. (1999). Trajectory Clustering with Mixtures of Regression Models. KDD.
+
+Cristinacce, D., & Cootes, T.F.. (2007). Boosted Regression Active Shape Models. BMVC.
+
+Gales, M.J.. (1998). Maximum likelihood linear transformations for HMM-based speech recognition. Computer Speech & Language, 12, 75-98.
+
+Chou, W., & He, X.. (2003). Minimum classification error linear regression for acoustic model adaptation of continuous density HMMs. ICASSP.
+
+Cao, X., Ren, S., Sun, J., & Wei, Y.. (2014). Face Alignment at 3000 FPS via Regressing Local Binary Features. CVPR.
+
+Ye, J.. (2007). Least squares linear discriminant analysis. ICML.
+
+Tipping, M.E.. (2001). Sparse Bayesian Learning and the Relevance Vector Machine. Journal of Machine Learning Research, 1, 211-244.
+
+Cai, D., He, X., & Han, J.. (2007). Spectral Regression for Efficient Regularized Subspace Learning. ICCV.
+
+Frénay, B., & Verleysen, M.. (2011). Parameter-insensitive kernel in extreme learning for non-linear support vector regression. Neurocomputing, 74, 2526-2531.
+
+Agarwal, A., & Triggs, B.. (2006). Recovering 3D Human Pose from Monocular Images. IEEE Trans. Pattern Anal. Mach. Intell., 28, 44-58.
+
+Rosipal, R., & Trejo, L.J.. (2001). Kernel Partial Least Squares Regression in Reproducing Kernel Hilbert Space. Journal of Machine Learning Research, 2, 97-123.
+
+Dempster, A.P., Laird, N.M., Rubin, D.B., & Rdin, D.B.. (2007). Maximum Likelihood from Incomplete Data via the Em Algorithm Maximum Likelihood from Incomplete Data via the Em Algorithm.
+
+Carin, L., Figueiredo, M.A., Hartemink, A.J., & Krishnapuram, B.. (2005). Sparse Multinomial Logistic Regression: Fast Algorithms and Generalization Bounds. IEEE Trans. Pattern Anal. Mach. Intell., 27, 957-968.
+
+Mimno, D.M., & McCallum, A.. (2008). Topic Models Conditioned on Arbitrary Features with Dirichlet-multinomial Regression. UAI.
+
+Dougherty, E.R., Wang, X., & Zhou, X.. (2003). Missing-value estimation using linear and non-linear regression with Bayesian gene selection. Bioinformatics, 19, 2302-2307.
+
+Clarkson, K.L., Drineas, P., Magdon-Ismail, M., Mahoney, M.W., Meng, X., & Woodruff, D.P.. (2013). The Fast Cauchy Transform and Faster Robust Linear Regression. SODA.
+
+Ho, C., & Lin, C.. (2012). Large-scale linear support vector regression. Journal of Machine Learning Research, 13, 3323-3348.
+
+Carreira, J., & Sminchisescu, C.. (2010). Constrained parametric min-cuts for automatic object segmentation. CVPR.
+
+Chaganty, A.T., & Liang, P.. (2013). Spectral Experts for Estimating Mixtures of Linear Regressions. ICML.
+
+DSouza, A., Schaal, S., & Vijayakumar, S.. (2005). Incremental Online Learning in High Dimensions. Neural Computation, 17, 2602-2634.
+
+Chotimongkol, A., & Rudnicky, A.I.. (2001). N-best speech hypotheses reordering using linear regression. INTERSPEECH.
+
+Harrold, M.J., & Rothermel, G.. (1997). A Safe, Efficient Regression Test Selection Technique. ACM Trans. Softw. Eng. Methodol., 6, 173-210.
+
+Costa, J.P., & Torgo, L.. (2000). Clustered Partial Linear Regression. ECML.
+
+Breiman, L.. (1996). Stacked Regressions. Machine Learning, 24, 49-64.
+
+Karypis, G., Konstan, J.A., Riedl, J., & Sarwar, B.M.. (2001). Item-based collaborative filtering recommendation algorithms. WWW.
+
+Lozano, A.C., Ravikumar, P.D., & Yang, E.. (2014). Elementary Estimators for High-Dimensional Linear Regression. ICML.
+
+Maillard, O., & Munos, R.. (2009). Compressed Least-Squares Regression. NIPS.
+
+Cherkassky, V., & Ma, Y.. (2004). Practical selection of SVM parameters and noise estimation for SVM regression. Neural Networks, 17, 113-126.
+
+Guennebaud, G., Gross, M.H., & Öztireli, A.C.. (2009). Feature Preserving Point Set Surfaces based on Non-Linear Kernel Regression. Comput. Graph. Forum, 28, 493-501.
+
+Driessens, K., Goetschalckx, R., & Sanner, S.. (2008). Cost-Sensitive Parsimonious Linear Regression. ICDM.
+
+Culler, D.E., & Whitehouse, K.. (2002). Calibration as parameter estimation in sensor networks. MOBICOM.
+
+Clarkson, K.L., & Woodruff, D.P.. (2009). Numerical linear algebra in the streaming model. STOC.
+
+Sugiyama, M.. (2006). Active Learning in Approximately Linear Regression Based on Conditional Expectation of Generalization Error. Journal of Machine Learning Research, 7, 141-166.
+
+Page, D., & Ray, S.. (2001). Multiple Instance Regression. ICML.
+
+Winslett, M., Xiao, X., Yang, Y., Zhang, J., & Zhang, Z.. (2012). Functional Mechanism: Regression Analysis under Differential Privacy. CoRR, abs/1208.0219.
+
+Elisseeff, A., & Guyon, I.. (2003). An Introduction to Variable and Feature Selection. Journal of Machine Learning Research, 3, 1157-1182.
+
+Caramanis, C., Sanghavi, S., & Yi, X.. (2014). Alternating Minimization for Mixed Linear Regression. ICML.
+
+Chaudhuri, K., & Monteleoni, C.. (2008). Privacy-preserving logistic regression. NIPS.
+
+Tropp, J.A.. (2006). Just relax: convex programming methods for identifying sparse signals in noise. IEEE Transactions on Information Theory, 52, 1030-1051.
+
+Mangasarian, O.L., & Musicant, D.R.. (2002). Large Scale Kernel Regression via Linear Programming. Machine Learning, 46, 255-269.
+
+Chien, J.. (2002). Quasi-Bayes linear regression for sequential learning of hidden Markov models. IEEE Transactions on Speech and Audio Processing, 10, 268-278.
+
+Baroni, M., Dinu, G., Grefenstette, E., Sadrzadeh, M., & Zhang, Y.. (2013). Multi-Step Regression Learning for Compositional Distributional Semantics. CoRR, abs/1301.6939.
+
+Golowich, S.E., Smola, A.J., & Vapnik, V.. (1996). Support Vector Method for Function Approximation, Regression Estimation and Signal Processing. NIPS.
+
+Chu, W., & Keerthi, S.S.. (2005). New approaches to support vector ordinal regression. ICML.
+
+Bengio, S., & Collobert, R.. (2001). SVMTorch: Support Vector Machines for Large-Scale Regression Problems. Journal of Machine Learning Research, 1, 143-160.
+
+Makalic, E., & Schmidt, D.F.. (2009). MML Invariant Linear Regression. AUSAI.
+
+Rasmussen, C.E., & Williams, C.K.. (1995). Gaussian Processes for Regression. NIPS.
+
+Oliva, A., & Torralba, A.. (2001). Modeling the Shape of the Scene: A Holistic Representation of the Spatial Envelope. International Journal of Computer Vision, 42, 145-175.
+
+Rockafellar, R.T., Uryasev, S., & Zabarankin, M.. (2008). Risk Tuning with Generalized Linear Regression. Math. Oper. Res., 33, 712-729.
+
+Tropp, J.A., & Wright, S.J.. (2010). Computational Methods for Sparse Solution of Linear Inverse Problems. Proceedings of the IEEE, 98, 948-958.
+
+Kaban, A.. (2014). New Bounds on Compressive Linear Least Squares Regression. AISTATS.
+
+Collins, M., Schapire, R.E., & Singer, Y.. (2000). Logistic Regression, AdaBoost and Bregman Distances. COLT.
+
+Sarlós, T.. (2006). Improved Approximation Algorithms for Large Matrices via Random Projections. FOCS.
+
+Brooks, D.M., & Lee, B.C.. (2006). Accurate and efficient regression modeling for microarchitectural performance and power prediction. ASPLOS.
+
+Blei, D.M., Hannah, L., & Powell, W.B.. (2010). Dirichlet Process Mixtures of Generalized Linear Models. JMLR.
+
+Coppi, R., Colubi, A., Ferraro, M.B., & Rodríguez, G.G.. (2010). A linear regression model for imprecise response. Int. J. Approx. Reasoning, 51, 759-770.
+
+Plan, Y., & Vershynin, R.. (2013). Robust 1-bit compressed sensing and sparse logistic regression: A convex programming approach. CoRR, abs/1202.1212.
+
+Li, C., & Li, H.. (2010). An Improved Instance Weighted Linear Regression. JCIT, 5, 122-128.
+
+Frank, E., & Xu, X.. (2004). Logistic Regression and Boosting for Labeled Bags of Instances. PAKDD.
+
+Burgard, W., Kersting, K., Plagemann, C., & Pfaff, P.. (2007). Most likely heteroscedastic Gaussian process regression. ICML.
+
+Gerchinovitz, S.. (2011). Sparsity Regret Bounds for Individual Sequences in Online Linear Regression. JMLR.
+
+Gao, W., Liu, X., Ma, S., Xiong, R., & Zhao, D.. (2010). Image interpolation via regularized local linear regression. PCS.
+
+Haussler, D., & Jaakkola, T.S.. (1999). Probabilistic kernel regression models. AISTATS.
+
+Kim, S., & Xing, E.P.. (2010). Tree-Guided Group Lasso for Multi-Task Regression with Structured Sparsity. ICML.
+
+Knowles, D.A., & Salimans, T.. (2012). Fixed-Form Variational Posterior Approximation through Stochastic Linear Regression. CoRR, abs/1206.6679.
+
+Chang, K., Hsieh, C., Keerthi, S.S., Lin, C., & Sundararajan, S.. (2008). A dual coordinate descent method for large-scale linear SVM. ICML.
+
+Boutsidis, C., Drineas, P., & Magdon-Ismail, M.. (2011). Sparse Features for PCA-Like Linear Regression. NIPS.
+
+Comaniciu, D., & Zhou, S.K.. (2007). Shape Regression Machine. IPMI.
+
+Cootes, T.F., Ionita, M.C., Lindner, C., & Sauer, P.. (2012). Robust and Accurate Shape Model Fitting Using Random Forest Regression Voting. ECCV.
+
+DUrso, P., & Santoro, A.. (2006). Fuzzy clusterwise linear regression analysis with symmetrical fuzzy output variable. Computational Statistics & Data Analysis, 51, 287-313.
+
+Eldar, Y.C., Wiesel, A., & Yeredor, A.. (2008). Linear Regression With Gaussian Model Uncertainty: Algorithms and Bounds. IEEE Transactions on Signal Processing, 56, 2194-2205.
+
+Lawrence, N.D., & Urtasun, R.. (2009). Non-linear matrix factorization with Gaussian processes. ICML.
+
+DUrso, P.. (2003). Linear regression analysis for fuzzy/crisp input and fuzzy/crisp output data. Computational Statistics & Data Analysis, 42, 47-72.
+
+Atkeson, C.G., Moore, A.W., & Schaal, S.. (1997). Locally Weighted Learning. Artif. Intell. Rev., 11, 11-73.
+
+Bullitt, E., Davis, B.C., Fletcher, P.T., & Joshi, S.C.. (2007). Population Shape Regression From Random Design Data. ICCV.
+
+Faifer, M., Province, M.A., Rao, D.C., & Shannon, W.D.. (2002). Tree-Based Models for Fiting Stratified Linear Regression Models. J. Classification, 19, 113-130.
+
+Elbaum, S.G., Malishevsky, A.G., & Rothermel, G.. (2000). Prioritizing test cases for regression testing. ISSTA.
+
+Chu, W., & Keerthi, S.S.. (2007). Support Vector Ordinal Regression. Neural Computation, 19, 792-815.
+
+Chin, E., Gupta, M.R., & Garcia, E.K.. (2008). Adaptive Local Linear Regression With Application to Printer Color Management. IEEE Transactions on Image Processing, 17, 936-945.
+
+Asur, S., & Huberman, B.A.. (2010). Predicting the Future with Social Media. WEBI.
+
+Kusy, B., Lédeczi, Á., Maróti, M., & Simon, G.. (2004). The flooding time synchronization protocol. SENSYS.
+
+Liu, H., & Yang, M.. (2003). Fuzzy least-squares algorithms for interactive fuzzy linear regression models. Fuzzy Sets and Systems, 135, 305-316.
+
+Harman, M., Hierons, R.M., & Li, Z.. (2007). Search Algorithms for Regression Test Case Prioritization. IEEE Trans. Software Eng., 33, 225-237.
+
+Ari, B., & Güvenir, H.A.. (2002). Clustered linear regression. Knowl.-Based Syst., 15, 169-175.
+
+Sugiyama, M., & Yamada, M.. (2010). Dependence Minimizing Regression with Model Selection for Non-Linear Causal Inference under Non-Gaussian Noise. AAAI.
+
+Ahmed, A., Xing, E.P., & Zhu, J.. (2009). MedLDA: maximum margin supervised topic models for regression and classification. ICML.
+
+Chai, X., Chen, X., Gao, W., & Shan, S.. (2006). Local Linear Regression (LLR) for Pose Invariant Face Recognition. FGR.
+
+Bourdev, L.D., & Malik, J.. (2009). Poselets: Body part detectors trained using 3D human pose annotations. ICCV.
+
+Lee, W.S., & Liu, B.. (2003). Learning with Positive and Unlabeled Examples Using Weighted Logistic Regression. ICML.
+
+Lee, L., & Pang, B.. (2005). Seeing Stars: Exploiting Class Relationships for Sentiment Categorization with Respect to Rating Scales. ACL.
+
+Dyer, C.R., Fu, Y., Guo, G., & Huang, T.S.. (2008). Image-Based Human Age Estimation by Manifold Learning and Locally Adjusted Robust Regression. IEEE Transactions on Image Processing, 17, 1178-1188.
+
+Chan, A.B., & Vasconcelos, N.. (2009). Bayesian Poisson regression for crowd counting. ICCV.
+
+Kivinen, J., & Warmuth, M.K.. (1997). Relative Loss Bounds for Multidimensional Regression Problems. NIPS.
+
+Bennett, K.P., Demiriz, A., & Shawe-Taylor, J.. (2002). Linear Programming Boosting via Column Generation. Machine Learning, 46, 225-254.
+
+Binefa, X., Martínez, B., Pantic, M., & Valstar, M.F.. (2010). Facial point detection using boosted regression and graph models. CVPR.
+
+Simonyan, K., & Zisserman, A.. (2014). Very Deep Convolutional Networks for Large-Scale Image Recognition. CoRR, abs/1409.1556.
+
+Fei-Fei, L., Li, L., Su, H., & Xing, E.P.. (2010). Object Bank: A High-Level Image Representation for Scene Classification & Semantic Feature Sparsification. NIPS.
+
+Song, L., Sun, J., Wu, M., & Xue, G.. (2011). Foreground estimation based on robust linear regression model. ICIP.
+
+Tesauro, G., & Weinberger, K.Q.. (2007). Metric Learning for Kernel Regression. JMLR.
+
+Vogel, S., Waibel, A., Zhao, B., & Zechner, K.. (2003). Efficient Optimization For Bilingual Sentence Alignment Based On Linear Regression.
+
+Chen, K., Corrado, G.S., Dean, J., Mikolov, T., & Sutskever, I.. (2013). Distributed Representations of Words and Phrases and their Compositionality. NIPS.
+
+Cootes, T.F., Sauer, P., & Taylor, C.J.. (2011). Accurate Regression Procedures for Active Appearance Models. BMVC.
+
+Cortes, C., Mohri, M., & Rostamizadeh, A.. (2009). Learning Non-Linear Combinations of Kernels. NIPS.
+
+Torgo, L.. (1997). Functional Models for Regression Tree Leaves. ICML.
+
+Chen, Z., He, Q., Ma, W., Ma, J., & Zeng, H.. (2004). Learning to cluster web search results. SIGIR.
+
+Caiafa, C.F., Chao, Z.C., Cichocki, A., Fujii, N., Mandic, D.P., Nagasaka, Y., Zhao, Q., & Zhang, L.. (2013). Higher-Order Partial Least Squares (HOPLS): A Generalized Multi-Linear Regression Method. CoRR, abs/1207.1230.
+
+Criminisi, A., Konukoglu, E., Robertson, D.P., & Shotton, J.. (2010). Regression Forests for Efficient Anatomy Detection and Localization in CT Studies. MICCAI.
+
+Lafferty, J., & Rwebangira, M.R.. (2009). Local Linear Semi-supervised Regression.
+
+Nakajima, S., & Sugiyama, M.. (2009). Pool-based active learning in approximate linear regression. Machine Learning, 75, 249-274.
+
+Crammer, K., Dredze, M., & Pereira, F.. (2008). Confidence-weighted linear classification. ICML.
+
+Merz, C.J., & Pazzani, M.J.. (1996). Combining Neural Network Regression Estimates with Regularized Linear Weights. NIPS.
+
+Schein, A.I., & Ungar, L.H.. (2007). Active learning for logistic regression: an evaluation. Machine Learning, 68, 235-265.
+
+Chen, X., Carbonell, J.G., Kim, S., Lin, Q., & Xing, E.P.. (2010). Smoothing proximal gradient method for general structured sparse regression.
+
+Agoulmine, N., Carvalho, C.G., Gomes, D.G., & Souza, J.N.. (2011). Multiple linear regression to improve prediction accuracy in WSN data reduction. LANOMS.
+
+Bailey, J., Liu, W., & Ristanoski, G.. (2013). Time Series Forecasting Using Distribution Enhanced Linear Regression. PAKDD.
+
+Chan, A.B., & Vasconcelos, N.. (2012). Counting People With Low-Level Features and Bayesian Regression. IEEE Transactions on Image Processing, 21, 2160-2177.
+
+Jiang, X., & Lai, J.. (2013). Robust face recognition using trimmed linear regression. ICASSP.
+
+Lawrence, N.D., Seeger, M.W., & Williams, C.K.. (2003). Fast Forward Selection to Speed Up Sparse Gaussian Process Regression. AISTATS.
+
+Criminisi, A., Fitzgibbon, A.W., Girshick, R.B., Kohli, P., & Shotton, J.. (2011). Efficient regression of general-activity human poses from depth images. ICCV.
+
+Graves, T.L., Harrold, M.J., Kim, J., Porter, A.A., & Rothermel, G.. (1998). An Empirical Study of Regression Test Selection Techniques. ICSE.
+
+Sculley, D.. (2010). Combined regression and ranking. KDD.
+
+Gu, A., & Zakhor, A.. (2007). Optical Proximity Correction with Linear Regression.
+
+Gilbert, A.C., & Tropp, J.A.. (2007). Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit. IEEE Transactions on Information Theory, 53, 4655-4666.
+
+Liang, Y., Wang, W., & Xing, E.P.. (2013). Block Regularized Lasso for Multivariate Multi-Response Linear Regression. AISTATS.
+
