@@ -15,9 +15,9 @@
         <module>common</module>
         <module>hbase-util</module>
         <module>data-handle</module>
-        <module>mla-chicago-refine</module>
-        <module>apa-refine</module>
-        <module>bibtex-refine</module>
+        <!--<module>mla-chicago-refine</module>-->
+        <!--<module>apa-refine</module>-->
+        <!--<module>bibtex-refine</module>-->
         <module>inverted-index</module>
         <module>search-analysis</module>
         <module>tokenAnalyzer</module>

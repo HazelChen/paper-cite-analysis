@@ -91,7 +91,7 @@ public class HBaseDAO {
                                String columnFamily, String identifier, String data)
             throws IOException {
         Put p = new Put(Bytes.toBytes(rowKey));
-        p.add(Bytes.toBytes(columnFamily), Bytes.toBytes(identifier), Bytes.toBytes(data));
+        p.addColumn(Bytes.toBytes(columnFamily), Bytes.toBytes(identifier), Bytes.toBytes(data));
         table.put(p);
     }
 
