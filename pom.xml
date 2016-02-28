@@ -19,6 +19,7 @@
         <module>apa-refine</module>
         <module>bibtex-refine</module>
         <module>search-analysis</module>
+        <module>format-extract</module>
     </modules>
 
     <packaging>pom</packaging>
