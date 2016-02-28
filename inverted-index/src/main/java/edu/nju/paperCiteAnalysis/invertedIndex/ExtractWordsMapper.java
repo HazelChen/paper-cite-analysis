@@ -38,12 +38,6 @@ public class ExtractWordsMapper extends TableMapper<Text, Text> {
             participleAndWriteToContext(
                     getValue(value, PropertyConstant.ARTICLE, PropertyConstant.YEAR),
                     rowKey, context);
-            participleAndWriteToContext(
-                    getValue(value, PropertyConstant.ARTICLE, PropertyConstant.VOLUME),
-                    rowKey, context);
-            participleAndWriteToContext(
-                    getValue(value, PropertyConstant.ARTICLE, PropertyConstant.PAGES),
-                    rowKey, context);
         } else {
             //Is inproceedings
             participleAndWriteToContext(
@@ -79,6 +73,7 @@ public class ExtractWordsMapper extends TableMapper<Text, Text> {
         String sentenceString = new String(sentence);
 
         List<String> words = tokenAnalyzer.wordSplit(sentenceString);
+        System.out.println(sentenceString + ": " + words);
 
         Map<String, Integer> wordCountMap = new HashMap<String, Integer>();
         for (String word : words) {
