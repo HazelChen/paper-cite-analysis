@@ -9,7 +9,4 @@ public class HBaseConstant {
     public static final String APA = "APA";
     public static final String CHICAGO = "Chicago";
 
-    public static String getFileName(String column) {
-        return column.toLowerCase();
-    }
 }
