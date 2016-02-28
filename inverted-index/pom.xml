@@ -56,6 +56,11 @@
             <artifactId>hbase-util</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>edu.nju.classifier</groupId>
+            <artifactId>token-analyzer</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
 
         <dependency>

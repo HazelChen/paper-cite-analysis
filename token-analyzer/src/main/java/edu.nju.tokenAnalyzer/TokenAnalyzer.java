@@ -28,7 +28,7 @@ public class TokenAnalyzer {
         //将单词转换成下小写后，过滤无效词汇
         List<String> result = new ArrayList<String>();
         for(String s: resultArray){
-            String standardString = s.toLowerCase();
+            String standardString = s.toLowerCase().trim();
             boolean isStopWord = false;
 
             for(int i = 0;i < ENGLISH_STOP_WORDS.length; i++){
@@ -37,7 +37,7 @@ public class TokenAnalyzer {
                 }
             }
 
-            if(!isStopWord){
+            if(!isStopWord && !s.equals("")){
                 result.add(standardString);
 //                System.out.println(standardString);
             }

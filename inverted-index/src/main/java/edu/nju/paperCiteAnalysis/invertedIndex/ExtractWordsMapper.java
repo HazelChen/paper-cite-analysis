@@ -1,13 +1,12 @@
 package edu.nju.paperCiteAnalysis.invertedIndex;
 
-import edu.nju.classifier.common.HBaseConstant;
 import edu.nju.classifier.common.PropertyConstant;
+import edu.nju.tokenAnalyzer.TokenAnalyzer;
 import org.apache.hadoop.hbase.client.Result;
 import org.apache.hadoop.hbase.io.ImmutableBytesWritable;
 import org.apache.hadoop.hbase.mapreduce.TableMapper;
 import org.apache.hadoop.hbase.util.Bytes;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.yarn.webapp.hamlet.HamletSpec;
 
 import java.io.IOException;
 import java.util.*;
@@ -16,6 +15,7 @@ import java.util.*;
  * Created by hazel on 16-2-27.
  */
 public class ExtractWordsMapper extends TableMapper<Text, Text> {
+    private TokenAnalyzer tokenAnalyzer = new TokenAnalyzer();
 
     public void map(ImmutableBytesWritable row, Result value, Context context)
             throws InterruptedException, IOException {
@@ -78,7 +78,7 @@ public class ExtractWordsMapper extends TableMapper<Text, Text> {
         }
         String sentenceString = new String(sentence);
 
-        List<String> words = participle(sentenceString);
+        List<String> words = tokenAnalyzer.wordSplit(sentenceString);
 
         Map<String, Integer> wordCountMap = new HashMap<String, Integer>();
         for (String word : words) {
@@ -92,13 +92,8 @@ public class ExtractWordsMapper extends TableMapper<Text, Text> {
 
         for (Map.Entry<String, Integer> wordAndCount : wordCountMap.entrySet()) {
             String contextValue = "<" + rowKey + "," + wordAndCount.getValue() + ">";
-            context.write(new Text(rowKey), new Text(contextValue));
+            context.write(new Text(wordAndCount.getKey()), new Text(contextValue));
         }
     }
 
-    //TODO
-    private List<String> participle(String sentenceString) {
-        String[] words =  sentenceString.split(" ");
-        return Arrays.asList(words);
-    }
 }
