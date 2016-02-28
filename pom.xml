@@ -20,6 +20,7 @@
         <module>bibtex-refine</module>
         <module>inverted-index</module>
         <module>search-analysis</module>
+        <module>tokenAnalyzer</module>
     </modules>
 
     <packaging>pom</packaging>
