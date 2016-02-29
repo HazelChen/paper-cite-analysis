@@ -18,7 +18,7 @@ public class SeachEngine {
 
     private TokenAnalyzer tokenAnalyzer;
 
-    private static Map<String, List<String>> invertedIndex;
+    private static Map<String, List<String>> invertedIndex = InvertedIndexFactory.createInvertedIndex();
 
 
     private List<MatchScore> getOrderedList(Map<String, List<Double>> scoreList) {
@@ -42,8 +42,6 @@ public class SeachEngine {
     }
 
     public List<Bibtex> search(String target, int num) {
-
-        invertedIndex = InvertedIndexFactory.createInvertedIndex();
         tokenAnalyzer = new TokenAnalyzer();
 
         Map<String, List<Double>> scoreList = new HashMap<String, List<Double>>();
