@@ -22,6 +22,7 @@
         <module>search-analysis</module>
         <module>format-extract</module>
         <module>token-analyzer</module>
+        <module>search-engine</module>
     </modules>
 
     <packaging>pom</packaging>
