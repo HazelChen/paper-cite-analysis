@@ -59,9 +59,9 @@ public class SeachEngine {
                 //  对符合关键字检索结果的rowkey进行处理
                 for(String rowKey:rowKeys) {
                     String[] tmp = rowKey.trim().split(",");
-                    String row = tmp[0];
-                    double tf = Integer.parseInt(tmp[1]); // term-frequency
-                    double tfidf = (Double)tf / 100 * Math.log(1400/count);   //  term-frequency * inverse document-frequency
+                    String row = tmp[0].trim();
+                    double tf = Double.parseDouble(tmp[1].trim()); // term-frequency
+                    double tfidf = tf / 100 * Math.log(1400/count);   //  term-frequency * inverse document-frequency
                     if(scoreList.containsKey(row))
                         scoreList.get(row).add(tfidf);
                     else {
