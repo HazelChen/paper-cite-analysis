@@ -20,6 +20,7 @@
         <!--<module>bibtex-refine</module>-->
         <module>inverted-index</module>
         <module>search-analysis</module>
+        <module>format-extract</module>
         <module>token-analyzer</module>
     </modules>
 
