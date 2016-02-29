@@ -86,7 +86,8 @@ public class ExtractWordsMapper extends TableMapper<Text, Text> {
         }
 
         for (Map.Entry<String, Integer> wordAndCount : wordCountMap.entrySet()) {
-            String contextValue = "<" + rowKey + "," + wordAndCount.getValue() + ">";
+            String contextValue = "<" + rowKey + "," +
+                    wordAndCount.getValue() * 100 / words.size() + ">";
             context.write(new Text(wordAndCount.getKey()), new Text(contextValue));
         }
     }
