@@ -1,400 +1,400 @@
-﻿Grundmann, Matthias, Vivek Kwatra, Mei Han and Irfan A. Essa. “Efficient hierarchical graph-based video segmentation.” CVPR (2010).
+r1:﻿Grundmann, Matthias, Vivek Kwatra, Mei Han and Irfan A. Essa. “Efficient hierarchical graph-based video segmentation.” CVPR (2010).
 
-Xu, Chenliang, Caiming Xiong and Jason J. Corso. “Streaming Hierarchical Video Segmentation.” ECCV (2012).
+r2:Xu, Chenliang, Caiming Xiong and Jason J. Corso. “Streaming Hierarchical Video Segmentation.” ECCV (2012).
 
-Felzenszwalb, Pedro F. and Daniel P. Huttenlocher. “Efficient Graph-Based Image Segmentation.” International Journal of Computer Vision 59 (2004): 167-181.
+r3:Felzenszwalb, Pedro F. and Daniel P. Huttenlocher. “Efficient Graph-Based Image Segmentation.” International Journal of Computer Vision 59 (2004): 167-181.
 
-Deng, Yining and B. S. Manjunath. “Unsupervised Segmentation of Color-Texture Regions in Images and Video.” IEEE Trans. Pattern Anal. Mach. Intell. 23 (2001): 800-810.
+r4:Deng, Yining and B. S. Manjunath. “Unsupervised Segmentation of Color-Texture Regions in Images and Video.” IEEE Trans. Pattern Anal. Mach. Intell. 23 (2001): 800-810.
 
-Reina, Amelio Vázquez, Shai Avidan, Hanspeter Pfister and Eric L. Miller. “Multiple Hypothesis Video Segmentation from Superpixel Flows.” ECCV (2010).
+r5:Reina, Amelio Vázquez, Shai Avidan, Hanspeter Pfister and Eric L. Miller. “Multiple Hypothesis Video Segmentation from Superpixel Flows.” ECCV (2010).
 
-Lee, Yong Jae, Jaechul Kim and Kristen Grauman. “Key-segments for video object segmentation.” ICCV (2011).
+r6:Lee, Yong Jae, Jaechul Kim and Kristen Grauman. “Key-segments for video object segmentation.” ICCV (2011).
 
-Arbelaez, Pablo, Michael Maire, Charless C. Fowlkes and Jitendra Malik. “Contour Detection and Hierarchical Image Segmentation.” IEEE Trans. Pattern Anal. Mach. Intell. 33 (2011): 898-916.
+r7:Arbelaez, Pablo, Michael Maire, Charless C. Fowlkes and Jitendra Malik. “Contour Detection and Hierarchical Image Segmentation.” IEEE Trans. Pattern Anal. Mach. Intell. 33 (2011): 898-916.
 
-Boykov, Yuri and Marie-Pierre Jolly. “Interactive Graph Cuts for Optimal Boundary and Region Segmentation of Objects in N-D Images.” ICCV (2001).
+r8:Boykov, Yuri and Marie-Pierre Jolly. “Interactive Graph Cuts for Optimal Boundary and Region Segmentation of Objects in N-D Images.” ICCV (2001).
 
-Nguyen, Minh Hoai, Zhen-Zhong Lan and Fernando De la Torre. “Joint segmentation and classification of human actions in video.” CVPR (2011).
+r9:Nguyen, Minh Hoai, Zhen-Zhong Lan and Fernando De la Torre. “Joint segmentation and classification of human actions in video.” CVPR (2011).
 
-Sivic, Josef and Andrew Zisserman. “Video Google: A Text Retrieval Approach to Object Matching in Videos.” ICCV (2003).
+r10:Sivic, Josef and Andrew Zisserman. “Video Google: A Text Retrieval Approach to Object Matching in Videos.” ICCV (2003).
 
-Grundmann, Matthias, Vivek Kwatra, Mei Han and Irfan A. Essa. “Efficient hierarchical graph-based video segmentation.” CVPR (2010).
+r11:Grundmann, Matthias, Vivek Kwatra, Mei Han and Irfan A. Essa. “Efficient hierarchical graph-based video segmentation.” CVPR (2010).
 
-Galasso, Fabio, Naveen Shankar Nagaraja, Tatiana Jimenez Cardenas, Thomas Brox and Bernt Schiele. “A Unified Video Segmentation Benchmark: Annotation, Metrics and Analysis.” ICCV (2013).
+r12:Galasso, Fabio, Naveen Shankar Nagaraja, Tatiana Jimenez Cardenas, Thomas Brox and Bernt Schiele. “A Unified Video Segmentation Benchmark: Annotation, Metrics and Analysis.” ICCV (2013).
 
-Galasso, Fabio, Roberto Cipolla and Bernt Schiele. “Video Segmentation with Superpixels.” ACCV (2012).
+r13:Galasso, Fabio, Roberto Cipolla and Bernt Schiele. “Video Segmentation with Superpixels.” ACCV (2012).
 
-Lezama, J., Karteek Alahari, Josef Sivic and Ivan Laptev. “Track to the future: Spatio-temporal video segmentation with long-range motion cues.” CVPR (2011).
+r14:Lezama, J., Karteek Alahari, Josef Sivic and Ivan Laptev. “Track to the future: Spatio-temporal video segmentation with long-range motion cues.” CVPR (2011).
 
-Bai, Xue and Guillermo Sapiro. “A Geodesic Framework for Fast Interactive Image and Video Segmentation and Matting.” ICCV (2007).
+r15:Bai, Xue and Guillermo Sapiro. “A Geodesic Framework for Fast Interactive Image and Video Segmentation and Matting.” ICCV (2007).
 
-Brendel, William and Sinisa Todorovic. “Video object segmentation by tracking regions.” ICCV (2009).
+r16:Brendel, William and Sinisa Todorovic. “Video object segmentation by tracking regions.” ICCV (2009).
 
-Papazoglou, Anestis and Vittorio Ferrari. “Fast Object Segmentation in Unconstrained Video.” ICCV (2013).
+r17:Papazoglou, Anestis and Vittorio Ferrari. “Fast Object Segmentation in Unconstrained Video.” ICCV (2013).
 
-Elhamifar, Ehsan and René Vidal. “Sparse subspace clustering.” CVPR (2009).
+r18:Elhamifar, Ehsan and René Vidal. “Sparse subspace clustering.” CVPR (2009).
 
-Boykov, Yuri and Gareth Funka-Lea. “Graph Cuts and Efficient N-D Image Segmentation.” International Journal of Computer Vision 70 (2006): 109-131.
+r19:Boykov, Yuri and Gareth Funka-Lea. “Graph Cuts and Efficient N-D Image Segmentation.” International Journal of Computer Vision 70 (2006): 109-131.
 
-Wiegand, Thomas, Gary J. Sullivan, Gisle Bjntegaard and Ajay Luthra. “Overview of the H.264/AVC video coding standard.” IEEE Trans. Circuits Syst. Video Techn. 13 (2003): 560-576.
+r20:Wiegand, Thomas, Gary J. Sullivan, Gisle Bjntegaard and Ajay Luthra. “Overview of the H.264/AVC video coding standard.” IEEE Trans. Circuits Syst. Video Techn. 13 (2003): 560-576.
 
-Ren, Xiaofeng and Chunhui Gu. “Figure-ground segmentation improves handled object recognition in egocentric video.” CVPR (2010).
+r21:Ren, Xiaofeng and Chunhui Gu. “Figure-ground segmentation improves handled object recognition in egocentric video.” CVPR (2010).
 
-Correia, Paulo L. and Fernando Manuel Bernardo Pereira. “Objective evaluation of video segmentation quality.” IEEE Transactions on Image Processing 12 (2003): 186-200.
+r22:Correia, Paulo L. and Fernando Manuel Bernardo Pereira. “Objective evaluation of video segmentation quality.” IEEE Transactions on Image Processing 12 (2003): 186-200.
 
-Wang, Jue, Bo Thiesson, Yingqing Xu and Michael F. Cohen. “Image and Video Segmentation by Anisotropic Kernel Mean Shift.” ECCV (2004).
+r23:Wang, Jue, Bo Thiesson, Yingqing Xu and Michael F. Cohen. “Image and Video Segmentation by Anisotropic Kernel Mean Shift.” ECCV (2004).
 
-Karpathy, Andrej, George Toderici, Sanketh Shetty, Thomas Leung, Rahul Sukthankar and Li Fei-Fei. “Large-Scale Video Classification with Convolutional Neural Networks.” CVPR (2014).
+r24:Karpathy, Andrej, George Toderici, Sanketh Shetty, Thomas Leung, Rahul Sukthankar and Li Fei-Fei. “Large-Scale Video Classification with Convolutional Neural Networks.” CVPR (2014).
 
-Huang, Yuchi, Qingshan Liu and Dimitris N. Metaxas. “Video object segmentation by hypergraph cut.” CVPR (2009).
+r25:Huang, Yuchi, Qingshan Liu and Dimitris N. Metaxas. “Video object segmentation by hypergraph cut.” CVPR (2009).
 
-Bai, Xue, Jue Wang, David Simons and Guillermo Sapiro. “Video SnapCut: robust video object cutout using localized classifiers.” ACM Trans. Graph. 28 (2009): n. pag.
+r26:Bai, Xue, Jue Wang, David Simons and Guillermo Sapiro. “Video SnapCut: robust video object cutout using localized classifiers.” ACM Trans. Graph. 28 (2009): n. pag.
 
-Wang, Jue, Yingqing Xu, Heung-Yeung Shum and Michael F. Cohen. “Video tooning.” ACM Trans. Graph. 23 (2004): 574-583.
+r27:Wang, Jue, Yingqing Xu, Heung-Yeung Shum and Michael F. Cohen. “Video tooning.” ACM Trans. Graph. 23 (2004): 574-583.
 
-Hampapur, Arun, Ramesh Jain and Terry E. Weymouth. “Production Model Based Digital Video Segmentation.” Multimedia Tools Appl. 1 (1995): 9-46.
+r28:Hampapur, Arun, Ramesh Jain and Terry E. Weymouth. “Production Model Based Digital Video Segmentation.” Multimedia Tools Appl. 1 (1995): 9-46.
 
-Kumar, M. Pawan, Philip H. S. Torr and Andrew Zisserman. “Learning Layered Motion Segmentation of Video.” ICCV (2005).
+r29:Kumar, M. Pawan, Philip H. S. Torr and Andrew Zisserman. “Learning Layered Motion Segmentation of Video.” ICCV (2005).
 
-Hampapur, Arun, Ramesh Jain and Terry E. Weymouth. “Production Model Based Digital Video Segmentation.” Multimedia Tools Appl. 1 (1995): 9-46.
+r30:Hampapur, Arun, Ramesh Jain and Terry E. Weymouth. “Production Model Based Digital Video Segmentation.” Multimedia Tools Appl. 1 (1995): 9-46.
 
-Yin, Pei, Antonio Criminisi, John M. Winn and Irfan A. Essa. “Tree-based Classifiers for Bilayer Video Segmentation.” CVPR (2007).
+r31:Yin, Pei, Antonio Criminisi, John M. Winn and Irfan A. Essa. “Tree-based Classifiers for Bilayer Video Segmentation.” CVPR (2007).
 
-Shotton, Jamie, Matthew Johnson and Roberto Cipolla. “Semantic texton forests for image categorization and segmentation.” CVPR (2008).
+r32:Shotton, Jamie, Matthew Johnson and Roberto Cipolla. “Semantic texton forests for image categorization and segmentation.” CVPR (2008).
 
-Zhang, Dong, Omar Javed and Mubarak Shah. “Video Object Segmentation through Spatially Accurate and Temporally Dense Extraction of Primary Object Regions.” CVPR (2013).
+r33:Zhang, Dong, Omar Javed and Mubarak Shah. “Video Object Segmentation through Spatially Accurate and Temporally Dense Extraction of Primary Object Regions.” CVPR (2013).
 
-Chiu, Walon Wei-Chen and Mario Fritz. “Multi-class Video Co-segmentation with a Generative Multi-video Model.” CVPR (2013).
+r34:Chiu, Walon Wei-Chen and Mario Fritz. “Multi-class Video Co-segmentation with a Generative Multi-video Model.” CVPR (2013).
 
-Khan, Sohaib and Mubarak Shah. “Object Based Segmentation of Video Using Color, Motion and Spatial Information.” CVPR (2001).
+r35:Khan, Sohaib and Mubarak Shah. “Object Based Segmentation of Video Using Color, Motion and Spatial Information.” CVPR (2001).
 
-Brostow, Gabriel J., Jamie Shotton, Julien Fauqueur and Roberto Cipolla. “Segmentation and Recognition Using Structure from Motion Point Clouds.” ECCV (2008).
+r36:Brostow, Gabriel J., Jamie Shotton, Julien Fauqueur and Roberto Cipolla. “Segmentation and Recognition Using Structure from Motion Point Clouds.” ECCV (2008).
 
-Kender, John R. and Boon-Lock Yeo. “Video Scene Segmentation via Continuous Video Coherence.” CVPR (1998).
+r37:Kender, John R. and Boon-Lock Yeo. “Video Scene Segmentation via Continuous Video Coherence.” CVPR (1998).
 
-Kolmogorov, Vladimir, Antonio Criminisi, Andrew Blake, Geoffrey Cross and Carsten Rother. “Bi-Layer Segmentation of Binocular Stereo Video.” CVPR (2005).
+r38:Kolmogorov, Vladimir, Antonio Criminisi, Andrew Blake, Geoffrey Cross and Carsten Rother. “Bi-Layer Segmentation of Binocular Stereo Video.” CVPR (2005).
 
-Ochs, Peter and Thomas Brox. “Object segmentation in video: A hierarchical variational approach for turning point trajectories into dense regions.” ICCV (2011).
+r39:Ochs, Peter and Thomas Brox. “Object segmentation in video: A hierarchical variational approach for turning point trajectories into dense regions.” ICCV (2011).
 
-Li, Yin, Jian Sun and Heung-Yeung Shum. “Video object cut and paste.” ACM Trans. Graph. 24 (2005): 595-600.
+r40:Li, Yin, Jian Sun and Heung-Yeung Shum. “Video object cut and paste.” ACM Trans. Graph. 24 (2005): 595-600.
 
-Yin, Pei, Antonio Criminisi, John M. Winn and Irfan A. Essa. “Tree-based Classifiers for Bilayer Video Segmentation.” CVPR (2007).
+r41:Yin, Pei, Antonio Criminisi, John M. Winn and Irfan A. Essa. “Tree-based Classifiers for Bilayer Video Segmentation.” CVPR (2007).
 
-Ma, Tianyang and Longin Jan Latecki. “Maximum weight cliques with mutex constraints for video object segmentation.” CVPR (2012).
+r42:Ma, Tianyang and Longin Jan Latecki. “Maximum weight cliques with mutex constraints for video object segmentation.” CVPR (2012).
 
-Rubio, José C., Joan Serrat and Antonio M. López. “Video Co-segmentation.” ACCV (2012).
+r43:Rubio, José C., Joan Serrat and Antonio M. López. “Video Co-segmentation.” ACCV (2012).
 
-Zitnick, C. Lawrence, Sing Bing Kang, Matthew Uyttendaele, Simon A. J. Winder and Richard Szeliski. “High-quality video view interpolation using a layered representation.” ACM Trans. Graph. 23 (2004): 600-608.
+r44:Zitnick, C. Lawrence, Sing Bing Kang, Matthew Uyttendaele, Simon A. J. Winder and Richard Szeliski. “High-quality video view interpolation using a layered representation.” ACM Trans. Graph. 23 (2004): 600-608.
 
-Hauptmann, Alexander G. and Michael J. Witbrock. “Story Segmentation and Detection of Commercials in Broadcast News Video.” ADL (1998).
+r45:Hauptmann, Alexander G. and Michael J. Witbrock. “Story Segmentation and Detection of Commercials in Broadcast News Video.” ADL (1998).
 
-Sigal, Leonid, Stan Sclaroff and Vassilis Athitsos. “Skin Color-Based Video Segmentation under Time-Varying Illumination.” IEEE Trans. Pattern Anal. Mach. Intell. 26 (2004): 862-877.
+r46:Sigal, Leonid, Stan Sclaroff and Vassilis Athitsos. “Skin Color-Based Video Segmentation under Time-Varying Illumination.” IEEE Trans. Pattern Anal. Mach. Intell. 26 (2004): 862-877.
 
-Wang, Jue, Pravin Bhat, Alex Colburn, Maneesh Agrawala and Michael F. Cohen. “Interactive video cutout.” ACM Trans. Graph. 24 (2005): 585-594.
+r47:Wang, Jue, Pravin Bhat, Alex Colburn, Maneesh Agrawala and Michael F. Cohen. “Interactive video cutout.” ACM Trans. Graph. 24 (2005): 585-594.
 
-Paris, Sylvain. “Edge-Preserving Smoothing and Mean-Shift Segmentation of Video Streams.” ECCV (2008).
+r48:Paris, Sylvain. “Edge-Preserving Smoothing and Mean-Shift Segmentation of Video Streams.” ECCV (2008).
 
-Li, Fuxin, Taeyoung Kim, Ahmad Humayun, David Tsai and James M. Rehg. “Video Segmentation by Tracking Many Figure-Ground Segments.” ICCV (2013).
+r49:Li, Fuxin, Taeyoung Kim, Ahmad Humayun, David Tsai and James M. Rehg. “Video Segmentation by Tracking Many Figure-Ground Segments.” ICCV (2013).
 
-Sundaram, Hari and Shih-Fu Chang. “Video Scene Segmentation using Video and Audio Features.” ICMCS (2000).
+r50:Sundaram, Hari and Shih-Fu Chang. “Video Scene Segmentation using Video and Audio Features.” ICMCS (2000).
 
-Brand, Matthew and Vera Kettnaker. “Discovery and Segmentation of Activities in Video.” IEEE Trans. Pattern Anal. Mach. Intell. 22 (2000): 844-851.
+r51:Brand, Matthew and Vera Kettnaker. “Discovery and Segmentation of Activities in Video.” IEEE Trans. Pattern Anal. Mach. Intell. 22 (2000): 844-851.
 
-Günsel, Bilge, A. Müfit Ferman and A. Murat Tekalp. “Temporal video segmentation using unsupervised clustering and semantic object tracking.” J. Electronic Imaging 7 (1998): 592-604.
+r52:Günsel, Bilge, A. Müfit Ferman and A. Murat Tekalp. “Temporal video segmentation using unsupervised clustering and semantic object tracking.” J. Electronic Imaging 7 (1998): 592-604.
 
-Erdem, Çigdem Eroglu, Bülent Sankur and A. Murat Tekalp. “Performance measures for video object segmentation and tracking.” VCIP (2003).
+r53:Erdem, Çigdem Eroglu, Bülent Sankur and A. Murat Tekalp. “Performance measures for video object segmentation and tracking.” VCIP (2003).
 
-Shotton, Jamie, John M. Winn, Carsten Rother and Antonio Criminisi. “TextonBoost for Image Understanding: Multi-Class Object Recognition and Segmentation by Jointly Modeling Texture, Layout, and Context.” International Journal of Computer Vision 81 (2009): 2-23.
+r54:Shotton, Jamie, John M. Winn, Carsten Rother and Antonio Criminisi. “TextonBoost for Image Understanding: Multi-Class Object Recognition and Segmentation by Jointly Modeling Texture, Layout, and Context.” International Journal of Computer Vision 81 (2009): 2-23.
 
-Friedman, Nir and Stuart J. Russell. “Image Segmentation in Video Sequences: A Probabilistic Approach.” UAI (1997).
+r55:Friedman, Nir and Stuart J. Russell. “Image Segmentation in Video Sequences: A Probabilistic Approach.” UAI (1997).
 
-Qi, Yanjun, Alexander G. Hauptmann and Ting Liu. “Supervised classification for video shot segmentation.” ICMCS (2003).
+r56:Qi, Yanjun, Alexander G. Hauptmann and Ting Liu. “Supervised classification for video shot segmentation.” ICMCS (2003).
 
-Galasso, Fabio, Margret Keuper, Thomas Brox and Bernt Schiele. “Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation.” CVPR (2014).
+r57:Galasso, Fabio, Margret Keuper, Thomas Brox and Bernt Schiele. “Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation.” CVPR (2014).
 
-Niebles, Juan Carlos, Hongcheng Wang and Li Fei-Fei. “Unsupervised Learning of Human Action Categories Using Spatial-Temporal Words.” BMVC (2006).
+r58:Niebles, Juan Carlos, Hongcheng Wang and Li Fei-Fei. “Unsupervised Learning of Human Action Categories Using Spatial-Temporal Words.” BMVC (2006).
 
-Zhong, Hua, Jianbo Shi and Mirkó Visontai. “Detecting Unusual Activity in Video.” CVPR (2004).
+r59:Zhong, Hua, Jianbo Shi and Mirkó Visontai. “Detecting Unusual Activity in Video.” CVPR (2004).
 
-Cheng, Hsien-Ting and Narendra Ahuja. “Exploiting nonlocal spatiotemporal structure for video segmentation.” CVPR (2012).
+r60:Cheng, Hsien-Ting and Narendra Ahuja. “Exploiting nonlocal spatiotemporal structure for video segmentation.” CVPR (2012).
 
-Brand, Matthew and Vera Kettnaker. “Discovery and Segmentation of Activities in Video.” IEEE Trans. Pattern Anal. Mach. Intell. 22 (2000): 844-851.
+r61:Brand, Matthew and Vera Kettnaker. “Discovery and Segmentation of Activities in Video.” IEEE Trans. Pattern Anal. Mach. Intell. 22 (2000): 844-851.
 
-Dimitrova, Nevenka, Lalitha Agnihotri, Mauro Barbieri and Hans Weda. “Video Segmentation.” DB (2009).
+r62:Dimitrova, Nevenka, Lalitha Agnihotri, Mauro Barbieri and Hans Weda. “Video Segmentation.” DB (2009).
 
-Chan, Antoni B. and Nuno Vasconcelos. “Modeling, Clustering, and Segmenting Video with Mixtures of Dynamic Textures.” IEEE Trans. Pattern Anal. Mach. Intell. 30 (2008): 909-926.
+r63:Chan, Antoni B. and Nuno Vasconcelos. “Modeling, Clustering, and Segmenting Video with Mixtures of Dynamic Textures.” IEEE Trans. Pattern Anal. Mach. Intell. 30 (2008): 909-926.
 
-Petersohn, Christian. “Temporal video segmentation.” DE (2010).
+r64:Petersohn, Christian. “Temporal video segmentation.” DE (2010).
 
-Liu, Lijie and Guoliang Fan. “Combined key-frame extraction and object-based video segmentation.” IEEE Trans. Circuits Syst. Video Techn. 15 (2005): 869-884.
+r65:Liu, Lijie and Guoliang Fan. “Combined key-frame extraction and object-based video segmentation.” IEEE Trans. Circuits Syst. Video Techn. 15 (2005): 869-884.
 
-Chen, Xiaobai, Aleksey Golovinskiy and Thomas A. Funkhouser. “A benchmark for 3D mesh segmentation.” ACM Trans. Graph. 28 (2009): n. pag.
+r66:Chen, Xiaobai, Aleksey Golovinskiy and Thomas A. Funkhouser. “A benchmark for 3D mesh segmentation.” ACM Trans. Graph. 28 (2009): n. pag.
 
-Mezaris, Vasileios, Ioannis Kompatsiaris, Nikolaos V. Boulgouris and Michael G. Strintzis. “Real-time compressed-domain spatiotemporal segmentation and ontologies for video indexing and retrieval.” IEEE Trans. Circuits Syst. Video Techn. 14 (2004): 606-621.
+r67:Mezaris, Vasileios, Ioannis Kompatsiaris, Nikolaos V. Boulgouris and Michael G. Strintzis. “Real-time compressed-domain spatiotemporal segmentation and ontologies for video indexing and retrieval.” IEEE Trans. Circuits Syst. Video Techn. 14 (2004): 606-621.
 
-Kim, Changick and Jenq-Neng Hwang. “Fast and automatic video object segmentation and tracking for content-based applications.” IEEE Trans. Circuits Syst. Video Techn. 12 (2002): 122-129.
+r68:Kim, Changick and Jenq-Neng Hwang. “Fast and automatic video object segmentation and tracking for content-based applications.” IEEE Trans. Circuits Syst. Video Techn. 12 (2002): 122-129.
 
-Schödl, Arno, Richard Szeliski, David Salesin and Irfan A. Essa. “Video textures.” SIGGRAPH (2000).
+r69:Schödl, Arno, Richard Szeliski, David Salesin and Irfan A. Essa. “Video textures.” SIGGRAPH (2000).
 
-Criminisi, Antonio, Toby Sharp and Andrew Blake. “GeoS: Geodesic Image Segmentation.” ECCV (2008).
+r70:Criminisi, Antonio, Toby Sharp and Andrew Blake. “GeoS: Geodesic Image Segmentation.” ECCV (2008).
 
-Shotton, Jamie, John M. Winn, Carsten Rother and Antonio Criminisi. “TextonBoost: Joint Appearance, Shape and Context Modeling for Multi-class Object Recognition and Segmentation.” ECCV (2006).
+r71:Shotton, Jamie, John M. Winn, Carsten Rother and Antonio Criminisi. “TextonBoost: Joint Appearance, Shape and Context Modeling for Multi-class Object Recognition and Segmentation.” ECCV (2006).
 
-Fu, Huazhu, Dong Xu, Bao Zhang and Stephen Lin. “Object-Based Multiple Foreground Video Co-segmentation.” CVPR (2014).
+r72:Fu, Huazhu, Dong Xu, Bao Zhang and Stephen Lin. “Object-Based Multiple Foreground Video Co-segmentation.” CVPR (2014).
 
-Poleg, Yair, Chetan Arora and Shmuel Peleg. “Temporal Segmentation of Egocentric Videos.” CVPR (2014).
+r73:Poleg, Yair, Chetan Arora and Shmuel Peleg. “Temporal Segmentation of Egocentric Videos.” CVPR (2014).
 
-Budvytis, Ignas, Vijay Badrinarayanan and Roberto Cipolla. “Semi-supervised video segmentation using tree structured graphical models.” CVPR (2011).
+r74:Budvytis, Ignas, Vijay Badrinarayanan and Roberto Cipolla. “Semi-supervised video segmentation using tree structured graphical models.” CVPR (2011).
 
-Fragkiadaki, Katerina, Geng Zhang and Jianbo Shi. “Video segmentation by tracing discontinuities in a trajectory embedding.” CVPR (2012).
+r75:Fragkiadaki, Katerina, Geng Zhang and Jianbo Shi. “Video segmentation by tracing discontinuities in a trajectory embedding.” CVPR (2012).
 
-Feng, Shaolei, Raghavan Manmatha and Victor Lavrenko. “Multiple Bernoulli Relevance Models for Image and Video Annotation.” CVPR (2004).
+r76:Feng, Shaolei, Raghavan Manmatha and Victor Lavrenko. “Multiple Bernoulli Relevance Models for Image and Video Annotation.” CVPR (2004).
 
-Apostoloff, Nicholas and Andrew W. Fitzgibbon. “Automatic Video Segmentation using Spatiotemporal T-Junctions.” BMVC (2006).
+r77:Apostoloff, Nicholas and Andrew W. Fitzgibbon. “Automatic Video Segmentation using Spatiotemporal T-Junctions.” BMVC (2006).
 
-Xu, Peng, Lexing Xie, Shih-Fu Chang, Ajay Divakaran, Anthony Vetro and Huifang Sun. “Algorithms And System For Segmentation And Structure Analysis In Soccer Video.” ICMCS (2001).
+r78:Xu, Peng, Lexing Xie, Shih-Fu Chang, Ajay Divakaran, Anthony Vetro and Huifang Sun. “Algorithms And System For Segmentation And Structure Analysis In Soccer Video.” ICMCS (2001).
 
-Boreczky, John S. and Lynn D. Wilcox. “A hidden Markov model framework for video segmentation using audio and image features.” ICASSP (1998).
+r79:Boreczky, John S. and Lynn D. Wilcox. “A hidden Markov model framework for video segmentation using audio and image features.” ICASSP (1998).
 
-Couprie, Camille, Clément Farabet, Yann LeCun and Laurent Najman. “Causal graph-based video segmentation.” ICIP (2013).
+r80:Couprie, Camille, Clément Farabet, Yann LeCun and Laurent Najman. “Causal graph-based video segmentation.” ICIP (2013).
 
-Sun, Shijun, David R. Haynor and Yongmin Kim. “Semiautomatic video object segmentation using VSnakes.” IEEE Trans. Circuits Syst. Video Techn. 13 (2003): 75-82.
+r81:Sun, Shijun, David R. Haynor and Yongmin Kim. “Semiautomatic video object segmentation using VSnakes.” IEEE Trans. Circuits Syst. Video Techn. 13 (2003): 75-82.
 
-Salembier, Philippe and Ferran Marqués. “Region-based representations of image and video: segmentation tools for multimedia services.” IEEE Trans. Circuits Syst. Video Techn. 9 (1999): 1147-1169.
+r82:Salembier, Philippe and Ferran Marqués. “Region-based representations of image and video: segmentation tools for multimedia services.” IEEE Trans. Circuits Syst. Video Techn. 9 (1999): 1147-1169.
 
-Wang, John Y A and Edward H. Adelson. “Spatio-temporal Segmentation of Video Data.” (1996).
+r83:Wang, John Y A and Edward H. Adelson. “Spatio-temporal Segmentation of Video Data.” (1996).
 
-Chien, Shao-Yi, Yu-Wen Huang and Liang-Gee Chen. “Predictive watershed: a fast watershed algorithm for video segmentation.” IEEE Trans. Circuits Syst. Video Techn. 13 (2003): 453-461.
+r84:Chien, Shao-Yi, Yu-Wen Huang and Liang-Gee Chen. “Predictive watershed: a fast watershed algorithm for video segmentation.” IEEE Trans. Circuits Syst. Video Techn. 13 (2003): 453-461.
 
-Cucchiara, Rita, Costantino Grana, Massimo Piccardi and Andrea Prati. “Detecting Moving Objects, Ghosts, and Shadows in Video Streams.” IEEE Trans. Pattern Anal. Mach. Intell. 25 (2003): 1337-1342.
+r85:Cucchiara, Rita, Costantino Grana, Massimo Piccardi and Andrea Prati. “Detecting Moving Objects, Ghosts, and Shadows in Video Streams.” IEEE Trans. Pattern Anal. Mach. Intell. 25 (2003): 1337-1342.
 
-Price, Brian L., Bryan S. Morse and Scott Cohen. “LIVEcut: Learning-based interactive video segmentation by evaluation of multiple propagated cues.” ICCV (2009).
+r86:Price, Brian L., Bryan S. Morse and Scott Cohen. “LIVEcut: Learning-based interactive video segmentation by evaluation of multiple propagated cues.” ICCV (2009).
 
-Guimar?es, Silvio Jamil Ferzoli, Michel Couprie, Arnaldo de Albuquerque Araújo and Neucimar Jer?nimo Leite. “Video segmentation based on 2D image analysis.” Pattern Recognition Letters 24 (2003): 947-957.
+r87:Guimar?es, Silvio Jamil Ferzoli, Michel Couprie, Arnaldo de Albuquerque Araújo and Neucimar Jer?nimo Leite. “Video segmentation based on 2D image analysis.” Pattern Recognition Letters 24 (2003): 947-957.
 
-Sundaram, Narayanan and Kurt Keutzer. “Long term video segmentation through pixel level spectral clustering on GPUs.” ICCVW (2011).
+r88:Sundaram, Narayanan and Kurt Keutzer. “Long term video segmentation through pixel level spectral clustering on GPUs.” ICCVW (2011).
 
-Kwatra, Vivek, Arno Sch?dl, Irfan A. Essa, Greg Turk and Aaron F. Bobick. “Graphcut textures: image and video synthesis using graph cuts.” ACM Trans. Graph. 22 (2003): 277-286.
+r89:Kwatra, Vivek, Arno Sch?dl, Irfan A. Essa, Greg Turk and Aaron F. Bobick. “Graphcut textures: image and video synthesis using graph cuts.” ACM Trans. Graph. 22 (2003): 277-286.
 
-Patras, Ioannis, Emile A. Hendriks and Reginald L. Lagendijk. “Video Segmentation by MAP Labeling of Watershed Segments.” IEEE Trans. Pattern Anal. Mach. Intell. 23 (2001): 326-332.
+r90:Patras, Ioannis, Emile A. Hendriks and Reginald L. Lagendijk. “Video Segmentation by MAP Labeling of Watershed Segments.” IEEE Trans. Pattern Anal. Mach. Intell. 23 (2001): 326-332.
 
-Nam, Jeho and Ahmed H. Tewfik. “Combined audio and visual streams analysis for video sequence segmentation.” ICASSP (1997).
+r91:Nam, Jeho and Ahmed H. Tewfik. “Combined audio and visual streams analysis for video sequence segmentation.” ICASSP (1997).
 
-Tron, Roberto and René Vidal. “A Benchmark for the Comparison of 3-D Motion Segmentation Algorithms.” CVPR (2007).
+r92:Tron, Roberto and René Vidal. “A Benchmark for the Comparison of 3-D Motion Segmentation Algorithms.” CVPR (2007).
 
-Tsaig, Yaakov and Amir Averbuch. “Automatic segmentation of moving objects in video sequences: a region labeling approach.” IEEE Trans. Circuits Syst. Video Techn. 12 (2002): 597-612.
+r93:Tsaig, Yaakov and Amir Averbuch. “Automatic segmentation of moving objects in video sequences: a region labeling approach.” IEEE Trans. Circuits Syst. Video Techn. 12 (2002): 597-612.
 
-Boccignone, Giuseppe, Angelo Chianese, Vincenzo Moscato and Antonio Picariello. “Foveated shot detection for video segmentation.” IEEE Trans. Circuits Syst. Video Techn. 15 (2005): 365-377.
+r94:Boccignone, Giuseppe, Angelo Chianese, Vincenzo Moscato and Antonio Picariello. “Foveated shot detection for video segmentation.” IEEE Trans. Circuits Syst. Video Techn. 15 (2005): 365-377.
 
-Unnikrishnan, Ranjith, Caroline Pantofaru and Martial Hebert. “Toward Objective Evaluation of Image Segmentation Algorithms.” IEEE Trans. Pattern Anal. Mach. Intell. 29 (2007): 929-944.
+r95:Unnikrishnan, Ranjith, Caroline Pantofaru and Martial Hebert. “Toward Objective Evaluation of Image Segmentation Algorithms.” IEEE Trans. Pattern Anal. Mach. Intell. 29 (2007): 929-944.
 
-Leibe, Bastian and Bernt Schiele. “Combined Object Categorization and Segmentation with an Implicit Shape Model.” (2004).
+r96:Leibe, Bastian and Bernt Schiele. “Combined Object Categorization and Segmentation with an Implicit Shape Model.” (2004).
 
-Lai, Kevin, Liefeng Bo, Xiaofeng Ren and Dieter Fox. “A large-scale hierarchical multi-view RGB-D object dataset.” ICRA (2011).
+r97:Lai, Kevin, Liefeng Bo, Xiaofeng Ren and Dieter Fox. “A large-scale hierarchical multi-view RGB-D object dataset.” ICRA (2011).
 
-Schüldt, Christian, Ivan Laptev and Barbara Caputo. “Recognizing Human Actions: A Local SVM Approach.” ICPR (2004).
+r98:Schüldt, Christian, Ivan Laptev and Barbara Caputo. “Recognizing Human Actions: A Local SVM Approach.” ICPR (2004).
 
-Dibos, Fran?oise, Sylvain Pelletier and Georges Koepfler. “Real-time video segmentation.” AVSS (2005).
+r99:Dibos, Fran?oise, Sylvain Pelletier and Georges Koepfler. “Real-time video segmentation.” AVSS (2005).
 
-Comaniciu, Dorin and Peter Meer. “Mean Shift: A Robust Approach Toward Feature Space Analysis.” IEEE Trans. Pattern Anal. Mach. Intell. 24 (2002): 603-619.
+r100:Comaniciu, Dorin and Peter Meer. “Mean Shift: A Robust Approach Toward Feature Space Analysis.” IEEE Trans. Pattern Anal. Mach. Intell. 24 (2002): 603-619.
 
-Xiang, Tao and Shaogang Gong. “Activity Based Video Content Trajectory Representation and Segmentation.” BMVC (2004).
+r101:Xiang, Tao and Shaogang Gong. “Activity Based Video Content Trajectory Representation and Segmentation.” BMVC (2004).
 
-Carreira, Jo?o and Cristian Sminchisescu. “CPMC: Automatic Object Segmentation Using Constrained Parametric Min-Cuts.” IEEE Trans. Pattern Anal. Mach. Intell. 34 (2012): 1312-1328.
+r102:Carreira, Jo?o and Cristian Sminchisescu. “CPMC: Automatic Object Segmentation Using Constrained Parametric Min-Cuts.” IEEE Trans. Pattern Anal. Mach. Intell. 34 (2012): 1312-1328.
 
-Zhai, Yun and Mubarak Shah. “Video Scene Segmentation Using Markov Chain Monte Carlo.” IEEE Transactions on Multimedia 8 (2006): 686-697.
+r103:Zhai, Yun and Mubarak Shah. “Video Scene Segmentation Using Markov Chain Monte Carlo.” IEEE Transactions on Multimedia 8 (2006): 686-697.
 
-Fukuchi, Ken, Kouji Miyazato, Akisato Kimura, Shigeru Takagi and Junji Yamato. “Saliency-based video segmentation with graph cuts and sequentially updated priors.” ICMCS (2009).
+r104:Fukuchi, Ken, Kouji Miyazato, Akisato Kimura, Shigeru Takagi and Junji Yamato. “Saliency-based video segmentation with graph cuts and sequentially updated priors.” ICMCS (2009).
 
-Jehan-Besson, Stéphanie, Michel Barlaud and Gilles Aubert. “DREAM2S: Deformable Regions Driven by an Eulerian Accurate Minimization Method for Image and Video Segmentation.” International Journal of Computer Vision 53 (2003): 45-70.
+r105:Jehan-Besson, Stéphanie, Michel Barlaud and Gilles Aubert. “DREAM2S: Deformable Regions Driven by an Eulerian Accurate Minimization Method for Image and Video Segmentation.” International Journal of Computer Vision 53 (2003): 45-70.
 
-Budvytis, Ignas, Vijay Badrinarayanan and Roberto Cipolla. “MoT - Mixture of Trees Probabilistic Graphical Model for Video Segmentation.” BMVC (2012).
+r106:Budvytis, Ignas, Vijay Badrinarayanan and Roberto Cipolla. “MoT - Mixture of Trees Probabilistic Graphical Model for Video Segmentation.” BMVC (2012).
 
-Ng, Joe Yue-Hei, Matthew J. Hausknecht, Sudheendra Vijayanarasimhan, Oriol Vinyals, Rajat Monga and George Toderici. “Beyond short snippets: Deep networks for video classification.” CVPR (2015).
+r107:Ng, Joe Yue-Hei, Matthew J. Hausknecht, Sudheendra Vijayanarasimhan, Oriol Vinyals, Rajat Monga and George Toderici. “Beyond short snippets: Deep networks for video classification.” CVPR (2015).
 
-Han, Keesook J. and Ahmed H. Tewfik. “Eigen-Image Based Video Segmentation and Indexing.” ICIP (1997).
+r108:Han, Keesook J. and Ahmed H. Tewfik. “Eigen-Image Based Video Segmentation and Indexing.” ICIP (1997).
 
-Zelnik-Manor, Lihi and Michal Irani. “Event-Based Analysis of Video.” CVPR (2001).
+r109:Zelnik-Manor, Lihi and Michal Irani. “Event-Based Analysis of Video.” CVPR (2001).
 
-Snoek, Cees G. M. and Marcel Worring. “Concept-Based Video Retrieval.” Foundations and Trends in Information Retrieval 2 (2009): 215-322.
+r110:Snoek, Cees G. M. and Marcel Worring. “Concept-Based Video Retrieval.” Foundations and Trends in Information Retrieval 2 (2009): 215-322.
 
-Ma, Di and Gady Agam. “Lecture video segmentation and indexing.” DRR (2012).
+r111:Ma, Di and Gady Agam. “Lecture video segmentation and indexing.” DRR (2012).
 
-Kim, Eun Yi and Keechul Jung. “Genetic algorithms for video segmentation.” Pattern Recognition 38 (2005): 59-73.
+r112:Kim, Eun Yi and Keechul Jung. “Genetic algorithms for video segmentation.” Pattern Recognition 38 (2005): 59-73.
 
-Zhang, Hui, Jason E. Fritts and Sally A. Goldman. “Image segmentation evaluation: A survey of unsupervised methods.” Computer Vision and Image Understanding 110 (2008): 260-280.
+r113:Zhang, Hui, Jason E. Fritts and Sally A. Goldman. “Image segmentation evaluation: A survey of unsupervised methods.” Computer Vision and Image Understanding 110 (2008): 260-280.
 
-Cremers, Daniel, Mika?l Rousson and Rachid Deriche. “A Review of Statistical Approaches to Level Set Segmentation: Integrating Color, Texture, Motion and Shape.” International Journal of Computer Vision 72 (2007): 195-215.
+r114:Cremers, Daniel, Mika?l Rousson and Rachid Deriche. “A Review of Statistical Approaches to Level Set Segmentation: Integrating Color, Texture, Motion and Shape.” International Journal of Computer Vision 72 (2007): 195-215.
 
-Bai, Xue, Jue Wang and Guillermo Sapiro. “Dynamic Color Flow: A Motion-Adaptive Color Model for Object Segmentation in Video.” ECCV (2010).
+r115:Bai, Xue, Jue Wang and Guillermo Sapiro. “Dynamic Color Flow: A Motion-Adaptive Color Model for Object Segmentation in Video.” ECCV (2010).
 
-Mezaris, Vasileios, Ioannis Kompatsiaris and Michael G. Strintzis. “Video object segmentation using Bayes-based temporal tracking and trajectory-based region merging.” IEEE Trans. Circuits Syst. Video Techn. 14 (2004): 782-795.
+r116:Mezaris, Vasileios, Ioannis Kompatsiaris and Michael G. Strintzis. “Video object segmentation using Bayes-based temporal tracking and trajectory-based region merging.” IEEE Trans. Circuits Syst. Video Techn. 14 (2004): 782-795.
 
-Song, Xiaomu and Guoliang Fan. “Joint Key-Frame Extraction and Object-Based Video Segmentation.” WACV (2005).
+r117:Song, Xiaomu and Guoliang Fan. “Joint Key-Frame Extraction and Object-Based Video Segmentation.” WACV (2005).
 
-Chien, Shao-Yi, Yu-Wen Huang, Bing-Yu Hsieh, Shyh-Yih Ma and Liang-Gee Chen. “Fast video segmentation algorithm with shadow cancellation, global motion compensation, and adaptive threshold techniques.” IEEE Transactions on Multimedia 6 (2004): 732-748.
+r118:Chien, Shao-Yi, Yu-Wen Huang, Bing-Yu Hsieh, Shyh-Yih Ma and Liang-Gee Chen. “Fast video segmentation algorithm with shadow cancellation, global motion compensation, and adaptive threshold techniques.” IEEE Transactions on Multimedia 6 (2004): 732-748.
 
-Zhong, Di and Shih-Fu Chang. “An integrated approach for content-based video object segmentation and retrieval.” IEEE Trans. Circuits Syst. Video Techn. 9 (1999): 1259-1268.
+r119:Zhong, Di and Shih-Fu Chang. “An integrated approach for content-based video object segmentation and retrieval.” IEEE Trans. Circuits Syst. Video Techn. 9 (1999): 1259-1268.
 
-Odobez, Jean-Marc and Patrick Bouthemy. “Direct incremental model-based image motion segmentation for video analysis.” Signal Processing 66 (1998): 143-155.
+r120:Odobez, Jean-Marc and Patrick Bouthemy. “Direct incremental model-based image motion segmentation for video analysis.” Signal Processing 66 (1998): 143-155.
 
-Jehan-Besson, Stéphanie, Michel Barlaud and Gilles Aubert. “Video Objects Segmentation Using Eulerian Region-Based Active Contours.” ICCV (2001).
+r121:Jehan-Besson, Stéphanie, Michel Barlaud and Gilles Aubert. “Video Objects Segmentation Using Eulerian Region-Based Active Contours.” ICCV (2001).
 
-Blank, Moshe, Lena Gorelick, Eli Shechtman, Michal Irani and Ronen Basri. “Actions as Space-Time Shapes.” ICCV (2005).
+r122:Blank, Moshe, Lena Gorelick, Eli Shechtman, Michal Irani and Ronen Basri. “Actions as Space-Time Shapes.” ICCV (2005).
 
-Rubinstein, Michael, Ariel Shamir and Shai Avidan. “Improved seam carving for video retargeting.” ACM Trans. Graph. 27 (2008): n. pag.
+r123:Rubinstein, Michael, Ariel Shamir and Shai Avidan. “Improved seam carving for video retargeting.” ACM Trans. Graph. 27 (2008): n. pag.
 
-Gong, Yihong and Xin Liu. “Video Shot Segmentation and Classification.” ICPR (2000).
+r124:Gong, Yihong and Xin Liu. “Video Shot Segmentation and Classification.” ICPR (2000).
 
-Aguiar, Edilson de, Carsten Stoll, Christian Theobalt, Naveed Ahmed, Hans-Peter Seidel and Sebastian Thrun. “Performance capture from sparse multi-view video.” ACM Trans. Graph. 27 (2008): n. pag.
+r125:Aguiar, Edilson de, Carsten Stoll, Christian Theobalt, Naveed Ahmed, Hans-Peter Seidel and Sebastian Thrun. “Performance capture from sparse multi-view video.” ACM Trans. Graph. 27 (2008): n. pag.
 
-Trichet, Rémi and Ramakant Nevatia. “Video Segmentation Descriptors for Event Recognition.” ICPR (2014).
+r126:Trichet, Rémi and Ramakant Nevatia. “Video Segmentation Descriptors for Event Recognition.” ICPR (2014).
 
-Scheuermann, Bj?rn and Bodo Rosenhahn. “Multi-Sensor Fusion for Video Segmentation.” IJPRAI 28 (2014): n. pag.
+r127:Scheuermann, Bj?rn and Bodo Rosenhahn. “Multi-Sensor Fusion for Video Segmentation.” IJPRAI 28 (2014): n. pag.
 
-Trichet, Rémi and Ramakant Nevatia. “Video segmentation with spatio-temporal tubes.” AVSS (2013).
+r128:Trichet, Rémi and Ramakant Nevatia. “Video segmentation with spatio-temporal tubes.” AVSS (2013).
 
-Liu, Xiao, Dacheng Tao, Mingli Song, Ying Ruan, Chun Chen and Jiajun Bu. “Weakly Supervised Multiclass Video Segmentation.” CVPR (2014).
+r129:Liu, Xiao, Dacheng Tao, Mingli Song, Ying Ruan, Chun Chen and Jiajun Bu. “Weakly Supervised Multiclass Video Segmentation.” CVPR (2014).
 
-Sakarya, Ufuk and Ziya Telatar. “Graph-based multilevel temporal video segmentation.” Multimedia Syst. 14 (2008): 277-290.
+r130:Sakarya, Ufuk and Ziya Telatar. “Graph-based multilevel temporal video segmentation.” Multimedia Syst. 14 (2008): 277-290.
 
-Friedland, Gerald and Raúl Rojas. “Anthropocentric Video Segmentation for Lecture Webcasts.” EURASIP J. Image and Video Processing 2008 (2008): n. pag.
+r131:Friedland, Gerald and Raúl Rojas. “Anthropocentric Video Segmentation for Lecture Webcasts.” EURASIP J. Image and Video Processing 2008 (2008): n. pag.
 
-Yuen, Jenny, Bryan C. Russell, Ce Liu and Antonio Torralba. “LabelMe video: Building a video database with human annotations.” ICCV (2009).
+r132:Yuen, Jenny, Bryan C. Russell, Ce Liu and Antonio Torralba. “LabelMe video: Building a video database with human annotations.” ICCV (2009).
 
-Eveland, Christopher K., Kurt Konolige and Robert C. Bolles. “Background Modeling for Segmentation of Video-Rate Stereo Sequences.” CVPR (1998).
+r133:Eveland, Christopher K., Kurt Konolige and Robert C. Bolles. “Background Modeling for Segmentation of Video-Rate Stereo Sequences.” CVPR (1998).
 
-Wildt, Daniel de. “Automatic video segmentation by polygon evolution.” DE (2006).
+r134:Wildt, Daniel de. “Automatic video segmentation by polygon evolution.” DE (2006).
 
-Khoreva, Anna, Fabio Galasso, Matthias Hein and Bernt Schiele. “Learning Must-Link Constraints for Video Segmentation Based on Spectral Clustering.” DAGM (2014).
+r135:Khoreva, Anna, Fabio Galasso, Matthias Hein and Bernt Schiele. “Learning Must-Link Constraints for Video Segmentation Based on Spectral Clustering.” DAGM (2014).
 
-Dobrian, Florin, Vyas Sekar, Asad Awan, Ion Stoica, Dilip Antony Joseph, Aditya Ganjam, Jibin Zhan and Hui Zhang. “Understanding the impact of video quality on user engagement.” SIGCOMM (2011).
+r136:Dobrian, Florin, Vyas Sekar, Asad Awan, Ion Stoica, Dilip Antony Joseph, Aditya Ganjam, Jibin Zhan and Hui Zhang. “Understanding the impact of video quality on user engagement.” SIGCOMM (2011).
 
-Galley, Michel, Kathleen McKeown, Eric Fosler-Lussier and Hongyan Jing. “Discourse Segmentation of Multi-Party Conversation.” ACL (2003).
+r137:Galley, Michel, Kathleen McKeown, Eric Fosler-Lussier and Hongyan Jing. “Discourse Segmentation of Multi-Party Conversation.” ACL (2003).
 
-Sidiropoulos, Panagiotis, Vasileios Mezaris, Ioannis Kompatsiaris, Hugo Meinedo, Miguel Bugalho and Isabel Trancoso. “Temporal Video Segmentation to Scenes Using High-Level Audiovisual Features.” IEEE Trans. Circuits Syst. Video Techn. 21 (2011): 1163-1177.
+r138:Sidiropoulos, Panagiotis, Vasileios Mezaris, Ioannis Kompatsiaris, Hugo Meinedo, Miguel Bugalho and Isabel Trancoso. “Temporal Video Segmentation to Scenes Using High-Level Audiovisual Features.” IEEE Trans. Circuits Syst. Video Techn. 21 (2011): 1163-1177.
 
-Precioso, Frédéric, Michel Barlaud, Thierry Blu and Michael Unser. “Smoothing B-spline active contour for fast and robust image and video segmentation.” ICIP (2003).
+r139:Precioso, Frédéric, Michel Barlaud, Thierry Blu and Michael Unser. “Smoothing B-spline active contour for fast and robust image and video segmentation.” ICIP (2003).
 
-Wang, Le, Gang Hua, Rahul Sukthankar, Jianru Xue and Nanning Zheng. “Video Object Discovery and Co-segmentation with Extremely Weak Supervision.” ECCV (2014).
+r140:Wang, Le, Gang Hua, Rahul Sukthankar, Jianru Xue and Nanning Zheng. “Video Object Discovery and Co-segmentation with Extremely Weak Supervision.” ECCV (2014).
 
-Erdem, Çigdem Eroglu, Bülent Sankur and A. Murat Tekalp. “Metrics for performance evaluation of video object segmentation and tracking without ground-truth.” ICIP (2001).
+r141:Erdem, Çigdem Eroglu, Bülent Sankur and A. Murat Tekalp. “Metrics for performance evaluation of video object segmentation and tracking without ground-truth.” ICIP (2001).
 
-Cohen, Ira, Nicu Sebe, Ashutosh Garg, Lawrence S. Chen and Thomas S. Huang. “Facial expression recognition from video sequences: temporal and static modeling.” Computer Vision and Image Understanding 91 (2003): 160-187.
+r142:Cohen, Ira, Nicu Sebe, Ashutosh Garg, Lawrence S. Chen and Thomas S. Huang. “Facial expression recognition from video sequences: temporal and static modeling.” Computer Vision and Image Understanding 91 (2003): 160-187.
 
-Brostow, Gabriel J., Julien Fauqueur and Roberto Cipolla. “Semantic object classes in video: A high-definition ground truth database.” Pattern Recognition Letters 30 (2009): 88-97.
+r143:Brostow, Gabriel J., Julien Fauqueur and Roberto Cipolla. “Semantic object classes in video: A high-definition ground truth database.” Pattern Recognition Letters 30 (2009): 88-97.
 
-Marszalek, Marcin, Ivan Laptev and Cordelia Schmid. “Actions in context.” CVPR (2009).
+r144:Marszalek, Marcin, Ivan Laptev and Cordelia Schmid. “Actions in context.” CVPR (2009).
 
-Prest, Alessandro, Christian Leistner, Javier Civera, Cordelia Schmid and Vittorio Ferrari. “Learning object class detectors from weakly annotated video.” CVPR (2012).
+r145:Prest, Alessandro, Christian Leistner, Javier Civera, Cordelia Schmid and Vittorio Ferrari. “Learning object class detectors from weakly annotated video.” CVPR (2012).
 
-Lee, Ho-Young, Ho-Keun Lee and Yeong-Ho Ha. “Spatial color descriptor for image retrieval and video segmentation.” IEEE Transactions on Multimedia 5 (2003): 358-367.
+r146:Lee, Ho-Young, Ho-Keun Lee and Yeong-Ho Ha. “Spatial color descriptor for image retrieval and video segmentation.” IEEE Transactions on Multimedia 5 (2003): 358-367.
 
-Ryoo, Michael S. and Jake K. Aggarwal. “Spatio-temporal relationship match: Video structure comparison for recognition of complex human activities.” ICCV (2009).
+r147:Ryoo, Michael S. and Jake K. Aggarwal. “Spatio-temporal relationship match: Video structure comparison for recognition of complex human activities.” ICCV (2009).
 
-Lee, Yong Jae, Joydeep Ghosh and Kristen Grauman. “Discovering important people and objects for egocentric video summarization.” CVPR (2012).
+r148:Lee, Yong Jae, Joydeep Ghosh and Kristen Grauman. “Discovering important people and objects for egocentric video summarization.” CVPR (2012).
 
-Lu, Zheng and Kristen Grauman. “Story-Driven Summarization for Egocentric Video.” CVPR (2013).
+r149:Lu, Zheng and Kristen Grauman. “Story-Driven Summarization for Egocentric Video.” CVPR (2013).
 
-Ali, Saad and Mubarak Shah. “A Lagrangian Particle Dynamics Approach for Crowd Flow Segmentation and Stability Analysis.” CVPR (2007).
+r150:Ali, Saad and Mubarak Shah. “A Lagrangian Particle Dynamics Approach for Crowd Flow Segmentation and Stability Analysis.” CVPR (2007).
 
-Chang, Shih-Fu, William Chen, Horace J. Meng, Hari Sundaram and Di Zhong. “A fully automated content-based video search engine supporting spatiotemporal queries.” IEEE Trans. Circuits Syst. Video Techn. 8 (1998): 602-615.
+r151:Chang, Shih-Fu, William Chen, Horace J. Meng, Hari Sundaram and Di Zhong. “A fully automated content-based video search engine supporting spatiotemporal queries.” IEEE Trans. Circuits Syst. Video Techn. 8 (1998): 602-615.
 
-Ji, S. and Heung-Won Park. “Region-Based Video Segmentation Using DCT Coefficients.” ICIP (1999).
+r152:Ji, S. and Heung-Won Park. “Region-Based Video Segmentation Using DCT Coefficients.” ICIP (1999).
 
-Jain, Aastha, Shuanak Chatterjee and René Vidal. “Coarse-to-Fine Semantic Video Segmentation Using Supervoxel Trees.” ICCV (2013).
+r153:Jain, Aastha, Shuanak Chatterjee and René Vidal. “Coarse-to-Fine Semantic Video Segmentation Using Supervoxel Trees.” ICCV (2013).
 
-Huang, Jincheng, Zhu Liu and Yao Wang. “Integration of Audio and Visual Information for Content-based Video Segmentation.” ICIP (1998).
+r154:Huang, Jincheng, Zhu Liu and Yao Wang. “Integration of Audio and Visual Information for Content-based Video Segmentation.” ICIP (1998).
 
-Thounaojam, Dalton Meitei, Amit Trivedi, Kh. Manglem Singh and Sudipta Roy. “A Survey on Video Segmentation.” ICACNI (2013).
+r155:Thounaojam, Dalton Meitei, Amit Trivedi, Kh. Manglem Singh and Sudipta Roy. “A Survey on Video Segmentation.” ICACNI (2013).
 
-Phan, Trung Quy, Palaiahnakote Shivakumara, Bolan Su and Chew Lim Tan. “A Gradient Vector Flow-Based Method for Video Character Segmentation.” ICDAR (2011).
+r156:Phan, Trung Quy, Palaiahnakote Shivakumara, Bolan Su and Chew Lim Tan. “A Gradient Vector Flow-Based Method for Video Character Segmentation.” ICDAR (2011).
 
-Chiu, Patrick, Andreas Girgensohn, Wolfgang Polak, Eleanor G. Rieffel and Lynn Wilcox. “A Genetic Algorithm for Video Segmentation and Summarization.” ICMCS (2000).
+r157:Chiu, Patrick, Andreas Girgensohn, Wolfgang Polak, Eleanor G. Rieffel and Lynn Wilcox. “A Genetic Algorithm for Video Segmentation and Summarization.” ICMCS (2000).
 
-Wu, Qiong, Pierre Boulanger and Walter F. Bischof. “Robust Real-Time Bi-Layer Video Segmentation Using Infrared Video.” CRV (2008).Snoek, Cees, Marcel Worring and Arnold W. M. Smeulders. “Early versus late fusion in semantic video analysis.” MM (2005).
+r158:Wu, Qiong, Pierre Boulanger and Walter F. Bischof. “Robust Real-Time Bi-Layer Video Segmentation Using Infrared Video.” CRV (2008).Snoek, Cees, Marcel Worring and Arnold W. M. Smeulders. “Early versus late fusion in semantic video analysis.” MM (2005).
 
-Snoek, C., Smeulders, A.W., & Worring, M.. (2005). Early versus late fusion in semantic video analysis. MM.
+r159:Snoek, C., Smeulders, A.W., & Worring, M.. (2005). Early versus late fusion in semantic video analysis. MM.
 
-Wang, Yang, Tele Tan and Kia-Fock Loe. “Video Segmentation Based on Graphical Models.” CVPR (2003).
+r160:Wang, Yang, Tele Tan and Kia-Fock Loe. “Video Segmentation Based on Graphical Models.” CVPR (2003).
 
-Boccignone, Giuseppe, Angelo Chianese, Vincenzo Moscato and Antonio Picariello. “Using Attention for Video Segmentation.” ICPR (2004).
+r161:Boccignone, Giuseppe, Angelo Chianese, Vincenzo Moscato and Antonio Picariello. “Using Attention for Video Segmentation.” ICPR (2004).
 
-Chen, Liang-Chieh, George Papandreou, Iasonas Kokkinos, Kevin Murphy and Alan L. Yuille. “Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.” CoRR abs/1412.7062 (2014): n. pag.
+r162:Chen, Liang-Chieh, George Papandreou, Iasonas Kokkinos, Kevin Murphy and Alan L. Yuille. “Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.” CoRR abs/1412.7062 (2014): n. pag.
 
-Jiang, Huaizu, Jingdong Wang, Zejian Yuan, Tie Liu and Nanning Zheng. “Automatic salient object segmentation based on context and shape prior.” BMVC (2011).
+r163:Jiang, Huaizu, Jingdong Wang, Zejian Yuan, Tie Liu and Nanning Zheng. “Automatic salient object segmentation based on context and shape prior.” BMVC (2011).
 
-Colombari, Andrea, Andrea Fusiello and Vittorio Murino. “Segmentation and tracking of multiple video objects.” Pattern Recognition 40 (2007): 1307-1317.
+r164:Colombari, Andrea, Andrea Fusiello and Vittorio Murino. “Segmentation and tracking of multiple video objects.” Pattern Recognition 40 (2007): 1307-1317.
 
-Cooper, Matthew. “Video segmentation combining similarity analysis and classification.” MM (2004).
+r165:Cooper, Matthew. “Video segmentation combining similarity analysis and classification.” MM (2004).
 
-Chan, Antoni B. and Nuno Vasconcelos. “Classifying Video with Kernel Dynamic Textures.” CVPR (2007).
+r166:Chan, Antoni B. and Nuno Vasconcelos. “Classifying Video with Kernel Dynamic Textures.” CVPR (2007).
 
-Yu, H., Gozde Bozdagi and S. Harrington. “Feature Based Hierarchical Video Segmentation.” ICIP (1997).
+r167:Yu, H., Gozde Bozdagi and S. Harrington. “Feature Based Hierarchical Video Segmentation.” ICIP (1997).
 
-Zeng, Wei, Jun Du, Wen Gao and Qingming Huang. “Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model.” Real-Time Imaging 11 (2005): 290-299.
+r168:Zeng, Wei, Jun Du, Wen Gao and Qingming Huang. “Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model.” Real-Time Imaging 11 (2005): 290-299.
 
-Chen, Shu-Ching, Mei-Ling Shyu, Chengcui Zhang and Rangasami L. Kashyap. “Video Scene Change Detection Method Using Unsupervised Segmentation And Object Tracking.” ICMCS (2001).
+r169:Chen, Shu-Ching, Mei-Ling Shyu, Chengcui Zhang and Rangasami L. Kashyap. “Video Scene Change Detection Method Using Unsupervised Segmentation And Object Tracking.” ICMCS (2001).
 
-Saban, Motaz A. El and B. S. Manjunath. “Video region segmentation by spatio-temporal watersheds.” ICIP (2003).
+r170:Saban, Motaz A. El and B. S. Manjunath. “Video region segmentation by spatio-temporal watersheds.” ICIP (2003).
 
-Boccignone, Giuseppe, Angelo Chianese, Vincenzo Moscato and Antonio Picariello. “Using Attention for Video Segmentation.” ICPR (2004).
+r171:Boccignone, Giuseppe, Angelo Chianese, Vincenzo Moscato and Antonio Picariello. “Using Attention for Video Segmentation.” ICPR (2004).
 
-Shechtman, Eli and Michal Irani. “Matching Local Self-Similarities across Images and Videos.” CVPR (2007).
+r172:Shechtman, Eli and Michal Irani. “Matching Local Self-Similarities across Images and Videos.” CVPR (2007).
 
-Harper, Peter and Richard B. Reilly. “Color Based Video Segmentation Using Level Sets.” ICIP (2000).
+r173:Harper, Peter and Richard B. Reilly. “Color Based Video Segmentation Using Level Sets.” ICIP (2000).
 
-Greenspan, Hayit, Jacob Goldberger and Arnaldo Mayer. “Probabilistic Space-Time Video Modeling via Piecewise GMM.” IEEE Trans. Pattern Anal. Mach. Intell. 26 (2003): 384-396.
+r174:Greenspan, Hayit, Jacob Goldberger and Arnaldo Mayer. “Probabilistic Space-Time Video Modeling via Piecewise GMM.” IEEE Trans. Pattern Anal. Mach. Intell. 26 (2003): 384-396.
 
-Lee, Juho, Suha Kwak, Bohyung Han and Seungjin Choi. “Online Video Segmentation by Bayesian Split-Merge Clustering.” ECCV (2012).
+r175:Lee, Juho, Suha Kwak, Bohyung Han and Seungjin Choi. “Online Video Segmentation by Bayesian Split-Merge Clustering.” ECCV (2012).
 
-Zhai, Yun and Mubarak Shah. “A General Framework for Temporal Video Scene Segmentation.” ICCV (2005).
+r176:Zhai, Yun and Mubarak Shah. “A General Framework for Temporal Video Scene Segmentation.” ICCV (2005).
 
-Beeferman, Doug, Adam L. Berger and John D. Lafferty. “Statistical Models for Text Segmentation.” Machine Learning 34 (1999): 177-210.
+r177:Beeferman, Doug, Adam L. Berger and John D. Lafferty. “Statistical Models for Text Segmentation.” Machine Learning 34 (1999): 177-210.
 
-Cavallaro, Andrea, Olivier Steiger and Touradj Ebrahimi. “Semantic segmentation and description for video transcoding.” ICMCS (2003).
+r178:Cavallaro, Andrea, Olivier Steiger and Touradj Ebrahimi. “Semantic segmentation and description for video transcoding.” ICMCS (2003).
 
-Mori, Greg, Xiaofeng Ren, Alexei A. Efros and Jitendra Malik. “Recovering Human Body Configurations: Combining Segmentation and Recognition.” CVPR (2004).
+r179:Mori, Greg, Xiaofeng Ren, Alexei A. Efros and Jitendra Malik. “Recovering Human Body Configurations: Combining Segmentation and Recognition.” CVPR (2004).
 
-Ford, Ralph. “Fuzzy-Logic Approach to Digital Video Segmentation.” spieSR (1998).
+r180:Ford, Ralph. “Fuzzy-Logic Approach to Digital Video Segmentation.” spieSR (1998).
 
-Cremers, Daniel, Stanley Osher and Stefano Soatto. “Kernel Density Estimation and Intrinsic Alignment for Shape Priors in Level Set Segmentation.” International Journal of Computer Vision 69 (2006): 335-351.
+r181:Cremers, Daniel, Stanley Osher and Stefano Soatto. “Kernel Density Estimation and Intrinsic Alignment for Shape Priors in Level Set Segmentation.” International Journal of Computer Vision 69 (2006): 335-351.
 
-Xu, Jianfeng, Toshihiko Yamasaki and Kiyoharu Aizawa. “3D video segmentation using point distance histograms.” ICIP (2005).
+r182:Xu, Jianfeng, Toshihiko Yamasaki and Kiyoharu Aizawa. “3D video segmentation using point distance histograms.” ICIP (2005).
 
-Xu, Dong, Xuelong Li, Zhengkai Liu and Yuan Yuan. “Cast shadow detection in video segmentation.” Pattern Recognition Letters 26 (2005): 91-99.
+r183:Xu, Dong, Xuelong Li, Zhengkai Liu and Yuan Yuan. “Cast shadow detection in video segmentation.” Pattern Recognition Letters 26 (2005): 91-99.
 
-Elhamifar, Ehsan and René Vidal. “Sparse Subspace Clustering: Algorithm, Theory, and Applications.” CoRR abs/1203.1005 (2013): n. pag.
+r184:Elhamifar, Ehsan and René Vidal. “Sparse Subspace Clustering: Algorithm, Theory, and Applications.” CoRR abs/1203.1005 (2013): n. pag.
 
-Li, Zhenyan, Hong Lu and Yap-Peng Tan. “Video segmentation based on sequential change detection.” ICMCS (2004).
+r185:Li, Zhenyan, Hong Lu and Yap-Peng Tan. “Video segmentation based on sequential change detection.” ICMCS (2004).
 
-Yoo, Hun-Woo and Dong-Sik Jang. “Automated Video Segmentation Using Computer Vision Techniques.” International Journal of Information Technology and Decision Making 3 (2004): 129-143.
+r186:Yoo, Hun-Woo and Dong-Sik Jang. “Automated Video Segmentation Using Computer Vision Techniques.” International Journal of Information Technology and Decision Making 3 (2004): 129-143.
 
-Correia, Paulo L. and Fernando Manuel Bernardo Pereira. “Classification of video segmentation application scenarios.” IEEE Trans. Circuits Syst. Video Techn. 14 (2004): 735-741.
+r187:Correia, Paulo L. and Fernando Manuel Bernardo Pereira. “Classification of video segmentation application scenarios.” IEEE Trans. Circuits Syst. Video Techn. 14 (2004): 735-741.
 
-Xu, Dong, Jianzhuang Liu, Zhengkai Liu and Xiaoou Tang. “Indoor shadow detection for video segmentation.” ICMCS (2004).
+r188:Xu, Dong, Jianzhuang Liu, Zhengkai Liu and Xiaoou Tang. “Indoor shadow detection for video segmentation.” ICMCS (2004).
 
-Galmar, Eric, Thanos Athanasiadis, Benoit Huet and Yannis S. Avrithis. “Spatiotemporal semantic video segmentation.” MMSP (2008).
+r189:Galmar, Eric, Thanos Athanasiadis, Benoit Huet and Yannis S. Avrithis. “Spatiotemporal semantic video segmentation.” MMSP (2008).
 
-Hu, Weiming, Nianhua Xie, Li Li, Xianglin Zeng and Stephen J. Maybank. “A Survey on Visual Content-Based Video Indexing and Retrieval.” IEEE Transactions on Systems, Man, and Cybernetics, Part C 41 (2011): 797-819.
+r190:Hu, Weiming, Nianhua Xie, Li Li, Xianglin Zeng and Stephen J. Maybank. “A Survey on Visual Content-Based Video Indexing and Retrieval.” IEEE Transactions on Systems, Man, and Cybernetics, Part C 41 (2011): 797-819.
 
-Cremers, Daniel, Stanley Osher and Stefano Soatto. “Kernel Density Estimation and Intrinsic Alignment for Shape Priors in Level Set Segmentation.” International Journal of Computer Vision 69 (2006): 335-351.
+r191:Cremers, Daniel, Stanley Osher and Stefano Soatto. “Kernel Density Estimation and Intrinsic Alignment for Shape Priors in Level Set Segmentation.” International Journal of Computer Vision 69 (2006): 335-351.
 
-Chien, Shao-Yi, Yu-Wen Huang, Shyh-Yih Ma and Liang-Gee Chen. “Automatic Video Segmentation For MPEG-4 Using Predictivewatershed.” ICMCS (2001).
+r192:Chien, Shao-Yi, Yu-Wen Huang, Shyh-Yih Ma and Liang-Gee Chen. “Automatic Video Segmentation For MPEG-4 Using Predictivewatershed.” ICMCS (2001).
 
-Broxton, Tom, Yannet Interian, Jon Vaver and Mirjam Wattenhofer. “Catching a Viral Video.” ICDM (2010).
+r193:Broxton, Tom, Yannet Interian, Jon Vaver and Mirjam Wattenhofer. “Catching a Viral Video.” ICDM (2010).
 
-Duchenne, Olivier, Ivan Laptev, Josef Sivic, Francis R. Bach and Jean Ponce. “Automatic annotation of human actions in video.” ICCV (2009).
+r194:Duchenne, Olivier, Ivan Laptev, Josef Sivic, Francis R. Bach and Jean Ponce. “Automatic annotation of human actions in video.” ICCV (2009).
 
-Vajaria, Himanshu, Tanmoy Islam, Sudeep Sarkar, Ravi Sankar and Rangachar Kasturi. “Audio Segmentation and Speaker Localization in Meeting Videos.” ICPR (2006).
+r195:Vajaria, Himanshu, Tanmoy Islam, Sudeep Sarkar, Ravi Sankar and Rangachar Kasturi. “Audio Segmentation and Speaker Localization in Meeting Videos.” ICPR (2006).
 
-Borgo, Rita, Min Chen, Markus Höferlin, Kuno Kurzhals, Philip A. Legg, Simon J. Walton and Daniel Weiskopf. “Video Visualization.” EUROGRAPHICS (2003).
+r196:Borgo, Rita, Min Chen, Markus Höferlin, Kuno Kurzhals, Philip A. Legg, Simon J. Walton and Daniel Weiskopf. “Video Visualization.” EUROGRAPHICS (2003).
 
-Zhou, J. Y., Ee Ping Ong and Chi Chung Ko. “Video Object Segmentation and Tracking for Content-Based Video Coding.” ICMCS (2000).
+r197:Zhou, J. Y., Ee Ping Ong and Chi Chung Ko. “Video Object Segmentation and Tracking for Content-Based Video Coding.” ICMCS (2000).
 
-Cao, Xiang and Ponnuthurai N. Suganthan. “Neural Network Based Temporal Video Segmentation.” Int. J. Neural Syst. 12 (2002): 263-269.
+r198:Cao, Xiang and Ponnuthurai N. Suganthan. “Neural Network Based Temporal Video Segmentation.” Int. J. Neural Syst. 12 (2002): 263-269.
 
-Rav-Acha, Alex, Yael Pritch and Shmuel Peleg. “Making a Long Video Short: Dynamic Video Synopsis.” CVPR (2006).
+r199:Rav-Acha, Alex, Yael Pritch and Shmuel Peleg. “Making a Long Video Short: Dynamic Video Synopsis.” CVPR (2006).
 
-Pritch, Yael, Alex Rav-Acha and Shmuel Peleg. “Nonchronological Video Synopsis and Indexing.” IEEE Trans. Pattern Anal. Mach. Intell. 30 (2008): 1971-1984.
+r200:Pritch, Yael, Alex Rav-Acha and Shmuel Peleg. “Nonchronological Video Synopsis and Indexing.” IEEE Trans. Pattern Anal. Mach. Intell. 30 (2008): 1971-1984.
 

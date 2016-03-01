@@ -1521,4 +1521,3 @@
   booktitle={AISTATS},
   year={2013}
 }
-
