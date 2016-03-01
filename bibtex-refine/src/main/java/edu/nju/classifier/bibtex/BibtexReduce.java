@@ -17,6 +17,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.StringTokenizer;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * Created by margine on 16-1-6.
@@ -63,16 +65,14 @@ public class BibtexReduce extends Reducer<Text, Text, Text, Text> {
                 continue;
             }
             String type = bibtextCite.substring(bibtextCite.indexOf("@") + 1, bibtextCite.indexOf("{"));
-            String typeValue = bibtextCite.substring(bibtextCite.indexOf("{") + 1, bibtextCite.indexOf(","));
             buffer.append(PropertyConstant.TYPE + serparator + type);
             buffer.append("\r\n");
             map.put(PropertyConstant.TYPE, type);
 
             /**get rest property*/
             bibtextCite = preProcess(bibtextCite);
-            StringTokenizer tokenizer = new StringTokenizer(bibtextCite, endSymbol);
-            while (tokenizer.hasMoreElements()) {
-                String element = tokenizer.nextToken().trim();
+            String[] elements = bibtextCite.split(endSymbol);
+            for (String element : elements) {
                 if (element.equals("") || !element.contains(startSymbol))
                     continue;
 
@@ -129,6 +129,10 @@ public class BibtexReduce extends Reducer<Text, Text, Text, Text> {
      * @return
      */
     private String preProcess(String s) {
+        Pattern p = Pattern.compile("\t|\n|\r");
+        Matcher m = p.matcher(s);
+        s = m.replaceAll("");
+
         StringBuffer buffer = new StringBuffer(s);
         buffer.setLength(s.length() - 2);
         buffer.append(endSymbol);

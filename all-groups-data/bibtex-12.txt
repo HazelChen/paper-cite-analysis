@@ -1500,10 +1500,3 @@
   booktitle={BMVC},
   year={2004}
 }
-
-@inproceedings{LacosteJulien2013ICML,
-  title={Block-Coordinate Frank-Wolfe Optimization for Structural SVMs},
-  author={Simon Lacoste-Julien and Martin Jaggi and Mark W. Schmidt and Patrick Pletscher},
-  booktitle={ICML},
-  year={2013}
-}
