@@ -41,7 +41,7 @@ public class SeachEngine {
         return orderedList;
     }
 
-    public Set<Bibtex> search(String target, int num) {
+    public List<Bibtex> search(String target, int num) {
         tokenAnalyzer = new TokenAnalyzer();
 
         Map<String, List<Double>> scoreList = new HashMap<String, List<Double>>();
@@ -77,7 +77,7 @@ public class SeachEngine {
     }
 
 
-    /*public static void main(String args[]) {
+    public static void main(String args[]) {
 //        Guibas, L.J., Rubner, Y., & Tomasi, C.. (2000). The Earth Mover's Distance as a Metric for Image Retrieval. International Journal of Computer Vision, 40, 99-121.
 //        Rubner, Yossi et al. “The Earth Mover's Distance as a Metric for Image Retrieval.” International Journal of Computer Vision 40 (2000): 99-121.
 //        Rubner, Yossi, Carlo Tomasi and Leonidas J. Guibas. “The Earth Mover's Distance as a Metric for Image Retrieval.” International Journal of Computer Vision 40 (2000): 99-121.
@@ -88,7 +88,7 @@ public class SeachEngine {
         System.out.println("请输入您要搜索的内容（输入'q'结束程序）：");
         String text = "";
         while(!(text=scanner.nextLine()).equals("q")) {
-            Set<Bibtex> searchResult = se.search(text, 5);
+            List<Bibtex> searchResult = se.search(text, 5);
             if(CollectionUtils.isNotEmpty(searchResult)) {
                 System.out.println("搜索结果如下（显示" + searchResult.size() + "条）：");
                 for (int i = 0; i < searchResult.size(); ++i) {
@@ -114,5 +114,5 @@ public class SeachEngine {
             System.out.println("请继续输入您要搜索的内容（输入'q'结束程序）：");
         }
         System.exit(0);
-    }*/
+    }
 }

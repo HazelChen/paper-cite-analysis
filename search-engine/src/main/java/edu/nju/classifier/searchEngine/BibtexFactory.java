@@ -13,10 +13,7 @@ import org.apache.hadoop.hbase.client.Table;
 import org.apache.hadoop.hbase.util.Bytes;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 /**
  * Created by nathan on 16-2-29.
@@ -48,10 +45,10 @@ public class BibtexFactory {
         }
     }
 
-    public static Set<Bibtex> fetchResultList(List<MatchScore> orderedList, int num) {
-        Set<Bibtex> bibtexList = new HashSet<Bibtex>();
+    public static List<Bibtex> fetchResultList(List<MatchScore> orderedList, int num) {
+        Set<Bibtex> bibtexList = new LinkedHashSet<Bibtex>();
         if(CollectionUtils.isEmpty(orderedList))
-            return bibtexList;
+            return null;
 
         setup();
         try{
@@ -110,6 +107,7 @@ public class BibtexFactory {
 
         cleanup();
 
-        return bibtexList;
+        List<Bibtex> result = new ArrayList<Bibtex>(bibtexList);
+        return result;
     }
 }
