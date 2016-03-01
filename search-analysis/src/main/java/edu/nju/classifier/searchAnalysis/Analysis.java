@@ -79,6 +79,7 @@ public class Analysis {
             contents.add("apa average accuracy: " + (apaAccuracy / apaSize));
             contents.add("mla average accuracy: " + (mlaAccuracy / mlaSize));
             contents.add("chicago average accuracy: " + (chicagoArruracy / chicagoSize));
+            contents.add("average accuracy: " + averageAccuracy);
             FileHelper.append(contents, resultFilePath);
 
         } catch (Exception e) {
@@ -112,15 +113,12 @@ public class Analysis {
                 i++;
             }
         }
-        if (hitIndex == -1) {
-            FileHelper.append("item " + count + " :No hit, search fail. The query string is : " + queryStr, noHitFilePath);
+        if (accuracy < 1.0) {
+            FileHelper.append("item " + count + " :not complete accurate.\n The query string is : " + queryStr, noHitFilePath);
             FileHelper.append(results.toString()+"\r\n", noHitFilePath);
-        } else {
-            List<String> contents = new ArrayList<String>();
-//
-            contents.add("item " + count + " :search with " + k + " result(s) accuracy: " + accuracy);
-            FileHelper.append(contents, resultFilePath);
         }
+
+        FileHelper.append("item " + count + " :search with " + k + " result(s) accuracy: " + accuracy, resultFilePath);
         averageAccuracy = (averageAccuracy * (count - 1) + accuracy) / (double) count;
         return accuracy;
     }
