@@ -1,3 +1,5 @@
+package edu.nju.dataHandle;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -67,6 +69,36 @@ public class FileHelper {
                 writer.write(System.getProperty("line.separator"));
                 writer.write(System.getProperty("line.separator"));
             }
+            writer.flush();
+            writer.close();
+        } catch (IOException e) {
+            System.err.println("Error: write file.." + e );
+            System.exit(-3);
+        }
+    }
+
+    public static void append(String content, String filePath){
+        List<String> contents = new ArrayList<String>();
+        contents.add(content);
+        append(contents, filePath);
+    }
+
+    public static void append(List<String> contents, String filePath){
+        File file = new File(filePath);
+        try {
+            if (!file.exists()) {
+                file.createNewFile();
+            }
+            FileWriter clean_writer = new FileWriter(file, true);
+            clean_writer.write("");
+            clean_writer.close();
+
+            FileWriter writer = new FileWriter(file, true);
+            for (int i = 0; i < contents.size(); i++) {
+                writer.write(contents.get(i));
+                writer.write(System.getProperty("line.separator"));
+            }
+            writer.write(System.getProperty("line.separator"));
             writer.flush();
             writer.close();
         } catch (IOException e) {

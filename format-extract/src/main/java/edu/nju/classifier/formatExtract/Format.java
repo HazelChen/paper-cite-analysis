@@ -59,6 +59,9 @@ public class Format {
 
         String[] publicationData = tmp.split(",");
         Bibtex bibtex;
+        if (publicationData.length == 0){
+            return null;
+        }
         if (publicationData.length <= 1) {
             bibtex = new Inproceedings();
             ((Inproceedings)bibtex).setBooktitle(publicationData[0].trim());

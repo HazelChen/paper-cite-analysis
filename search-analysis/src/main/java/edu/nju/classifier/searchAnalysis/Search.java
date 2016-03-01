@@ -22,7 +22,7 @@ public class Search {
         ((Article)bibtex1).setVolume("56");
 
         Bibtex bibtex2 = new Inproceedings();
-        bibtex2.setYear("2006");
+        bibtex2.setYear("206");
         bibtex2.setAuthor("Simone Santini");
         bibtex2.setTitle("Video Search");
         ((Inproceedings)bibtex2).setBooktitle("MM");
