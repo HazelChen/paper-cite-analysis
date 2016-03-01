@@ -94,9 +94,11 @@ public class BibtexFactory {
                             Bytes.toBytes(PropertyConstant.YEAR))));
                     bibtexList.add(bibtex);
                 }
+
             }
         }catch (Exception e) {
             System.out.println("Error: while fetch the bibtex data " + e);
+            e.printStackTrace();
             System.exit(-1);
         }
 

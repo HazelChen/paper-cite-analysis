@@ -1,3 +1,5 @@
+package edu.nju.dataHandle;
+
 import edu.nju.classifier.common.HBaseConstant;
 import edu.nju.classifier.hbaseUtil.HBaseDAO;
 import org.apache.hadoop.conf.Configuration;

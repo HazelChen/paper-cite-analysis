@@ -80,6 +80,10 @@ public class SeachEngine {
 
 
     public static void main(String args[]) {
+//        Guibas, L.J., Rubner, Y., & Tomasi, C.. (2000). The Earth Mover's Distance as a Metric for Image Retrieval. International Journal of Computer Vision, 40, 99-121.
+//        Rubner, Yossi et al. “The Earth Mover's Distance as a Metric for Image Retrieval.” International Journal of Computer Vision 40 (2000): 99-121.
+//        Rubner, Yossi, Carlo Tomasi and Leonidas J. Guibas. “The Earth Mover's Distance as a Metric for Image Retrieval.” International Journal of Computer Vision 40 (2000): 99-121.
+
         String target = "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition";
         SeachEngine se = new SeachEngine();
         Scanner scanner = new Scanner(System.in);

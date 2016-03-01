@@ -7,6 +7,9 @@ import edu.nju.classifier.common.HBaseConstant;
 import edu.nju.classifier.common.Inproceedings;
 import edu.nju.classifier.formatExtract.Format;
 import edu.nju.classifier.hbaseUtil.HBaseDAO;
+import edu.nju.classifier.searchEngine.SeachEngine;
+import edu.nju.dataHandle.FileHelper;
+import org.apache.commons.collections.CollectionUtils;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.TableName;
 import org.apache.hadoop.hbase.client.*;
@@ -19,6 +22,8 @@ import java.util.List;
  */
 public class Analysis {
 
+    private String noHitFilePath = "output/error.txt";
+    private String resultFilePath = "output/result.txt";
     /*search count*/
     private static int count = 0;
     private static double averageAccuracy = 0.0;
@@ -31,8 +36,15 @@ public class Analysis {
     private int fullScoreArt = 6;
     private double threshhold = 0.3;
 
+    private List<Double> apaAccuracies = new ArrayList<Double>();
+    private List<Double> mlaAccuracies = new ArrayList<Double>();
+    private List<Double> chicagoAccuracies = new ArrayList<Double>();
+
+    private SeachEngine seachEngine = new SeachEngine();
+
     public void execute(int k) {
         Configuration conf = new Configuration();
+        String apaStr = null, mlaStr = null, chicagoStr = null;
         try {
             connection = ConnectionFactory.createConnection(conf);
             Admin admin = connection.getAdmin();
@@ -43,29 +55,127 @@ public class Analysis {
             table = connection.getTable(TableName.valueOf(TABLENAME));
             ResultScanner scanner = HBaseDAO.scanAll(table);
 
+            int apaSize = 0, mlaSize = 0, chicagoSize = 0;
+            double apaAccuracy = 0.0, mlaAccuracy = 0.0, chicagoArruracy = 0.0;
             for (Result result : scanner) {
-                String apaStr, mlaStr, chicagoStr;
                 byte[] family = HBaseConstant.REGION_NAME.getBytes();
                 if (result.containsColumn(family, HBaseConstant.APA.getBytes())) {
+                    apaSize++;
                     apaStr = new String(result.getValue(family, HBaseConstant.APA.getBytes()));
-                    doAnalysis(apaStr, k, Format.formartAPA(apaStr));
+                    apaAccuracy += doAnalysis(apaStr, k, Format.formartAPA(apaStr));
                 }
                 if (result.containsColumn(family, HBaseConstant.MLA.getBytes())) {
+                    mlaSize++;
                     mlaStr = new String(result.getValue(family, HBaseConstant.MLA.getBytes()));
-                    doAnalysis(mlaStr, k, Format.formartMC(mlaStr));
+                    mlaAccuracy += doAnalysis(mlaStr, k, Format.formartMC(mlaStr));
                 }
                 if (result.containsColumn(family, HBaseConstant.CHICAGO.getBytes())) {
+                    chicagoSize++;
                     chicagoStr = new String(result.getValue(family, HBaseConstant.CHICAGO.getBytes()));
-                    doAnalysis(chicagoStr, k, Format.formartMC(chicagoStr));
+                    chicagoArruracy += doAnalysis(chicagoStr, k, Format.formartMC(chicagoStr));
                 }
             }
-            System.out.println("average accuracy: " + averageAccuracy);
+            ArrayList<String> contents = new ArrayList<String>();
+            contents.add("apa average accuracy: " + (apaAccuracy / apaSize));
+            contents.add("mla average accuracy: " + (mlaAccuracy / mlaSize));
+            contents.add("chicago average accuracy: " + (chicagoArruracy / chicagoSize));
+            FileHelper.append(contents, resultFilePath);
 
         } catch (Exception e) {
             System.err.println("an error occurs while reading query data: ");
+            System.err.println("apa:" + apaStr);
             e.printStackTrace();
             System.exit(-2);
         }
+    }
+
+
+    private double doAnalysis(String queryStr, int k, Bibtex validate) {
+        if (validate == null) {
+            return 0.0;
+        }
+        count++;
+        System.out.println(queryStr);
+        List<Bibtex> results = seachEngine.search(queryStr, k);
+
+        double accuracy = 0.0;
+        int i = 0;
+        int hitIndex = -1;
+
+        FileHelper.append(results.toString(), "output/detail.txt");
+        if (CollectionUtils.isNotEmpty(results)) {
+            for (Bibtex one : results) {
+                if (one.equals(validate)) {
+                    hitIndex = i;
+                    accuracy = (k - i) / (double) k;
+                    break;
+                }
+                i++;
+            }
+        }
+        if (hitIndex == -1) {
+            FileHelper.append("item " + count + " :No hit, search fail. The query string is : " + queryStr, noHitFilePath);
+        } else {
+            List<String> contents = new ArrayList<String>();
+//
+            contents.add("item " + count + " :search with " + k + " result(s) accuracy: " + accuracy);
+            FileHelper.append(contents, resultFilePath);
+        }
+        averageAccuracy = (averageAccuracy * (count - 1) + accuracy) / (double) count;
+        return accuracy;
+    }
+
+    private void doAnalysis2(String queryStr, int k, Bibtex validate) {
+        if (validate == null) {
+            return;
+        }
+        count++;
+        //TODO call search method here
+        List<Bibtex> results = Search.DoSearch(queryStr, k);
+        if (results == null || results.size() < k) {
+            System.err.println("an error occurs while searching...\n caused by the number of result is less than " + k);
+            System.exit(-4);
+        }
+
+        double total = 0.0;
+        int i = 0;
+        for (Bibtex one : results) {
+            double accuracy = 0.0;
+            accuracy += similarDegree(one.getTitle(), validate.getTitle()) * Weight.TITLE_WEIGHT;
+            accuracy += similarDegree(one.getYear(), validate.getYear()) * Weight.YEAR_WEIGHT;
+//            accuracy += similarDegree(one.getAuthor(), validate.getAuthor()) * Weight.AUTHOR_WEIGHT;
+
+            if (one instanceof Inproceedings && validate instanceof Inproceedings) {
+                accuracy += Weight.TYPE_WEIGHT;
+                accuracy += similarDegree(((Inproceedings) one).getBooktitle(), ((Inproceedings) validate).getBooktitle()) * Weight.BOOKTITLE_WEIGHT;
+                accuracy /= Double.valueOf(Weight.INPROCCEDING_TOTAL_WEIGHT);
+            } else if (one instanceof Article && validate instanceof Article) {
+                accuracy += Weight.TYPE_WEIGHT;
+                accuracy += similarDegree(((Article) one).getPages(), ((Article) validate).getPages()) * Weight.PAGES_WEIGHT;
+                accuracy += similarDegree(((Article) one).getJournal(), ((Article) validate).getJournal()) * Weight.JOURNAL_WEIGHT;
+                accuracy += similarDegree(((Article) one).getVolume(), ((Article) validate).getVolume()) * Weight.VOLUME_WEIGHT;
+                accuracy /= Double.valueOf(Weight.ARTICLE_TOTAL_WEIGHT);
+            } else {
+                accuracy = 0.0;
+            }
+            if (accuracy > threshhold) {
+                System.out.println(count + ": hit result index " + (i + 1) + " with accuracy: " + accuracy);
+            }
+            accuracy *= (k - i) / k;
+            total += accuracy;
+            i++;
+        }
+        System.out.println(count + ": total " + total);
+        averageAccuracy = (averageAccuracy * (count - 1) + total) / (double) count;
+    }
+
+    public double similarDegree(String source, String target) {
+        String s1 = Util.removeSign(source);
+        String s2 = Util.removeSign(target);
+        int temp = Math.max(s1.length(), s2.length());
+        int temp2 = Util.longestCommonSubstring(s1, s2).length();
+        return temp2 * 1.0 / temp;
+
     }
 
     public void execute2(int k) {
@@ -117,140 +227,11 @@ public class Analysis {
         bibtices.add(bibtex7);
         bibtices.add(bibtex8);
         bibtices.add(bibtex9);
-//
-//        for (int i = 0; i < test.size(); i++) {
-//            doAnalysis(test.get(i), k, bibtices.get(i));
-//        }
-        doAnalysis2(test.get(0),k, bibtices.get(0));
-//        doAnalysis(test.get(1), k, bibtices.get(1));
-        System.out.println("average accuracy: " + averageAccuracy);
+
+        for (int i = 0; i < test.size(); i++) {
+            doAnalysis(test.get(i), k, bibtices.get(i));
+        }
+        FileHelper.append("average accuracy: " + averageAccuracy, resultFilePath);
     }
 
-    private void doAnalysis(String queryStr, int k, Bibtex validate) {
-        if (validate == null) {
-            System.err.println("an error occurs while analysing...\n caused by wrong validate Bibtex");
-            System.exit(-3);
-        }
-        count++;
-        //TODO call search method here
-        List<Bibtex> results = Search.DoSearch(queryStr, k);
-        if (results == null || results.size() < k) {
-            System.err.println("an error occurs while searching...\n caused by the number of result is less than " + k);
-            System.exit(-4);
-        }
-
-        double accuracy = 0.0;
-        int i = 0;
-        int hitIndex = -1;
-
-        for (Bibtex one : results) {
-            int score = 0;
-            if (one.getTitle().equals(validate.getTitle())) {
-//                System.out.println("index " + i + " hit title");
-                score++;
-            }
-
-            if (one.getYear().equals(validate.getYear())) {
-//                System.out.println("index " + i + " hit year");
-                score++;
-            }
-
-            if (one instanceof Inproceedings && validate instanceof Inproceedings) {
-                score++;
-                if (((Inproceedings) one).getBooktitle().equals(((Inproceedings) validate).getBooktitle()))
-                    score++;
-                if (score == fullScoreInp) {
-                    hitIndex = i;
-                    accuracy = (k - i) / (double) k;
-                    break;
-                }
-            }
-
-            if (one instanceof Article && validate instanceof Article) {
-//                System.out.println("index " + i + " hit type");
-                score++;
-                if (((Article) one).getJournal().equals(((Article) validate).getJournal())) {
-//                    System.out.println("index " + i + " hit journal");
-                    score++;
-                }
-                if (((Article) one).getPages().equals(((Article) validate).getPages())) {
-//                    System.out.println("index " + i + " hit pages");
-                    score++;
-                }
-                if (((Article) one).getVolume().equals(((Article) validate).getVolume())) {
-//                    System.out.println("index " + i + " hit volume");
-                    score++;
-                }
-                if (score == fullScoreArt) {
-                    hitIndex = i;
-                    accuracy = (k - i) / (double) k;
-                    break;
-                }
-            }
-            i++;
-        }
-        if (hitIndex == -1) {
-            System.err.println(count + " :No hit, search fail. The query string is : " + queryStr);
-        } else {
-            System.out.println(count + " :hit result index [" + (hitIndex + 1) + "]");
-        }
-        System.out.println(count + " :single query accuracy: " + accuracy);
-        System.out.println();
-        averageAccuracy = (averageAccuracy * (count - 1) + accuracy) / (double) count;
-    }
-
-    private void doAnalysis2(String queryStr, int k, Bibtex validate) {
-        if (validate == null) {
-            System.err.println("an error occurs while analysing...\n caused by wrong validate Bibtex");
-            System.exit(-3);
-        }
-        count++;
-        //TODO call search method here
-        List<Bibtex> results = Search.DoSearch(queryStr, k);
-        if (results == null || results.size() < k) {
-            System.err.println("an error occurs while searching...\n caused by the number of result is less than " + k);
-            System.exit(-4);
-        }
-
-        double total = 0.0;
-        int i = 0;
-        for (Bibtex one : results) {
-            double accuracy = 0.0;
-            accuracy += similarDegree(one.getTitle(), validate.getTitle()) * Weight.TITLE_WEIGHT;
-            accuracy += similarDegree(one.getYear(), validate.getYear()) * Weight.YEAR_WEIGHT;
-//            accuracy += similarDegree(one.getAuthor(), validate.getAuthor()) * Weight.AUTHOR_WEIGHT;
-
-            if (one instanceof Inproceedings && validate instanceof Inproceedings){
-                accuracy += Weight.TYPE_WEIGHT;
-                accuracy += similarDegree(((Inproceedings)one).getBooktitle(), ((Inproceedings)validate).getBooktitle()) * Weight.BOOKTITLE_WEIGHT;
-                accuracy /= Double.valueOf(Weight.INPROCCEDING_TOTAL_WEIGHT);
-            }
-            else if (one instanceof Article && validate instanceof Article){
-                accuracy += Weight.TYPE_WEIGHT;
-                accuracy += similarDegree(((Article) one).getPages(), ((Article)validate).getPages()) * Weight.PAGES_WEIGHT;
-                accuracy += similarDegree(((Article) one).getJournal(), ((Article) validate).getJournal()) * Weight.JOURNAL_WEIGHT;
-                accuracy += similarDegree(((Article) one).getVolume(), ((Article) validate).getVolume()) * Weight.VOLUME_WEIGHT;
-                accuracy /= Double.valueOf(Weight.ARTICLE_TOTAL_WEIGHT);
-            }else{
-                accuracy = 0.0;
-            }
-            if (accuracy > threshhold){
-                System.out.println(count + ": hit result index " + (i+1) + " with accuracy: " + accuracy);
-            }
-            accuracy *= (k - i)/ k;
-            total += accuracy;
-            i++;
-        }
-        System.out.println(count + ": total " + total);
-        averageAccuracy = (averageAccuracy * (count - 1) + total) / (double) count;
-    }
-
-    public double similarDegree(String source, String target) {
-        String s1 = Util.removeSign(source);
-        String s2 = Util.removeSign(target);
-        int temp = Math.max(s1.length(), s2.length());
-        int temp2 = Util.longestCommonSubstring(s1, s2).length();
-        return temp2 * 1.0 / temp;
-
-    }
 }
