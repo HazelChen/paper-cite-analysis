@@ -1,0 +1,1509 @@
+@inproceedings{Schldt2004ICPR,
+  title={Recognizing Human Actions: A Local SVM Approach},
+  author={Christian Sch¨¹ldt and Ivan Laptev and Barbara Caputo},
+  booktitle={ICPR},
+  year={2004}
+}
+
+@inproceedings{ShalevShwartz2007ICML,
+  title={Pegasos: Primal Estimated sub-GrAdient SOlver for SVM},
+  author={Shai Shalev-Shwartz and Yoram Singer and Nathan Srebro},
+  booktitle={ICML},
+  year={2007}
+}
+
+@article{Chang2011ACMTIST,
+  title={LIBSVM: A library for support vector machines},
+  author={Chih-Chung Chang and Chih-Jen Lin},
+  journal={ACM TIST},
+  year={2011},
+  volume={2},
+  pages={27}
+}
+
+@inproceedings{Joachims2006KDD,
+  title={Training linear SVMs in linear time},
+  author={Thorsten Joachims},
+  booktitle={KDD},
+  year={2006}
+}
+
+@inproceedings{Hsieh2008ICML,
+  title={A dual coordinate descent method for large-scale linear SVM},
+  author={Cho-Jui Hsieh and Kai-Wei Chang and Chih-Jen Lin and S. Sathiya Keerthi and S. Sundararajan},
+  booktitle={ICML},
+  year={2008}
+}
+
+@inproceedings{Dalal2005CVPR,
+  title={Histograms of Oriented Gradients for Human Detection},
+  author={Navneet Dalal and Bill Triggs},
+  booktitle={CVPR},
+  year={2005}
+}
+
+@inproceedings{Malisiewicz2011ICCV,
+  title={Ensemble of exemplar-SVMs for object detection and beyond},
+  author={Tomasz Malisiewicz and Abhinav Gupta and Alexei A. Efros},
+  booktitle={ICCV},
+  year={2011}
+}
+
+@inproceedings{Zhang2006CVPR,
+  title={SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition},
+  author={Hao Zhang and Alexander C. Berg and Michael Maire and Jitendra Malik},
+  booktitle={CVPR},
+  year={2006}
+}
+
+@inproceedings{Cao2006SIGIR,
+  title={Adapting ranking SVM to document retrieval},
+  author={Yunbo Cao and Jun Xu and Tie-Yan Liu and Hang Li and Yalou Huang and Hsiao-Wuen Hon},
+  booktitle={SIGIR},
+  year={2006}
+}
+
+@inproceedings{Leslie2002PSB,
+  title={The Spectrum Kernel: A String Kernel for SVM Protein Classification},
+  author={Christina S. Leslie and Eleazar Eskin and William Stafford Noble},
+  booktitle={PSB},
+  year={2002}
+}
+
+@article{Joachims2009MachineLearning,
+  title={Cutting-plane training of structural SVMs},
+  author={Thorsten Joachims and Thomas Finley and Chun-Nam John Yu},
+  journal={Machine Learning},
+  year={2009},
+  volume={77},
+  pages={27-59}
+}
+
+@inproceedings{Duan2009CVPR,
+  title={Domain Transfer SVM for video concept detection},
+  author={Lixin Duan and Ivor Wai-Hung Tsang and Dong Xu and Stephen J. Maybank},
+  booktitle={CVPR},
+  year={2009}
+}
+
+@inproceedings{Campbell2006ICASSP,
+  title={SVM Based Speaker Verification using a GMM Supervector Kernel and NAP Variability Compensation},
+  author={William M. Campbell and Douglas E. Sturim and Douglas A. Reynolds and Alex Solomonoff},
+  booktitle={ICASSP},
+  year={2006}
+}
+
+@inproceedings{Graf2004NIPS,
+  title={Parallel Support Vector Machines: The Cascade SVM},
+  author={Hans Peter Graf and Eric Cosatto and L¨¦on Bottou and Igor Durdanovic and Vladimir Vapnik},
+  booktitle={NIPS},
+  year={2004}
+}
+
+@inproceedings{Hsu2010APracticalGuidetoSupportVectorClassification,
+  title={A Practical Guide to Support Vector Classification},
+  author={Chih-Wei Hsu and Chih-Chung Chang and Chih-Jen Lin},
+  year={2010}
+}
+
+@article{Tsang2005JournalofMachineLearningResearch,
+  title={Core Vector Machines: Fast SVM Training on Very Large Data Sets},
+  author={Ivor W. Tsang and James T. Kwok and Pak-Ming Cheung},
+  journal={Journal of Machine Learning Research},
+  year={2005},
+  volume={6},
+  pages={363-392}
+}
+
+@inproceedings{Hatch2006INTERSPEECH,
+  title={Within-class covariance normalization for SVM-based speaker recognition},
+  author={Andrew O. Hatch and Sachin S. Kajarekar and Andreas Stolcke},
+  booktitle={INTERSPEECH},
+  year={2006}
+}
+
+@article{Fine2001JournalofMachineLearningResearch,
+  title={Efficient SVM Training Using Low-Rank Kernel Representations},
+  author={Shai Fine and Katya Scheinberg},
+  journal={Journal of Machine Learning Research},
+  year={2001},
+  volume={2},
+  pages={243-264}
+}
+
+@article{Cherkassky2004NeuralNetworks,
+  title={Practical selection of SVM parameters and noise estimation for SVM regression},
+  author={Vladimir Cherkassky and Yunqian Ma},
+  journal={Neural Networks},
+  year={2004},
+  volume={17},
+  pages={113-126}
+}
+
+@inproceedings{ShalevShwartz2008ICML,
+  title={SVM optimization: inverse dependence on training set size},
+  author={Shai Shalev-Shwartz and Nathan Srebro},
+  booktitle={ICML},
+  year={2008}
+}
+
+@inproceedings{Bennett2000ICML,
+  title={Duality and Geometry in SVM Classifiers},
+  author={Kristin P. Bennett and Erin J. Bredensteiner},
+  booktitle={ICML},
+  year={2000}
+}
+
+@inproceedings{Vedaldi2009ICCV,
+  title={Multiple kernels for object detection},
+  author={Andrea Vedaldi and Varun Gulshan and Manik Varma and Andrew Zisserman},
+  booktitle={ICCV},
+  year={2009}
+}
+
+@article{Forsyth2010IEEEComputer,
+  title={Object Detection with Discriminatively Trained Part-Based Models},
+  author={David Forsyth},
+  journal={IEEE Computer},
+  year={2010},
+  volume={47},
+  pages={6-7}
+}
+
+@inproceedings{Lin2011CVPR,
+  title={Large-scale image classification: Fast feature extraction and SVM training},
+  author={Yuanqing Lin and Fengjun Lv and Shenghuo Zhu and Ming Yang and Timoth¨¦e Cour and Kai Yu and Liangliang Cao and Thomas S. Huang},
+  booktitle={CVPR},
+  year={2011}
+}
+
+@inproceedings{Farquhar2005NIPS,
+  title={Two view learning: SVM-2K, Theory and Practice},
+  author={Jason D. R. Farquhar and David R. Hardoon and Hongying Meng and John Shawe-Taylor and S¨¢ndor Szedm¨¢k},
+  booktitle={NIPS},
+  year={2005}
+}
+
+@article{Keerthi2001NeuralComputation,
+  title={Improvements to Platt's SMO Algorithm for SVM Classifier Design},
+  author={S. Sathiya Keerthi and Shirish Krishnaj Shevade and Chiranjib Bhattacharyya and K. R. K. Murthy},
+  journal={Neural Computation},
+  year={2001},
+  volume={13},
+  pages={637-649}
+}
+
+@inproceedings{Leslie2002NIPS,
+  title={Mismatch String Kernels for SVM Protein Classification},
+  author={Christina S. Leslie and Eleazar Eskin and Jason Weston and William Stafford Noble},
+  booktitle={NIPS},
+  year={2002}
+}
+
+@inproceedings{Chen2001ICIP,
+  title={One-class SVM for learning in image retrieval},
+  author={Yunqiang Chen and Xiang Sean Zhou and Thomas S. Huang},
+  booktitle={ICIP},
+  year={2001}
+}
+
+@inproceedings{Moreno2003NIPS,
+  title={A Kullback-Leibler Divergence Based Kernel for SVM Classification in Multimedia Applications},
+  author={Pedro J. Moreno and Purdy Ho and Nuno Vasconcelos},
+  booktitle={NIPS},
+  year={2003}
+}
+
+@inproceedings{Yu2009ICML,
+  title={Learning structural SVMs with latent variables},
+  author={Chun-Nam John Yu and Thorsten Joachims},
+  booktitle={ICML},
+  year={2009}
+}
+
+@inproceedings{Bennett2000ICML,
+  title={Duality and Geometry in SVM Classifiers},
+  author={Kristin P. Bennett and Erin J. Bredensteiner},
+  booktitle={ICML},
+  year={2000}
+}
+
+@inproceedings{CesaBianchi2006ICML,
+  title={Hierarchical classification: combining Bayes with SVM},
+  author={Nicol¨° Cesa-Bianchi and Claudio Gentile and Luca Zaniboni},
+  booktitle={ICML},
+  year={2006}
+}
+
+@inproceedings{Cristianini2001DAGLIB,
+  title={An Introduction to Support Vector Machines and Other Kernel-based Learning Methods},
+  author={Nello Cristianini and John Shawe-Taylor},
+  booktitle={DAGLIB},
+  year={2001}
+}
+
+@article{Duan2003Neurocomputing,
+  title={Evaluation of simple performance measures for tuning SVM hyperparameters},
+  author={Kaibo Duan and S. Sathiya Keerthi and Aun Neow Poo},
+  journal={Neurocomputing},
+  year={2003},
+  volume={51},
+  pages={41-59}
+}
+
+@inproceedings{Crisp1999NIPS,
+  title={A Geometric Interpretation of v-SVM Classifiers},
+  author={David J. Crisp and Christopher J. C. Burges},
+  booktitle={NIPS},
+  year={1999}
+}
+
+@inproceedings{Ye2007JMLR,
+  title={SVM versus Least Squares SVM},
+  author={Jieping Ye and Tao Xiong},
+  booktitle={JMLR},
+  year={2007}
+}
+
+@inproceedings{Solomonoff2005ICASSP,
+  title={Advances In Channel Compensation For SVM Speaker Recognition},
+  author={Alex Solomonoff and William M. Campbell and Ian Boardman},
+  booktitle={ICASSP},
+  year={2005}
+}
+
+@article{Burges1998DataMinKnowlDiscov,
+  title={A Tutorial on Support Vector Machines for Pattern Recognition},
+  author={Christopher J. C. Burges},
+  journal={Data Min. Knowl. Discov.},
+  year={1998},
+  volume={2},
+  pages={121-167}
+}
+
+@inproceedings{Huang2002SVM,
+  title={Face Recognition Using Component-Based SVM Classification and Morphable Models},
+  author={Jennifer Huang and Volker Blanz and Bernd Heisele},
+  booktitle={SVM},
+  year={2002}
+}
+
+@inproceedings{Joachims2005ICML,
+  title={A support vector method for multivariate performance measures},
+  author={Thorsten Joachims},
+  booktitle={ICML},
+  year={2005}
+}
+
+@article{Tao2006IEEETransPatternAnalMachIntell,
+  title={Asymmetric Bagging and Random Subspace for Support Vector Machines-Based Relevance Feedback in Image Retrieval},
+  author={Dacheng Tao and Xiaoou Tang and Xuelong Li and Xindong Wu},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2006},
+  volume={28},
+  pages={1088-1099}
+}
+
+@inproceedings{CesaBianchi2006ICML,
+  title={Hierarchical classification: combining Bayes with SVM},
+  author={Nicol¨° Cesa-Bianchi and Claudio Gentile and Luca Zaniboni},
+  booktitle={ICML},
+  year={2006}
+}
+
+@inproceedings{Friedrichs2004ESANN,
+  title={Evolutionary tuning of multiple SVM parameters},
+  author={Frauke Friedrichs and Christian Igel},
+  booktitle={ESANN},
+  year={2004}
+}
+
+@article{Manevitz2001JournalofMachineLearningResearch,
+  title={One-Class SVMs for Document Classification},
+  author={Larry M. Manevitz and Malik Yousef},
+  journal={Journal of Machine Learning Research},
+  year={2001},
+  volume={2},
+  pages={139-154}
+}
+
+@inproceedings{Duan2005MCS,
+  title={Which Is the Best Multiclass SVM Method? An Empirical Study},
+  author={Kaibo Duan and S. Sathiya Keerthi},
+  booktitle={MCS},
+  year={2005}
+}
+
+@inproceedings{Zhang2003ICML,
+  title={Modified Logistic Regression: An Approximation to SVM and Its Applications in Large-Scale Text Categorization},
+  author={Jian Zhang and Rong Jin and Yiming Yang and Alexander G. Hauptmann},
+  booktitle={ICML},
+  year={2003}
+}
+
+@inproceedings{Andrews2002NIPS,
+  title={Support Vector Machines for Multiple-Instance Learning},
+  author={Stuart Andrews and Ioannis Tsochantaridis and Thomas Hofmann},
+  booktitle={NIPS},
+  year={2002}
+}
+
+@inproceedings{Chan2007ICML,
+  title={Direct convex relaxations of sparse SVM},
+  author={Antoni B. Chan and Nuno Vasconcelos and Gert R. G. Lanckriet},
+  booktitle={ICML},
+  year={2007}
+}
+
+@article{Hsu2002IEEETransactionsonNeuralNetworks,
+  title={A comparison of methods for multiclass support vector machines},
+  author={Chih-Wei Hsu and Chih-Jen Lin},
+  journal={IEEE Transactions on Neural Networks},
+  year={2002},
+  volume={13},
+  pages={415-425}
+}
+
+@article{Suykens1999NeuralProcessingLetters,
+  title={Least Squares Support Vector Machine Classifiers},
+  author={Johan A. K. Suykens and Joos Vandewalle},
+  journal={Neural Processing Letters},
+  year={1999},
+  volume={9},
+  pages={293-300}
+}
+
+@inproceedings{Hoi2008CVPR,
+  title={Semi-supervised SVM batch mode active learning for image retrieval},
+  author={Steven C. H. Hoi and Rong Jin and Jianke Zhu and Michael R. Lyu},
+  booktitle={CVPR},
+  year={2008}
+}
+
+@inproceedings{Wu2004ICML,
+  title={Improving SVM accuracy by training on auxiliary data sources},
+  author={Pengcheng Wu and Thomas G. Dietterich},
+  booktitle={ICML},
+  year={2004}
+}
+
+@article{Tipping2001JournalofMachineLearningResearch,
+  title={Sparse Bayesian Learning and the Relevance Vector Machine},
+  author={Michael E. Tipping},
+  journal={Journal of Machine Learning Research},
+  year={2001},
+  volume={1},
+  pages={211-244}
+}
+
+@inproceedings{Solomonoff2004ODYSSEY,
+  title={Channel compensation for SVM speaker recognition},
+  author={Alex Solomonoff and Carl Quillen and William M. Campbell},
+  booktitle={ODYSSEY},
+  year={2004}
+}
+
+@inproceedings{Avidan2001CVPR,
+  title={Support Vector Tracking},
+  author={Shai Avidan},
+  booktitle={CVPR},
+  year={2001}
+}
+
+@inproceedings{Yu2005KDD,
+  title={SVM selective sampling for ranking with application to data retrieval},
+  author={Hwanjo Yu},
+  booktitle={KDD},
+  year={2005}
+}
+
+@inproceedings{Tan2010ICML,
+  title={Learning Sparse SVM for Feature Selection on Very High Dimensional Datasets},
+  author={Mingkui Tan and Li Wang and Ivor W. Tsang},
+  booktitle={ICML},
+  year={2010}
+}
+
+@article{Rubinstein2009CoRR,
+  title={Learning in a Large Function Space: Privacy-Preserving Mechanisms for SVM Learning},
+  author={Benjamin I. P. Rubinstein and Peter L. Bartlett and Ling Huang and Nina Taft},
+  journal={CoRR},
+  year={2009},
+  volume={abs/0911.5708}
+}
+
+@inproceedings{Chang2008JMLR,
+  title={Feature Ranking Using Linear SVM},
+  author={Yin-Wen Chang and Chih-Jen Lin},
+  booktitle={JMLR},
+  year={2008}
+}
+
+@inproceedings{Bertelli2011CVPR,
+  title={Kernelized structural SVM learning for supervised object segmentation},
+  author={Luca Bertelli and Tianli Yu and Diem Vu and Burak Gokturk},
+  booktitle={CVPR},
+  year={2011}
+}
+
+@inproceedings{Tsochantaridis2004ICML,
+  title={Support vector machine learning for interdependent and structured output spaces},
+  author={Ioannis Tsochantaridis and Thomas Hofmann and Thorsten Joachims and Yasemin Altun},
+  booktitle={ICML},
+  year={2004}
+}
+
+@inproceedings{Fumera2002SVM,
+  title={Support Vector Machines with Embedded Reject Option},
+  author={Giorgio Fumera and Fabio Roli},
+  booktitle={SVM},
+  year={2002}
+}
+
+@inproceedings{Yan2003ICASSP,
+  title={On predicting rare classes with SVM ensembles in scene classification},
+  author={Rong Yan and Yan Liu and Rong Jin and Alexander G. Hauptmann},
+  booktitle={ICASSP},
+  year={2003}
+}
+
+@inproceedings{Yuan2006ICIP,
+  title={Automatic Video Genre Categorization using Hierarchical SVM},
+  author={Xun Yuan and Wei Lai and Tao Mei and Xian-Sheng Hua and Xiuqing Wu and Shipeng Li},
+  booktitle={ICIP},
+  year={2006}
+}
+
+@inproceedings{Li2007TheSvmwithUnevenMarginsandChineseDocumentCategorisation,
+  title={The Svm with Uneven Margins and Chinese Document Categorisation},
+  author={Yaoyong Li and John Shawe-Taylor},
+  year={2007}
+}
+
+@article{Neumann2005MachineLearning,
+  title={Combined SVM-Based Feature Selection and Classification},
+  author={Julia Neumann and Christoph Schn?rr and Gabriele Steidl},
+  journal={Machine Learning},
+  year={2005},
+  volume={61},
+  pages={129-150}
+}
+
+@inproceedings{Ganapathiraju2000INTERSPEECH,
+  title={Hybrid SVM/HMM architectures for speech recognition},
+  author={Aravind Ganapathiraju and Jonathan Hamaker and Joseph Picone},
+  booktitle={INTERSPEECH},
+  year={2000}
+}
+
+@inproceedings{Pelossof2004ICRA,
+  title={An SVM Learning Approach to Robotic Grasping},
+  author={Raphael Pelossof and Andrew T. Miller and Peter K. Allen and Tony Jebara},
+  booktitle={ICRA},
+  year={2004}
+}
+
+@inproceedings{Joachims2002KDD,
+  title={Optimizing search engines using clickthrough data},
+  author={Thorsten Joachims},
+  booktitle={KDD},
+  year={2002}
+}
+
+@inproceedings{Li2004DSMML,
+  title={SVM Based Learning System for Information Extraction},
+  author={Yaoyong Li and Kalina Bontcheva and Hamish Cunningham},
+  booktitle={DSMML},
+  year={2004}
+}
+
+@inproceedings{Yang2007ICDM,
+  title={Adapting SVM Classifiers to Data with Shifted Distributions},
+  author={Jun Yang and Rong Yan and Alexander G. Hauptmann},
+  booktitle={ICDM},
+  year={2007}
+}
+
+@inproceedings{Bach2004ICML,
+  title={Multiple kernel learning, conic duality, and the SMO algorithm},
+  author={Francis R. Bach and Gert R. G. Lanckriet and Michael I. Jordan},
+  booktitle={ICML},
+  year={2004}
+}
+
+@inproceedings{Huang1998ICPR,
+  title={Face pose discrimination using support vector machines (SVM)},
+  author={Jeffrey Huang and Xuhui Shao and Harry Wechsler},
+  booktitle={ICPR},
+  year={1998}
+}
+
+@article{Tsochantaridis2005JournalofMachineLearningResearch,
+  title={Large Margin Methods for Structured and Interdependent Output Variables},
+  author={Ioannis Tsochantaridis and Thorsten Joachims and Thomas Hofmann and Yasemin Altun},
+  journal={Journal of Machine Learning Research},
+  year={2005},
+  volume={6},
+  pages={1453-1484}
+}
+
+@inproceedings{Razavian2014CVPR,
+  title={CNN Features Off-the-Shelf: An Astounding Baseline for Recognition},
+  author={Ali Sharif Razavian and Hossein Azizpour and Josephine Sullivan and Stefan Carlsson},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Diehl2003SvmIncrementalLearningAdaptationandOptimization,
+  title={Svm Incremental Learning, Adaptation and Optimization},
+  author={Christopher P. Diehl and Gert Cauwenberghs},
+  year={2003}
+}
+
+@article{Shevade2000IEEETransNeuralNetwLearningSyst,
+  title={Improvements to the SMO algorithm for SVM regression},
+  author={Shirish Krishnaj Shevade and S. Sathiya Keerthi and Chiranjib Bhattacharyya and K. R. K. Murthy},
+  journal={IEEE Trans. Neural Netw. Learning Syst.},
+  year={2000},
+  volume={11},
+  pages={1188-1193}
+}
+
+@inproceedings{Blanzieri2007FLAIRS,
+  title={Instance-Based Spam Filtering Using SVM Nearest Neighbor Classifier},
+  author={Enrico Blanzieri and Anton Bryl},
+  booktitle={FLAIRS},
+  year={2007}
+}
+
+@article{Bhasin2004NucleicAcidsResearch,
+  title={ESLpred: SVM-based method for subcellular localization of eukaryotic proteins using dipeptide composition and PSI-BLAST},
+  author={Manoj Bhasin and G. P. S. Raghava},
+  journal={Nucleic Acids Research},
+  year={2004},
+  volume={32},
+  pages={414-419}
+}
+
+@inproceedings{Yu2013svmforLearningwithLabelProportions,
+  title={¡Øsvm for Learning with Label Proportions},
+  author={Felix X. Yu and Dong Liu and Sanjiv Kumar and Tony Jebara and Shih-Fu Chang},
+  year={2013}
+}
+
+@article{Campbell2006IEEESignalProcessLett,
+  title={Support vector machines using GMM supervectors for speaker verification},
+  author={William M. Campbell and Douglas E. Sturim and Douglas A. Reynolds},
+  journal={IEEE Signal Process. Lett.},
+  year={2006},
+  volume={13},
+  pages={308-311}
+}
+
+@article{Chang2010JournalofMachineLearningResearch,
+  title={Training and Testing Low-degree Polynomial Data Mappings via Linear SVM},
+  author={Yin-Wen Chang and Cho-Jui Hsieh and Kai-Wei Chang and Michael Ringgaard and Chih-Jen Lin},
+  journal={Journal of Machine Learning Research},
+  year={2010},
+  volume={11},
+  pages={1471-1490}
+}
+
+@inproceedings{Huang2006CVPR,
+  title={Large-scale Learning with SVM and Convolutional for Generic Object Categorization},
+  author={Fu Jie Huang and Yann LeCun},
+  booktitle={CVPR},
+  year={2006}
+}
+
+@inproceedings{Zhu2011NIPS,
+  title={Infinite Latent SVM for Classification and Multi-task Learning},
+  author={Jun Zhu and Ning Chen and Eric P. Xing},
+  booktitle={NIPS},
+  year={2011}
+}
+
+@inproceedings{Bakir2004NIPS,
+  title={Breaking SVM Complexity with Cross-Training},
+  author={G?khan H. Bakir and L¨¦on Bottou and Jason Weston},
+  booktitle={NIPS},
+  year={2004}
+}
+
+@inproceedings{Sonnenburg2005ICML,
+  title={Large scale genomic sequence SVM classifiers},
+  author={S?ren Sonnenburg and Gunnar R?tsch and Bernhard Sch?lkopf},
+  booktitle={ICML},
+  year={2005}
+}
+
+@inproceedings{Genov2002SVM,
+  title={Kerneltron: Support Vector `Machine' in Silicon},
+  author={Roman Genov and Gert Cauwenberghs},
+  booktitle={SVM},
+  year={2002}
+}
+
+@inproceedings{Platt1998SequentialMinimalOptimizationaFastAlgorithmforTrainingSupportVectorMachines,
+  title={Sequential Minimal Optimization: a Fast Algorithm for Training Support Vector Machines},
+  author={John C. Platt},
+  year={1998}
+}
+
+@inproceedings{Zhou2003NIPS,
+  title={Learning with Local and Global Consistency},
+  author={Dengyong Zhou and Olivier Bousquet and Thomas Navin Lal and Jason Weston and Bernhard Sch?lkopf},
+  booktitle={NIPS},
+  year={2003}
+}
+
+@article{Tang2009IEEETransactionsonSystemsManandCyberneticsPartB,
+  title={SVMs Modeling for Highly Imbalanced Classification},
+  author={Yuchun Tang and Yan-Qing Zhang and Nitesh V. Chawla and Sven Krasser},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics, Part B},
+  year={2009},
+  volume={39},
+  pages={281-288}
+}
+
+@inproceedings{Li2005CONLL,
+  title={Using Uneven Margins SVM and Perceptron for Information Extraction},
+  author={Yaoyong Li and Kalina Bontcheva and Hamish Cunningham},
+  booktitle={CONLL},
+  year={2005}
+}
+
+@inproceedings{Bordes2005ECML,
+  title={The Huller: A Simple and Efficient Online SVM},
+  author={Antoine Bordes and L¨¦on Bottou},
+  booktitle={ECML},
+  year={2005}
+}
+
+@inproceedings{Kim2002SVM,
+  title={Support Vector Machine Ensemble with Bagging},
+  author={Hyun-Chul Kim and Shaoning Pang and Hong-Mo Je and Daijin Kim and Sung Yang Bang},
+  booktitle={SVM},
+  year={2002}
+}
+
+@article{Lapin2014CoRR,
+  title={Learning Using Privileged Information: SVM+ and Weighted SVM},
+  author={Maksim Lapin and Matthias Hein and Bernt Schiele},
+  journal={CoRR},
+  year={2014},
+  volume={abs/1306.3161}
+}
+
+@article{Li2009NaturalLanguageEngineering,
+  title={Adapting SVM for data sparseness and imbalance: a case study in information extraction},
+  author={Yaoyong Li and Kalina Bontcheva and Hamish Cunningham},
+  journal={Natural Language Engineering},
+  year={2009},
+  volume={15},
+  pages={241-271}
+}
+
+@inproceedings{Tao2004CVPR,
+  title={Random Sampling Based SVM for Relevance Feedback Image Retrieval},
+  author={Dacheng Tao and Xiaoou Tang},
+  booktitle={CVPR},
+  year={2004}
+}
+
+@inproceedings{Yang2009CVPR,
+  title={Linear spatial pyramid matching using sparse coding for image classification},
+  author={Jianchao Yang and Kai Yu and Yihong Gong and Thomas S. Huang},
+  booktitle={CVPR},
+  year={2009}
+}
+
+@inproceedings{Wu2010ECCV,
+  title={A Fast Dual Method for HIK SVM Learning},
+  author={Jianxin Wu},
+  booktitle={ECCV},
+  year={2010}
+}
+
+@inproceedings{Wang2012ACL,
+  title={Baselines and Bigrams: Simple, Good Sentiment and Topic Classification},
+  author={Sida I. Wang and Christopher D. Manning},
+  booktitle={ACL},
+  year={2012}
+}
+
+@inproceedings{Collobert2002SVM,
+  title={Scaling Large Learning Problems with Hard Parallel Mixtures},
+  author={Ronan Collobert and Yoshua Bengio and Samy Bengio},
+  booktitle={SVM},
+  year={2002}
+}
+
+@article{Wright2009IEEETransPatternAnalMachIntell,
+  title={Robust Face Recognition via Sparse Representation},
+  author={John Wright and Allen Y. Yang and Arvind Ganesh and Shankar S. Sastry and Yi Ma},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2009},
+  volume={31},
+  pages={210-227}
+}
+
+@inproceedings{Joachims2000ICML,
+  title={Estimating the Generalization Performance of an SVM Efficiently},
+  author={Thorsten Joachims},
+  booktitle={ICML},
+  year={2000}
+}
+
+@article{Belkin2006JournalofMachineLearningResearch,
+  title={Manifold Regularization: A Geometric Framework for Learning from Labeled and Unlabeled Examples},
+  author={Mikhail Belkin and Partha Niyogi and Vikas Sindhwani},
+  journal={Journal of Machine Learning Research},
+  year={2006},
+  volume={7},
+  pages={2399-2434}
+}
+
+@inproceedings{Felzenszwalb2008CVPR,
+  title={A discriminatively trained, multiscale, deformable part model},
+  author={Pedro F. Felzenszwalb and David A. McAllester and Deva Ramanan},
+  booktitle={CVPR},
+  year={2008}
+}
+
+@inproceedings{Zhang2012JMLR,
+  title={Scaling up Kernel SVM on Limited Resources: A Low-rank Linearization Approach},
+  author={Kai Zhang and Liang Lan and Zhuang Wang and Fabian Moerchen},
+  booktitle={JMLR},
+  year={2012}
+}
+
+@article{Drucker1999IEEETransactionsonNeuralNetworks,
+  title={Support vector machines for spam categorization},
+  author={Harris Drucker and Donghui Wu and Vladimir Vapnik},
+  journal={IEEE Transactions on Neural Networks},
+  year={1999},
+  volume={10},
+  pages={1048-1054}
+}
+
+@inproceedings{Zhu2011ICML,
+  title={Infinite SVM: a Dirichlet Process Mixture of Large-margin Kernel Machines},
+  author={Jun Zhu and Ning Chen and Eric P. Xing},
+  booktitle={ICML},
+  year={2011}
+}
+
+@article{Valentini2004JournalofMachineLearningResearch,
+  title={Bias-Variance Analysis of Support Vector Machines for the Development of SVM-Based Ensemble Methods},
+  author={Giorgio Valentini and Thomas G. Dietterich},
+  journal={Journal of Machine Learning Research},
+  year={2004},
+  volume={5},
+  pages={725-775}
+}
+
+@inproceedings{Yang2007MM,
+  title={Cross-domain video concept detection using adaptive svms},
+  author={Jun Yang and Rong Yan and Alexander G. Hauptmann},
+  booktitle={MM},
+  year={2007}
+}
+
+@inproceedings{Yu2006SAC,
+  title={Privacy-preserving SVM using nonlinear kernels on horizontally partitioned data},
+  author={Hwanjo Yu and Xiaoqian Jiang and Jaideep Vaidya},
+  booktitle={SAC},
+  year={2006}
+}
+
+@article{Chen2005ComputersOR,
+  title={Application of SVM and ANN for intrusion detection},
+  author={Wun-Hwa Chen and Sheng-Hsun Hsu and Hwang-Pin Shen},
+  journal={Computers & OR},
+  year={2005},
+  volume={32},
+  pages={2617-2634}
+}
+
+@inproceedings{Wang2003CVPR,
+  title={Bootstrapping SVM Active Learning by Incorporating Unlabelled Images for Image Retrieval},
+  author={Lei Wang and Kap Luk Chan and Zhihua Zhang},
+  booktitle={CVPR},
+  year={2003}
+}
+
+@inproceedings{Campbell2008ICASSP,
+  title={A covariance kernel for SVM language recognition},
+  author={William M. Campbell},
+  booktitle={ICASSP},
+  year={2008}
+}
+
+@article{Tang2007IEEEACMTransComputBiologyBioinform,
+  title={Development of Two-Stage SVM-RFE Gene Selection Strategy for Microarray Expression Data Analysis},
+  author={Yuchun Tang and Yan-Qing Zhang and Zhen Huang},
+  journal={IEEE/ACM Trans. Comput. Biology Bioinform.},
+  year={2007},
+  volume={4},
+  pages={365-381}
+}
+
+@inproceedings{Wolf2007CVPR,
+  title={Modeling Appearances with Low-Rank SVM},
+  author={Lior Wolf and Hueihan Jhuang and Tamir Hazan},
+  booktitle={CVPR},
+  year={2007}
+}
+
+@article{Vincent2010JournalofMachineLearningResearch,
+  title={Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion},
+  author={Pascal Vincent and Hugo Larochelle and Isabelle Lajoie and Yoshua Bengio and Pierre-Antoine Manzagol},
+  journal={Journal of Machine Learning Research},
+  year={2010},
+  volume={11},
+  pages={3371-3408}
+}
+
+@article{Dehak2011IEEETransactionsonAudioSpeechLanguageProcessing,
+  title={Front-End Factor Analysis for Speaker Verification},
+  author={Najim Dehak and Patrick Kenny and R¨¦da Dehak and Pierre Dumouchel and Pierre Ouellet},
+  journal={IEEE Transactions on Audio, Speech & Language Processing},
+  year={2011},
+  volume={19},
+  pages={788-798}
+}
+
+@inproceedings{Elisseeff2001NIPS,
+  title={A kernel method for multi-labelled classification},
+  author={Andr¨¦ Elisseeff and Jason Weston},
+  booktitle={NIPS},
+  year={2001}
+}
+
+@inproceedings{Tong2000ICML,
+  title={Support Vector Machine Active Learning with Application sto Text Classification},
+  author={Simon Tong and Daphne Koller},
+  booktitle={ICML},
+  year={2000}
+}
+
+@inproceedings{Yu2003KDD,
+  title={Classifying large data sets using SVMs with hierarchical clusters},
+  author={Hwanjo Yu and Jiong Yang and Jiawei Han},
+  booktitle={KDD},
+  year={2003}
+}
+
+@inproceedings{Weinberger2005NIPS,
+  title={Distance Metric Learning for Large Margin Nearest Neighbor Classification},
+  author={Kilian Q. Weinberger and John Blitzer and Lawrence K. Saul},
+  booktitle={NIPS},
+  year={2005}
+}
+
+@inproceedings{Joachims1999ICML,
+  title={Transductive Inference for Text Classification using Support Vector Machines},
+  author={Thorsten Joachims},
+  booktitle={ICML},
+  year={1999}
+}
+
+@inproceedings{Ayat2002SVM,
+  title={Optimization of the SVM Kernels Using an Empirical Error Minimization Scheme},
+  author={Nedjem-Eddine Ayat and Mohamed Cheriet and Ching Y. Suen},
+  booktitle={SVM},
+  year={2002}
+}
+
+@inproceedings{Perdisci2006ICDM,
+  title={Using an Ensemble of One-Class SVM Classifiers to Harden Payload-based Anomaly Detection Systems},
+  author={Roberto Perdisci and Guofei Gu and Wenke Lee},
+  booktitle={ICDM},
+  year={2006}
+}
+
+@inproceedings{Wolf2013CVPR,
+  title={The SVM-Minus Similarity Score for Video Face Recognition},
+  author={Lior Wolf and Noga Levy},
+  booktitle={CVPR},
+  year={2013}
+}
+
+@article{Keerthi2005JournalofMachineLearningResearch,
+  title={A Modified Finite Newton Method for Fast Solution of Large Scale Linear SVMs},
+  author={S. Sathiya Keerthi and Dennis DeCoste},
+  journal={Journal of Machine Learning Research},
+  year={2005},
+  volume={6},
+  pages={341-361}
+}
+
+@inproceedings{Boiman2008CVPR,
+  title={In defense of Nearest-Neighbor based image classification},
+  author={Oren Boiman and Eli Shechtman and Michal Irani},
+  booktitle={CVPR},
+  year={2008}
+}
+
+@inproceedings{Uricar2012VISAPP,
+  title={Detector of Facial Landmarks Learned by the Structured Output SVM},
+  author={Michal Uricar and Vojtech Franc and V¨¢clav Hlav¨¢c},
+  booktitle={VISAPP},
+  year={2012}
+}
+
+@inproceedings{Ying2009NIPS,
+  title={Analysis of SVM with Indefinite Kernels},
+  author={Yiming Ying and Colin Campbell and Mark Girolami},
+  booktitle={NIPS},
+  year={2009}
+}
+
+@article{Chapelle2007NeuralComputation,
+  title={Training a Support Vector Machine in the Primal},
+  author={Olivier Chapelle},
+  journal={Neural Computation},
+  year={2007},
+  volume={19},
+  pages={1155-1178}
+}
+
+@inproceedings{Yue2007SIGIR,
+  title={A support vector method for optimizing average precision},
+  author={Yisong Yue and Thomas Finley and Filip Radlinski and Thorsten Joachims},
+  booktitle={SIGIR},
+  year={2007}
+}
+
+@inproceedings{Gimnez2003RANLP,
+  title={Fast and accurate part-of-speech tagging: The SVM approach revisited},
+  author={Jes¨²s Gim¨¦nez and Llu¨ªs M¨¤rquez},
+  booktitle={RANLP},
+  year={2003}
+}
+
+@inproceedings{Yu2009PAKDD,
+  title={RV-SVM: An Efficient Method for Learning Ranking SVM},
+  author={Hwanjo Yu and Youngdae Kim and Seung-won Hwang},
+  booktitle={PAKDD},
+  year={2009}
+}
+
+@inproceedings{Liu2003ICDM,
+  title={Building Text Classifiers Using Positive and Unlabeled Examples},
+  author={Bing Liu and Yang Dai and Xiaoli Li and Wee Sun Lee and Philip S. Yu},
+  booktitle={ICDM},
+  year={2003}
+}
+
+@inproceedings{Do2004DIS,
+  title={Enhancing SVM with Visualization},
+  author={Thanh-Nghi Do and Fran?ois Poulet},
+  booktitle={DIS},
+  year={2004}
+}
+
+@article{Bazi2006IEEETGeoscienceandRemoteSensing,
+  title={Toward an Optimal SVM Classification System for Hyperspectral Remote Sensing Images},
+  author={Yakoub Bazi and Farid Melgani},
+  journal={IEEE T. Geoscience and Remote Sensing},
+  year={2006},
+  volume={44},
+  pages={3374-3385}
+}
+
+@inproceedings{Evgeniou2004KDD,
+  title={Regularized multi--task learning},
+  author={Theodoros Evgeniou and Massimiliano Pontil},
+  booktitle={KDD},
+  year={2004}
+}
+
+@inproceedings{Yang2012NIPS,
+  title={Kernel Latent SVM for Visual Recognition},
+  author={Weilong Yang and Yang Wang and Arash Vahdat and Greg Mori},
+  booktitle={NIPS},
+  year={2012}
+}
+
+@inproceedings{Chen2001CVPR,
+  title={Text Identification in Complex Background Using SVM},
+  author={Datong Chen and Herv¨¦ Bourlard and Jean-Philippe Thiran},
+  booktitle={CVPR},
+  year={2001}
+}
+
+@inproceedings{Wang2004ICPR,
+  title={Incorporating Prior Knowledge into SVM for Image Retrieval},
+  author={Lei Wang and Ping Xue and Kap Luk Chan},
+  booktitle={ICPR},
+  year={2004}
+}
+
+@inproceedings{Hastie2004NIPS,
+  title={The Entire Regularization Path for the Support Vector Machine},
+  author={Trevor Hastie and Saharon Rosset and Robert Tibshirani and Ji Zhu},
+  booktitle={NIPS},
+  year={2004}
+}
+
+@article{Li2008EngApplofAI,
+  title={AdaBoost with SVM-based component classifiers},
+  author={Xuchun Li and Lei Wang and Eric Sung},
+  journal={Eng. Appl. of AI},
+  year={2008},
+  volume={21},
+  pages={785-795}
+}
+
+@article{Yang2002IEEETransPatternAnalMachIntell,
+  title={Detecting Faces in Images: A Survey},
+  author={Ming-Hsuan Yang and David J. Kriegman and Narendra Ahuja},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2002},
+  volume={24},
+  pages={34-58}
+}
+
+@inproceedings{Finley2008ICML,
+  title={Training structural SVMs when exact inference is intractable},
+  author={Thomas Finley and Thorsten Joachims},
+  booktitle={ICML},
+  year={2008}
+}
+
+@article{Madzarov2009InformaticaSlovenia,
+  title={A Multi-class SVM Classifier Utilizing Binary Decision Tree},
+  author={Gjorgji Madzarov and Dejan Gjorgjevikj and Ivan Chorbev},
+  journal={Informatica (Slovenia)},
+  year={2009},
+  volume={33},
+  pages={225-233}
+}
+
+@article{Chen2004JournalofMachineLearningResearch,
+  title={Image Categorization by Learning and Reasoning with Regions},
+  author={Yixin Chen and James Ze Wang},
+  journal={Journal of Machine Learning Research},
+  year={2004},
+  volume={5},
+  pages={913-939}
+}
+
+@inproceedings{Peng2001CVPR,
+  title={LDA/SVM Driven Nearest Neighbor Classification},
+  author={Jing Peng and Douglas R. Heisterkamp and H. K. Dai},
+  booktitle={CVPR},
+  year={2001}
+}
+
+@article{Hu2009IEEETransactionsonNeuralNetworks,
+  title={Building Sparse Multiple-Kernel SVM Classifiers},
+  author={Mingqing Hu and Yiqiang Chen and James Tin-Yau Kwok},
+  journal={IEEE Transactions on Neural Networks},
+  year={2009},
+  volume={20},
+  pages={827-839}
+}
+
+@inproceedings{Akbani2004ECML,
+  title={Applying Support Vector Machines to Imbalanced Datasets},
+  author={Rehan Akbani and Stephen Kwek and Nathalie Japkowicz},
+  booktitle={ECML},
+  year={2004}
+}
+
+@inproceedings{Shen2003CONLL,
+  title={An SVM-based voting algorithm with application to parse reranking},
+  author={Libin Shen and Aravind K. Joshi},
+  booktitle={CONLL},
+  year={2003}
+}
+
+@inproceedings{Weston2000NIPS,
+  title={Feature Selection for SVMs},
+  author={Jason Weston and Sayan Mukherjee and Olivier Chapelle and Massimiliano Pontil and Tomaso A. Poggio and Vladimir Vapnik},
+  booktitle={NIPS},
+  year={2000}
+}
+
+@article{Kim2003PatternRecognition,
+  title={Constructing support vector machine ensemble},
+  author={Hyun-Chul Kim and Shaoning Pang and Hong-Mo Je and Daijin Kim and Sung Yang Bang},
+  journal={Pattern Recognition},
+  year={2003},
+  volume={36},
+  pages={2757-2767}
+}
+
+@inproceedings{Cherry2012NAACL,
+  title={Batch Tuning Strategies for Statistical Machine Translation},
+  author={Colin Cherry and George Foster},
+  booktitle={NAACL},
+  year={2012}
+}
+
+@inproceedings{Brown1999KnowledgebasedAnalysisofMicroarrayGeneExpressionDatabyUsingSupportVectorMachines,
+  title={Knowledge-based Analysis of Microarray Gene Expression Data by Using Support Vector Machines},
+  author={Michael P S Brown and William Noble Grundy and David Lin and Nello Cristianini and Charles Walsh Sugnet and Terrence S. Furey and Manuel Ares and David Haussler},
+  year={1999}
+}
+
+@article{Wu2008PatternRecognition,
+  title={Robust and efficient multiclass SVM models for phrase pattern recognition},
+  author={Yu-Chieh Wu and Yue-Shi Lee and Jie-Chi Yang},
+  journal={Pattern Recognition},
+  year={2008},
+  volume={41},
+  pages={2874-2889}
+}
+
+@inproceedings{Chang2013PKDD,
+  title={Multi-core Structural SVM Training},
+  author={Kai-Wei Chang and Vivek Srikumar and Dan Roth},
+  booktitle={PKDD},
+  year={2013}
+}
+
+@article{Wu2005NeuralComputation,
+  title={SVM Soft Margin Classifiers: Linear Programming versus Quadratic Programming},
+  author={Qiang Wu and Ding-Xuan Zhou},
+  journal={Neural Computation},
+  year={2005},
+  volume={17},
+  pages={1160-1187}
+}
+
+@article{Wang2012JournalofMachineLearningResearch,
+  title={Breaking the curse of kernelization: budgeted stochastic gradient descent for large-scale SVM training},
+  author={Zhuang Wang and Koby Crammer and Slobodan Vucetic},
+  journal={Journal of Machine Learning Research},
+  year={2012},
+  volume={13},
+  pages={3103-3131}
+}
+
+@article{Temko2006PatternRecognition,
+  title={Classification of acoustic events using SVM-based clustering schemes},
+  author={Andrey Temko and Climent Nadeu},
+  journal={Pattern Recognition},
+  year={2006},
+  volume={39},
+  pages={682-694}
+}
+
+@inproceedings{Jose2013ICML,
+  title={Local Deep Kernel Learning for Efficient Non-linear SVM Prediction},
+  author={Cijo Jose and Prasoon Goyal and Parv Aggrwal and Manik Varma},
+  booktitle={ICML},
+  year={2013}
+}
+
+@inproceedings{Yang1999SIGIR,
+  title={A Re-Examination of Text Categorization Methods},
+  author={Yiming Yang and Xin Liu},
+  booktitle={SIGIR},
+  year={1999}
+}
+
+@inproceedings{Rping2010ICML,
+  title={SVM Classifier Estimation from Group Probabilities},
+  author={Stefan R¨¹ping},
+  booktitle={ICML},
+  year={2010}
+}
+
+@inproceedings{Duan2009ICML,
+  title={Domain adaptation from multiple sources via auxiliary classifiers},
+  author={Lixin Duan and Ivor W. Tsang and Dong Xu and Tat-Seng Chua},
+  booktitle={ICML},
+  year={2009}
+}
+
+@inproceedings{Do2012JMLR,
+  title={A metric learning perspective of SVM: on the relation of LMNN and SVM},
+  author={Huyen Do and Alexandros Kalousis and Jun Wang and Adam Woznica},
+  booktitle={JMLR},
+  year={2012}
+}
+
+@article{Furey2000Bioinformatics,
+  title={Support vector machine classification and validation of cancer tissue samples using microarray expression data},
+  author={Terrence S. Furey and Nello Cristianini and Nigel Duffy and David W. Bednarski and Mich¨¨l Schummer and David Haussler},
+  journal={Bioinformatics},
+  year={2000},
+  volume={16},
+  pages={906-914}
+}
+
+@article{Guyon2002MachineLearning,
+  title={Gene Selection for Cancer Classification using Support Vector Machines},
+  author={Isabelle Guyon and Jason Weston and Stephen Barnhill and Vladimir Vapnik},
+  journal={Machine Learning},
+  year={2002},
+  volume={46},
+  pages={389-422}
+}
+
+@article{Kim2003Neurocomputing,
+  title={Financial time series forecasting using support vector machines},
+  author={Kyoung-jae Kim},
+  journal={Neurocomputing},
+  year={2003},
+  volume={55},
+  pages={307-319}
+}
+
+@article{Justino2005PatternRecognitionLetters,
+  title={A comparison of SVM and HMM classifiers in the off-line signature verification},
+  author={Edson J. R. Justino and Fl¨¢vio Bortolozzi and Robert Sabourin},
+  journal={Pattern Recognition Letters},
+  year={2005},
+  volume={26},
+  pages={1377-1385}
+}
+
+@article{Boujelbene2009JDCTA,
+  title={Robust Text Independent Speaker Identification Using Hybrid GMM-SVM System},
+  author={Siwar Zribi Boujelbene and Dorra Ben Ayed Mezghanni and Noureddine Ellouze},
+  journal={JDCTA},
+  year={2009},
+  volume={3},
+  pages={103-110}
+}
+
+@inproceedings{Hu2006ICNC,
+  title={Privacy-Preserving SVM Classification on Vertically Partitioned Data without Secure Multi-party Computation},
+  author={Yunhong Hu and Liang Fang and Guoping He},
+  booktitle={ICNC},
+  year={2006}
+}
+
+@inproceedings{Keerthi2006NIPS,
+  title={An Efficient Method for Gradient-Based Adaptation of Hyperparameters in SVM Models},
+  author={S. Sathiya Keerthi and Vikas Sindhwani and Olivier Chapelle},
+  booktitle={NIPS},
+  year={2006}
+}
+
+@article{Campbell2006ComputerSpeechLanguage,
+  title={Support vector machines for speaker and language recognition},
+  author={William M. Campbell and Joseph P. Campbell and Douglas A. Reynolds and Elliot Singer and Pedro A. Torres-Carrasquillo},
+  journal={Computer Speech & Language},
+  year={2006},
+  volume={20},
+  pages={210-229}
+}
+
+@article{Dong2005IEEETransPatternAnalMachIntell,
+  title={Fast SVM Training Algorithm with Decomposition on Very Large Data Sets},
+  author={Jian-xiong Dong and Adam Krzyzak and Ching Y. Suen},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2005},
+  volume={27},
+  pages={603-618}
+}
+
+@article{Bruzzone2006IEEETGeoscienceandRemoteSensing,
+  title={A Novel Transductive SVM for Semisupervised Classification of Remote-Sensing Images},
+  author={Lorenzo Bruzzone and Mingmin Chi and Mattia Marconcini},
+  journal={IEEE T. Geoscience and Remote Sensing},
+  year={2006},
+  volume={44},
+  pages={3363-3373}
+}
+
+@inproceedings{Burges1999NIPS,
+  title={Uniqueness of the SVM Solution},
+  author={Christopher J. C. Burges and David J. Crisp},
+  booktitle={NIPS},
+  year={1999}
+}
+
+@article{Ayat2005PatternRecognition,
+  title={Automatic model selection for the optimization of SVM kernels},
+  author={Nedjem-Eddine Ayat and Mohamed Cheriet and Ching Y. Suen},
+  journal={Pattern Recognition},
+  year={2005},
+  volume={38},
+  pages={1733-1745}
+}
+
+@article{Sonnenburg2006JournalofMachineLearningResearch,
+  title={Large Scale Multiple Kernel Learning},
+  author={S?ren Sonnenburg and Gunnar R?tsch and Christin Sch?fer and Bernhard Sch?lkopf},
+  journal={Journal of Machine Learning Research},
+  year={2006},
+  volume={7},
+  pages={1531-1565}
+}
+
+@inproceedings{Alba2007CEC,
+  title={Gene selection in cancer classification using PSO/SVM and GA/SVM hybrid algorithms},
+  author={Enrique Alba and Jos¨¦ Garc¨ªa-Nieto and Laetitia Jourdan and El-Ghazali Talbi},
+  booktitle={CEC},
+  year={2007}
+}
+
+@inproceedings{Avidan2003CVPR,
+  title={Subset Selection for Efficient SVM Tracking},
+  author={Shai Avidan},
+  booktitle={CVPR},
+  year={2003}
+}
+
+@inproceedings{Huang2003ICDM,
+  title={Comparing Naive Bayes, Decision Trees, and SVM with AUC and Accuracy},
+  author={Jin Huang and Jingjing Lu and Charles X. Ling},
+  booktitle={ICDM},
+  year={2003}
+}
+
+@inproceedings{Temko2007ICASSP,
+  title={Enhanced SVM Training for Robust Speech Activity Detection},
+  author={Andrey Temko and Dusan Macho and Climent Nadeu},
+  booktitle={ICASSP},
+  year={2007}
+}
+
+@inproceedings{Vedaldi2010MM,
+  title={Vlfeat: an open and portable library of computer vision algorithms},
+  author={Andrea Vedaldi and Brian Fulkerson},
+  booktitle={MM},
+  year={2010}
+}
+
+@inproceedings{Zou2007JMLR,
+  title={An Improved 1-norm SVM for Simultaneous Classification and Variable Selection},
+  author={Hui Zou},
+  booktitle={JMLR},
+  year={2007}
+}
+
+@inproceedings{Watanabe2008ICPR,
+  title={RANSAC-SVM for large-scale datasets},
+  author={Kenji Watanabe and Takio Kurita},
+  booktitle={ICPR},
+  year={2008}
+}
+
+@inproceedings{Girshick2014CVPR,
+  title={Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation},
+  author={Ross B. Girshick and Jeff Donahue and Trevor Darrell and Jitendra Malik},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Milenova2005VLDB,
+  title={SVM in Oracle Database 10g: Removing the Barriers to Widespread Adoption of Support Vector Machines},
+  author={Boriana L. Milenova and Joseph Yarmus and Marcos M. Campos},
+  booktitle={VLDB},
+  year={2005}
+}
+
+@inproceedings{Diab2004AutomaticTaggingOfArabicTextFromRawTextToBasePhraseChunks,
+  title={Automatic Tagging Of Arabic Text: From Raw Text To Base Phrase Chunks},
+  author={Mona Diab and Kadri Hacioglu and Daniel Jurafsky},
+  year={2004}
+}
+
+@inproceedings{Zhuang2005ICDM,
+  title={Efficient Text Classification by Weighted Proximal SVM},
+  author={Dong Zhuang and Benyu Zhang and Qiang Yang and Jun Yan and Zheng Chen and Ying Chen},
+  booktitle={ICDM},
+  year={2005}
+}
+
+@inproceedings{Nguyen2008FGR,
+  title={Facial feature detection with optimal pixel reduction SVM},
+  author={Minh Hoai Nguyen and Joan Perez and Fernando De la Torre},
+  booktitle={FGR},
+  year={2008}
+}
+
+@inproceedings{Bellili2001ICDAR,
+  title={An Hybrid MLP-SVM Handwritten Digit Recognizer},
+  author={Abdel Bellili and Michel Gilloux and Patrick Gallinari},
+  booktitle={ICDAR},
+  year={2001}
+}
+
+@inproceedings{Kang2002SVM,
+  title={Real-Time Pedestrian Detection Using Support Vector Machines},
+  author={Seonghoon Kang and Hyeran Byun and Seong-Whan Lee},
+  booktitle={SVM},
+  year={2002}
+}
+
+@inproceedings{Zhu2012IJCNN,
+  title={Learning similarity metric with SVM},
+  author={Xiaoqiang Zhu and Pinghua Gong and Zeng-Shun Zhao and Changshui Zhang},
+  booktitle={IJCNN},
+  year={2012}
+}
+
+@article{Gao2002MachineLearning,
+  title={A Probabilistic Framework for SVM Regression and Error Bar Estimation},
+  author={Junbin Gao and Steve R. Gunn and Chris J. Harris and Martin Brown},
+  journal={Machine Learning},
+  year={2002},
+  volume={46},
+  pages={71-89}
+}
+
+@inproceedings{Wang2009ICCV,
+  title={An HOG-LBP human detector with partial occlusion handling},
+  author={Xiaoyu Wang and Tony X. Han and Shuicheng Yan},
+  booktitle={ICCV},
+  year={2009}
+}
+
+@inproceedings{Hammer2004ICAISC,
+  title={Relevance LVQ versus SVM},
+  author={Barbara Hammer and Marc Strickert and Thomas Villmann},
+  booktitle={ICAISC},
+  year={2004}
+}
+
+@inproceedings{Hazan2008CVPR,
+  title={A Parallel Decomposition Solver for SVM: Distributed dual ascend using Fenchel Duality},
+  author={Tamir Hazan and Amit Man and Amnon Shashua},
+  booktitle={CVPR},
+  year={2008}
+}
+
+@inproceedings{Bunescu2006EACL,
+  title={Using Encyclopedic Knowledge for Named entity Disambiguation},
+  author={Razvan C. Bunescu and Marius Pasca},
+  booktitle={EACL},
+  year={2006}
+}
+
+@inproceedings{Tao2004ICML,
+  title={SVM-based generalized multiple-instance learning via approximate box counting},
+  author={Qingping Tao and Stephen D. Scott and N. V. Vinodchandran and Thomas Takeo Osugi},
+  booktitle={ICML},
+  year={2004}
+}
+
+@inproceedings{Pronobis2008ICRA,
+  title={SVM-based discriminative accumulation scheme for place recognition},
+  author={Andrzej Pronobis and ¨®scar Mart¨ªnez Mozos and Barbara Caputo},
+  booktitle={ICRA},
+  year={2008}
+}
+
+@inproceedings{Boughorbel2004BMVC,
+  title={Non-Mercer Kernels for SVM Object Recognition},
+  author={Sabri Boughorbel and Jean-Philippe Tarel and Fran?ois Fleuret},
+  booktitle={BMVC},
+  year={2004}
+}
+
+@inproceedings{LacosteJulien2013ICML,
+  title={Block-Coordinate Frank-Wolfe Optimization for Structural SVMs},
+  author={Simon Lacoste-Julien and Martin Jaggi and Mark W. Schmidt and Patrick Pletscher},
+  booktitle={ICML},
+  year={2013}
+}

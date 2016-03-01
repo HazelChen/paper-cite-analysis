@@ -1,0 +1,1466 @@
+﻿@article{Hinton2006NeuralComputation,
+  title={A Fast Learning Algorithm for Deep Belief Nets},
+  author={Geoffrey E. Hinton and Simon Osindero and Yee Whye Teh},
+  journal={Neural Computation},
+  year={2006},
+  volume={18},
+  pages={1527-1554}
+}
+
+@article{Bengio2009FoundationsandTrendsinMachineLearning,
+  title={Learning Deep Architectures for AI},
+  author={Yoshua Bengio},
+  journal={Foundations and Trends in Machine Learning},
+  year={2009},
+  volume={2},
+  pages={1-127}
+}
+
+@inproceedings{Krizhevsky2012NIPS,
+  title={ImageNet Classification with Deep Convolutional Neural Networks},
+  author={Alex Krizhevsky and Ilya Sutskever and Geoffrey E. Hinton},
+  booktitle={NIPS},
+  year={2012}
+}
+
+@inproceedings{Collobert2008ICML,
+  title={A unified architecture for natural language processing: deep neural networks with multitask learning},
+  author={Ronan Collobert and Jason Weston},
+  booktitle={ICML},
+  year={2008}
+}
+
+@inproceedings{Donahue2014ICML,
+  title={DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition},
+  author={Jeff Donahue and Yangqing Jia and Oriol Vinyals and Judy Hoffman and Ning Zhang and Eric Tzeng and Trevor Darrell},
+  booktitle={ICML},
+  year={2014}
+}
+
+@inproceedings{Ngiam2011ICML,
+  title={Multimodal Deep Learning},
+  author={Jiquan Ngiam and Aditya Khosla and Mingyu Kim and Juhan Nam and Honglak Lee and Andrew Y. Ng},
+  booktitle={ICML},
+  year={2011}
+}
+
+@inproceedings{Lee2009ICML,
+  title={Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations},
+  author={Honglak Lee and Roger B. Grosse and Rajesh Ranganath and Andrew Y. Ng},
+  booktitle={ICML},
+  year={2009}
+}
+
+@article{Erhan2010JournalofMachineLearningResearch,
+  title={Why Does Unsupervised Pre-training Help Deep Learning?},
+  author={Dumitru Erhan and Yoshua Bengio and Aaron C. Courville and Pierre-Antoine Manzagol and Pascal Vincent and Samy Bengio},
+  journal={Journal of Machine Learning Research},
+  year={2010},
+  volume={11},
+  pages={625-660}
+}
+
+@inproceedings{Srivastava2012NIPS,
+  title={Multimodal Learning with Deep Boltzmann Machines},
+  author={Nitish Srivastava and Ruslan Salakhutdinov},
+  booktitle={NIPS},
+  year={2012}
+}
+
+@inproceedings{Martens2010ICML,
+  title={Deep learning via Hessian-free optimization},
+  author={James Martens},
+  booktitle={ICML},
+  year={2010}
+}
+
+@inproceedings{Glorot2011ICML,
+  title={Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach},
+  author={Xavier Glorot and Antoine Bordes and Yoshua Bengio},
+  booktitle={ICML},
+  year={2011}
+}
+
+@inproceedings{Jia2014MM,
+  title={Caffe: Convolutional Architecture for Fast Feature Embedding},
+  author={Yangqing Jia and Evan Shelhamer and Jeff Donahue and Sergey Karayev and Jonathan Long and Ross B. Girshick and Sergio Guadarrama and Trevor Darrell},
+  booktitle={MM},
+  year={2014}
+}
+
+@article{Vincent2010JournalofMachineLearningResearch,
+  title={Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion},
+  author={Pascal Vincent and Hugo Larochelle and Isabelle Lajoie and Yoshua Bengio and Pierre-Antoine Manzagol},
+  journal={Journal of Machine Learning Research},
+  year={2010},
+  volume={11},
+  pages={3371-3408}
+}
+
+@inproceedings{Weston2008ICML,
+  title={Deep learning via semi-supervised embedding},
+  author={Jason Weston and Frédéric Ratle and Ronan Collobert},
+  booktitle={ICML},
+  year={2008}
+}
+
+@article{Schmidhuber2015CoRR,
+  title={Deep Learning in Neural Networks: An Overview},
+  author={Jürgen Schmidhuber},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1404.7828}
+}
+
+@inproceedings{Zhou2014NIPS,
+  title={Learning Deep Features for Scene Recognition using Places Database},
+  author={Bolei Zhou and Àgata Lapedriza and Jianxiong Xiao and Antonio Torralba and Aude Oliva},
+  booktitle={NIPS},
+  year={2014}
+}
+
+@inproceedings{Sutskever2013ICML,
+  title={On the importance of initialization and momentum in deep learning},
+  author={Ilya Sutskever and James Martens and George E. Dahl and Geoffrey E. Hinton},
+  booktitle={ICML},
+  year={2013}
+}
+
+@article{Simonyan2014CoRR,
+  title={Very Deep Convolutional Networks for Large-Scale Image Recognition},
+  author={Karen Simonyan and Andrew Zisserman},
+  journal={CoRR},
+  year={2014},
+  volume={abs/1409.1556}
+}
+
+@inproceedings{Salakhutdinov2009JMLR,
+  title={Deep Boltzmann Machines},
+  author={Ruslan Salakhutdinov and Geoffrey E. Hinton},
+  booktitle={JMLR},
+  year={2009}
+}
+
+@inproceedings{Lee2009NIPS,
+  title={Unsupervised feature learning for audio classification using convolutional deep belief networks},
+  author={Honglak Lee and Peter T. Pham and Yan Largman and Andrew Y. Ng},
+  booktitle={NIPS},
+  year={2009}
+}
+
+@article{Bengio2013IEEETransPatternAnalMachIntell,
+  title={Representation Learning: A Review and New Perspectives},
+  author={Yoshua Bengio and Aaron C. Courville and Pascal Vincent},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2013},
+  volume={35},
+  pages={1798-1828}
+}
+
+@inproceedings{Le2011ICML,
+  title={On optimization methods for deep learning},
+  author={Quoc V. Le and Jiquan Ngiam and Adam Coates and Ahbik Lahiri and Bobby Prochnow and Andrew Y. Ng},
+  booktitle={ICML},
+  year={2011}
+}
+
+@inproceedings{Sun2014NIPS,
+  title={Deep Learning Face Representation by Joint Identification-Verification},
+  author={Yi Sun and Yuheng Chen and Xiaogang Wang and Xiaoou Tang},
+  booktitle={NIPS},
+  year={2014}
+}
+
+@inproceedings{Deng2013ICASSP,
+  title={Recent advances in deep learning for speech research at Microsoft},
+  author={Michael L. Seltzer and Frank Seide and Jui-Ting Huang and Jinyu Li and Jason Williams and Dong Yu and Xiaodong He and Geoffrey Zweig and Li Deng and Kaisheng Yao and Yifan Gong and Alex Acero},
+  booktitle={ICASSP},
+  year={2013}
+}
+
+@inproceedings{Bengio2006NIPS,
+  title={Greedy Layer-Wise Training of Deep Networks},
+  author={Yoshua Bengio and Pascal Lamblin and Dan Popovici and Hugo Larochelle},
+  booktitle={NIPS},
+  year={2006}
+}
+
+@inproceedings{Sun2014CVPR,
+  title={Deep Learning Face Representation from Predicting 10, 000 Classes},
+  author={Yi Sun and Xiaogang Wang and Xiaoou Tang},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Glorot2010JMLR,
+  title={Understanding the difficulty of training deep feedforward neural networks},
+  author={Xavier Glorot and Yoshua Bengio},
+  booktitle={JMLR},
+  year={2010}
+}
+
+@inproceedings{Devin2012NIPS,
+  title={Large Scale Distributed Deep Networks},
+  author={Mark Z. Mao and Jeffrey Dean and Andrew W. Senior and Ke Yang and MarcAurelio Ranzato and Greg Corrado and Andrew Y. Ng and Paul A. Tucker and Rajat Monga and Quoc V. Le and Kai Chen and Matthieu Devin},
+  booktitle={NIPS},
+  year={2012}
+}
+
+@article{Mnih2013CoRR,
+  title={Playing Atari with Deep Reinforcement Learning},
+  author={Volodymyr Mnih and Koray Kavukcuoglu and David Silver and Alex Graves and Ioannis Antonoglou and Daan Wierstra and Martin A. Riedmiller},
+  journal={CoRR},
+  year={2013},
+  volume={abs/1312.5602}
+}
+
+@inproceedings{Ranzato2007NIPS,
+  title={Sparse Feature Learning for Deep Belief Networks},
+  author={MarcAurelio Ranzato and Y-Lan Boureau and Yann LeCun},
+  booktitle={NIPS},
+  year={2007}
+}
+
+@inproceedings{Le2012ICASSP,
+  title={Building high-level features using large scale unsupervised learning},
+  author={Quoc V. Le},
+  booktitle={ICASSP},
+  year={2012}
+}
+
+@inproceedings{Coates2013ICML,
+  title={Deep learning with COTS HPC systems},
+  author={Adam Coates and Brody Huval and Tao Wang and David J. Wu and Bryan C. Catanzaro and Andrew Y. Ng},
+  booktitle={ICML},
+  year={2013}
+}
+
+@inproceedings{Dong2014ECCV,
+  title={Learning a Deep Convolutional Network for Image Super-Resolution},
+  author={Chao Dong and Chen Change Loy and Kaiming He and Xiaoou Tang},
+  booktitle={ECCV},
+  year={2014}
+}
+
+@article{Deng2012IEEESignalProcessMag,
+  title={Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups},
+  author={Navdeep Jaitly and George Dahl and Andrew Senior and Patrick Nguyen and Geoffrey Hinton and Vincent Vanhoucke and Abdel-Rahman Mohamed and Dong Yu and Brian Kingsbury and Li Deng and Tara Sainath},
+  journal={IEEE Signal Process. Mag.},
+  year={2012},
+  volume={29},
+  pages={82-97}
+}
+
+@inproceedings{Ouyang2013ICCV,
+  title={Joint Deep Learning for Pedestrian Detection},
+  author={Wanli Ouyang and Xiaogang Wang},
+  booktitle={ICCV},
+  year={2013}
+}
+
+@inproceedings{Rabinovich2015CVPR,
+  title={Going deeper with convolutions},
+  author={Andrew Rabinovich and Christian Szegedy and Dragomir Anguelov and Pierre Sermanet and Dumitru Erhan and Wei Liu and Scott Reed and Yangqing Jia and Vincent Vanhoucke},
+  booktitle={CVPR},
+  year={2015}
+}
+
+@article{Bengio2012CoRR,
+  title={Unsupervised Feature Learning and Deep Learning: A Review and New Perspectives},
+  author={Yoshua Bengio and Aaron C. Courville and Pascal Vincent},
+  journal={CoRR},
+  year={2012},
+  volume={abs/1206.5538}
+}
+
+@inproceedings{Sutskever2014NIPS,
+  title={Sequence to Sequence Learning with Neural Networks},
+  author={Ilya Sutskever and Oriol Vinyals and Quoc V. Le},
+  booktitle={NIPS},
+  year={2014}
+}
+
+@inproceedings{Ioffe2015ICML,
+  title={Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift},
+  author={Sergey Ioffe and Christian Szegedy},
+  booktitle={ICML},
+  year={2015}
+}
+
+@inproceedings{Coates2011JMLR,
+  title={An Analysis of Single-Layer Networks in Unsupervised Feature Learning},
+  author={Adam Coates and Andrew Y. Ng and Honglak Lee},
+  booktitle={JMLR},
+  year={2011}
+}
+
+@inproceedings{Huang2012CVPR,
+  title={Learning hierarchical representations for face verification with convolutional deep belief networks},
+  author={Gary B. Huang and Honglak Lee and Erik G. Learned-Miller},
+  booktitle={CVPR},
+  year={2012}
+}
+
+@inproceedings{Vincent2008ICML,
+  title={Extracting and composing robust features with denoising autoencoders},
+  author={Pascal Vincent and Hugo Larochelle and Yoshua Bengio and Pierre-Antoine Manzagol},
+  booktitle={ICML},
+  year={2008}
+}
+
+@inproceedings{Lenz2013RSS,
+  title={Deep Learning for Detecting Robotic Grasps},
+  author={Ian Lenz and Honglak Lee and Ashutosh Saxena},
+  booktitle={RSS},
+  year={2013}
+}
+
+@inproceedings{Graves2013ICASSP,
+  title={Speech recognition with deep recurrent neural networks},
+  author={Alex Graves and Abdel-rahman Mohamed and Geoffrey E. Hinton},
+  booktitle={ICASSP},
+  year={2013}
+}
+
+@article{Dahl2012IEEETransactionsonAudioSpeechLanguageProcessing,
+  title={Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition},
+  author={George E. Dahl and Dong Yu and Li Deng and Alex Acero},
+  journal={IEEE Transactions on Audio, Speech & Language Processing},
+  year={2012},
+  volume={20},
+  pages={30-42}
+}
+
+@inproceedings{Wang2014CVPR,
+  title={Learning Fine-Grained Image Similarity with Deep Ranking},
+  author={Jiang Wang and Yang Song and Thomas Leung and Chuck Rosenberg and Jingbin Wang and James Philbin and Bo Chen and Ying Wu},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Hu2014CVPR,
+  title={Discriminative Deep Metric Learning for Face Verification in the Wild},
+  author={Junlin Hu and Jiwen Lu and Yap-Peng Tan},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Mobahi2009ICML,
+  title={Deep learning from temporal coherence in video},
+  author={Hossein Mobahi and Ronan Collobert and Jason Weston},
+  booktitle={ICML},
+  year={2009}
+}
+
+@inproceedings{Collobert2011JMLR,
+  title={Deep Learning for Efficient Discriminative Parsing},
+  author={Ronan Collobert},
+  booktitle={JMLR},
+  year={2011}
+}
+
+@inproceedings{Chen2015ICML,
+  title={Learning Deep Structured Models},
+  author={Liang-Chieh Chen and Alexander G. Schwing and Alan L. Yuille and Raquel Urtasun},
+  booktitle={ICML},
+  year={2015}
+}
+
+@inproceedings{Deng2013ICASSP,
+  title={New types of deep neural network learning for speech recognition and related applications: an overview},
+  author={Li Deng and Geoffrey E. Hinton and Brian Kingsbury},
+  booktitle={ICASSP},
+  year={2013}
+}
+
+@inproceedings{Lee2007NIPS,
+  title={Sparse deep belief net model for visual area V2},
+  author={Honglak Lee and Chaitanya Ekanadham and Andrew Y. Ng},
+  booktitle={NIPS},
+  year={2007}
+}
+
+@article{Mohamed2012IEEETransactionsonAudioSpeechLanguageProcessing,
+  title={Acoustic Modeling Using Deep Belief Networks},
+  author={Abdel-rahman Mohamed and George E. Dahl and Geoffrey E. Hinton},
+  journal={IEEE Transactions on Audio, Speech & Language Processing},
+  year={2012},
+  volume={20},
+  pages={14-22}
+}
+
+@inproceedings{Huang2013CIKM,
+  title={Learning deep structured semantic models for web search using clickthrough data},
+  author={Po-Sen Huang and Xiaodong He and Jianfeng Gao and Li Deng and Alex Acero and Larry P. Heck},
+  booktitle={CIKM},
+  year={2013}
+}
+
+@inproceedings{Bengio2012JMLR,
+  title={Deep Learning of Representations for Unsupervised and Transfer Learning},
+  author={Yoshua Bengio},
+  booktitle={JMLR},
+  year={2012}
+}
+
+@inproceedings{Chatfield2014BMVC,
+  title={Return of the Devil in the Details: Delving Deep into Convolutional Nets},
+  author={Ken Chatfield and Karen Simonyan and Andrea Vedaldi and Andrew Zisserman},
+  booktitle={BMVC},
+  year={2014}
+}
+
+@article{Chetlur2014CoRR,
+  title={cuDNN: Efficient Primitives for Deep Learning},
+  author={Sharan Chetlur and Cliff Woolley and Philippe Vandermersch and Jonathan Cohen and John Tran and Bryan Catanzaro and Evan Shelhamer},
+  journal={CoRR},
+  year={2014},
+  volume={abs/1410.0759}
+}
+
+@inproceedings{Raina2009ICML,
+  title={Large-scale deep unsupervised learning using graphics processors},
+  author={Rajat Raina and Anand Madhavan and Andrew Y. Ng},
+  booktitle={ICML},
+  year={2009}
+}
+
+@inproceedings{Cho2009NIPS,
+  title={Kernel Methods for Deep Learning},
+  author={Youngmin Cho and Lawrence K. Saul},
+  booktitle={NIPS},
+  year={2009}
+}
+
+@article{He2015CoRR,
+  title={Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification},
+  author={Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1502.01852}
+}
+
+@inproceedings{Deng2012ICASSP,
+  title={Scalable stacking and learning for building deep architectures},
+  author={Li Deng and Dong Yu and John C. Platt},
+  booktitle={ICASSP},
+  year={2012}
+}
+
+@inproceedings{Glorot2011JMLR,
+  title={Deep Sparse Rectifier Neural Networks},
+  author={Xavier Glorot and Antoine Bordes and Yoshua Bengio},
+  booktitle={JMLR},
+  year={2011}
+}
+
+@inproceedings{Cristianini2001DAGLIB,
+  title={An Introduction to Support Vector Machines and Other Kernel-based Learning Methods},
+  author={Nello Cristianini and John Shawe-Taylor},
+  booktitle={DAGLIB},
+  year={2001}
+}
+
+@inproceedings{Raiko2012JMLR,
+  title={Deep Learning Made Easier by Linear Transformations in Perceptrons},
+  author={Tapani Raiko and Harri Valpola and Yann LeCun},
+  booktitle={JMLR},
+  year={2012}
+}
+
+@inproceedings{Denil2013NIPS,
+  title={Predicting Parameters in Deep Learning},
+  author={Misha Denil and Babak Shakibi and Laurent Dinh and MarcAurelio Ranzato and Nando de Freitas},
+  booktitle={NIPS},
+  year={2013}
+}
+
+@inproceedings{Ciresan2012CVPR,
+  title={Multi-column deep neural networks for image classification},
+  author={Dan C. Ciresan and Ueli Meier and Jürgen Schmidhuber},
+  booktitle={CVPR},
+  year={2012}
+}
+
+@inproceedings{Zhu2013ICCV,
+  title={Deep Learning Identity-Preserving Face Space},
+  author={Zhenyao Zhu and Ping Luo and Xiaogang Wang and Xiaoou Tang},
+  booktitle={ICCV},
+  year={2013}
+}
+
+@inproceedings{Luo2012CVPR,
+  title={Hierarchical face parsing via deep learning},
+  author={Ping Luo and Xiaogang Wang and Xiaoou Tang},
+  booktitle={CVPR},
+  year={2012}
+}
+
+@inproceedings{Bengio2009ICML,
+  title={Curriculum learning},
+  author={Yoshua Bengio and Jérôme Louradour and Ronan Collobert and Jason Weston},
+  booktitle={ICML},
+  year={2009}
+}
+
+@inproceedings{Socher2013RecursiveDeepModelsforSemanticCompositionalityOveraSentimentTreebank,
+  title={Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank},
+  author={Richard Socher and Alex Perelygin and Jean Wu and Jason Chuang and Christopher D. Manning and Andrew Ng and Christopher Potts},
+  year={2013}
+}
+
+@inproceedings{Larochelle2007ICML,
+  title={An empirical evaluation of deep architectures on problems with many factors of variation},
+  author={Hugo Larochelle and Dumitru Erhan and Aaron C. Courville and James Bergstra and Yoshua Bengio},
+  booktitle={ICML},
+  year={2007}
+}
+
+@inproceedings{Salakhutdinov2010JMLR,
+  title={Efficient Learning of Deep Boltzmann Machines},
+  author={Ruslan Salakhutdinov and Hugo Larochelle},
+  booktitle={JMLR},
+  year={2010}
+}
+
+@inproceedings{Tang2013DeepLearningusingLinearSupportVectorMachines,
+  title={Deep Learning using Linear Support Vector Machines},
+  author={Yichuan Tang},
+  year={2013}
+}
+
+@article{Simpson2015CoRR,
+  title={Abstract Learning via Demodulation in a Deep Neural Network},
+  author={Andrew J. R. Simpson},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1502.04042}
+}
+
+@inproceedings{Sun2013ICCV,
+  title={Hybrid Deep Learning for Face Verification},
+  author={Yi Sun and Xiaogang Wang and Xiaoou Tang},
+  booktitle={ICCV},
+  year={2013}
+}
+
+@inproceedings{Kingma2014NIPS,
+  title={Semi-supervised Learning with Deep Generative Models},
+  author={Diederik P. Kingma and Shakir Mohamed and Danilo Jimenez Rezende and Max Welling},
+  booktitle={NIPS},
+  year={2014}
+}
+
+@inproceedings{Hamel2010ISMIR,
+  title={Learning Features from Music Audio with Deep Belief Networks},
+  author={Philippe Hamel and Douglas Eck},
+  booktitle={ISMIR},
+  year={2010}
+}
+
+@article{Fan2014CoRR,
+  title={Learning Deep Face Representation},
+  author={Haoqiang Fan and Zhimin Cao and Yuning Jiang and Qi Yin and Chinchilla Doudou},
+  journal={CoRR},
+  year={2014},
+  volume={abs/1403.2802}
+}
+
+@article{Saxe2013CoRR,
+  title={Exact solutions to the nonlinear dynamics of learning in deep linear neural networks},
+  author={Andrew M. Saxe and James L. McClelland and Surya Ganguli},
+  journal={CoRR},
+  year={2013},
+  volume={abs/1312.6120}
+}
+
+@inproceedings{He2014ECCV,
+  title={Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition},
+  author={Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
+  booktitle={ECCV},
+  year={2014}
+}
+
+@inproceedings{Bian2014PKDD,
+  title={Knowledge-Powered Deep Learning for Word Embedding},
+  author={Jiang Bian and Bin Gao and Tie-Yan Liu},
+  booktitle={PKDD},
+  year={2014}
+}
+
+@article{Deng2014FoundationsandTrendsinSignalProcessing,
+  title={Deep Learning: Methods and Applications},
+  author={Li Deng and Dong Yu},
+  journal={Foundations and Trends in Signal Processing},
+  year={2014},
+  volume={7},
+  pages={197-387}
+}
+
+@inproceedings{Ba2014NIPS,
+  title={Do Deep Nets Really Need to be Deep?},
+  author={Jimmy Ba and Rich Caruana},
+  booktitle={NIPS},
+  year={2014}
+}
+
+@article{Kaelbling1996CoRR,
+  title={Reinforcement Learning: A Survey},
+  author={Leslie Pack Kaelbling and Michael L. Littman and Andrew W. Moore},
+  journal={CoRR},
+  year={1996},
+  volume={cs.AI/9605103}
+}
+
+@inproceedings{Rezende2014ICML,
+  title={Stochastic Backpropagation and Approximate Inference in Deep Generative Models},
+  author={Danilo Jimenez Rezende and Shakir Mohamed and Daan Wierstra},
+  booktitle={ICML},
+  year={2014}
+}
+
+@article{Lillicrap2015CoRR,
+  title={Continuous control with deep reinforcement learning},
+  author={Timothy P. Lillicrap and Jonathan J. Hunt and Alexander Pritzel and Nicolas Heess and Tom Erez and Yuval Tassa and David Silver and Daan Wierstra},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1509.02971}
+}
+
+@inproceedings{Gupta2015ICML,
+  title={Deep Learning with Limited Numerical Precision},
+  author={Suyog Gupta and Ankur Agrawal and Kailash Gopalakrishnan and Pritish Narayanan},
+  booktitle={ICML},
+  year={2015}
+}
+
+@inproceedings{Huang2014ICASSP,
+  title={Deep learning for monaural speech separation},
+  author={Po-Sen Huang and Minje Kim and Mark Hasegawa-Johnson and Paris Smaragdis},
+  booktitle={ICASSP},
+  year={2014}
+}
+
+@inproceedings{Taigman2014CVPR,
+  title={DeepFace: Closing the Gap to Human-Level Performance in Face Verification},
+  author={Yaniv Taigman and Ming Yang and MarcAurelio Ranzato and Lior Wolf},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Karpathy2015CVPR,
+  title={Deep visual-semantic alignments for generating image descriptions},
+  author={Andrej Karpathy and Li Fei-Fei},
+  booktitle={CVPR},
+  year={2015}
+}
+
+@inproceedings{Chilimbi2014OSDI,
+  title={Project Adam: Building an Efficient and Scalable Deep Learning Training System},
+  author={Trishul M. Chilimbi and Yutaka Suzue and Johnson Apacible and Karthik Kalyanaraman},
+  booktitle={OSDI},
+  year={2014}
+}
+
+@inproceedings{Girshick2014CVPR,
+  title={Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation},
+  author={Ross B. Girshick and Jeff Donahue and Trevor Darrell and Jitendra Malik},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@article{Chan2015CoRR,
+  title={PCANet: A Simple Deep Learning Baseline for Image Classification?},
+  author={Tsung-Han Chan and Kui Jia and Shenghua Gao and Jiwen Lu and Zinan Zeng and Yi Ma},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1404.3606}
+}
+
+@inproceedings{Dauphin2012JMLR,
+  title={Unsupervised and Transfer Learning Challenge: a Deep Learning Approach},
+  author={Grégoire Mesnil and Aaron C. Courville and Xavier Glorot and James Bergstra and Erick Lavoie and Yoshua Bengio and Guillaume Desjardins and Xavier Muller and Pascal Vincent and Ian J. Goodfellow and David Warde-Farley and Salah Rifai and Yann Dauphin},
+  booktitle={JMLR},
+  year={2012}
+}
+
+@inproceedings{Zou2012NIPS,
+  title={Deep Learning of Invariant Features via Simulated Fixations in Video},
+  author={Will Y. Zou and Andrew Y. Ng and Shenghuo Zhu and Kai Yu},
+  booktitle={NIPS},
+  year={2012}
+}
+
+@inproceedings{Yu2011ICML,
+  title={Conversational Speech Transcription Using Context-Dependent Deep Neural Networks},
+  author={Dong Yu and Frank Seide and Gang Li},
+  booktitle={ICML},
+  year={2011}
+}
+
+@inproceedings{Socher2012NIPS,
+  title={Convolutional-Recursive Deep Learning for 3D Object Classification},
+  author={Richard Socher and Brody Huval and Bharath Putta Bath and Christopher D. Manning and Andrew Y. Ng},
+  booktitle={NIPS},
+  year={2012}
+}
+
+@inproceedings{Wang2013NIPS,
+  title={Learning a Deep Compact Image Representation for Visual Tracking},
+  author={Naiyan Wang and Dit-Yan Yeung},
+  booktitle={NIPS},
+  year={2013}
+}
+
+@inproceedings{Salakhutdinov2014KDD,
+  title={Deep learning},
+  author={Ruslan Salakhutdinov},
+  booktitle={KDD},
+  year={2014}
+}
+
+@inproceedings{Toshev2014CVPR,
+  title={DeepPose: Human Pose Estimation via Deep Neural Networks},
+  author={Alexander Toshev and Christian Szegedy},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Bengio2014ICML,
+  title={Deep Generative Stochastic Networks Trainable by Backprop},
+  author={Yoshua Bengio and Eric Laufer and Guillaume Alain and Jason Yosinski},
+  booktitle={ICML},
+  year={2014}
+}
+
+@inproceedings{Witten1999MK,
+  title={Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations},
+  author={Ian H. Witten and Eibe Frank},
+  booktitle={MK},
+  year={1999}
+}
+
+@inproceedings{Zhang2014ECCV,
+  title={Facial Landmark Detection by Deep Multi-task Learning},
+  author={Zhanpeng Zhang and Ping Luo and Chen Change Loy and Xiaoou Tang},
+  booktitle={ECCV},
+  year={2014}
+}
+
+@inproceedings{Wu2013MM,
+  title={Online multimodal deep similarity learning with application to image retrieval},
+  author={Pengcheng Wu and Steven C. H. Hoi and Hao Xia and Peilin Zhao and Dayong Wang and Chunyan Miao},
+  booktitle={MM},
+  year={2013}
+}
+
+@inproceedings{Baccouche2011HBU,
+  title={Sequential Deep Learning for Human Action Recognition},
+  author={Moez Baccouche and Franck Mamalet and Christian Wolf and Christophe Garcia and Atilla Baskurt},
+  booktitle={HBU},
+  year={2011}
+}
+
+@inproceedings{Ranzato2008ICML,
+  title={Semi-supervised learning of compact document representations with deep networks},
+  author={MarcAurelio Ranzato and Martin Szummer},
+  booktitle={ICML},
+  year={2008}
+}
+
+@inproceedings{Deselaers2009ADeepLearningApproachtoMachineTransliteration,
+  title={A Deep Learning Approach to Machine Transliteration},
+  author={Thomas Deselaers and Saša Hasan and Oliver Bender and Hermann Ney},
+  year={2009}
+}
+
+@article{Larochelle2009JournalofMachineLearningResearch,
+  title={Exploring Strategies for Training Deep Neural Networks},
+  author={Hugo Larochelle and Yoshua Bengio and Jérôme Louradour and Pascal Lamblin},
+  journal={Journal of Machine Learning Research},
+  year={2009},
+  volume={10},
+  pages={1-40}
+}
+
+@inproceedings{Wan2014MM,
+  title={Deep Learning for Content-Based Image Retrieval: A Comprehensive Study},
+  author={Ji Wan and Dayong Wang and Steven Chu-Hong Hoi and Pengcheng Wu and Jianke Zhu and Yongdong Zhang and Jintao Li},
+  booktitle={MM},
+  year={2014}
+}
+
+@inproceedings{Huang2004SASN,
+  title={Location-aware key management scheme for wireless sensor networks},
+  author={Dijiang Huang and Manish Mehta and Deep Medhi and Lein Harn},
+  booktitle={SASN},
+  year={2004}
+}
+
+@inproceedings{Arora2014ICML,
+  title={Provable Bounds for Learning Some Deep Representations},
+  author={Sanjeev Arora and Aditya Bhaskara and Rong Ge and Tengyu Ma},
+  booktitle={ICML},
+  year={2014}
+}
+
+@inproceedings{Frome2013NIPS,
+  title={DeViSE: A Deep Visual-Semantic Embedding Model},
+  author={Andrea Frome and Gregory S. Corrado and Jonathon Shlens and Samy Bengio and Jeffrey Dean and MarcAurelio Ranzato and Tomas Mikolov},
+  booktitle={NIPS},
+  year={2013}
+}
+
+@inproceedings{Poon2011ICCVW,
+  title={Sum-product networks: A new deep architecture},
+  author={Hoifung Poon and Pedro M. Domingos},
+  booktitle={ICCVW},
+  year={2011}
+}
+
+@inproceedings{Venugopalan2015NAACL,
+  title={Translating Videos to Natural Language Using Deep Recurrent Neural Networks},
+  author={Subhashini Venugopalan and Huijuan Xu and Jeff Donahue and Marcus Rohrbach and Raymond J. Mooney and Kate Saenko},
+  booktitle={NAACL},
+  year={2015}
+}
+
+@inproceedings{Deng2012SLT,
+  title={Use of kernel deep convex networks and end-to-end learning for spoken language understanding},
+  author={Li Deng and Gökhan Tür and Xiaodong He and Dilek Z. Hakkani-Tür},
+  booktitle={SLT},
+  year={2012}
+}
+
+@inproceedings{Ngiam2011ICML,
+  title={Learning Deep Energy Models},
+  author={Jiquan Ngiam and Zhenghao Chen and Pang Wei Koh and Andrew Y. Ng},
+  booktitle={ICML},
+  year={2011}
+}
+
+@inproceedings{Chopra2013DLIDDeepLearningforDomainAdaptationbyInterpolatingbetweenDomains,
+  title={DLID: Deep Learning for Domain Adaptation by Interpolating between Domains},
+  author={Sumit Chopra and Suhrid Balakrishnan and Raghuraman Gopalan},
+  year={2013}
+}
+
+@article{Bengio2012CoRR,
+  title={Practical recommendations for gradient-based training of deep architectures},
+  author={Yoshua Bengio},
+  journal={CoRR},
+  year={2012},
+  volume={abs/1206.5533}
+}
+
+@article{Lee2011CommunACM,
+  title={Unsupervised learning of hierarchical representations with convolutional deep belief networks},
+  author={Honglak Lee and Roger B. Grosse and Rajesh Ranganath and Andrew Y. Ng},
+  journal={Commun. ACM},
+  year={2011},
+  volume={54},
+  pages={95-103}
+}
+
+@inproceedings{Long2015ICML,
+  title={Learning Transferable Features with Deep Adaptation Networks},
+  author={Mingsheng Long and Yue Cao and Jianmin Wang and Michael Jordan},
+  booktitle={ICML},
+  year={2015}
+}
+
+@inproceedings{Razavian2014CVPR,
+  title={CNN Features Off-the-Shelf: An Astounding Baseline for Recognition},
+  author={Ali Sharif Razavian and Hossein Azizpour and Josephine Sullivan and Stefan Carlsson},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@article{Salakhutdinov2013IEEETransPatternAnalMachIntell,
+  title={Learning with Hierarchical-Deep Models},
+  author={Ruslan Salakhutdinov and Joshua B. Tenenbaum and Antonio Torralba},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2013},
+  volume={35},
+  pages={1958-1971}
+}
+
+@article{Merrinboer2015CoRR,
+  title={Blocks and Fuel: Frameworks for deep learning},
+  author={Bart van Merriënboer and Dzmitry Bahdanau and Vincent Dumoulin and Dmitriy Serdyuk and David Warde-Farley and Jan Chorowski and Yoshua Bengio},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1506.00619}
+}
+
+@article{Salakhutdinov2012NeuralComputation,
+  title={An Efficient Learning Procedure for Deep Boltzmann Machines},
+  author={Ruslan Salakhutdinov and Geoffrey E. Hinton},
+  journal={Neural Computation},
+  year={2012},
+  volume={24},
+  pages={1967-2006}
+}
+
+@inproceedings{Long2015CVPR,
+  title={Fully convolutional networks for semantic segmentation},
+  author={Jonathan Long and Evan Shelhamer and Trevor Darrell},
+  booktitle={CVPR},
+  year={2015}
+}
+
+@inproceedings{Peng2015KSEM,
+  title={Building Program Vector Representations for Deep Learning},
+  author={Hao Peng and Lili Mou and Ge Li and Yuxuan Liu and Lu Zhang and Zhi Jin},
+  booktitle={KSEM},
+  year={2015}
+}
+
+@inproceedings{Lange2010IJCNN,
+  title={Deep auto-encoder neural networks in reinforcement learning},
+  author={Sascha Lange and Martin A. Riedmiller},
+  booktitle={IJCNN},
+  year={2010}
+}
+
+@inproceedings{Tang2014CoooolllADeepLearningSystemforTwitterSentimentClassification,
+  title={Coooolll: A Deep Learning System for Twitter Sentiment Classification},
+  author={Duyu Tang and Wei and Bing Qin and Ting Liu and Ming Zhou},
+  year={2014}
+}
+
+@inproceedings{Vinyals2012JMLR,
+  title={Krylov Subspace Descent for Deep Learning},
+  author={Oriol Vinyals and Daniel Povey},
+  booktitle={JMLR},
+  year={2012}
+}
+
+@inproceedings{Snoek2012NIPS,
+  title={Practical Bayesian Optimization of Machine Learning Algorithms},
+  author={Jasper Snoek and Hugo Larochelle and Ryan P. Adams},
+  booktitle={NIPS},
+  year={2012}
+}
+
+@article{Bengio2015CoRR,
+  title={Towards Biologically Plausible Deep Learning},
+  author={Yoshua Bengio and Dong-Hyun Lee and Jörg Bornschein and Zhouhan Lin},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1502.04156}
+}
+
+@inproceedings{Salakhutdinov2010ICML,
+  title={Learning Deep Boltzmann Machines using Adaptive MCMC},
+  author={Ruslan Salakhutdinov},
+  booktitle={ICML},
+  year={2010}
+}
+
+@article{Mehta2014CoRR,
+  title={An exact mapping between the Variational Renormalization Group and Deep Learning},
+  author={Pankaj Mehta and David J. Schwab},
+  journal={CoRR},
+  year={2014},
+  volume={abs/1410.3831}
+}
+
+@inproceedings{Bengio2014KDD,
+  title={Scaling up deep learning},
+  author={Yoshua Bengio},
+  booktitle={KDD},
+  year={2014}
+}
+
+@inproceedings{Kim2013ICASSP,
+  title={Deep learning for robust feature generation in audiovisual emotion recognition},
+  author={Yelin Kim and Honglak Lee and Emily Mower Provost},
+  booktitle={ICASSP},
+  year={2013}
+}
+
+@inproceedings{Erhan2009JMLR,
+  title={The Difficulty of Training Deep Architectures and the Effect of Unsupervised Pre-Training},
+  author={Dumitru Erhan and Pierre-Antoine Manzagol and Yoshua Bengio and Samy Bengio and Pascal Vincent},
+  booktitle={JMLR},
+  year={2009}
+}
+
+@inproceedings{Liong2015CVPR,
+  title={Deep hashing for compact binary codes learning},
+  author={Venice Erin Liong and Jiwen Lu and Gang Wang and Pierre Moulin and Jie Zhou},
+  booktitle={CVPR},
+  year={2015}
+}
+
+@inproceedings{Goodfellow2009NIPS,
+  title={Measuring Invariances in Deep Networks},
+  author={Ian J. Goodfellow and Quoc V. Le and Andrew M. Saxe and Honglak Lee and Andrew Y. Ng},
+  booktitle={NIPS},
+  year={2009}
+}
+
+@inproceedings{Salakhutdinov2008ICML,
+  title={On the quantitative analysis of deep belief networks},
+  author={Ruslan Salakhutdinov and Iain Murray},
+  booktitle={ICML},
+  year={2008}
+}
+
+@inproceedings{Sohn2014NIPS,
+  title={Improved Multimodal Deep Learning with Variation of Information},
+  author={Kihyuk Sohn and Wenling Shang and Honglak Lee},
+  booktitle={NIPS},
+  year={2014}
+}
+
+@article{Chen2014IEEEAccess,
+  title={Big Data Deep Learning: Challenges and Perspectives},
+  author={Xue-wen Chen and Xiaotong Lin},
+  journal={IEEE Access},
+  year={2014},
+  volume={2},
+  pages={514-525}
+}
+
+@inproceedings{Andrew2013ICML,
+  title={Deep Canonical Correlation Analysis},
+  author={Galen Andrew and Raman Arora and Jeff A. Bilmes and Karen Livescu},
+  booktitle={ICML},
+  year={2013}
+}
+
+@inproceedings{Lampert2009CVPR,
+  title={Learning to detect unseen object classes by between-class attribute transfer},
+  author={Christoph H. Lampert and Hannes Nickisch and Stefan Harmeling},
+  booktitle={CVPR},
+  year={2009}
+}
+
+@inproceedings{SohlDickstein2015ICML,
+  title={Deep Unsupervised Learning using Nonequilibrium Thermodynamics},
+  author={Jascha Sohl-Dickstein and Eric A. Weiss and Niru Maheswaranathan and Surya Ganguli},
+  booktitle={ICML},
+  year={2015}
+}
+
+@article{Pascanu2013CoRR,
+  title={How to Construct Deep Recurrent Neural Networks},
+  author={Razvan Pascanu and Çaglar Gülçehre and Kyunghyun Cho and Yoshua Bengio},
+  journal={CoRR},
+  year={2013},
+  volume={abs/1312.6026}
+}
+
+@inproceedings{Dahl2013ICASSP,
+  title={Improving deep neural networks for LVCSR using rectified linear units and dropout},
+  author={George E. Dahl and Tara N. Sainath and Geoffrey E. Hinton},
+  booktitle={ICASSP},
+  year={2013}
+}
+
+@inproceedings{Lee2013PseudoLabelTheSimpleandEfficientSemiSupervisedLearningMethodforDeepNeuralNetworks,
+  title={Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks},
+  author={Dong-Hyun Lee},
+  year={2013}
+}
+
+@inproceedings{Sydorov2014CVPR,
+  title={Deep Fisher Kernels - End to End Learning of the Fisher Kernel GMM Parameters},
+  author={Vladyslav Sydorov and Mayu Sakurada and Christoph H. Lampert},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@article{Plis2013CoRR,
+  title={Deep learning for neuroimaging: a validation study},
+  author={Sergey M. Plis and Devon R. Hjelm and Ruslan Salakhutdinov and Vince D. Calhoun},
+  journal={CoRR},
+  year={2013},
+  volume={abs/1312.5847}
+}
+
+@inproceedings{Damianou2013AISTATS,
+  title={Deep Gaussian Processes},
+  author={Andreas C. Damianou and Neil D. Lawrence},
+  booktitle={AISTATS},
+  year={2013}
+}
+
+@inproceedings{Qi2014ECIR,
+  title={Deep Learning for Character-Based Information Extraction},
+  author={Yanjun Qi and Sujatha G. Das and Ronan Collobert and Jason Weston},
+  booktitle={ECIR},
+  year={2014}
+}
+
+@inproceedings{Ouyang2014CVPR,
+  title={Multi-source Deep Learning for Human Pose Estimation},
+  author={Wanli Ouyang and Xiao Chu and Xiaogang Wang},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Kim2014EMNLP,
+  title={Convolutional Neural Networks for Sentence Classification},
+  author={Yoon Kim},
+  booktitle={EMNLP},
+  year={2014}
+}
+
+@inproceedings{Coates2011NIPS,
+  title={Selecting Receptive Fields in Deep Networks},
+  author={Adam Coates and Andrew Y. Ng},
+  booktitle={NIPS},
+  year={2011}
+}
+
+@article{Wu2015CoRR,
+  title={Deep Image: Scaling up Image Recognition},
+  author={Ren Wu and Shengen Yan and Yi Shan and Qingqing Dang and Gang Sun},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1501.02876}
+}
+
+@inproceedings{Zheng2013EMNLP,
+  title={Deep Learning for Chinese Word Segmentation and POS Tagging},
+  author={Xiaoqing Zheng and Hanyang Chen and Tianyu Xu},
+  booktitle={EMNLP},
+  year={2013}
+}
+
+@inproceedings{Guo2014NIPS,
+  title={Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning},
+  author={Xiaoxiao Guo and Satinder P. Singh and Honglak Lee and Richard L. Lewis and Xiaoshi Wang},
+  booktitle={NIPS},
+  year={2014}
+}
+
+@inproceedings{Bengio2013ICML,
+  title={Better Mixing via Deep Representations},
+  author={Yoshua Bengio and Grégoire Mesnil and Yann Dauphin and Salah Rifai},
+  booktitle={ICML},
+  year={2013}
+}
+
+@article{Ando2005JournalofMachineLearningResearch,
+  title={A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data},
+  author={Rie Kubota Ando and Tong Zhang},
+  journal={Journal of Machine Learning Research},
+  year={2005},
+  volume={6},
+  pages={1817-1853}
+}
+
+@inproceedings{Wang2015KDD,
+  title={Collaborative Deep Learning for Recommender Systems},
+  author={Hao Wang and Naiyan Wang and Dit-Yan Yeung},
+  booktitle={KDD},
+  year={2015}
+}
+
+@article{Srinivasan2015CoRR,
+  title={Massively Parallel Methods for Deep Reinforcement Learning},
+  author={Vedavyas Panneershelvam and Cagdas Alcicek and Mustafa Suleyman and Volodymyr Mnih and Rory Fearon and Sam Blackwell and Koray Kavukcuoglu and Stig Petersen and Arun Nair and Shane Legg and Praveen Srinivasan and David Silver and Alessandro De Maria and Charles Beattie},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1507.04296}
+}
+
+@article{Pascanu2013CoRR,
+  title={Pylearn2: a machine learning research library},
+  author={James Bergstra and Yoshua Bengio and Vincent Dumoulin and Mehdi Mirza and Pascal Lamblin and Ian J. Goodfellow and David Warde-Farley and Frédéric Bastien and Razvan Pascanu},
+  journal={CoRR},
+  year={2013},
+  volume={abs/1308.4214}
+}
+
+@inproceedings{Humphrey2012ISMIR,
+  title={Moving Beyond Feature Design: Deep Architectures and Automatic Feature Learning in Music Informatics},
+  author={Eric J. Humphrey and Juan Pablo Bello and Yann LeCun},
+  booktitle={ISMIR},
+  year={2012}
+}
+
+@inproceedings{Arel2009AAAIFS,
+  title={DeSTIN: A Scalable Deep Learning Architecture with Application to High-Dimensional Robust Pattern Recognition},
+  author={Itamar Arel and Derek Rose and Robert Coop},
+  booktitle={AAAIFS},
+  year={2009}
+}
+
+@article{Collobert2011CoRR,
+  title={Natural Language Processing (almost) from Scratch},
+  author={Ronan Collobert and Jason Weston and Léon Bottou and Michael Karlen and Koray Kavukcuoglu and Pavel P. Kuksa},
+  journal={CoRR},
+  year={2011},
+  volume={abs/1103.0398}
+}
+
+@article{Edwards2015CommunACM,
+  title={Growing pains for deep learning},
+  author={Chris Edwards},
+  journal={Commun. ACM},
+  year={2015},
+  volume={58},
+  pages={14-16}
+}
+
+@inproceedings{Bengio2014GECCO,
+  title={Deep learning and cultural evolution},
+  author={Yoshua Bengio},
+  booktitle={GECCO},
+  year={2014}
+}
+
+@inproceedings{Coates2013BMVC,
+  title={Deep Learning for Machine Vision},
+  author={Adam Coates},
+  booktitle={BMVC},
+  year={2013}
+}
+
+@article{Anthes2013CommunACM,
+  title={Deep learning comes of age},
+  author={Gary Anthes},
+  journal={Commun. ACM},
+  year={2013},
+  volume={56},
+  pages={13-15}
+}
+
+@article{Yu2014CoRR,
+  title={Deep Learning for Answer Sentence Selection},
+  author={Lei Yu and Karl Moritz Hermann and Phil Blunsom and Stephen Pulman},
+  journal={CoRR},
+  year={2014},
+  volume={abs/1412.1632}
+}
+
+@article{Huang2015CoRR,
+  title={Learning with a Strong Adversary},
+  author={Ruitong Huang and Bing Xu and Dale Schuurmans and Csaba Szepesvári},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1511.03034}
+}
+
+@article{Srivastava2014JournalofMachineLearningResearch,
+  title={Dropout: a simple way to prevent neural networks from overfitting},
+  author={Nitish Srivastava and Geoffrey E. Hinton and Alex Krizhevsky and Ilya Sutskever and Ruslan Salakhutdinov},
+  journal={Journal of Machine Learning Research},
+  year={2014},
+  volume={15},
+  pages={1929-1958}
+}
+
+@inproceedings{Adams2010JMLR,
+  title={Learning the Structure of Deep Sparse Graphical Models},
+  author={Ryan Prescott Adams and Hanna M. Wallach and Zoubin Ghahramani},
+  booktitle={JMLR},
+  year={2010}
+}
+
+@inproceedings{Zeng2013ICCV,
+  title={Multi-stage Contextual Deep Learning for Pedestrian Detection},
+  author={Xingyu Zeng and Wanli Ouyang and Xiaogang Wang},
+  booktitle={ICCV},
+  year={2013}
+}
+
+@inproceedings{Tian2014AAAI,
+  title={Learning Deep Representations for Graph Clustering},
+  author={Fei Tian and Bin Gao and Qing Cui and Enhong Chen and Tie-Yan Liu},
+  booktitle={AAAI},
+  year={2014}
+}
+
+@inproceedings{Lai2015CVPR,
+  title={Simultaneous feature learning and hash coding with deep neural networks},
+  author={Hanjiang Lai and Yan Pan and Ye Liu and Shuicheng Yan},
+  booktitle={CVPR},
+  year={2015}
+}
+
+@article{Ranzato2015InternationalJournalofComputerVision,
+  title={Guest Editorial: Deep Learning},
+  author={MarcAurelio Ranzato and Geoffrey E. Hinton and Yann LeCun},
+  journal={International Journal of Computer Vision},
+  year={2015},
+  volume={113},
+  pages={1-2}
+}
+
+@inproceedings{Bengio2013ISRL,
+  title={Deep Learning of Representations},
+  author={Yoshua Bengio and Aaron C. Courville},
+  booktitle={ISRL},
+  year={2013}
+}
+
+@inproceedings{Friedman1999IJCAI,
+  title={Learning Probabilistic Relational Models},
+  author={Nir Friedman and Lise Getoor and Daphne Koller and Avi Pfeffer},
+  booktitle={IJCAI},
+  year={1999}
+}
+
+@article{Levine2015CoRR,
+  title={End-to-End Training of Deep Visuomotor Policies},
+  author={Sergey Levine and Chelsea Finn and Trevor Darrell and Pieter Abbeel},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1504.00702}
+}
+
+@inproceedings{Oquab2014CVPR,
+  title={Learning and Transferring Mid-level Image Representations Using Convolutional Neural Networks},
+  author={Maxime Oquab and Léon Bottou and Ivan Laptev and Josef Sivic},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Chen2011ICML,
+  title={The Hierarchical Beta Process for Convolutional Factor Analysis and Deep Learning},
+  author={Bo Chen and Gungor Polatkan and Guillermo Sapiro and David B. Dunson and Lawrence Carin},
+  booktitle={ICML},
+  year={2011}
+}
+
+@inproceedings{Wang2015ICML,
+  title={On Deep Multi-View Representation Learning},
+  author={Weiran Wang and Raman Arora and Karen Livescu and Jeff A. Bilmes},
+  booktitle={ICML},
+  year={2015}
+}
+
+@article{Zhang2007PatternRecognition,
+  title={ML-KNN: A lazy learning approach to multi-label learning},
+  author={Min-Ling Zhang and Zhi-Hua Zhou},
+  journal={Pattern Recognition},
+  year={2007},
+  volume={40},
+  pages={2038-2048}
+}
+
+@article{Zheng2015CoRR,
+  title={Conditional Random Fields as Recurrent Neural Networks},
+  author={Shuai Zheng and Sadeep Jayasumana and Bernardino Romera-Paredes and Vibhav Vineet and Zhizhong Su and Dalong Du and Chang Huang and Philip H. S. Torr},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1502.03240}
+}
+
+@article{Tang2013CoRR,
+  title={Deep Learning using Support Vector Machines},
+  author={Yichuan Tang},
+  journal={CoRR},
+  year={2013},
+  volume={abs/1306.0239}
+}
+
+@inproceedings{Erhan2014CVPR,
+  title={Scalable Object Detection Using Deep Neural Networks},
+  author={Dumitru Erhan and Christian Szegedy and Alexander Toshev and Dragomir Anguelov},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@article{Denil2012CoRR,
+  title={Learning where to Attend with Deep Architectures for Image Tracking},
+  author={Misha Denil and Loris Bazzani and Hugo Larochelle and Nando de Freitas},
+  journal={CoRR},
+  year={2012},
+  volume={abs/1109.3737}
+}
+
+@inproceedings{Larochelle2009JMLR,
+  title={Deep Learning using Robust Interdependent Codes},
+  author={Hugo Larochelle and Dumitru Erhan and Pascal Vincent},
+  booktitle={JMLR},
+  year={2009}
+}
+
+@inproceedings{Zhou2014AAAI,
+  title={Hybrid Heterogeneous Transfer Learning through Deep Learning},
+  author={Joey Tianyi Zhou and Sinno Jialin Pan and Ivor W. Tsang and Yan Yan},
+  booktitle={AAAI},
+  year={2014}
+}
+
+@article{Sermanet2013CoRR,
+  title={OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks},
+  author={Pierre Sermanet and David Eigen and Xiang Zhang and Micha?l Mathieu and Rob Fergus and Yann LeCun},
+  journal={CoRR},
+  year={2013},
+  volume={abs/1312.6229}
+}
+
+@article{Gal2015CoRR,
+  title={Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning},
+  author={Yarin Gal and Zoubin Ghahramani},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1506.02142}
+}
+
+@inproceedings{Liu2015HashingbyDeepLearning,
+  title={Hashing by Deep Learning},
+  author={Wei Liu},
+  year={2015}
+}
+
+@article{Hornik1989NeuralNetworks,
+  title={Multilayer feedforward networks are universal approximators},
+  author={Kurt Hornik and Maxwell B. Stinchcombe and Halbert White},
+  journal={Neural Networks},
+  year={1989},
+  volume={2},
+  pages={359-366}
+}
+
+@inproceedings{Wang2014NIPS,
+  title={Deep Joint Task Learning for Generic Object Extraction},
+  author={Xiaolong Wang and Liliang Zhang and Liang Lin and Zhujin Liang and Wangmeng Zuo},
+  booktitle={NIPS},
+  year={2014}
+}
+
+@inproceedings{Sun2013CVPR,
+  title={Deep Convolutional Network Cascade for Facial Point Detection},
+  author={Yi Sun and Xiaogang Wang and Xiaoou Tang},
+  booktitle={CVPR},
+  year={2013}
+}
+
+@article{Wahlstrm2015CoRR,
+  title={From Pixels to Torques: Policy Learning with Deep Dynamical Models},
+  author={Niklas Wahlstr?m and Thomas B. Sch?n and Marc Peter Deisenroth},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1502.02251}
+}
+
+@article{Patel2015CoRR,
+  title={A Probabilistic Theory of Deep Learning},
+  author={Ankit B. Patel and Tan Nguyen and Richard G. Baraniuk},
+  journal={CoRR},
+  year={2015},
+  volume={abs/1504.00641}
+}
+
+@inproceedings{Manning2014ACL,
+  title={The Stanford CoreNLP Natural Language Processing Toolkit},
+  author={Christopher D. Manning and Mihai Surdeanu and John Bauer and Jenny Rose Finkel and Steven Bethard and David McClosky},
+  booktitle={ACL},
+  year={2014}
+}
+
+@inproceedings{Xie2015CVPR,
+  title={Hyper-class augmented and regularized deep learning for fine-grained image classification},
+  author={Saining Xie and Tianbao Yang and Xiaoyu Wang and Yuanqing Lin},
+  booktitle={CVPR},
+  year={2015}
+}

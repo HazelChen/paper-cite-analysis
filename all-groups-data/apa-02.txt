@@ -1,0 +1,400 @@
+Guibas, L.J., Rubner, Y., & Tomasi, C.. (2000). The Earth Mover's Distance as a Metric for Image Retrieval. International Journal of Computer Vision, 40, 99-121.
+
+Bowyer, K.W., & Flynn, P.J.. (2000). A 20th Anniversary Survey: Introduction to 'Content-Based Image Retrieval at the End of the Early Years'. IEEE Trans. Pattern Anal. Mach. Intell., 22, 1348.
+
+Jeon, J., Lavrenko, V., & Manmatha, R.. (2003). Automatic image annotation and retrieval using cross-media relevance models. SIGIR.
+
+Chum, O., Matas, J., & Perdoch, M.. (2009). Efficient representation of local geometry for large scale object retrieval. CVPR.
+
+Mohr, R., & Schmid, C.. (1997). Local Grayvalue Invariants for Image Retrieval. IEEE Trans. Pattern Anal. Mach. Intell., 19, 530-535.
+
+Han, J., & Ma, K.. (2002). Fuzzy color histogram and its use in color image retrieval. IEEE Transactions on Image Processing, 11, 944-952.
+
+Lazebnik, S., & Tighe, J.. (2010). SuperParsing: Scalable Nonparametric Image Parsing with Superpixels. ECCV.
+
+Chang, S., Ji, R., Tsai, M., Yu, F.X., & Ye, G.. (2012). Weak attributes for large-scale image retrieval. CVPR.
+
+Westerveld, T.. (2000). Image Retrieval: Content versus Context. RIAO.
+
+Han, J., Li, M., Ngan, K.N., & Zhang, H.. (2005). A memory learning framework for effective image retrieval. IEEE Transactions on Image Processing, 14, 511-524.
+
+Irani, M., & Shechtman, E.. (2007). Matching Local Self-Similarities across Images and Videos. CVPR.
+
+Cour, T., Han, T.X., Wang, X., Yang, M., Yu, K., & Zhu, S.. (2011). Contextual weighting for vocabulary tree based image retrieval. ICCV.
+
+Falcão, A.X., & Torres, R.D.. (2006). Content-Based Image Retrieval: Theory and Applications. RITA, 13, 161-185.
+
+Carneiro, G., Chan, A.B., Moreno, P.J., & Vasconcelos, N.. (2007). Supervised Learning of Semantic Classes for Image Annotation and Retrieval. IEEE Trans. Pattern Anal. Mach. Intell., 29, 394-410.
+
+Donahue, J., Darrell, T., Girshick, R.B., Guadarrama, S., Jia, Y., Karayev, S., Long, J., & Shelhamer, E.. (2014). Caffe: Convolutional Architecture for Fast Feature Embedding. MM.
+
+Chen, L., Li, X., Lin, F., Ma, W., & Zhang, L.. (2006). Image annotation by large-scale content-based image retrieval. MM.
+
+Gool, L.J., Kadir, T., Mikolajczyk, K., Matas, J., Schmid, C., Schaffalitzky, F., Tuytelaars, T., & Zisserman, A.. (2005). A Comparison of Affine Region Detectors. International Journal of Computer Vision, 65, 43-72.
+
+Chen, Y., Krovetz, R., & Wang, J.Z.. (2005). CLUE: cluster-based retrieval of images by unsupervised learning. IEEE Transactions on Image Processing, 14, 1187-1201.
+
+Garrido, L., & Salembier, P.. (2000). Binary partition tree as an efficient representation for image processing, segmentation, and information retrieval. IEEE Transactions on Image Processing, 9, 561-576.
+
+He, J., Li, M., Tong, H., Zhang, H., & Zhang, C.. (2006). Generalized Manifold-Ranking-Based Image Retrieval. IEEE Transactions on Image Processing, 15, 3170-3177.
+
+Howarth, P., & Rüger, S.M.. (2004). Evaluation of Texture Features for Content-Based Image Retrieval. CIVR.
+
+Hermes, T., Klauck, C., Kreyß, J., & Zhang, J.. (1995). Content-based image retrieval. CASCON.
+
+Cox, I.J., Miller, M.L., Omohundro, S.M., & Yianilos, P.N.. (1996). PicHunter: Bayesian relevance feedback for image retrieval. ICPR.
+
+Li, X., Snoek, C.G., & Worring, M.. (2010). Unsupervised multi-feature tag relevance learning for social image retrieval. CIVR.
+
+Liu, Y., Perronnin, F., Poirier, H., & Sánchez, J.. (2010). Large-scale image retrieval with compressed Fisher vectors. CVPR.
+
+Manduchi, R., & Tomasi, C.. (1998). Bilateral Filtering for Gray and Color Images. ICCV.
+
+Kankanhalli, M.S., Lee, W.F., & Mehtre, B.M.. (1997). Shape Measures for Content Based Image Retrieval: A Comparison. Inf. Process. Manage., 33, 319-337.
+
+Lippman, A., & Vasconcelos, N.. (1999). Learning from User Feedback in Image Retrieval Systems. NIPS.
+
+Fei-Fei, L., Joulin, A., & Karpathy, A.. (2014). Deep Fragment Embeddings for Bidirectional Image Sentence Mapping. NIPS.
+
+He, X.. (2004). Incremental semi-supervised subspace learning for image retrieval. MM.
+
+Guillaumin, M., Mensink, T., Schmid, C., & Verbeek, J.J.. (2009). TagProp: Discriminative metric learning in nearest neighbor models for image auto-annotation. ICCV.
+
+Chum, O., Philbin, J., & Zisserman, A.. (2008). Near Duplicate Image Detection: min-Hash and tf-idf Weighting. BMVC.
+
+Deng, Y., Kenney, C.S., Manjunath, B.S., Moore, M.S., & Shin, H.. (2001). An efficient color representation for image retrieval. IEEE Transactions on Image Processing, 10, 140-147.
+
+Lu, G., & Zhang, D.. (2002). Shape-based image retrieval using generic Fourier descriptor. Sig. Proc.: Image Comm., 17, 825-848.
+
+Feng, S., Lavrenko, V., & Manmatha, R.. (2004). Multiple Bernoulli Relevance Models for Image and Video Annotation. CVPR.
+
+Babenko, A., Chigorin, A., Lempitsky, V.S., & Slesarev, A.. (2014). Neural Codes for Image Retrieval. ECCV.
+
+Liu, F., & Picard, R.W.. (1996). Periodicity, Directionality, and Randomness: Wold Features for Image Modeling and Retrieval. IEEE Trans. Pattern Anal. Mach. Intell., 18, 722-733.
+
+Li, J., Wang, J.Z., & Wiederhold, G.. (2000). SIMPLIcity: Semantics-sensitive Integrated Matching for Picture Libraries. VISUAL.
+
+Bimbo, A.D., & Pala, P.. (1995). Image Retrieval by Elastic Matching of User Sketches. ICIAP.
+
+Bhanu, B., Peng, J., & Qing, S.. (1999). Probabilistic Feature Relevance Learning for Content-Based Image Retrieval. Computer Vision and Image Understanding, 75, 150-164.
+
+Grauman, K., & Kulis, B.. (2009). Kernelized locality-sensitive hashing for scalable image search. ICCV.
+
+Berg, A.C., Bernstein, M.S., Deng, J., Fei-Fei, L., Huang, Z., Khosla, A., Karpathy, A., Krause, J., Ma, S., Russakovsky, O., Su, H., & Satheesh, S.. (2015). ImageNet Large Scale Visual Recognition Challenge. CoRR, abs/1409.0575.
+
+Chen, Z., Li, M., & Zhang, H.. (2002). Statistical correlation analysis in image retrieval. Pattern Recognition, 35, 2687-2693.
+
+Jeon, J., Lavrenko, V., & Manmatha, R.. (2003). A Model for Learning the Semantics of Pictures. NIPS.
+
+Kumar, S., Makadia, A., & Pavlovic, V.. (2008). A New Baseline for Image Annotation. ECCV.
+
+Iwamura, M., Kise, K., & Nakai, T.. (2006). Use of Affine Invariants in Locally Likely Arrangement Hashing for Camera-Based Document Image Retrieval. DAS.
+
+Lazebnik, S., Ponce, J., & Schmid, C.. (2006). Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories. CVPR.
+
+Aslandogan, Y.A., & Yu, C.T.. (1999). Techniques and Systems for Image and Video Retrieval. IEEE Trans. Knowl. Data Eng., 11, 56-63.
+
+Hoi, S.C., & Lyu, M.R.. (2005). A Semi-Supervised Active Learning Framework for Image Retrieval. CVPR.
+
+Fowlkes, C.C., Martin, D.R., & Malik, J.. (2004). Learning to Detect Natural Image Boundaries Using Local Brightness, Color, and Texture Cues. IEEE Trans. Pattern Anal. Mach. Intell., 26, 530-549.
+
+Everingham, M., Gool, L.J., Williams, C.K., Winn, J.M., & Zisserman, A.. (2010). The Pascal Visual Object Classes (VOC) Challenge. International Journal of Computer Vision, 88, 303-338.
+
+Lai, H., Liu, C., Pan, Y., Xia, R., & Yan, S.. (2014). Supervised Hashing for Image Retrieval via Image Representation Learning. AAAI.
+
+Bernardi, A., Kherfi, M.L., & Ziou, D.. (2004). Image Retrieval from the World Wide Web: Issues, Techniques, and Systems. ACM Comput. Surv., 36, 35-67.
+
+Chen, Z., Li, M., Wenyin, L., Zhang, F., & Zhang, H.. (2001). Web mining for Web image retrieval. JASIST, 52, 831-839.
+
+Bernstein, M.S., Fei-Fei, L., Johnson, J., Krishna, R., Li, L., Stark, M., & Shamma, D.A.. (2015). Image retrieval using scene graphs. CVPR.
+
+Lu, S., Li, L., & Tan, C.L.. (2008). Document Image Retrieval through Word Shape Coding. IEEE Trans. Pattern Anal. Mach. Intell., 30, 1913-1918.
+
+Lu, Y., Li, H., Song, Y., Tian, Q., & Zhou, W.. (2010). Spatial coding for large scale partial-duplicate web image search. MM.
+
+Liu, Y., Lu, G., Ma, W., & Zhang, D.. (2007). A survey of content-based image retrieval with high-level semantics. Pattern Recognition, 40, 262-282.
+
+Hoi, S.C., Jin, R., Lyu, M.R., & Si, L.. (2006). Collaborative image retrieval via regularized metric learning. Multimedia Syst., 12, 34-44.
+
+Hauptmann, A.G., Jin, R., & Lin, W.. (2003). Web Image Retrieval Re-Ranking with Relevance Model. WEBI.
+
+Eakins, J.P.. (2002). Towards intelligent image retrieval. Pattern Recognition, 35, 3-14.
+
+Natsev, A., Rastogi, R., & Shim, K.. (1999). WALRUS: A Similarity Retrieval Algorithm for Image Databases. SIGMOD.
+
+Bu, J., Chen, C., Cai, D., He, X., Liu, W., Luo, J., & Xu, B.. (2011). Efficient manifold ranking for image retrieval. SIGIR.
+
+Akgül, C.B., Acar, B., Beaulieu, C.F., Greenspan, H., Napel, S., & Rubin, D.L.. (2011). Content-Based Image Retrieval in Radiology: Current Status and Future Directions. J. Digital Imaging, 24, 208-222.
+
+Candès, E.J., Eldar, Y.C., Strohmer, T., & Voroninski, V.. (2013). Phase Retrieval via Matrix Completion. CoRR, abs/1109.0573.
+
+Frome, A., Malik, J., & Singer, Y.. (2006). Image Retrieval and Classification Using Local Distance Functions. NIPS.
+
+Efros, A.A., & Hays, J.. (2008). IM2GPS: estimating geographic information from a single image. CVPR.
+
+Hu, Y., Li, M., & Yu, N.. (2008). Multiple-instance ranking: Learning to rank images for image retrieval. CVPR.
+
+Hoi, S.C., Liu, W., Lyu, M.R., & Ma, W.. (2006). Learning Distance Metrics with Contextual Constraints for Image Retrieval. CVPR.
+
+Guibas, L.J., Rubner, Y., & Tomasi, C.. (1998). A Metric for Distributions with Applications to Image Databases. ICCV.
+
+Wang, C., Zhang, L., & Zhang, H.. (2008). Learning to reduce the semantic gap in web image retrieval and annotation. SIGIR.
+
+Chia, L., Liu, S., & Wang, H.. (2006). Does ontology help in image retrieval?: a comparison between keyword, text ontology and multi-modality ontology approaches. MM.
+
+Burgard, W., Burkhardt, H., & Wolf, J.. (2005). Robust vision-based localization by combining an image-retrieval system with Monte Carlo localization. IEEE Transactions on Robotics, 21, 208-216.
+
+Croft, W.B., & Ponte, J.M.. (1998). A Language Modeling Approach to Information Retrieval. SIGIR.
+
+Koskela, M., Laaksonen, J., Laakso, S., & Oja, E.. (2000). PicSOM - content-based image retrieval with self-organizing maps. Pattern Recognition Letters, 21, 1199-1207.
+
+Vasconcelos, N.. (2004). Minimum probability of error image retrieval. IEEE Transactions on Signal Processing, 52, 2322-2336.
+
+Antani, S.K., Demner-Fushman, D., Eggel, I., Herrera, A.G., Kalpathy-Cramer, J., & Müller, H.. (2012). Overview of the ImageCLEF 2012 Medical Image Retrieval and Classification Tasks. CLEF.
+
+Li, S.Z., Ma, S., Su, Z., & Zhang, H.. (2003). Relevance feedback in content-based image retrieval: Bayesian framework, feature subspaces, and progressive learning. IEEE Transactions on Image Processing, 12, 924-937.
+
+Bolettieri, P., Esuli, A., Falchi, F., Lucchese, C., Perego, R., Piccioli, T., & Rabitti, F.. (2009). CoPhIR: a Test Collection for Content-Based Image Retrieval. CoRR, abs/0905.4627.
+
+Fei-Fei, L., & Karpathy, A.. (2015). Deep visual-semantic alignments for generating image descriptions. CVPR.
+
+Müller, H., Marchand-Maillet, S., & Pun, T.. (2002). The Truth about Corel - Evaluation in Image Retrieval. CIVR.
+
+Barnard, K., & Shirahatti, N.V.. (2005). Evaluating Image Retrieval. CVPR.
+
+Blake, A., Kolmogorov, V., Minka, T.P., & Rother, C.. (2006). Cosegmentation of Image Pairs by Histogram Matching - Incorporating a Global Constraint into MRFs. CVPR.
+
+Belongie, S., Carson, C., Greenspan, H., & Malik, J.. (2004). Color-and Texture-based Image Segmentation Using Em and Its Application to Content-based Image Retrieval.
+
+Falcão, A.X., Nascimento, M.A., & Stehling, R.O.. (2002). A compact and efficient image retrieval approach based on border/interior pixel classification. CIKM.
+
+Dunlop, M.D., Harmandas, V., & Sanderson, M.. (1997). Image Retrieval by Hypertext Links. SIGIR.
+
+Jones, M.J., & Viola, P.A.. (2001). Robust Real-Time Face Detection. ICCV.
+
+Lippman, A., & Vasconcelos, N.. (2000). A Probabilistic Architecture for Content-Based Image Retrieval. CVPR.
+
+Müller, H., Müller, W., Marchand-Maillet, S., Pun, T., & Squire, D.. (2000). Strategies for Positive and Negative Relevance Feedback in Image Retrieval. ICPR.
+
+Fei-Fei, L., Li, L., Su, H., & Xing, E.P.. (2010). Object Bank: A High-Level Image Representation for Scene Classification & Semantic Feature Sparsification. NIPS.
+
+Ke, Y., & Sukthankar, R.. (2004). PCA-SIFT: A More Distinctive Representation for Local Image Descriptors. CVPR.
+
+Hodosh, M., Hockenmaier, J., & Young, P.. (2013). Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics (Extended Abstract). IJCAI.
+
+Djeraba, C., Jain, R., Lew, M.S., & Sebe, N.. (2006). Content-based multimedia information retrieval: State of the art and challenges. TOMCCAP, 2, 1-19.
+
+Clough, P.D., Deselaers, T., Grubinger, M., Hersh, W.R., Jensen, J.R., Lehmann, T.M., & Müller, H.. (2003). The CLEF 2005 Cross-Language Image Retrieval Track. CLEF.
+
+Bedrick, S., Hatt, W., Hersh, W.R., Jr., C.E., Kalpathy-Cramer, J., & Müller, H.. (2008). Overview of the ImageCLEFmed 2008 Medical Image Retrieval Task. CLEF.
+
+Deselaers, T., Dreuw, P., Gass, T., & Ney, H.. (2009). Jointly optimising relevance and diversity in image retrieval. CIVR.
+
+Bradshaw, B.. (2000). Semantic based image retrieval: a probabilistic approach. MM.
+
+Chan, K.L., Wang, L., & Zhang, Z.. (2003). Bootstrapping SVM Active Learning by Incorporating Unlabelled Images for Image Retrieval. CVPR.
+
+Islam, M.M., Lu, G., Sumana, I.J., & Zhang, D.. (2008). Content based image retrieval using curvelet transform. MMSP.
+
+Dai, S.K., & Huang, P.. (2003). Image retrieval by texture similarity. Pattern Recognition, 36, 665-679.
+
+Huang, T.S., Mehrotra, S., & Rui, Y.. (1998). Relevance Feedback Techniques in Interactive Content-Based Image Retrieval. spieSR.
+
+Manning, C.D., Raghavan, P., & Schütze, H.. (2008). Introduction to information retrieval. DAGLIB.
+
+Chen, D.M., Chandrasekhar, V., Girod, B., Singh, J.P., Tsai, S.S., & Takacs, G.. (2009). Location coding for mobile image retrieval. MOBIMEDIA.
+
+Cai, D., He, X., Min, W., & Zhou, K.. (2007). Laplacian optimal design for image retrieval. SIGIR.
+
+Mao, J., Wang, J., Xu, W., Yang, Y., & Yuille, A.L.. (2014). Explain Images with Multimodal Recurrent Neural Networks. CoRR, abs/1410.1090.
+
+Belongie, S.J., Carson, C., Greenspan, H., & Malik, J.. (2002). Blobworld: Image Segmentation Using Expectation-Maximization and Its Application to Image Querying. IEEE Trans. Pattern Anal. Mach. Intell., 24, 1026-1038.
+
+Hou, Y., Liu, G., Li, Z., Yang, J., & Zhang, L.. (2010). Image retrieval based on multi-texton histogram. Pattern Recognition, 43, 2380-2389.
+
+Feng, J., Li, M., Yu, H., & Zhang, H.. (2002). Color texture moments for content-based image retrieval. ICIP.
+
+Qiu, G.. (2002). Indexing chromatic and achromatic patterns for content-based colour image retrieval. Pattern Recognition, 35, 1675-1686.
+
+Buhmann, J.M., Hofmann, T., & Puzicha, J.. (1997). Non-parametric Similarity Measures for Unsupervised Texture Segmentation and Image Retrieval. CVPR.
+
+He, X., King, O., Li, M., Ma, W., & Zhang, H.. (2002). Learning and inferring a semantic space from user's relevance feedback for image retrieval. MM.
+
+Do, M.N., & Vetterli, M.. (2002). Wavelet-based texture retrieval using generalized Gaussian density and Kullback-Leibler distance. IEEE Transactions on Image Processing, 11, 146-158.
+
+Sivic, J., & Zisserman, A.. (2003). Video Google: A Text Retrieval Approach to Object Matching in Videos. ICCV.
+
+Davis, L.S., Feris, R.S., & Siddiquie, B.. (2011). Image ranking and retrieval based on multi-attribute queries. CVPR.
+
+He, J., Li, M., Tong, H., Zhang, H., & Zhang, C.. (2004). Manifold-ranking based image retrieval. MM.
+
+Chen, T., Jia, Z., & Zhang, Y.. (2011). Image retrieval with geometry-preserving visual phrases. CVPR.
+
+Huang, T.S., & Rui, Y.. (2000). Optimizing Learning in Image Retrieval. CVPR.
+
+Hinton, G.E., Krizhevsky, A., & Sutskever, I.. (2012). ImageNet Classification with Deep Convolutional Neural Networks. NIPS.
+
+Nistér, D., & Stewénius, H.. (2006). Scalable Recognition with a Vocabulary Tree. CVPR.
+
+Swets, D.L., & Weng, J.. (1996). Using Discriminant Eigenfeatures for Image Retrieval. IEEE Trans. Pattern Anal. Mach. Intell., 18, 831-836.
+
+Jain, A.K., & Vailaya, A.. (1996). Image retrieval using color and shape. Pattern Recognition, 29, 1233-1244.
+
+Bandon, D., Geissbühler, A., Müller, H., & Michoux, N.. (2004). A review of content-based image retrieval systems in medical applications - clinical benefits and future directions. I. J. Medical Informatics, 73, 1-23.
+
+Huiskes, M.J., & Lew, M.S.. (2008). The MIR flickr retrieval evaluation. MIR.
+
+Datta, R., Joshi, D., Li, J., & Wang, J.Z.. (2008). Image retrieval: Ideas, influences, and trends of the new age. ACM Comput. Surv., 40.
+
+Huang, T.S., & Zhou, X.S.. (2003). Relevance feedback in image retrieval: A comprehensive review. Multimedia Syst., 8, 536-544.
+
+Chang, S., Kumar, O., & Wang, J.. (2010). Semi-supervised hashing for scalable image retrieval. CVPR.
+
+Deselaers, T., Keysers, D., & Ney, H.. (2008). Features for image retrieval: an experimental comparison. Inf. Retr., 11, 77-107.
+
+Schiele, B., & Vogel, J.. (2007). Semantic Modeling of Natural Scenes for Content-Based Image Retrieval. International Journal of Computer Vision, 72, 133-157.
+
+Chua, T., Hong, R., Li, H., Luo, Z., Tang, J., & Zheng, Y.. (2009). NUS-WIDE: a real-world web image database from National University of Singapore. CIVR.
+
+Chatzichristofis, S.A., & Lux, M.. (2008). Lire: lucene image retrieval: an extensible java CBIR library. MM.
+
+Huang, T.S., Mehrotra, S., & Rui, Y.. (1997). Content-Based Image Retrieval with Relevance Feedback in MARS. ICIP.
+
+Fergus, R., Torralba, A., & Weiss, Y.. (2008). Small codes and large image databases for recognition. CVPR.
+
+Datta, R., Li, J., & Wang, J.Z.. (2005). Content-based image retrieval: approaches and trends of the new age. MIR.
+
+Azizpour, H., Carlsson, S., Razavian, A.S., & Sullivan, J.. (2014). CNN Features Off-the-Shelf: An Astounding Baseline for Recognition. CVPR.
+
+Manjunath, B.S., & Ma, W.. (1996). Texture Features for Browsing and Retrieval of Image Data. IEEE Trans. Pattern Anal. Mach. Intell., 18, 837-842.
+
+Boutalis, Y.S., & Chatzichristofis, S.A.. (2008). CEDD: Color and Edge Directivity Descriptor: A Compact Descriptor for Image Indexing and Retrieval. ICVS.
+
+Arandjelovic, R., & Zisserman, A.. (2012). Three things everyone should know to improve object retrieval. CVPR.
+
+Efros, A.A., Gupta, A., & Malisiewicz, T.. (2011). Ensemble of exemplar-SVMs for object detection and beyond. ICCV.
+
+He, X., Ma, W., & Zhang, H.. (2004). Learning an image manifold for retrieval. MM.
+
+Belongie, S.J., Carson, C., Hellerstein, J.M., Malik, J., & Thomas, M.. (1999). Blobworld: A System for Region-Based Image Indexing and Retrieval. VISUAL.
+
+Gevers, T., & Smeulders, A.W.. (2000). PicToSeek: combining color and shape invariant features for image retrieval. IEEE Transactions on Image Processing, 9, 102-119.
+
+Coviello, E., Doyle, G., Lanckriet, G.R., Levy, R., Pereira, J.C., Rasiwasia, N., & Vasconcelos, N.. (2010). A new approach to cross-modal multimedia retrieval. MM.
+
+Freeman, W.T., Murphy, K.P., Russell, B.C., & Torralba, A.. (2008). LabelMe: A Database and Web-Based Tool for Image Annotation. International Journal of Computer Vision, 77, 157-173.
+
+Jones, M.J., & Viola, P.A.. (2001). Rapid Object Detection using a Boosted Cascade of Simple Features. CVPR.
+
+Li, X., Tao, D., Tang, X., & Wu, X.. (2006). Asymmetric Bagging and Random Subspace for Support Vector Machines-Based Relevance Feedback in Image Retrieval. IEEE Trans. Pattern Anal. Mach. Intell., 28, 1088-1099.
+
+Chum, O., Isard, M., Philbin, J., Sivic, J., & Zisserman, A.. (2007). Object retrieval with large vocabularies and fast spatial matching. CVPR.
+
+Guo, G., Jain, A.K., Ma, W., & Zhang, H.. (2001). Learning Similarity Measure for Natural Image Retrieval with Relevance Feedback. CVPR.
+
+Isard, M., Ke, Q., Sun, J., & Wu, Z.. (2009). Bundling features for large scale partial-duplicate web image search. CVPR.
+
+Chen, Y., Huang, T.S., & Zhou, X.S.. (2001). One-class SVM for learning in image retrieval. ICIP.
+
+Bengio, S., Erhan, D., Toshev, A., & Vinyals, O.. (2015). Show and tell: A neural image caption generator. CVPR.
+
+Jain, A.K., & Vailaya, A.. (1998). Shape-Based Retrieval: A Case Study With Trademark Image Databases. Pattern Recognition, 31, 1369-1390.
+
+Chum, O., & Jégou, H.. (2012). Negative Evidences and Co-occurences in Image Retrieval: The Benefit of PCA and Whitening. ECCV.
+
+Jin, R., Jain, A.K., & Wu, L.. (2013). Tag Completion for Image Retrieval. IEEE Trans. Pattern Anal. Mach. Intell., 35, 716-727.
+
+Li, X., Snoek, C.G., & Worring, M.. (2008). Learning tag relevance by neighbor voting for social image retrieval. MIR.
+
+Müller, W., Müller, H., Pun, T., & Squire, D.M.. (2000). Content-based query of image databases: inspirations from text retrieval. Pattern Recognition Letters, 21, 1193-1198.
+
+Gao, W., Huang, T., Song, K., & Tian, Y.. (2006). Diversifying the image retrieval results. MM.
+
+Chang, S., Huang, T.S., & Rui, Y.. (1999). Image Retrieval: Current Techniques, Promising Directions, and Open Issues. J. Visual Communication and Image Representation, 10, 39-62.
+
+He, X., King, O., Li, M., Ma, W., & Zhang, H.. (2003). Learning a semantic space from user's relevance feedback for image retrieval. IEEE Trans. Circuits Syst. Video Techn., 13, 39-48.
+
+Huang, Y., Liu, Q., Metaxas, D.N., & Zhang, S.. (2010). Image retrieval via probabilistic hypergraph ranking. CVPR.
+
+Fritts, J.E., Goldman, S.A., Krettek, J., Rahmani, R., & Zhang, H.. (2005). Localized content based image retrieval. MIR.
+
+Hörster, E., Lienhart, R., & Slaney, M.. (2007). Image retrieval on large-scale image databases. CIVR.
+
+Ahn, L.V., & Dabbish, L.. (2004). Labeling images with a computer game. CHI.
+
+Fergus, R., Freeman, W.T., & Torralba, A.. (2008). 80 Million Tiny Images: A Large Data Set for Nonparametric Object and Scene Recognition. IEEE Trans. Pattern Anal. Mach. Intell., 30, 1958-1970.
+
+Hoi, S.C., Jin, R., & Lyu, M.R.. (2006). A Unified Log-Based Relevance Feedback Scheme for Image Retrieval. IEEE Trans. Knowl. Data Eng., 18, 509-524.
+
+Schmid, C.. (2001). Constructing models for content-based image retrieval. CVPR.
+
+Huang, T.S., Tian, Q., & Wu, Y.. (2000). Discriminant-EM Algorithm with Application to Image Retrieval. CVPR.
+
+Gong, Y., Huang, T.S., Lv, F., Wang, J., Yang, J., & Yu, K.. (2010). Locality-constrained Linear Coding for image classification. CVPR.
+
+Tieu, K., & Viola, P.A.. (2000). Boosting Image Retrieval. CVPR.
+
+Douze, M., Ramisa, A., & Schmid, C.. (2011). Combining attributes and Fisher vectors for efficient image retrieval. CVPR.
+
+Li, J., Wang, J.Z., & Wiederhold, G.. (2000). IRM: integrated region matching for image retrieval. MM.
+
+Cheng, M., Huang, X., Hu, S., Mitra, N.J., & Zhang, G.. (2011). Global contrast based salient region detection. CVPR.
+
+Boutalis, Y.S., & Chatzichristofis, S.A.. (2008). FCTH: Fuzzy Color and Texture Histogram - A Low Level Feature for Accurate Image Retrieval. WIAMIS.
+
+Cour, T., Metaxas, D.N., Yang, M., Yu, K., & Zhang, S.. (2012). Query Specific Fusion for Image Retrieval. ECCV.
+
+Bedrick, S., Bakke, B., Eggel, I., Hersh, W.R., Jr., C.E., Kalpathy-Cramer, J., Müller, H., & Radhouani, S.. (2009). Overview of the CLEF 2009 Medical Image Retrieval Track. CLEF.
+
+Clough, P.D., Müller, H., & Sanderson, M.. (2004). The CLEF Cross Language Image Retrieval Track (ImageCLEF) 2004. CIVR.
+
+Schaefer, G., & Stich, M.. (2004). UCID: an uncompressed color image database. spieSR.
+
+Berg, A.C., Deng, J., & Fei-Fei, L.. (2011). Hierarchical semantic indexing for large scale image retrieval. CVPR.
+
+Chum, O., Isard, M., Philbin, J., Sivic, J., & Zisserman, A.. (2007). Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval. ICCV.
+
+Chum, O., Isard, M., Philbin, J., Sivic, J., & Zisserman, A.. (2008). Lost in quantization: Improving particular object retrieval in large scale image databases. CVPR.
+
+Brandt, J., Lin, Z., Shen, X., & Wu, Y.. (2013). Detecting and Aligning Faces by Image Retrieval. CVPR.
+
+Blei, D.M., & Jordan, M.I.. (2003). Modeling annotated data. SIGIR.
+
+Alexa, M., Boubekeur, T., Eitz, M., & Hildebrand, K.. (2011). Sketch-Based Image Retrieval: Benchmark and Bag-of-Features Descriptors. IEEE Trans. Vis. Comput. Graph., 17, 1624-1636.
+
+Aachen, R., Fischer, B., Güld, M., Keysers, D., Lehmann, T., Lehmann, T.M., Ney, H., Schubert, H., & Spitzer, K.. (2000). Content-based Image Retrieval in Medical Applications.
+
+Lin, F., Zhang, L., & Zhang, B.. (2001). Support vector machine learning for image retrieval. ICIP.
+
+Cox, I.J., Miller, M.L., Minka, T.P., Papathomas, T.V., & Yianilos, P.N.. (2000). The Bayesian image retrieval system, PicHunter: theory, implementation, and psychophysical experiments. IEEE Transactions on Image Processing, 9, 20-37.
+
+Bar-Hillel, A., Hertz, T., & Weinshall, D.. (2004). Learning Distance Functions for Image Retrieval. CVPR.
+
+Hyvönen, E., Saarela, S., Styrman, A., & Viljanen, K.. (2003). Ontology-Based Image Retrieval. WWW.
+
+Gool, L.J., & Tuytelaars, T.. (1999). Content-Based Image Retrieval Based on Local Affinely Invariant Regions. VISUAL.
+
+Frome, A., Malik, J., Singer, Y., & Sha, F.. (2007). Learning Globally-Consistent Local Distance Functions for Shape-Based Image Retrieval and Classification. ICCV.
+
+Bay, H., Gool, L.J., & Tuytelaars, T.. (2006). SURF: Speeded Up Robust Features. ECCV.
+
+Chang, S., Hoi, S.C., & Liu, W.. (2008). Semi-supervised distance metric learning for Collaborative Image Retrieval. CVPR.
+
+Huang, T.S., Lew, M.S., Loupias, E., Sebe, N., & Tian, Q.. (2001). Image retrieval using wavelet-based salient points. J. Electronic Imaging, 10, 835-849.
+
+Chang, E.Y., Goh, K., Sychay, G., & Wu, G.. (2003). CBSA: content-based soft annotation for multimodal image retrieval using Bayes point machines. IEEE Trans. Circuits Syst. Video Techn., 13, 26-38.
+
+Hu, C., Lu, Y., Yang, Q., Zhu, X., & Zhang, H.. (2000). A unified framework for semantics and feature based relevance feedback in image retrieval systems. MM.
+
+Kobbelt, L., Leibe, B., Sattler, T., & Weyand, T.. (2012). Image Retrieval for Image-Based Localization Revisited. BMVC.
+
+Hinton, G.E., & Krizhevsky, A.. (2011). Using very deep autoencoders for content-based image retrieval. ESANN.
+
+Metzler, D., & Manmatha, R.. (2004). An Inference Network Approach to Image Retrieval. CIVR.
+
+Deselaers, T., Keysers, D., & Ney, H.. (2004). Features for Image Retrieval: A Quantitative Comparison. DAGM.
+
+Huang, J., Kumar, R., Mitra, M., Zhu, W., & Zabih, R.. (1997). Image Indexing Using Color Correlograms. CVPR.
+
+Buhmann, J.M., Puzicha, J., Rubner, Y., & Tomasi, C.. (1999). Empirical Evaluation of Dissimilarity Measures for Color and Texture. ICCV.
+

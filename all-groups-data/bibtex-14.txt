@@ -1,0 +1,1524 @@
+@article{Leggetter1995ComputerSpeechLanguage,
+  title={Maximum likelihood linear regression for speaker adaptation of continuous density hidden Markov models},
+  author={C. J. Leggetter and Philip C. Woodland},
+  journal={Computer Speech & Language},
+  year={1995},
+  volume={9},
+  pages={171-185}
+}
+
+@inproceedings{Joachims2006KDD,
+  title={Training linear SVMs in linear time},
+  author={Thorsten Joachims},
+  booktitle={KDD},
+  year={2006}
+}
+
+@article{Mateos2010IEEETransactionsonSignalProcessing,
+  title={Distributed sparse linear regression},
+  author={Gonzalo Mateos and Juan Andrés Bazerque and Georgios B. Giannakis},
+  journal={IEEE Transactions on Signal Processing},
+  year={2010},
+  volume={58},
+  pages={5262-5276}
+}
+
+@article{Naseem2010IEEETransPatternAnalMachIntell,
+  title={Linear Regression for Face Recognition},
+  author={Imran Naseem and Roberto Togneri and Mohammed Bennamoun},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2010},
+  volume={32},
+  pages={2106-2112}
+}
+
+@article{Breiman1996MachineLearning,
+  title={Bagging Predictors},
+  author={Leo Breiman},
+  journal={Machine Learning},
+  year={1996},
+  volume={24},
+  pages={123-140}
+}
+
+@article{Smola2004StatisticsandComputing,
+  title={A tutorial on support vector regression},
+  author={Alexander J. Smola and Bernhard Schölkopf},
+  journal={Statistics and Computing},
+  year={2004},
+  volume={14},
+  pages={199-222}
+}
+
+@inproceedings{Cristianini2001DAGLIB,
+  title={An Introduction to Support Vector Machines and Other Kernel-based Learning Methods},
+  author={Nello Cristianini and John Shawe-Taylor},
+  booktitle={DAGLIB},
+  year={2001}
+}
+
+@inproceedings{Yang2009CVPR,
+  title={Linear spatial pyramid matching using sparse coding for image classification},
+  author={Jianchao Yang and Kai Yu and Yihong Gong and Thomas S. Huang},
+  booktitle={CVPR},
+  year={2009}
+}
+
+@inproceedings{Larsson2006ICASSP,
+  title={Linear Regression with a Sparse Parameter Vector},
+  author={Erik G. Larsson and Yngve Selén},
+  booktitle={ICASSP},
+  year={2006}
+}
+
+@inproceedings{Han2000MK,
+  title={Data Mining: Concepts and Techniques},
+  author={Jiawei Han and Micheline Kamber},
+  booktitle={MK},
+  year={2000}
+}
+
+@article{Leggetter1995ComputerSpeechLanguage,
+  title={Maximum likelihood linear regression for speaker adaptation of continuous density hidden Markov models},
+  author={C. J. Leggetter and Philip C. Woodland},
+  journal={Computer Speech & Language},
+  year={1995},
+  volume={9},
+  pages={171-185}
+}
+
+@inproceedings{Joachims2006KDD,
+  title={Training linear SVMs in linear time},
+  author={Thorsten Joachims},
+  booktitle={KDD},
+  year={2006}
+}
+
+@article{Mateos2010IEEETransactionsonSignalProcessing,
+  title={Distributed sparse linear regression},
+  author={Gonzalo Mateos and Juan Andrés Bazerque and Georgios B. Giannakis},
+  journal={IEEE Transactions on Signal Processing},
+  year={2010},
+  volume={58},
+  pages={5262-5276}
+}
+
+@article{Naseem2010IEEETransPatternAnalMachIntell,
+  title={Linear Regression for Face Recognition},
+  author={Imran Naseem and Roberto Togneri and Mohammed Bennamoun},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2010},
+  volume={32},
+  pages={2106-2112}
+}
+
+@article{Breiman1996MachineLearning,
+  title={Bagging Predictors},
+  author={Leo Breiman},
+  journal={Machine Learning},
+  year={1996},
+  volume={24},
+  pages={123-140}
+}
+
+@article{Smola2004StatisticsandComputing,
+  title={A tutorial on support vector regression},
+  author={Alexander J. Smola and Bernhard Schölkopf},
+  journal={Statistics and Computing},
+  year={2004},
+  volume={14},
+  pages={199-222}
+}
+
+@inproceedings{Cristianini2001DAGLIB,
+  title={An Introduction to Support Vector Machines and Other Kernel-based Learning Methods},
+  author={Nello Cristianini and John Shawe-Taylor},
+  booktitle={DAGLIB},
+  year={2001}
+}
+
+@inproceedings{Yang2009CVPR,
+  title={Linear spatial pyramid matching using sparse coding for image classification},
+  author={Jianchao Yang and Kai Yu and Yihong Gong and Thomas S. Huang},
+  booktitle={CVPR},
+  year={2009}
+}
+
+@inproceedings{Larsson2006ICASSP,
+  title={Linear Regression with a Sparse Parameter Vector},
+  author={Erik G. Larsson and Yngve Selén},
+  booktitle={ICASSP},
+  year={2006}
+}
+
+@inproceedings{Han2000MK,
+  title={Data Mining: Concepts and Techniques},
+  author={Jiawei Han and Micheline Kamber},
+  booktitle={MK},
+  year={2000}
+}
+
+@inproceedings{Das2008STOC,
+  title={Algorithms for subset selection in linear regression},
+  author={Abhimanyu Das and David Kempe},
+  booktitle={STOC},
+  year={2008}
+}
+
+@inproceedings{Nair2010ICML,
+  title={Rectified Linear Units Improve Restricted Boltzmann Machines},
+  author={Vinod Nair and Geoffrey E. Hinton},
+  booktitle={ICML},
+  year={2010}
+}
+
+@article{Bishop2007JElectronicImaging,
+  title={Pattern Recognition and Machine Learning},
+  author={Christopher M. Bishop and Nasser M. Nasrabadi},
+  journal={J. Electronic Imaging},
+  year={2007},
+  volume={16},
+  pages={049901}
+}
+
+@inproceedings{Saunders1998ICML,
+  title={Ridge Regression Learning Algorithm in Dual Variables},
+  author={Craig Saunders and Alexander Gammerman and Volodya Vovk},
+  booktitle={ICML},
+  year={1998}
+}
+
+@inproceedings{Cao2012CVPR,
+  title={Face alignment by Explicit Shape Regression},
+  author={Xudong Cao and Yichen Wei and Fang Wen and Jian Sun},
+  booktitle={CVPR},
+  year={2012}
+}
+
+@article{Takeda2007IEEETransactionsonImageProcessing,
+  title={Kernel Regression for Image Processing and Reconstruction},
+  author={Hiroyuki Takeda and Sina Farsiu and Peyman Milanfar},
+  journal={IEEE Transactions on Image Processing},
+  year={2007},
+  volume={16},
+  pages={349-366}
+}
+
+@inproceedings{Du2004SDM,
+  title={Privacy-Preserving Multivariate Statistical Analysis: Linear Regression and Classification},
+  author={Wenliang Du and Yunghsiang S. Han and Shigang Chen},
+  booktitle={SDM},
+  year={2004}
+}
+
+@inproceedings{Walsh2009UAI,
+  title={Exploring compact reinforcement-learning representations with linear regression},
+  author={Thomas J. Walsh and Istvan Szita and Carlos Diuk and Michael L. Littman},
+  booktitle={UAI},
+  year={2009}
+}
+
+@inproceedings{Dobra2002KDD,
+  title={SECRET: a scalable linear regression tree algorithm},
+  author={Alin Dobra and Johannes Gehrke},
+  booktitle={KDD},
+  year={2002}
+}
+
+@inproceedings{Chen2000INTERSPEECH,
+  title={Fast speaker adaptation using eigenspace-based maximum likelihood linear regression},
+  author={Kuan-Ting Chen and Wen-Wei Liau and Hsin-Min Wang and Lin-Shan Lee},
+  booktitle={INTERSPEECH},
+  year={2000}
+}
+
+@article{Wright2009IEEETransPatternAnalMachIntell,
+  title={Robust Face Recognition via Sparse Representation},
+  author={John Wright and Allen Y. Yang and Arvind Ganesh and Shankar S. Sastry and Yi Ma},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2009},
+  volume={31},
+  pages={210-227}
+}
+
+@article{Chang2011ACMTIST,
+  title={LIBSVM: A library for support vector machines},
+  author={Chih-Chung Chang and Chih-Jen Lin},
+  journal={ACM TIST},
+  year={2011},
+  volume={2},
+  pages={27}
+}
+
+@inproceedings{Joseph2006HPCA,
+  title={Construction and use of linear regression models for processor performance analysis},
+  author={P. J. Joseph and Kapil Vaswani and Matthew J. Thazhuthaveetil},
+  booktitle={HPCA},
+  year={2006}
+}
+
+@inproceedings{Karalic1992ECAI,
+  title={Employing Linear Regression in Regression Tree Leaves},
+  author={Aram Karalic},
+  booktitle={ECAI},
+  year={1992}
+}
+
+@inproceedings{Vovk1997NIPS,
+  title={Competitive On-line Linear Regression},
+  author={Volodya Vovk},
+  booktitle={NIPS},
+  year={1997}
+}
+
+@inproceedings{Drucker1996NIPS,
+  title={Support Vector Regression Machines},
+  author={Harris Drucker and Christopher J. C. Burges and Linda Kaufman and Alexander J. Smola and Vladimir Vapnik},
+  booktitle={NIPS},
+  year={1996}
+}
+
+@inproceedings{Meng2013STOC,
+  title={Low-distortion subspace embeddings in input-sparsity time and applications to robust linear regression},
+  author={Xiangrui Meng and Michael W. Mahoney},
+  booktitle={STOC},
+  year={2013}
+}
+
+@inproceedings{Nguyen2011AuthorAgePredictionfromTextusingLinearRegression,
+  title={Author Age Prediction from Text using Linear Regression},
+  author={Dong Nguyen and Noah A. Smith and Carolyn Penstein Rosé},
+  year={2011}
+}
+
+@inproceedings{Strehl2007NIPS,
+  title={Online Linear Regression and Its Application to Model-Based Reinforcement Learning},
+  author={Alexander L. Strehl and Michael L. Littman},
+  booktitle={NIPS},
+  year={2007}
+}
+
+@inproceedings{Witten1999MK,
+  title={Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations},
+  author={Ian H. Witten and Eibe Frank},
+  booktitle={MK},
+  year={1999}
+}
+
+@article{Siohan2002ComputerSpeechLanguage,
+  title={Structural maximum a posteriori linear regression for fast HMM adaptation},
+  author={Olivier Siohan and Tor André Myrvoll and Chin-Hui Lee},
+  journal={Computer Speech & Language},
+  year={2002},
+  volume={16},
+  pages={5-24}
+}
+
+@inproceedings{Bazrafshan2012NAACL,
+  title={Tuning as Linear Regression},
+  author={Marzieh Bazrafshan and Tagyoung Chung and Daniel Gildea},
+  booktitle={NAACL},
+  year={2012}
+}
+
+@article{Recht2010SIAMReview,
+  title={Guaranteed Minimum-Rank Solutions of Linear Matrix Equations via Nuclear Norm Minimization},
+  author={Benjamin Recht and Maryam Fazel and Pablo A. Parrilo},
+  journal={SIAM Review},
+  year={2010},
+  volume={52},
+  pages={471-501}
+}
+
+@inproceedings{Jin2010ICASSP,
+  title={Algorithms for robust linear regression by exploiting the connection to sparse signal recovery},
+  author={Yuzhe Jin and Bhaskar D. Rao},
+  booktitle={ICASSP},
+  year={2010}
+}
+
+@inproceedings{Landwehr2003ECML,
+  title={Logistic Model Trees},
+  author={Niels Landwehr and Mark A. Hall and Eibe Frank},
+  booktitle={ECML},
+  year={2003}
+}
+
+@inproceedings{Raskutti2009Minimaxratesofestimationforhighdimensionallinearregressionoverell_qballs,
+  title={Minimax rates of estimation for high-dimensional linear regression over $\ell_q$-balls},
+  author={Garvesh Raskutti and Martin J. Wainwright and Bin Yu},
+  year={2009}
+}
+
+@inproceedings{Dantone2012CVPR,
+  title={Real-time facial feature detection using conditional regression forests},
+  author={Matthias Dantone and Juergen Gall and Gabriele Fanelli and Luc J. Van Gool},
+  booktitle={CVPR},
+  year={2012}
+}
+
+@article{Mangasarian2000IEEETransPatternAnalMachIntell,
+  title={Robust Linear and Support Vector Regression},
+  author={Olvi L. Mangasarian and David R. Musicant},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2000},
+  volume={22},
+  pages={950-955}
+}
+
+@inproceedings{Vijayakumar2001LocallyWeightedProjectionRegressionanOnAlgorithmforIncrementalRealTimeLearninginHighDimensionalSpace,
+  title={Locally Weighted Projection Regression : an O(n) Algorithm for Incremental Real Time Learning in High Dimensional Space},
+  author={Sethu Vijayakumar and Stefan Schaal},
+  year={2001}
+}
+
+@article{Candela2005JournalofMachineLearningResearch,
+  title={A Unifying View of Sparse Approximate Gaussian Process Regression},
+  author={Joaquin Quiñonero Candela and Carl Edward Rasmussen},
+  journal={Journal of Machine Learning Research},
+  year={2005},
+  volume={6},
+  pages={1939-1959}
+}
+
+@inproceedings{Goel2013TheKaldiSpeechRecognitionToolkit,
+  title={The Kaldi Speech Recognition Toolkit},
+  author={Daniel Povey and Arnab Ghoshal and Petr Motlíček and Jan Silovsk´y and Karel Vesel´y and Ondřej Glembek and Lukáš Burget and Georg Stemmer and Yanmin Qian and Nagendra Goel and Gilles Boulianne and Mirko Hannemann and Petr Schwarz},
+  year={2013}
+}
+
+@inproceedings{Tappen2006CVPR,
+  title={Estimating Intrinsic Component Images using Non-Linear Regression},
+  author={Marshall F. Tappen and Edward H. Adelson and William T. Freeman},
+  booktitle={CVPR},
+  year={2006}
+}
+
+@inproceedings{Guestrin2004IPSN,
+  title={Distributed regression: an efficient framework for modeling sensor network data},
+  author={Carlos Guestrin and Peter Bodík and Romain Thibaux and Mark A. Paskin and Samuel Madden},
+  booktitle={IPSN},
+  year={2004}
+}
+
+@inproceedings{Meyer2011ICML,
+  title={Linear Regression under Fixed-Rank Constraints: A Riemannian Approach},
+  author={Gilles Meyer and Silvere Bonnabel and Rodolphe Sepulchre},
+  booktitle={ICML},
+  year={2011}
+}
+
+@inproceedings{Dollr2010CVPR,
+  title={Cascaded pose regression},
+  author={Piotr Dollár and Peter Welinder and Pietro Perona},
+  booktitle={CVPR},
+  year={2010}
+}
+
+@article{Bastien2005ComputationalStatisticsDataAnalysis,
+  title={PLS generalised linear regression},
+  author={Philippe Bastien and Vincenzo Esposito Vinzi and Michel Tenenhaus},
+  journal={Computational Statistics & Data Analysis},
+  year={2005},
+  volume={48},
+  pages={17-46}
+}
+
+@article{Neumann2000ComputGraphForum,
+  title={Gradient Estimation in Volume Data using 4D Linear Regression},
+  author={László Neumann and Balázs Csébfalvi and Andreas König and Eduard Gröller},
+  journal={Comput. Graph. Forum},
+  year={2000},
+  volume={19},
+  pages={351-358}
+}
+
+@inproceedings{Papineni2002ACL,
+  title={Bleu: a Method for Automatic Evaluation of Machine Translation},
+  author={Kishore Papineni and Salim Roukos and Todd Ward and Wei-Jing Zhu},
+  booktitle={ACL},
+  year={2002}
+}
+
+@inproceedings{Vogel2007KDD,
+  title={Scalable look-ahead linear regression trees},
+  author={David S. Vogel and Ognian Asparouhov and Tobias Scheffer},
+  booktitle={KDD},
+  year={2007}
+}
+
+@article{Huang2003Bioinformatics,
+  title={Linear regression and two-class classification with gene expression data},
+  author={Xiaohong Huang and Wei Pan},
+  journal={Bioinformatics},
+  year={2003},
+  volume={19},
+  pages={2072-2078}
+}
+
+@article{Chu2005JournalofMachineLearningResearch,
+  title={Gaussian Processes for Ordinal Regression},
+  author={Wei Chu and Zoubin Ghahramani},
+  journal={Journal of Machine Learning Research},
+  year={2005},
+  volume={6},
+  pages={1019-1041}
+}
+
+@inproceedings{Rahimi2007NIPS,
+  title={Random Features for Large-Scale Kernel Machines},
+  author={Ali Rahimi and Benjamin Recht},
+  booktitle={NIPS},
+  year={2007}
+}
+
+@inproceedings{Lin2007ICML,
+  title={Trust region Newton methods for large-scale logistic regression},
+  author={Chih-Jen Lin and Ruby C. Weng and S. Sathiya Keerthi},
+  booktitle={ICML},
+  year={2007}
+}
+
+@inproceedings{Agarwal2004CVPR,
+  title={3D Human Pose from Silhouettes by Relevance Vector Regression},
+  author={Ankur Agarwal and Bill Triggs},
+  booktitle={CVPR},
+  year={2004}
+}
+
+@inproceedings{Chu2006NIPS,
+  title={Map-Reduce for Machine Learning on Multicore},
+  author={Cheng-Tao Chu and Sang Kyun Kim and Yi-An Lin and YuanYuan Yu and Gary R. Bradski and Andrew Y. Ng and Kunle Olukotun},
+  booktitle={NIPS},
+  year={2006}
+}
+
+@inproceedings{Kim2010JMLR,
+  title={Fast Active-set-type Algorithms for L1-regularized Linear Regression},
+  author={Jingu Kim and Haesun Park},
+  booktitle={JMLR},
+  year={2010}
+}
+
+@inproceedings{Hazan2012ICML,
+  title={Linear Regression with Limited Observation},
+  author={Elad Hazan and Tomer Koren},
+  booktitle={ICML},
+  year={2012}
+}
+
+@article{Hall2009SIGKDDExplorations,
+  title={The WEKA data mining software: an update},
+  author={Mark A. Hall and Eibe Frank and Geoffrey Holmes and Bernhard Pfahringer and Peter Reutemann and Ian H. Witten},
+  journal={SIGKDD Explorations},
+  year={2009},
+  volume={11},
+  pages={10-18}
+}
+
+@inproceedings{Gunawardana2001INTERSPEECH,
+  title={Discriminative speaker adaptation with conditional maximum likelihood linear regression},
+  author={Asela Gunawardana and William Byrne},
+  booktitle={INTERSPEECH},
+  year={2001}
+}
+
+@inproceedings{Lu2011ICCV,
+  title={Inferring human gaze from appearance via adaptive linear regression},
+  author={Feng Lu and Yusuke Sugano and Takahiro Okabe and Yoichi Sato},
+  booktitle={ICCV},
+  year={2011}
+}
+
+@article{Lu2012MathProgram,
+  title={Convex optimization methods for dimension reduction and coefficient estimation in multivariate linear regression},
+  author={Zhaosong Lu and Renato D. C. Monteiro and Ming Yuan},
+  journal={Math. Program.},
+  year={2012},
+  volume={131},
+  pages={163-194}
+}
+
+@inproceedings{Blei2007NIPS,
+  title={Supervised Topic Models},
+  author={David M. Blei and Jon D. McAuliffe},
+  booktitle={NIPS},
+  year={2007}
+}
+
+@inproceedings{FerrariTrecate2002ICANN,
+  title={A New Learning Method for Piecewise Linear Regression},
+  author={Giancarlo Ferrari-Trecate and Marco Muselli},
+  booktitle={ICANN},
+  year={2002}
+}
+
+@inproceedings{Xiong2013CVPR,
+  title={Supervised Descent Method and Its Applications to Face Alignment},
+  author={Xuehan Xiong and Fernando De la Torre},
+  booktitle={CVPR},
+  year={2013}
+}
+
+@inproceedings{Hatzivassiloglou1997ACL,
+  title={Predicting the Semantic Orientation of Adjectives},
+  author={Vasileios Hatzivassiloglou and Kathleen McKeown},
+  booktitle={ACL},
+  year={1997}
+}
+
+@inproceedings{Koh2007AnInteriorpointMethodforLargescale1regularizedLogisticRegression,
+  title={An Interior-point Method for Large-scale 1 -regularized Logistic Regression},
+  author={Kwangmoo Koh and Seung-Jean Kim and Stephen Boyd and Yi Lin},
+  year={2007}
+}
+
+@inproceedings{Gaffney1999KDD,
+  title={Trajectory Clustering with Mixtures of Regression Models},
+  author={Scott Gaffney and Padhraic Smyth},
+  booktitle={KDD},
+  year={1999}
+}
+
+@inproceedings{Cristinacce2007BMVC,
+  title={Boosted Regression Active Shape Models},
+  author={David Cristinacce and Timothy F. Cootes},
+  booktitle={BMVC},
+  year={2007}
+}
+
+@article{Gales1998ComputerSpeechLanguage,
+  title={Maximum likelihood linear transformations for HMM-based speech recognition},
+  author={M. J. F. Gales},
+  journal={Computer Speech & Language},
+  year={1998},
+  volume={12},
+  pages={75-98}
+}
+
+@inproceedings{He2003ICASSP,
+  title={Minimum classification error linear regression for acoustic model adaptation of continuous density HMMs},
+  author={Xiaodong He and Wu Chou},
+  booktitle={ICASSP},
+  year={2003}
+}
+
+@inproceedings{Ren2014CVPR,
+  title={Face Alignment at 3000 FPS via Regressing Local Binary Features},
+  author={Shaoqing Ren and Xudong Cao and Yichen Wei and Jian Sun},
+  booktitle={CVPR},
+  year={2014}
+}
+
+@inproceedings{Ye2007ICML,
+  title={Least squares linear discriminant analysis},
+  author={Jieping Ye},
+  booktitle={ICML},
+  year={2007}
+}
+
+@article{Tipping2001JournalofMachineLearningResearch,
+  title={Sparse Bayesian Learning and the Relevance Vector Machine},
+  author={Michael E. Tipping},
+  journal={Journal of Machine Learning Research},
+  year={2001},
+  volume={1},
+  pages={211-244}
+}
+
+@inproceedings{Cai2007ICCV,
+  title={Spectral Regression for Efficient Regularized Subspace Learning},
+  author={Deng Cai and Xiaofei He and Jiawei Han},
+  booktitle={ICCV},
+  year={2007}
+}
+
+@article{Frnay2011Neurocomputing,
+  title={Parameter-insensitive kernel in extreme learning for non-linear support vector regression},
+  author={Benoît Frénay and Michel Verleysen},
+  journal={Neurocomputing},
+  year={2011},
+  volume={74},
+  pages={2526-2531}
+}
+
+@article{Agarwal2006IEEETransPatternAnalMachIntell,
+  title={Recovering 3D Human Pose from Monocular Images},
+  author={Ankur Agarwal and Bill Triggs},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2006},
+  volume={28},
+  pages={44-58}
+}
+
+@article{Rosipal2001JournalofMachineLearningResearch,
+  title={Kernel Partial Least Squares Regression in Reproducing Kernel Hilbert Space},
+  author={Roman Rosipal and Leonard J. Trejo},
+  journal={Journal of Machine Learning Research},
+  year={2001},
+  volume={2},
+  pages={97-123}
+}
+
+@inproceedings{Dempster2007MaximumLikelihoodfromIncompleteDataviatheEmAlgorithmMaximumLikelihoodfromIncompleteDataviatheEmAlgorithm,
+  title={Maximum Likelihood from Incomplete Data via the Em Algorithm Maximum Likelihood from Incomplete Data via the Em Algorithm},
+  author={A P. Dempster and N M. Laird and D B. Rubin and D B. Rdin},
+  year={2007}
+}
+
+@article{Krishnapuram2005IEEETransPatternAnalMachIntell,
+  title={Sparse Multinomial Logistic Regression: Fast Algorithms and Generalization Bounds},
+  author={Balaji Krishnapuram and Lawrence Carin and Mário A. T. Figueiredo and Alexander J. Hartemink},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={2005},
+  volume={27},
+  pages={957-968}
+}
+
+@inproceedings{Mimno2008UAI,
+  title={Topic Models Conditioned on Arbitrary Features with Dirichlet-multinomial Regression},
+  author={David M. Mimno and Andrew McCallum},
+  booktitle={UAI},
+  year={2008}
+}
+
+@article{Zhou2003Bioinformatics,
+  title={Missing-value estimation using linear and non-linear regression with Bayesian gene selection},
+  author={Xiaobo Zhou and Xiaodong Wang and Edward R. Dougherty},
+  journal={Bioinformatics},
+  year={2003},
+  volume={19},
+  pages={2302-2307}
+}
+
+@inproceedings{Clarkson2013SODA,
+  title={The Fast Cauchy Transform and Faster Robust Linear Regression},
+  author={Kenneth L. Clarkson and Petros Drineas and Malik Magdon-Ismail and Michael W. Mahoney and Xiangrui Meng and David P. Woodruff},
+  booktitle={SODA},
+  year={2013}
+}
+
+@article{Ho2012JournalofMachineLearningResearch,
+  title={Large-scale linear support vector regression},
+  author={Chia-Hua Ho and Chih-Jen Lin},
+  journal={Journal of Machine Learning Research},
+  year={2012},
+  volume={13},
+  pages={3323-3348}
+}
+
+@inproceedings{Carreira2010CVPR,
+  title={Constrained parametric min-cuts for automatic object segmentation},
+  author={João Carreira and Cristian Sminchisescu},
+  booktitle={CVPR},
+  year={2010}
+}
+
+@inproceedings{Chaganty2013ICML,
+  title={Spectral Experts for Estimating Mixtures of Linear Regressions},
+  author={Arun Tejasvi Chaganty and Percy Liang},
+  booktitle={ICML},
+  year={2013}
+}
+
+@article{Vijayakumar2005NeuralComputation,
+  title={Incremental Online Learning in High Dimensions},
+  author={Sethu Vijayakumar and Aaron DSouza and Stefan Schaal},
+  journal={Neural Computation},
+  year={2005},
+  volume={17},
+  pages={2602-2634}
+}
+
+@inproceedings{Chotimongkol2001INTERSPEECH,
+  title={N-best speech hypotheses reordering using linear regression},
+  author={Ananlada Chotimongkol and Alexander I. Rudnicky},
+  booktitle={INTERSPEECH},
+  year={2001}
+}
+
+@article{Rothermel1997ACMTransSoftwEngMethodol,
+  title={A Safe, Efficient Regression Test Selection Technique},
+  author={Gregg Rothermel and Mary Jean Harrold},
+  journal={ACM Trans. Softw. Eng. Methodol.},
+  year={1997},
+  volume={6},
+  pages={173-210}
+}
+
+@inproceedings{Torgo2000ECML,
+  title={Clustered Partial Linear Regression},
+  author={Luís Torgo and Joaquim Pinto da Costa},
+  booktitle={ECML},
+  year={2000}
+}
+
+@article{Breiman1996MachineLearning,
+  title={Stacked Regressions},
+  author={Leo Breiman},
+  journal={Machine Learning},
+  year={1996},
+  volume={24},
+  pages={49-64}
+}
+
+@inproceedings{Sarwar2001WWW,
+  title={Item-based collaborative filtering recommendation algorithms},
+  author={Badrul M. Sarwar and George Karypis and Joseph A. Konstan and John Riedl},
+  booktitle={WWW},
+  year={2001}
+}
+
+@inproceedings{Yang2014ICML,
+  title={Elementary Estimators for High-Dimensional Linear Regression},
+  author={Eunho Yang and Aurelie C. Lozano and Pradeep D. Ravikumar},
+  booktitle={ICML},
+  year={2014}
+}
+
+@inproceedings{Maillard2009NIPS,
+  title={Compressed Least-Squares Regression},
+  author={Odalric-Ambrym Maillard and Rémi Munos},
+  booktitle={NIPS},
+  year={2009}
+}
+
+@article{Cherkassky2004NeuralNetworks,
+  title={Practical selection of SVM parameters and noise estimation for SVM regression},
+  author={Vladimir Cherkassky and Yunqian Ma},
+  journal={Neural Networks},
+  year={2004},
+  volume={17},
+  pages={113-126}
+}
+
+@article{ztireli2009ComputGraphForum,
+  title={Feature Preserving Point Set Surfaces based on Non-Linear Kernel Regression},
+  author={A. Cengiz Öztireli and Gaël Guennebaud and Markus H. Gross},
+  journal={Comput. Graph. Forum},
+  year={2009},
+  volume={28},
+  pages={493-501}
+}
+
+@inproceedings{Goetschalckx2008ICDM,
+  title={Cost-Sensitive Parsimonious Linear Regression},
+  author={Robby Goetschalckx and Kurt Driessens and Scott Sanner},
+  booktitle={ICDM},
+  year={2008}
+}
+
+@inproceedings{Whitehouse2002MOBICOM,
+  title={Calibration as parameter estimation in sensor networks},
+  author={Kamin Whitehouse and David E. Culler},
+  booktitle={MOBICOM},
+  year={2002}
+}
+
+@inproceedings{Clarkson2009STOC,
+  title={Numerical linear algebra in the streaming model},
+  author={Kenneth L. Clarkson and David P. Woodruff},
+  booktitle={STOC},
+  year={2009}
+}
+
+@article{Sugiyama2006JournalofMachineLearningResearch,
+  title={Active Learning in Approximately Linear Regression Based on Conditional Expectation of Generalization Error},
+  author={Masashi Sugiyama},
+  journal={Journal of Machine Learning Research},
+  year={2006},
+  volume={7},
+  pages={141-166}
+}
+
+@inproceedings{Ray2001ICML,
+  title={Multiple Instance Regression},
+  author={Soumya Ray and David Page},
+  booktitle={ICML},
+  year={2001}
+}
+
+@article{Zhang2012CoRR,
+  title={Functional Mechanism: Regression Analysis under Differential Privacy},
+  author={Jun Zhang and Zhenjie Zhang and Xiaokui Xiao and Yin Yang and Marianne Winslett},
+  journal={CoRR},
+  year={2012},
+  volume={abs/1208.0219}
+}
+
+@article{Guyon2003JournalofMachineLearningResearch,
+  title={An Introduction to Variable and Feature Selection},
+  author={Isabelle Guyon and André Elisseeff},
+  journal={Journal of Machine Learning Research},
+  year={2003},
+  volume={3},
+  pages={1157-1182}
+}
+
+@inproceedings{Yi2014ICML,
+  title={Alternating Minimization for Mixed Linear Regression},
+  author={Xinyang Yi and Constantine Caramanis and Sujay Sanghavi},
+  booktitle={ICML},
+  year={2014}
+}
+
+@inproceedings{Chaudhuri2008NIPS,
+  title={Privacy-preserving logistic regression},
+  author={Kamalika Chaudhuri and Claire Monteleoni},
+  booktitle={NIPS},
+  year={2008}
+}
+
+@article{Tropp2006IEEETransactionsonInformationTheory,
+  title={Just relax: convex programming methods for identifying sparse signals in noise},
+  author={Joel A. Tropp},
+  journal={IEEE Transactions on Information Theory},
+  year={2006},
+  volume={52},
+  pages={1030-1051}
+}
+
+@article{Mangasarian2002MachineLearning,
+  title={Large Scale Kernel Regression via Linear Programming},
+  author={Olvi L. Mangasarian and David R. Musicant},
+  journal={Machine Learning},
+  year={2002},
+  volume={46},
+  pages={255-269}
+}
+
+@article{Chien2002IEEETransactionsonSpeechandAudioProcessing,
+  title={Quasi-Bayes linear regression for sequential learning of hidden Markov models},
+  author={Jen-Tzung Chien},
+  journal={IEEE Transactions on Speech and Audio Processing},
+  year={2002},
+  volume={10},
+  pages={268-278}
+}
+
+@article{Grefenstette2013CoRR,
+  title={Multi-Step Regression Learning for Compositional Distributional Semantics},
+  author={Edward Grefenstette and Georgiana Dinu and Yao-Zhong Zhang and Mehrnoosh Sadrzadeh and Marco Baroni},
+  journal={CoRR},
+  year={2013},
+  volume={abs/1301.6939}
+}
+
+@inproceedings{Vapnik1996NIPS,
+  title={Support Vector Method for Function Approximation, Regression Estimation and Signal Processing},
+  author={Vladimir Vapnik and Steven E. Golowich and Alexander J. Smola},
+  booktitle={NIPS},
+  year={1996}
+}
+
+@inproceedings{Chu2005ICML,
+  title={New approaches to support vector ordinal regression},
+  author={Wei Chu and S. Sathiya Keerthi},
+  booktitle={ICML},
+  year={2005}
+}
+
+@article{Collobert2001JournalofMachineLearningResearch,
+  title={SVMTorch: Support Vector Machines for Large-Scale Regression Problems},
+  author={Ronan Collobert and Samy Bengio},
+  journal={Journal of Machine Learning Research},
+  year={2001},
+  volume={1},
+  pages={143-160}
+}
+
+@inproceedings{Schmidt2009AUSAI,
+  title={MML Invariant Linear Regression},
+  author={Daniel Francis Schmidt and Enes Makalic},
+  booktitle={AUSAI},
+  year={2009}
+}
+
+@inproceedings{Williams1995NIPS,
+  title={Gaussian Processes for Regression},
+  author={Christopher K. I. Williams and Carl Edward Rasmussen},
+  booktitle={NIPS},
+  year={1995}
+}
+
+@article{Oliva2001InternationalJournalofComputerVision,
+  title={Modeling the Shape of the Scene: A Holistic Representation of the Spatial Envelope},
+  author={Aude Oliva and Antonio Torralba},
+  journal={International Journal of Computer Vision},
+  year={2001},
+  volume={42},
+  pages={145-175}
+}
+
+@article{Rockafellar2008MathOperRes,
+  title={Risk Tuning with Generalized Linear Regression},
+  author={R. Tyrrell Rockafellar and Stan Uryasev and Michael Zabarankin},
+  journal={Math. Oper. Res.},
+  year={2008},
+  volume={33},
+  pages={712-729}
+}
+
+@article{Tropp2010ProceedingsoftheIEEE,
+  title={Computational Methods for Sparse Solution of Linear Inverse Problems},
+  author={Joel A. Tropp and Stephen J. Wright},
+  journal={Proceedings of the IEEE},
+  year={2010},
+  volume={98},
+  pages={948-958}
+}
+
+@inproceedings{Kaban2014AISTATS,
+  title={New Bounds on Compressive Linear Least Squares Regression},
+  author={Ata Kaban},
+  booktitle={AISTATS},
+  year={2014}
+}
+
+@inproceedings{Collins2000COLT,
+  title={Logistic Regression, AdaBoost and Bregman Distances},
+  author={Michael Collins and Robert E. Schapire and Yoram Singer},
+  booktitle={COLT},
+  year={2000}
+}
+
+@inproceedings{Sarls2006FOCS,
+  title={Improved Approximation Algorithms for Large Matrices via Random Projections},
+  author={Tamás Sarlós},
+  booktitle={FOCS},
+  year={2006}
+}
+
+@inproceedings{Lee2006ASPLOS,
+  title={Accurate and efficient regression modeling for microarchitectural performance and power prediction},
+  author={Benjamin C. Lee and David M. Brooks},
+  booktitle={ASPLOS},
+  year={2006}
+}
+
+@inproceedings{Hannah2010JMLR,
+  title={Dirichlet Process Mixtures of Generalized Linear Models},
+  author={Lauren Hannah and David M. Blei and Warren B. Powell},
+  booktitle={JMLR},
+  year={2010}
+}
+
+@article{Ferraro2010IntJApproxReasoning,
+  title={A linear regression model for imprecise response},
+  author={Maria Brigida Ferraro and Renato Coppi and G. González Rodríguez and Ana Colubi},
+  journal={Int. J. Approx. Reasoning},
+  year={2010},
+  volume={51},
+  pages={759-770}
+}
+
+@article{Plan2013CoRR,
+  title={Robust 1-bit compressed sensing and sparse logistic regression: A convex programming approach},
+  author={Yaniv Plan and Roman Vershynin},
+  journal={CoRR},
+  year={2013},
+  volume={abs/1202.1212}
+}
+
+@article{Li2010JCIT,
+  title={An Improved Instance Weighted Linear Regression},
+  author={Chaoqun Li and Hongwei Li},
+  journal={JCIT},
+  year={2010},
+  volume={5},
+  pages={122-128}
+}
+
+@inproceedings{Xu2004PAKDD,
+  title={Logistic Regression and Boosting for Labeled Bags of Instances},
+  author={Xin Xu and Eibe Frank},
+  booktitle={PAKDD},
+  year={2004}
+}
+
+@inproceedings{Kersting2007ICML,
+  title={Most likely heteroscedastic Gaussian process regression},
+  author={Kristian Kersting and Christian Plagemann and Patrick Pfaff and Wolfram Burgard},
+  booktitle={ICML},
+  year={2007}
+}
+
+@inproceedings{Gerchinovitz2011JMLR,
+  title={Sparsity Regret Bounds for Individual Sequences in Online Linear Regression},
+  author={Sébastien Gerchinovitz},
+  booktitle={JMLR},
+  year={2011}
+}
+
+@inproceedings{Liu2010PCS,
+  title={Image interpolation via regularized local linear regression},
+  author={Xianming Liu and Debin Zhao and Ruiqin Xiong and Siwei Ma and Wen Gao},
+  booktitle={PCS},
+  year={2010}
+}
+
+@inproceedings{Jaakkola1999AISTATS,
+  title={Probabilistic kernel regression models},
+  author={Tommi S. Jaakkola and David Haussler},
+  booktitle={AISTATS},
+  year={1999}
+}
+
+@inproceedings{Kim2010ICML,
+  title={Tree-Guided Group Lasso for Multi-Task Regression with Structured Sparsity},
+  author={Seyoung Kim and Eric P. Xing},
+  booktitle={ICML},
+  year={2010}
+}
+
+@article{Salimans2012CoRR,
+  title={Fixed-Form Variational Posterior Approximation through Stochastic Linear Regression},
+  author={Tim Salimans and David A. Knowles},
+  journal={CoRR},
+  year={2012},
+  volume={abs/1206.6679}
+}
+
+@inproceedings{Hsieh2008ICML,
+  title={A dual coordinate descent method for large-scale linear SVM},
+  author={Cho-Jui Hsieh and Kai-Wei Chang and Chih-Jen Lin and S. Sathiya Keerthi and S. Sundararajan},
+  booktitle={ICML},
+  year={2008}
+}
+
+@inproceedings{Boutsidis2011NIPS,
+  title={Sparse Features for PCA-Like Linear Regression},
+  author={Christos Boutsidis and Petros Drineas and Malik Magdon-Ismail},
+  booktitle={NIPS},
+  year={2011}
+}
+
+@inproceedings{Zhou2007IPMI,
+  title={Shape Regression Machine},
+  author={Shaohua Kevin Zhou and Dorin Comaniciu},
+  booktitle={IPMI},
+  year={2007}
+}
+
+@inproceedings{Cootes2012ECCV,
+  title={Robust and Accurate Shape Model Fitting Using Random Forest Regression Voting},
+  author={Timothy F. Cootes and Mircea C. Ionita and Claudia Lindner and Patrick Sauer},
+  booktitle={ECCV},
+  year={2012}
+}
+
+@article{DUrso2006ComputationalStatisticsDataAnalysis,
+  title={Fuzzy clusterwise linear regression analysis with symmetrical fuzzy output variable},
+  author={Pierpaolo DUrso and Adriana Santoro},
+  journal={Computational Statistics & Data Analysis},
+  year={2006},
+  volume={51},
+  pages={287-313}
+}
+
+@article{Wiesel2008IEEETransactionsonSignalProcessing,
+  title={Linear Regression With Gaussian Model Uncertainty: Algorithms and Bounds},
+  author={Ami Wiesel and Yonina C. Eldar and Arie Yeredor},
+  journal={IEEE Transactions on Signal Processing},
+  year={2008},
+  volume={56},
+  pages={2194-2205}
+}
+
+@inproceedings{Lawrence2009ICML,
+  title={Non-linear matrix factorization with Gaussian processes},
+  author={Neil D. Lawrence and Raquel Urtasun},
+  booktitle={ICML},
+  year={2009}
+}
+
+@article{DUrso2003ComputationalStatisticsDataAnalysis,
+  title={Linear regression analysis for fuzzy/crisp input and fuzzy/crisp output data},
+  author={Pierpaolo DUrso},
+  journal={Computational Statistics & Data Analysis},
+  year={2003},
+  volume={42},
+  pages={47-72}
+}
+
+@article{Atkeson1997ArtifIntellRev,
+  title={Locally Weighted Learning},
+  author={Christopher G. Atkeson and Andrew W. Moore and Stefan Schaal},
+  journal={Artif. Intell. Rev.},
+  year={1997},
+  volume={11},
+  pages={11-73}
+}
+
+@inproceedings{Davis2007ICCV,
+  title={Population Shape Regression From Random Design Data},
+  author={Bradley C. Davis and P. Thomas Fletcher and Elizabeth Bullitt and Sarang C. Joshi},
+  booktitle={ICCV},
+  year={2007}
+}
+
+@article{Shannon2002JClassification,
+  title={Tree-Based Models for Fiting Stratified Linear Regression Models},
+  author={William D. Shannon and Maciej Faifer and Michael A. Province and D. C. Rao},
+  journal={J. Classification},
+  year={2002},
+  volume={19},
+  pages={113-130}
+}
+
+@inproceedings{Elbaum2000ISSTA,
+  title={Prioritizing test cases for regression testing},
+  author={Sebastian G. Elbaum and Alexey G. Malishevsky and Gregg Rothermel},
+  booktitle={ISSTA},
+  year={2000}
+}
+
+@article{Chu2007NeuralComputation,
+  title={Support Vector Ordinal Regression},
+  author={Wei Chu and S. Sathiya Keerthi},
+  journal={Neural Computation},
+  year={2007},
+  volume={19},
+  pages={792-815}
+}
+
+@article{Gupta2008IEEETransactionsonImageProcessing,
+  title={Adaptive Local Linear Regression With Application to Printer Color Management},
+  author={Maya R. Gupta and Eric K. Garcia and E. Chin},
+  journal={IEEE Transactions on Image Processing},
+  year={2008},
+  volume={17},
+  pages={936-945}
+}
+
+@inproceedings{Asur2010WEBI,
+  title={Predicting the Future with Social Media},
+  author={Sitaram Asur and Bernardo A. Huberman},
+  booktitle={WEBI},
+  year={2010}
+}
+
+@inproceedings{Marti2004SENSYS,
+  title={The flooding time synchronization protocol},
+  author={Miklós Maróti and Branislav Kusy and Gyula Simon and Ákos Lédeczi},
+  booktitle={SENSYS},
+  year={2004}
+}
+
+@article{Yang2003FuzzySetsandSystems,
+  title={Fuzzy least-squares algorithms for interactive fuzzy linear regression models},
+  author={Miin-Shen Yang and Hsien-Hsiung Liu},
+  journal={Fuzzy Sets and Systems},
+  year={2003},
+  volume={135},
+  pages={305-316}
+}
+
+@article{Li2007IEEETransSoftwareEng,
+  title={Search Algorithms for Regression Test Case Prioritization},
+  author={Zheng Li and Mark Harman and Robert M. Hierons},
+  journal={IEEE Trans. Software Eng.},
+  year={2007},
+  volume={33},
+  pages={225-237}
+}
+
+@article{Ari2002KnowlBasedSyst,
+  title={Clustered linear regression},
+  author={Bertan Ari and H. Altay Güvenir},
+  journal={Knowl.-Based Syst.},
+  year={2002},
+  volume={15},
+  pages={169-175}
+}
+
+@inproceedings{Yamada2010AAAI,
+  title={Dependence Minimizing Regression with Model Selection for Non-Linear Causal Inference under Non-Gaussian Noise},
+  author={Makoto Yamada and Masashi Sugiyama},
+  booktitle={AAAI},
+  year={2010}
+}
+
+@inproceedings{Zhu2009ICML,
+  title={MedLDA: maximum margin supervised topic models for regression and classification},
+  author={Jun Zhu and Amr Ahmed and Eric P. Xing},
+  booktitle={ICML},
+  year={2009}
+}
+
+@inproceedings{Chai2006FGR,
+  title={Local Linear Regression (LLR) for Pose Invariant Face Recognition},
+  author={Xiujuan Chai and Shiguang Shan and Xilin Chen and Wen Gao},
+  booktitle={FGR},
+  year={2006}
+}
+
+@inproceedings{Bourdev2009ICCV,
+  title={Poselets: Body part detectors trained using 3D human pose annotations},
+  author={Lubomir D. Bourdev and Jitendra Malik},
+  booktitle={ICCV},
+  year={2009}
+}
+
+@inproceedings{Lee2003ICML,
+  title={Learning with Positive and Unlabeled Examples Using Weighted Logistic Regression},
+  author={Wee Sun Lee and Bing Liu},
+  booktitle={ICML},
+  year={2003}
+}
+
+@inproceedings{Pang2005ACL,
+  title={Seeing Stars: Exploiting Class Relationships for Sentiment Categorization with Respect to Rating Scales},
+  author={Bo Pang and Lillian Lee},
+  booktitle={ACL},
+  year={2005}
+}
+
+@article{Guo2008IEEETransactionsonImageProcessing,
+  title={Image-Based Human Age Estimation by Manifold Learning and Locally Adjusted Robust Regression},
+  author={Guodong Guo and Yun Fu and Charles R. Dyer and Thomas S. Huang},
+  journal={IEEE Transactions on Image Processing},
+  year={2008},
+  volume={17},
+  pages={1178-1188}
+}
+
+@inproceedings{Chan2009ICCV,
+  title={Bayesian Poisson regression for crowd counting},
+  author={Antoni B. Chan and Nuno Vasconcelos},
+  booktitle={ICCV},
+  year={2009}
+}
+
+@inproceedings{Kivinen1997NIPS,
+  title={Relative Loss Bounds for Multidimensional Regression Problems},
+  author={Jyrki Kivinen and Manfred K. Warmuth},
+  booktitle={NIPS},
+  year={1997}
+}
+
+@article{Demiriz2002MachineLearning,
+  title={Linear Programming Boosting via Column Generation},
+  author={Ayhan Demiriz and Kristin P. Bennett and John Shawe-Taylor},
+  journal={Machine Learning},
+  year={2002},
+  volume={46},
+  pages={225-254}
+}
+
+@inproceedings{Valstar2010CVPR,
+  title={Facial point detection using boosted regression and graph models},
+  author={Michel François Valstar and Brais Martínez and Xavier Binefa and Maja Pantic},
+  booktitle={CVPR},
+  year={2010}
+}
+
+@article{Simonyan2014CoRR,
+  title={Very Deep Convolutional Networks for Large-Scale Image Recognition},
+  author={Karen Simonyan and Andrew Zisserman},
+  journal={CoRR},
+  year={2014},
+  volume={abs/1409.1556}
+}
+
+@inproceedings{Li2010NIPS,
+  title={Object Bank: A High-Level Image Representation for Scene Classification & Semantic Feature Sparsification},
+  author={Li-Jia Li and Hao Su and Eric P. Xing and Li Fei-Fei},
+  booktitle={NIPS},
+  year={2010}
+}
+
+@inproceedings{Xue2011ICIP,
+  title={Foreground estimation based on robust linear regression model},
+  author={Gengjian Xue and Li Song and Jun Sun and Meng Wu},
+  booktitle={ICIP},
+  year={2011}
+}
+
+@inproceedings{Weinberger2007JMLR,
+  title={Metric Learning for Kernel Regression},
+  author={Kilian Q. Weinberger and Gerald Tesauro},
+  booktitle={JMLR},
+  year={2007}
+}
+
+@inproceedings{Zhao2003EfficientOptimizationForBilingualSentenceAlignmentBasedOnLinearRegression,
+  title={Efficient Optimization For Bilingual Sentence Alignment Based On Linear Regression},
+  author={Bing Zhao and Klaus Zechner and Stephan Vogel and Alex Waibel},
+  year={2003}
+}
+
+@inproceedings{Mikolov2013NIPS,
+  title={Distributed Representations of Words and Phrases and their Compositionality},
+  author={Tomas Mikolov and Ilya Sutskever and Kai Chen and Gregory S. Corrado and Jeffrey Dean},
+  booktitle={NIPS},
+  year={2013}
+}
+
+@inproceedings{Sauer2011BMVC,
+  title={Accurate Regression Procedures for Active Appearance Models},
+  author={Patrick Sauer and Timothy F. Cootes and Christopher J. Taylor},
+  booktitle={BMVC},
+  year={2011}
+}
+
+@inproceedings{Cortes2009NIPS,
+  title={Learning Non-Linear Combinations of Kernels},
+  author={Corinna Cortes and Mehryar Mohri and Afshin Rostamizadeh},
+  booktitle={NIPS},
+  year={2009}
+}
+
+@inproceedings{Torgo1997ICML,
+  title={Functional Models for Regression Tree Leaves},
+  author={Luís Torgo},
+  booktitle={ICML},
+  year={1997}
+}
+
+@inproceedings{Zeng2004SIGIR,
+  title={Learning to cluster web search results},
+  author={Hua-Jun Zeng and Qi-Cai He and Zheng Chen and Wei-Ying Ma and Jinwen Ma},
+  booktitle={SIGIR},
+  year={2004}
+}
+
+@article{Zhao2013CoRR,
+  title={Higher-Order Partial Least Squares (HOPLS): A Generalized Multi-Linear Regression Method},
+  author={Qibin Zhao and Cesar F. Caiafa and Danilo P. Mandic and Zenas C. Chao and Yasuo Nagasaka and Naotaka Fujii and Liqing Zhang and Andrzej Cichocki},
+  journal={CoRR},
+  year={2013},
+  volume={abs/1207.1230}
+}
+
+@inproceedings{Criminisi2010MICCAI,
+  title={Regression Forests for Efficient Anatomy Detection and Localization in CT Studies},
+  author={Antonio Criminisi and Jamie Shotton and Duncan P. Robertson and Ender Konukoglu},
+  booktitle={MICCAI},
+  year={2010}
+}
+
+@inproceedings{Rwebangira2009LocalLinearSemisupervisedRegression,
+  title={Local Linear Semi-supervised Regression},
+  author={Mugizi Robert Rwebangira and John Lafferty},
+  year={2009}
+}
+
+@article{Sugiyama2009MachineLearning,
+  title={Pool-based active learning in approximate linear regression},
+  author={Masashi Sugiyama and Shinichi Nakajima},
+  journal={Machine Learning},
+  year={2009},
+  volume={75},
+  pages={249-274}
+}
+
+@inproceedings{Dredze2008ICML,
+  title={Confidence-weighted linear classification},
+  author={Mark Dredze and Koby Crammer and Fernando Pereira},
+  booktitle={ICML},
+  year={2008}
+}
+
+@inproceedings{Merz1996NIPS,
+  title={Combining Neural Network Regression Estimates with Regularized Linear Weights},
+  author={Christopher J. Merz and Michael J. Pazzani},
+  booktitle={NIPS},
+  year={1996}
+}
+
+@article{Schein2007MachineLearning,
+  title={Active learning for logistic regression: an evaluation},
+  author={Andrew I. Schein and Lyle H. Ungar},
+  journal={Machine Learning},
+  year={2007},
+  volume={68},
+  pages={235-265}
+}
+
+@inproceedings{Chen2010Smoothingproximalgradientmethodforgeneralstructuredsparseregression,
+  title={Smoothing proximal gradient method for general structured sparse regression},
+  author={Xi Chen and Qihang Lin and Seyoung Kim and Jaime G. Carbonell and Eric P. Xing},
+  year={2010}
+}
+
+@inproceedings{Carvalho2011LANOMS,
+  title={Multiple linear regression to improve prediction accuracy in WSN data reduction},
+  author={Carlos Giovanni Nunes de Carvalho and Danielo Goncalves Gomes and José Neuman de Souza and Nazim Agoulmine},
+  booktitle={LANOMS},
+  year={2011}
+}
+
+@inproceedings{Ristanoski2013PAKDD,
+  title={Time Series Forecasting Using Distribution Enhanced Linear Regression},
+  author={Goce Ristanoski and Wei Liu and James Bailey},
+  booktitle={PAKDD},
+  year={2013}
+}
+
+@article{Chan2012IEEETransactionsonImageProcessing,
+  title={Counting People With Low-Level Features and Bayesian Regression},
+  author={Antoni B. Chan and Nuno Vasconcelos},
+  journal={IEEE Transactions on Image Processing},
+  year={2012},
+  volume={21},
+  pages={2160-2177}
+}
+
+@inproceedings{Lai2013ICASSP,
+  title={Robust face recognition using trimmed linear regression},
+  author={Jian Lai and Xudong Jiang},
+  booktitle={ICASSP},
+  year={2013}
+}
+
+@inproceedings{Seeger2003AISTATS,
+  title={Fast Forward Selection to Speed Up Sparse Gaussian Process Regression},
+  author={Matthias W. Seeger and Christopher K. I. Williams and Neil D. Lawrence},
+  booktitle={AISTATS},
+  year={2003}
+}
+
+@inproceedings{Girshick2011ICCV,
+  title={Efficient regression of general-activity human poses from depth images},
+  author={Ross B. Girshick and Jamie Shotton and Pushmeet Kohli and Antonio Criminisi and Andrew W. Fitzgibbon},
+  booktitle={ICCV},
+  year={2011}
+}
+
+@inproceedings{Graves1998ICSE,
+  title={An Empirical Study of Regression Test Selection Techniques},
+  author={Todd L. Graves and Mary Jean Harrold and Jung-Min Kim and Adam A. Porter and Gregg Rothermel},
+  booktitle={ICSE},
+  year={1998}
+}
+
+@inproceedings{Sculley2010KDD,
+  title={Combined regression and ranking},
+  author={D. Sculley},
+  booktitle={KDD},
+  year={2010}
+}
+
+@inproceedings{Gu2007OpticalProximityCorrectionwithLinearRegression,
+  title={Optical Proximity Correction with Linear Regression},
+  author={Allan Gu and Avideh Zakhor},
+  year={2007}
+}
+
+@article{Tropp2007IEEETransactionsonInformationTheory,
+  title={Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit},
+  author={Joel A. Tropp and Anna C. Gilbert},
+  journal={IEEE Transactions on Information Theory},
+  year={2007},
+  volume={53},
+  pages={4655-4666}
+}
+
+@inproceedings{Wang2013AISTATS,
+  title={Block Regularized Lasso for Multivariate Multi-Response Linear Regression},
+  author={Weiguang Wang and Yingbin Liang and Eric P. Xing},
+  booktitle={AISTATS},
+  year={2013}
+}
+
