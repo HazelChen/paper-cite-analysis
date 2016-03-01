@@ -21,9 +21,9 @@ public class InsertFullData {
 
     static {
         encodingMaps = new HashMap<String, String>();
-        encodingMaps.put("apa-16.txt", "utf-16");
-        encodingMaps.put("mla-16.txt", "utf-16");
-        encodingMaps.put("chicago-16.txt", "utf-16");
+//        encodingMaps.put("apa-16.txt", "utf-16");
+//        encodingMaps.put("mla-16.txt", "utf-16");
+//        encodingMaps.put("chicago-16.txt", "utf-16");
         encodingMaps.put("apa-12.txt", "gb2312");
         encodingMaps.put("mla-12.txt", "gb2312");
         encodingMaps.put("chicago-12.txt", "gb2312");
