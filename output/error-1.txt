@@ -1,0 +1,1716 @@
+item 127 :not complete accurate.
+ The query string is : Drucker, Harris et al. “Support Vector Regression Machines.” NIPS (1996).
+
+[type: article
+title: Support vector machines for spam categorization
+author: Harris Drucker and Donghui Wu and Vladimir Vapnik
+year: 1999
+journal: 1048-1054
+volume: 10
+]
+
+
+item 131 :not complete accurate.
+ The query string is : Littman, M.L., & Strehl, A.L.. (2007). Online Linear Regression and Its Application to Model-Based Reinforcement Learning. NIPS.
+
+[type: article
+title: Reinforcement Learning: A Survey
+author: Leslie Pack Kaelbling and Michael L. Littman and Andrew W. Moore
+year: 1996
+journal: 
+volume: cs.AI/9605103
+]
+
+
+item 133 :not complete accurate.
+ The query string is : Strehl, Alexander L. and Michael L. Littman. “Online Linear Regression and Its Application to Model-Based Reinforcement Learning.” NIPS (2007).
+
+[type: article
+title: Reinforcement Learning: A Survey
+author: Leslie Pack Kaelbling and Michael L. Littman and Andrew W. Moore
+year: 1996
+journal: 
+volume: cs.AI/9605103
+]
+
+
+item 135 :not complete accurate.
+ The query string is : Strehl, Alexander L. and Michael L. Littman. “Online Linear Regression and Its Application to Model-Based Reinforcement Learning.” NIPS (2007).
+
+[type: article
+title: Reinforcement Learning: A Survey
+author: Leslie Pack Kaelbling and Michael L. Littman and Andrew W. Moore
+year: 1996
+journal: 
+volume: cs.AI/9605103
+]
+
+
+item 236 :not complete accurate.
+ The query string is : Feng, J., Li, M., Yu, H., & Zhang, H.. (2002). Color texture moments for content-based image retrieval. ICIP.
+
+[type: article
+title: Web mining for Web image retrieval
+author: Zheng Chen and Liu Wenyin and Feng Zhang and Mingjing Li and HongJiang Zhang
+year: 2001
+journal: 831-839
+volume: 52
+]
+
+
+item 238 :not complete accurate.
+ The query string is : Yu, Hui, Mingjing Li, HongJiang Zhang and Jufu Feng. “Color texture moments for content-based image retrieval.” ICIP (2002).
+
+[type: article
+title: Web mining for Web image retrieval
+author: Zheng Chen and Liu Wenyin and Feng Zhang and Mingjing Li and HongJiang Zhang
+year: 2001
+journal: 831-839
+volume: 52
+]
+
+
+item 338 :not complete accurate.
+ The query string is : He, Xiaofei, Wei-Ying Ma, Oliver King, Mingjing Li and HongJiang Zhang. “Learning and inferring a semantic space from user's relevance feedback for image retrieval.” MM (2002).
+
+[type: article
+title: Learning a semantic space from user's relevance feedback for image retrieval
+author: Xiaofei He and Oliver King and Wei-Ying Ma and Mingjing Li and HongJiang Zhang
+year: 2003
+journal: 39-48
+volume: 13
+]
+
+
+item 396 :not complete accurate.
+ The query string is : Chu, W., & Keerthi, S.S.. (2005). New approaches to support vector ordinal regression. ICML.
+
+[type: article
+title: Support Vector Ordinal Regression
+author: Wei Chu and S. Sathiya Keerthi
+year: 2007
+journal: 792-815
+volume: 19
+]
+
+
+item 398 :not complete accurate.
+ The query string is : Chu, Wei and S. Sathiya Keerthi. “New approaches to support vector ordinal regression.” ICML (2005).
+
+[type: article
+title: Support Vector Ordinal Regression
+author: Wei Chu and S. Sathiya Keerthi
+year: 2007
+journal: 792-815
+volume: 19
+]
+
+
+item 400 :not complete accurate.
+ The query string is : Chu, Wei and S. Sathiya Keerthi. “New approaches to support vector ordinal regression.” ICML (2005).
+
+[type: article
+title: Support Vector Ordinal Regression
+author: Wei Chu and S. Sathiya Keerthi
+year: 2007
+journal: 792-815
+volume: 19
+]
+
+
+item 468 :not complete accurate.
+ The query string is : He, J., Li, M., Tong, H., Zhang, H., & Zhang, C.. (2004). Manifold-ranking based image retrieval. MM.
+
+[type: article
+title: Generalized Manifold-Ranking-Based Image Retrieval
+author: Jingrui He and Mingjing Li and HongJiang Zhang and Hanghang Tong and Changshui Zhang
+year: 2006
+journal: 3170-3177
+volume: 15
+]
+
+
+item 470 :not complete accurate.
+ The query string is : He, Jingrui, Mingjing Li, HongJiang Zhang, Hanghang Tong and Changshui Zhang. “Manifold-ranking based image retrieval.” MM (2004).
+
+[type: article
+title: Generalized Manifold-Ranking-Based Image Retrieval
+author: Jingrui He and Mingjing Li and HongJiang Zhang and Hanghang Tong and Changshui Zhang
+year: 2006
+journal: 3170-3177
+volume: 15
+]
+
+
+item 502 :not complete accurate.
+ The query string is : He, Jingrui et al. “Manifold-ranking based image retrieval.” MM (2004).
+
+[type: article
+title: Generalized Manifold-Ranking-Based Image Retrieval
+author: Jingrui He and Mingjing Li and HongJiang Zhang and Hanghang Tong and Changshui Zhang
+year: 2006
+journal: 3170-3177
+volume: 15
+]
+
+
+item 575 :not complete accurate.
+ The query string is : Li, Li-Jia, Hao Su, Eric P. Xing and Li Fei-Fei. “Object Bank: A High-Level Image Representation for Scene Classification & Semantic Feature Sparsification.” NIPS (2010).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 702 :not complete accurate.
+ The query string is : Datta, R., Li, J., & Wang, J.Z.. (2005). Content-based image retrieval: approaches and trends of the new age. MIR.
+
+[type: article
+title: Image retrieval: Ideas, influences, and trends of the new age
+author: Ritendra Datta and Dhiraj Joshi and Jia Li and James Ze Wang
+year: 2008
+journal: 
+volume: 40
+]
+
+
+item 704 :not complete accurate.
+ The query string is : Datta, Ritendra, Jia Li and James Ze Wang. “Content-based image retrieval: approaches and trends of the new age.” MIR (2005).
+
+[type: article
+title: Image retrieval: Ideas, influences, and trends of the new age
+author: Ritendra Datta and Dhiraj Joshi and Jia Li and James Ze Wang
+year: 2008
+journal: 
+volume: 40
+]
+
+
+item 706 :not complete accurate.
+ The query string is : Datta, Ritendra et al. “Content-based image retrieval: approaches and trends of the new age.” MIR (2005).
+
+[type: article
+title: Image retrieval: Ideas, influences, and trends of the new age
+author: Ritendra Datta and Dhiraj Joshi and Jia Li and James Ze Wang
+year: 2008
+journal: 
+volume: 40
+]
+
+
+item 724 :not complete accurate.
+ The query string is : He, Xiaofei et al. “Learning an image manifold for retrieval.” MM (2004).
+
+[type: article
+title: Incremental semi-supervised subspace learning for image retrieval
+author: Xiaofei He
+year: 2004
+booktitle: MM
+]
+
+
+item 753 :not complete accurate.
+ The query string is : Chen, Y., Huang, T.S., & Zhou, X.S.. (2001). One-class SVM for learning in image retrieval. ICIP.
+
+[type: article
+title: An efficient color representation for image retrieval
+author: Yining Deng and B. S. Manjunath and Charles S. Kenney and Michael S. Moore and Hyundoo Shin
+year: 2001
+journal: 140-147
+volume: 10
+]
+
+
+item 759 :not complete accurate.
+ The query string is : Chen, L., Li, X., Lin, F., Ma, W., & Zhang, L.. (2006). Image annotation by large-scale content-based image retrieval. MM.
+
+[type: article
+title: Web mining for Web image retrieval
+author: Zheng Chen and Liu Wenyin and Feng Zhang and Mingjing Li and HongJiang Zhang
+year: 2001
+journal: 831-839
+volume: 52
+]
+
+
+item 846 :not complete accurate.
+ The query string is : Berg, A.C., Deng, J., & Fei-Fei, L.. (2011). Hierarchical semantic indexing for large scale image retrieval. CVPR.
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 848 :not complete accurate.
+ The query string is : Deng, Jia, Alexander C. Berg and Li Fei-Fei. “Hierarchical semantic indexing for large scale image retrieval.” CVPR (2011).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 850 :not complete accurate.
+ The query string is : Deng, Jia et al. “Hierarchical semantic indexing for large scale image retrieval.” CVPR (2011).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 869 :not complete accurate.
+ The query string is : Lin, F., Zhang, L., & Zhang, B.. (2001). Support vector machine learning for image retrieval. ICIP.
+
+[type: article
+title: Web mining for Web image retrieval
+author: Zheng Chen and Liu Wenyin and Feng Zhang and Mingjing Li and HongJiang Zhang
+year: 2001
+journal: 831-839
+volume: 52
+]
+
+
+item 870 :not complete accurate.
+ The query string is : Schubert, H et al. “Content-based Image Retrieval in Medical Applications.” (2000).
+
+[type: article
+title: Content-Based Image Retrieval: Theory and Applications
+author: Ricardo da Silva Torres and Alexandre X. Falcão
+year: 2006
+journal: 161-185
+volume: 13
+]
+
+
+item 897 :not complete accurate.
+ The query string is : Hoi, Steven C. H. et al. “Semi-supervised distance metric learning for Collaborative Image Retrieval.” CVPR (2008).
+
+[type: article
+title: Collaborative image retrieval via regularized metric learning
+author: Luo Si and Rong Jin and Steven C. H. Hoi and Michael R. Lyu
+year: 2006
+journal: 34-44
+volume: 12
+]
+
+
+item 914 :not complete accurate.
+ The query string is : Deselaers, T., Keysers, D., & Ney, H.. (2004). Features for Image Retrieval: A Quantitative Comparison. DAGM.
+
+[type: article
+title: Features for image retrieval: an experimental comparison
+author: Thomas Deselaers and Daniel Keysers and Hermann Ney
+year: 2008
+journal: 77-107
+volume: 11
+]
+
+
+item 916 :not complete accurate.
+ The query string is : Deselaers, Thomas, Daniel Keysers and Hermann Ney. “Features for Image Retrieval: A Quantitative Comparison.” DAGM (2004).
+
+[type: article
+title: Features for image retrieval: an experimental comparison
+author: Thomas Deselaers and Daniel Keysers and Hermann Ney
+year: 2008
+journal: 77-107
+volume: 11
+]
+
+
+item 942 :not complete accurate.
+ The query string is : Yang, Pu, Jun Guo and Guang Chen. “Pavideoge: A Metadata Markup Video Structure in Video Search Engine.” (2009).
+
+[type: article
+title: Pavideoge: A New Video Processing Method in Video Search Engine
+author: Pu Yang and Jun Guo and Guang Chen
+year: 2009
+journal: 
+volume: abs/0909.2496
+]
+
+
+item 944 :not complete accurate.
+ The query string is : Yang, Pu et al. “Pavideoge: A Metadata Markup Video Structure in Video Search Engine.” (2009).
+
+[type: article
+title: Pavideoge: A New Video Processing Method in Video Search Engine
+author: Pu Yang and Jun Guo and Guang Chen
+year: 2009
+journal: 
+volume: abs/0909.2496
+]
+
+
+item 1047 :not complete accurate.
+ The query string is : Wexler, Yonatan, Eli Shechtman and Michal Irani. “Space-Time Video Completion.” CVPR (2004).
+
+[type: article
+title: Space-Time Completion of Video
+author: Yonatan Wexler and Eli Shechtman and Michal Irani
+year: 2007
+journal: 463-476
+volume: 29
+]
+
+
+item 1089 :not complete accurate.
+ The query string is : Rooij, Ork de, Cees G. M. Snoek and Marcel Worring. “MediaMill: semantic video search using the RotorBrowser.” CIVR (2007).
+
+[type: article
+title: Adding Semantics to Detectors for Video Retrieval
+author: Cees G. M. Snoek and Bouke Huurnink and Laura Hollink and Maarten de Rijke and Guus Schreiber and Marcel Worring
+year: 2007
+journal: 975-986
+volume: 9
+]
+
+
+item 1097 :not complete accurate.
+ The query string is : Snoek, Cees et al. “MediaMill: exploring news video archives based on learned semantics.” MM (2005).
+
+[type: article
+title: The mediamill search engine video
+author: Cees G. M. Snoek
+year: 2010
+booktitle: MM
+]
+
+
+item 1101 :not complete accurate.
+ The query string is : Halvorsen, Pål, Dag Johansen, Bjørn Olstad, Tomas Kupka and Sverre Tennøe. “vESP: enriching enterprise document search results with aligned video summarization.” MM (2010).
+
+[type: article
+title: Search-based composition, streaming and playback of video archive content
+author: Tomas Kupka and Håkon Riiser and Dag Johansen and Åge Kvalnes and Carsten Griwodz and Joseph Hurley and Pål Halvorsen and Bjørn Olstad and Cathal Gurrin and Håvard D. Johansen
+year: 2012
+journal: 419-445
+volume: 61
+]
+
+
+item 1117 :not complete accurate.
+ The query string is : Everingham, M., Sivic, J., & Zisserman, A.. (2006). Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video. BMVC.
+
+[type: article
+title: Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video
+author: Mark Everingham and Josef Sivic and Andrew Zisserman
+year: 2006
+booktitle: BMVC
+]
+
+
+item 1119 :not complete accurate.
+ The query string is : Everingham, Mark, Josef Sivic and Andrew Zisserman. “Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video.” BMVC (2006).
+
+[type: article
+title: Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video
+author: Mark Everingham and Josef Sivic and Andrew Zisserman
+year: 2006
+booktitle: BMVC
+]
+
+
+item 1121 :not complete accurate.
+ The query string is : Everingham, Mark et al. “Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video.” BMVC (2006).
+
+[type: article
+title: Hello! My name is... Buffy'' -- Automatic Naming of Characters in TV Video
+author: Mark Everingham and Josef Sivic and Andrew Zisserman
+year: 2006
+booktitle: BMVC
+]
+
+
+item 1147 :not complete accurate.
+ The query string is : Fei-Fei, L., Karpathy, A., Leung, T., Shetty, S., Sukthankar, R., & Toderici, G.. (2014). Large-Scale Video Classification with Convolutional Neural Networks. CVPR.
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 1149 :not complete accurate.
+ The query string is : Karpathy, Andrej, George Toderici, Sanketh Shetty, Thomas Leung, Rahul Sukthankar and Li Fei-Fei. “Large-Scale Video Classification with Convolutional Neural Networks.” CVPR (2014).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 1151 :not complete accurate.
+ The query string is : Karpathy, Andrej et al. “Large-Scale Video Classification with Convolutional Neural Networks.” CVPR (2014).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 1185 :not complete accurate.
+ The query string is : Schwarz, Heiko, Detlev Marpe and Thomas Wiegand. “Overview of the Scalable Video Coding Extension of the H.264/AVC Standard.” IEEE Trans. Circuits Syst. Video Techn. 17 (2007): 1103-1120.
+
+[type: article
+title: Overview of the Scalable Video Coding Extension of the H.264/AVC Standard
+author: Heiko Schwarz and Detlev Marpe and Thomas Wiegand
+year: 2007
+journal: 1103-1120
+volume: 17
+]
+
+
+item 1187 :not complete accurate.
+ The query string is : Schwarz, Heiko et al. “Overview of the Scalable Video Coding Extension of the H.264/AVC Standard.” IEEE Trans. Circuits Syst. Video Techn. 17 (2007): 1103-1120.
+
+[type: article
+title: Overview of the Scalable Video Coding Extension of the H.264/AVC Standard
+author: Heiko Schwarz and Detlev Marpe and Thomas Wiegand
+year: 2007
+journal: 1103-1120
+volume: 17
+]
+
+
+item 1188 :not complete accurate.
+ The query string is : Ay, Sakire Arslan, Roger Zimmermann and Seon Ho Kim. “Viewable scene modeling for geospatial video search.” MM (2008).
+
+[type: article
+title: Relevance ranking in georeferenced video search
+author: Sakire Arslan Ay and Roger Zimmermann and Seon Ho Kim
+year: 2010
+journal: 105-125
+volume: 16
+]
+
+
+item 1263 :not complete accurate.
+ The query string is : Wiegand, Thomas, Gary J. Sullivan, Gisle Bjntegaard and Ajay Luthra. “Overview of the H.264/AVC video coding standard.” IEEE Trans. Circuits Syst. Video Techn. 13 (2003): 560-576.
+
+[type: article
+title: Overview of the H.264/AVC video coding standard
+author: Thomas Wiegand and Gary J. Sullivan and Gisle Bjntegaard and Ajay Luthra
+year: 2003
+journal: 560-576
+volume: 13
+]
+
+
+item 1265 :not complete accurate.
+ The query string is : Wiegand, Thomas et al. “Overview of the H.264/AVC video coding standard.” IEEE Trans. Circuits Syst. Video Techn. 13 (2003): 560-576.
+
+[type: article
+title: Overview of the H.264/AVC video coding standard
+author: Thomas Wiegand and Gary J. Sullivan and Gisle Bjntegaard and Ajay Luthra
+year: 2003
+journal: 560-576
+volume: 13
+]
+
+
+item 1308 :not complete accurate.
+ The query string is : Cha, Meeyoung, Haewoon Kwak, Pablo Rodriguez, Yong-Yeol Ahn and Sue B. Moon. “I tube, you tube, everybody tubes: analyzing the world's largest user generated content video system.” IMC (2007).
+
+[type: article
+title: Analyzing the video popularity characteristics of large-scale user generated content systems
+author: Meeyoung Cha and Haewoon Kwak and Pablo Rodriguez and Yong-Yeol Ahn and Sue B. Moon
+year: 2009
+journal: 1357-1370
+volume: 17
+]
+
+
+item 1334 :not complete accurate.
+ The query string is : Chang, Shih-Fu et al. “VideoQ: An Automated Content Based Video Search System Using Visual Cues.” MM (1997).
+
+[type: article
+title: Visually Searching the Web for Content
+author: John R. Smith and Shih-Fu Chang
+year: 1997
+journal: 12-20
+volume: 4
+]
+
+
+item 1363 :not complete accurate.
+ The query string is : Chang, S., & Smith, J.R.. (1997). Image and Video Search Engine for the World Wide Web. spieSR.
+
+[type: article
+title: Visually Searching the Web for Content
+author: John R. Smith and Shih-Fu Chang
+year: 1997
+journal: 12-20
+volume: 4
+]
+
+
+item 1365 :not complete accurate.
+ The query string is : Smith, John R. and Shih-Fu Chang. “Image and Video Search Engine for the World Wide Web.” spieSR (1997).
+
+[type: article
+title: Visually Searching the Web for Content
+author: John R. Smith and Shih-Fu Chang
+year: 1997
+journal: 12-20
+volume: 4
+]
+
+
+item 1367 :not complete accurate.
+ The query string is : Smith, John R. and Shih-Fu Chang. “Image and Video Search Engine for the World Wide Web.” spieSR (1997).
+
+[type: article
+title: Visually Searching the Web for Content
+author: John R. Smith and Shih-Fu Chang
+year: 1997
+journal: 12-20
+volume: 4
+]
+
+
+item 1403 :not complete accurate.
+ The query string is : Everts, I., Gemert, J.C., Geusebroek, J., Huurnink, B., Koelma, D., Liempt, M.V., Rooij, O.D., Smeulders, A.W., Sande, K.E., Snoek, C.G., Uijlings, J.R., & Worring, M.. (2007). The MediaMill TRECVID 2007 Semantic Video Search Engine. TRECVID.
+
+[type: article
+title: A Learned Lexicon-Driven Paradigm for Interactive Video Retrieval
+author: Cees G. M. Snoek and Marcel Worring and Dennis Koelma and Arnold W. M. Smeulders
+year: 2007
+journal: 280-292
+volume: 9
+]
+
+
+item 1407 :not complete accurate.
+ The query string is : Everts, Ivo et al. “The MediaMill TRECVID 2007 Semantic Video Search Engine.” TRECVID (2007).
+
+[type: article
+title: The mediamill search engine video
+author: Cees G. M. Snoek
+year: 2010
+booktitle: MM
+]
+
+
+item 1409 :not complete accurate.
+ The query string is : Nguyen, G.P., Rooij, O.D., Snoek, C.G., Smeulders, A.W., & Worring, M.. (2007). The Mediamill Semantic Video Search Engine. ICASSP.
+
+[type: article
+title: A Learned Lexicon-Driven Paradigm for Interactive Video Retrieval
+author: Cees G. M. Snoek and Marcel Worring and Dennis Koelma and Arnold W. M. Smeulders
+year: 2007
+journal: 280-292
+volume: 9
+]
+
+
+item 1411 :not complete accurate.
+ The query string is : Worring, Marcel, Cees G. M. Snoek, Ork de Rooij, Giang P. Nguyen and Arnold W. M. Smeulders. “The Mediamill Semantic Video Search Engine.” ICASSP (2007).
+
+[type: article
+title: A Learned Lexicon-Driven Paradigm for Interactive Video Retrieval
+author: Cees G. M. Snoek and Marcel Worring and Dennis Koelma and Arnold W. M. Smeulders
+year: 2007
+journal: 280-292
+volume: 9
+]
+
+
+item 1413 :not complete accurate.
+ The query string is : Worring, Marcel et al. “The Mediamill Semantic Video Search Engine.” ICASSP (2007).
+
+[type: article
+title: Adding Semantics to Detectors for Video Retrieval
+author: Cees G. M. Snoek and Bouke Huurnink and Laura Hollink and Maarten de Rijke and Guus Schreiber and Marcel Worring
+year: 2007
+journal: 975-986
+volume: 9
+]
+
+
+item 1419 :not complete accurate.
+ The query string is : Hopfgartner, Frank, David Vallet, Martin Halvey and Joemon M. Jose. “Search trails using user feedback to improve video search.” MM (2008).
+
+[type: article
+title: An asynchronous collaborative search system for online video search
+author: Martin Halvey and David Vallet and David Hannah and Yue Feng and Joemon M. Jose
+year: 2010
+journal: 733-748
+volume: 46
+]
+
+
+item 1423 :not complete accurate.
+ The query string is : Koelma, D., Snoek, C., Smeulders, A.W., & Worring, M.. (2006). Learned Lexicon-Driven Interactive Video Retrieval. CIVR.
+
+[type: article
+title: A Learned Lexicon-Driven Paradigm for Interactive Video Retrieval
+author: Cees G. M. Snoek and Marcel Worring and Dennis Koelma and Arnold W. M. Smeulders
+year: 2007
+journal: 280-292
+volume: 9
+]
+
+
+item 1425 :not complete accurate.
+ The query string is : Snoek, Cees, Marcel Worring, Dennis Koelma and Arnold W. M. Smeulders. “Learned Lexicon-Driven Interactive Video Retrieval.” CIVR (2006).
+
+[type: article
+title: A Learned Lexicon-Driven Paradigm for Interactive Video Retrieval
+author: Cees G. M. Snoek and Marcel Worring and Dennis Koelma and Arnold W. M. Smeulders
+year: 2007
+journal: 280-292
+volume: 9
+]
+
+
+item 1427 :not complete accurate.
+ The query string is : Snoek, Cees et al. “Learned Lexicon-Driven Interactive Video Retrieval.” CIVR (2006).
+
+[type: article
+title: A Learned Lexicon-Driven Paradigm for Interactive Video Retrieval
+author: Cees G. M. Snoek and Marcel Worring and Dennis Koelma and Arnold W. M. Smeulders
+year: 2007
+journal: 280-292
+volume: 9
+]
+
+
+item 1440 :not complete accurate.
+ The query string is : Wu, Xiao, Alexander G. Hauptmann and Chong-Wah Ngo. “Practical elimination of near-duplicates from web video search.” MM (2007).
+
+[type: article
+title: Real-Time Near-Duplicate Elimination for Web Video Search With Content and Context
+author: Xiao Wu and Chong-Wah Ngo and Alexander G. Hauptmann and Hung-Khoon Tan
+year: 2009
+journal: 196-207
+volume: 11
+]
+
+
+item 1451 :not complete accurate.
+ The query string is : Tian, Xinmei et al. “Bayesian video search reranking.” MM (2008).
+
+[type: article
+title: Sparse Transfer Learning for Interactive Video Search Reranking
+author: Xinmei Tian and Dacheng Tao and Yong Rui
+year: 2012
+journal: 
+volume: abs/1103.2756
+]
+
+
+item 1456 :not complete accurate.
+ The query string is : Wang, X., Zhang, C., & Zhang, Z.. (2009). Boosted multi-task learning for face verification with applications to web image and video search. CVPR.
+
+[type: article
+title: Web mining for Web image retrieval
+author: Zheng Chen and Liu Wenyin and Feng Zhang and Mingjing Li and HongJiang Zhang
+year: 2001
+journal: 831-839
+volume: 52
+]
+
+
+item 1495 :not complete accurate.
+ The query string is : Ay, S.A., Kim, S.H., Ma, H., Zhang, L., & Zimmermann, R.. (2009). GRVS: a georeferenced video search engine. MM.
+
+[type: article
+title: Relevance ranking in georeferenced video search
+author: Sakire Arslan Ay and Roger Zimmermann and Seon Ho Kim
+year: 2010
+journal: 105-125
+volume: 16
+]
+
+
+item 1497 :not complete accurate.
+ The query string is : Ay, Sakire Arslan, Lingyan Zhang, Seon Ho Kim, He Ma and Roger Zimmermann. “GRVS: a georeferenced video search engine.” MM (2009).
+
+[type: article
+title: Relevance ranking in georeferenced video search
+author: Sakire Arslan Ay and Roger Zimmermann and Seon Ho Kim
+year: 2010
+journal: 105-125
+volume: 16
+]
+
+
+item 1499 :not complete accurate.
+ The query string is : Ay, Sakire Arslan et al. “GRVS: a georeferenced video search engine.” MM (2009).
+
+[type: article
+title: Relevance ranking in georeferenced video search
+author: Sakire Arslan Ay and Roger Zimmermann and Seon Ho Kim
+year: 2010
+journal: 105-125
+volume: 16
+]
+
+
+item 1529 :not complete accurate.
+ The query string is : Chang, Shih-Fu et al. “Columbia University's semantic video search engine.” CIVR (2007).
+
+[type: article
+title: Columbia University's semantic video search engine 2008
+author: Eric Zavesky and Shih-Fu Chang
+year: 2008
+booktitle: CIVR
+]
+
+
+item 1546 :not complete accurate.
+ The query string is : Search, Web et al. “Web Search -- Your Way: Improving Web searching with user preferences.” (2001).
+
+[type: article
+title: Web mining for Web image retrieval
+author: Zheng Chen and Liu Wenyin and Feng Zhang and Mingjing Li and HongJiang Zhang
+year: 2001
+journal: 831-839
+volume: 52
+]
+
+
+item 1548 :not complete accurate.
+ The query string is : Deng, J., Dong, W., Fei-Fei, L., Li, L., Li, K., & Socher, R.. (2009). ImageNet: A large-scale hierarchical image database. CVPR.
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 1550 :not complete accurate.
+ The query string is : Deng, Jia, Wei Dong, Richard Socher, Li-Jia Li, Kai Li and Li Fei-Fei. “ImageNet: A large-scale hierarchical image database.” CVPR (2009).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 1555 :not complete accurate.
+ The query string is : Deng, Jia et al. “ImageNet: A large-scale hierarchical image database.” CVPR (2009).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 1647 :not complete accurate.
+ The query string is : Wiegand, Thomas, Gary J. Sullivan, Gisle Bjntegaard and Ajay Luthra. “Overview of the H.264/AVC video coding standard.” IEEE Trans. Circuits Syst. Video Techn. 13 (2003): 560-576.
+
+[type: article
+title: Overview of the H.264/AVC video coding standard
+author: Thomas Wiegand and Gary J. Sullivan and Gisle Bjntegaard and Ajay Luthra
+year: 2003
+journal: 560-576
+volume: 13
+]
+
+
+item 1649 :not complete accurate.
+ The query string is : Wiegand, Thomas et al. “Overview of the H.264/AVC video coding standard.” IEEE Trans. Circuits Syst. Video Techn. 13 (2003): 560-576.
+
+[type: article
+title: Overview of the H.264/AVC video coding standard
+author: Thomas Wiegand and Gary J. Sullivan and Gisle Bjntegaard and Ajay Luthra
+year: 2003
+journal: 560-576
+volume: 13
+]
+
+
+item 1657 :not complete accurate.
+ The query string is : Cohen, M.F., Thiesson, B., Wang, J., & Xu, Y.. (2004). Image and Video Segmentation by Anisotropic Kernel Mean Shift. ECCV.
+
+[type: article
+title: Video tooning
+author: Jue Wang and Yingqing Xu and Heung-Yeung Shum and Michael F. Cohen
+year: 2004
+journal: 574-583
+volume: 23
+]
+
+
+item 1659 :not complete accurate.
+ The query string is : Wang, Jue, Bo Thiesson, Yingqing Xu and Michael F. Cohen. “Image and Video Segmentation by Anisotropic Kernel Mean Shift.” ECCV (2004).
+
+[type: article
+title: Video tooning
+author: Jue Wang and Yingqing Xu and Heung-Yeung Shum and Michael F. Cohen
+year: 2004
+journal: 574-583
+volume: 23
+]
+
+
+item 1660 :not complete accurate.
+ The query string is : Fei-Fei, L., Karpathy, A., Leung, T., Shetty, S., Sukthankar, R., & Toderici, G.. (2014). Large-Scale Video Classification with Convolutional Neural Networks. CVPR.
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 1662 :not complete accurate.
+ The query string is : Karpathy, Andrej, George Toderici, Sanketh Shetty, Thomas Leung, Rahul Sukthankar and Li Fei-Fei. “Large-Scale Video Classification with Convolutional Neural Networks.” CVPR (2014).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 1664 :not complete accurate.
+ The query string is : Karpathy, Andrej et al. “Large-Scale Video Classification with Convolutional Neural Networks.” CVPR (2014).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 1681 :not complete accurate.
+ The query string is : Criminisi, A., Essa, I.A., Winn, J.M., & Yin, P.. (2007). Tree-based Classifiers for Bilayer Video Segmentation. CVPR.
+
+[type: article
+title: The Pascal Visual Object Classes (VOC) Challenge
+author: Mark Everingham and Luc J. Van Gool and Christopher K. I. Williams and John M. Winn and Andrew Zisserman
+year: 2010
+journal: 303-338
+volume: 88
+]
+
+
+item 1683 :not complete accurate.
+ The query string is : Yin, Pei, Antonio Criminisi, John M. Winn and Irfan A. Essa. “Tree-based Classifiers for Bilayer Video Segmentation.” CVPR (2007).
+
+[type: article
+title: TextonBoost for Image Understanding: Multi-Class Object Recognition and Segmentation by Jointly Modeling Texture, Layout, and Context
+author: Jamie Shotton and John M. Winn and Carsten Rother and Antonio Criminisi
+year: 2009
+journal: 2-23
+volume: 81
+]
+
+
+item 1688 :not complete accurate.
+ The query string is : Yin, Pei et al. “Tree-based Classifiers for Bilayer Video Segmentation.” CVPR (2007).
+
+[type: article
+title: Learning Deep Face Representation
+author: Haoqiang Fan and Zhimin Cao and Yuning Jiang and Qi Yin and Chinchilla Doudou
+year: 2014
+journal: 
+volume: abs/1403.2802
+]
+
+
+item 1714 :not complete accurate.
+ The query string is : Criminisi, A., Essa, I.A., Winn, J.M., & Yin, P.. (2007). Tree-based Classifiers for Bilayer Video Segmentation. CVPR.
+
+[type: article
+title: The Pascal Visual Object Classes (VOC) Challenge
+author: Mark Everingham and Luc J. Van Gool and Christopher K. I. Williams and John M. Winn and Andrew Zisserman
+year: 2010
+journal: 303-338
+volume: 88
+]
+
+
+item 1716 :not complete accurate.
+ The query string is : Yin, Pei, Antonio Criminisi, John M. Winn and Irfan A. Essa. “Tree-based Classifiers for Bilayer Video Segmentation.” CVPR (2007).
+
+[type: article
+title: TextonBoost for Image Understanding: Multi-Class Object Recognition and Segmentation by Jointly Modeling Texture, Layout, and Context
+author: Jamie Shotton and John M. Winn and Carsten Rother and Antonio Criminisi
+year: 2009
+journal: 2-23
+volume: 81
+]
+
+
+item 1721 :not complete accurate.
+ The query string is : Yin, Pei et al. “Tree-based Classifiers for Bilayer Video Segmentation.” CVPR (2007).
+
+[type: article
+title: Learning Deep Face Representation
+author: Haoqiang Fan and Zhimin Cao and Yuning Jiang and Qi Yin and Chinchilla Doudou
+year: 2014
+journal: 
+volume: abs/1403.2802
+]
+
+
+item 2048 :not complete accurate.
+ The query string is : Bernstein, M.S., Fei-Fei, L., Johnson, J., Krishna, R., Li, L., Stark, M., & Shamma, D.A.. (2015). Image retrieval using scene graphs. CVPR.
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 2050 :not complete accurate.
+ The query string is : Johnson, Justin, Ranjay Krishna, Michael Stark, Li-Jia Li, David A. Shamma, Michael S. Bernstein and Li Fei-Fei. “Image retrieval using scene graphs.” CVPR (2015).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 2104 :not complete accurate.
+ The query string is : Wu, Qiong, Pierre Boulanger and Walter F. Bischof. “Robust Real-Time Bi-Layer Video Segmentation Using Infrared Video.” CRV (2008).Snoek, Cees, Marcel Worring and Arnold W. M. Smeulders. “Early versus late fusion in semantic video analysis.” MM (2005).
+
+[type: article
+title: Robust Real-Time Bi-Layer Video Segmentation Using Infrared Video
+author: Qiong Wu and Pierre Boulanger and Walter F. Bischof
+year: 2008
+booktitle: CRV
+]
+
+
+item 2136 :not complete accurate.
+ The query string is : Zeng, Wei, Jun Du, Wen Gao and Qingming Huang. “Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model.” Real-Time Imaging 11 (2005): 290-299.
+
+[type: article
+title: Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model
+author: Wei Zeng and Jun Du and Wen Gao and Qingming Huang
+year: 2005
+journal: 290-299
+volume: 11
+]
+
+
+item 2138 :not complete accurate.
+ The query string is : Zeng, Wei et al. “Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model.” Real-Time Imaging 11 (2005): 290-299.
+
+[type: article
+title: Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model
+author: Wei Zeng and Jun Du and Wen Gao and Qingming Huang
+year: 2005
+journal: 290-299
+volume: 11
+]
+
+
+item 2204 :not complete accurate.
+ The query string is : Xu, Dong et al. “Indoor shadow detection for video segmentation.” ICMCS (2004).
+
+[type: article
+title: Cast shadow detection in video segmentation
+author: Dong Xu and Xuelong Li and Zhengkai Liu and Yuan Yuan
+year: 2005
+journal: 91-99
+volume: 26
+]
+
+
+item 2206 :not complete accurate.
+ The query string is : Hu, W., Li, L., Maybank, S.J., Xie, N., & Zeng, X.. (2011). A Survey on Visual Content-Based Video Indexing and Retrieval. IEEE Transactions on Systems, Man, and Cybernetics, Part C, 41, 797-819.
+
+[type: article
+title: A Survey on Visual Content-Based Video Indexing and Retrieval
+author: Weiming Hu and Nianhua Xie and Li Li and Xianglin Zeng and Stephen J. Maybank
+year: 2011
+journal: 797-819
+volume: 41
+]
+
+
+item 2266 :not complete accurate.
+ The query string is : Grosse, R.B., Lee, H., Ng, A.Y., & Ranganath, R.. (2009). Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations. ICML.
+
+[type: article
+title: Unsupervised learning of hierarchical representations with convolutional deep belief networks
+author: Honglak Lee and Roger B. Grosse and Rajesh Ranganath and Andrew Y. Ng
+year: 2011
+journal: 95-103
+volume: 54
+]
+
+
+item 2268 :not complete accurate.
+ The query string is : Lee, Honglak, Roger B. Grosse, Rajesh Ranganath and Andrew Y. Ng. “Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations.” ICML (2009).
+
+[type: article
+title: Unsupervised learning of hierarchical representations with convolutional deep belief networks
+author: Honglak Lee and Roger B. Grosse and Rajesh Ranganath and Andrew Y. Ng
+year: 2011
+journal: 95-103
+volume: 54
+]
+
+
+item 2270 :not complete accurate.
+ The query string is : Lee, Honglak et al. “Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations.” ICML (2009).
+
+[type: article
+title: Unsupervised learning of hierarchical representations with convolutional deep belief networks
+author: Honglak Lee and Roger B. Grosse and Rajesh Ranganath and Andrew Y. Ng
+year: 2011
+journal: 95-103
+volume: 54
+]
+
+
+item 2308 :not complete accurate.
+ The query string is : Lee, H., Largman, Y., Ng, A.Y., & Pham, P.T.. (2009). Unsupervised feature learning for audio classification using convolutional deep belief networks. NIPS.
+
+[type: article
+title: Unsupervised learning of hierarchical representations with convolutional deep belief networks
+author: Honglak Lee and Roger B. Grosse and Rajesh Ranganath and Andrew Y. Ng
+year: 2011
+journal: 95-103
+volume: 54
+]
+
+
+item 2310 :not complete accurate.
+ The query string is : Lee, Honglak, Peter T. Pham, Yan Largman and Andrew Y. Ng. “Unsupervised feature learning for audio classification using convolutional deep belief networks.” NIPS (2009).
+
+[type: article
+title: Unsupervised learning of hierarchical representations with convolutional deep belief networks
+author: Honglak Lee and Roger B. Grosse and Rajesh Ranganath and Andrew Y. Ng
+year: 2011
+journal: 95-103
+volume: 54
+]
+
+
+item 2312 :not complete accurate.
+ The query string is : Lee, Honglak et al. “Unsupervised feature learning for audio classification using convolutional deep belief networks.” NIPS (2009).
+
+[type: article
+title: Unsupervised learning of hierarchical representations with convolutional deep belief networks
+author: Honglak Lee and Roger B. Grosse and Rajesh Ranganath and Andrew Y. Ng
+year: 2011
+journal: 95-103
+volume: 54
+]
+
+
+item 2324 :not complete accurate.
+ The query string is : Sun, Yi et al. “Deep Learning Face Representation by Joint Identification-Verification.” NIPS (2014).
+
+[type: article
+title: Learning Deep Face Representation
+author: Haoqiang Fan and Zhimin Cao and Yuning Jiang and Qi Yin and Chinchilla Doudou
+year: 2014
+journal: 
+volume: abs/1403.2802
+]
+
+
+item 2327 :not complete accurate.
+ The query string is : Deng, Li et al. “Recent advances in deep learning for speech research at Microsoft.” ICASSP (2013).
+
+[type: article
+title: Deep Learning: Methods and Applications
+author: Li Deng and Dong Yu
+year: 2014
+journal: 197-387
+volume: 7
+]
+
+
+item 2335 :not complete accurate.
+ The query string is : Chen, K., Corrado, G., Devin, M., Dean, J., Le, Q.V., Mao, M.Z., Monga, R., Ng, A.Y., Ranzato, M., Senior, A.W., Tucker, P.A., & Yang, K.. (2012). Large Scale Distributed Deep Networks. NIPS.
+
+[type: article
+title: Pattern Recognition and Machine Learning
+author: Christopher M. Bishop and Nasser M. Nasrabadi
+year: 2007
+journal: 049901
+volume: 16
+]
+
+
+item 2339 :not complete accurate.
+ The query string is : Devin, Matthieu et al. “Large Scale Distributed Deep Networks.” NIPS (2012).
+
+[type: article
+title: Very Deep Convolutional Networks for Large-Scale Image Recognition
+author: Karen Simonyan and Andrew Zisserman
+year: 2014
+journal: 
+volume: abs/1409.1556
+]
+
+
+item 2354 :not complete accurate.
+ The query string is : Coates, Adam et al. “Deep learning with COTS HPC systems.” ICML (2013).
+
+[type: article
+title: Deep Learning for Machine Vision
+author: Adam Coates
+year: 2013
+booktitle: BMVC
+]
+
+
+item 2392 :not complete accurate.
+ The query string is : Acero, A., Dahl, G.E., Deng, L., & Yu, D.. (2012). Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition. IEEE Transactions on Audio, Speech & Language Processing, 20, 30-42.
+
+[type: article
+title: Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition
+author: George E. Dahl and Dong Yu and Li Deng and Alex Acero
+year: 2012
+journal: 30-42
+volume: 20
+]
+
+
+item 2399 :not complete accurate.
+ The query string is : Wang, Jiang et al. “Learning Fine-Grained Image Similarity with Deep Ranking.” CVPR (2014).
+
+[type: article
+title: Learning Deep Face Representation
+author: Haoqiang Fan and Zhimin Cao and Yuning Jiang and Qi Yin and Chinchilla Doudou
+year: 2014
+journal: 
+volume: abs/1403.2802
+]
+
+
+item 2419 :not complete accurate.
+ The query string is : Dahl, G.E., Hinton, G.E., & Mohamed, A.. (2012). Acoustic Modeling Using Deep Belief Networks. IEEE Transactions on Audio, Speech & Language Processing, 20, 14-22.
+
+[type: article
+title: Acoustic Modeling Using Deep Belief Networks
+author: Abdel-rahman Mohamed and George E. Dahl and Geoffrey E. Hinton
+year: 2012
+journal: 14-22
+volume: 20
+]
+
+
+item 2462 :not complete accurate.
+ The query string is : Denil, Misha et al. “Predicting Parameters in Deep Learning.” NIPS (2013).
+
+[type: article
+title: Learning where to Attend with Deep Architectures for Image Tracking
+author: Misha Denil and Loris Bazzani and Hugo Larochelle and Nando de Freitas
+year: 2012
+journal: 
+volume: abs/1109.3737
+]
+
+
+item 2485 :not complete accurate.
+ The query string is : Tang, Yichuan. “Deep Learning using Linear Support Vector Machines.” (2013).
+
+[type: article
+title: Deep Learning using Support Vector Machines
+author: Yichuan Tang
+year: 2013
+journal: 
+volume: abs/1306.0239
+]
+
+
+item 2487 :not complete accurate.
+ The query string is : Tang, Yichuan. “Deep Learning using Linear Support Vector Machines.” (2013).
+
+[type: article
+title: Deep Learning using Support Vector Machines
+author: Yichuan Tang
+year: 2013
+journal: 
+volume: abs/1306.0239
+]
+
+
+item 2510 :not complete accurate.
+ The query string is : Hoi, S.C., Liu, W., Lyu, M.R., & Ma, W.. (2006). Learning Distance Metrics with Contextual Constraints for Image Retrieval. CVPR.
+
+[type: article
+title: Collaborative image retrieval via regularized metric learning
+author: Luo Si and Rong Jin and Steven C. H. Hoi and Michael R. Lyu
+year: 2006
+journal: 34-44
+volume: 12
+]
+
+
+item 2512 :not complete accurate.
+ The query string is : Hoi, Steven C. H., Wei Liu, Michael R. Lyu and Wei-Ying Ma. “Learning Distance Metrics with Contextual Constraints for Image Retrieval.” CVPR (2006).
+
+[type: article
+title: Collaborative image retrieval via regularized metric learning
+author: Luo Si and Rong Jin and Steven C. H. Hoi and Michael R. Lyu
+year: 2006
+journal: 34-44
+volume: 12
+]
+
+
+item 2539 :not complete accurate.
+ The query string is : Karpathy, Andrej and Li Fei-Fei. “Deep visual-semantic alignments for generating image descriptions.” CVPR (2015).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 2541 :not complete accurate.
+ The query string is : Karpathy, Andrej and Li Fei-Fei. “Deep visual-semantic alignments for generating image descriptions.” CVPR (2015).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 2544 :not complete accurate.
+ The query string is : Hoi, Steven C. H. et al. “Learning Distance Metrics with Contextual Constraints for Image Retrieval.” CVPR (2006).
+
+[type: article
+title: Collaborative image retrieval via regularized metric learning
+author: Luo Si and Rong Jin and Steven C. H. Hoi and Michael R. Lyu
+year: 2006
+journal: 34-44
+volume: 12
+]
+
+
+item 2552 :not complete accurate.
+ The query string is : Bengio, Y., Bergstra, J., Courville, A.C., Dauphin, Y., Desjardins, G., Glorot, X., Goodfellow, I.J., Lavoie, E., Mesnil, G., Muller, X., Rifai, S., Vincent, P., & Warde-Farley, D.. (2012). Unsupervised and Transfer Learning Challenge: a Deep Learning Approach. JMLR.
+
+[type: article
+title: Pylearn2: a machine learning research library
+author: James Bergstra and Yoshua Bengio and Vincent Dumoulin and Mehdi Mirza and Pascal Lamblin and Ian J. Goodfellow and David Warde-Farley and Frédéric Bastien and Razvan Pascanu
+year: 2013
+journal: 
+volume: abs/1308.4214
+]
+
+
+item 2554 :not complete accurate.
+ The query string is : Dauphin, Yann, Grégoire Mesnil, Salah Rifai, Xavier Glorot, Xavier Muller, Aaron C. Courville, Yoshua Bengio, James Bergstra, Guillaume Desjardins, Erick Lavoie, Pascal Vincent, David Warde-Farley and Ian J. Goodfellow. “Unsupervised and Transfer Learning Challenge: a Deep Learning Approach.” JMLR (2012).
+
+[type: article
+title: Pylearn2: a machine learning research library
+author: James Bergstra and Yoshua Bengio and Vincent Dumoulin and Mehdi Mirza and Pascal Lamblin and Ian J. Goodfellow and David Warde-Farley and Frédéric Bastien and Razvan Pascanu
+year: 2013
+journal: 
+volume: abs/1308.4214
+]
+
+
+item 2556 :not complete accurate.
+ The query string is : Dauphin, Yann et al. “Unsupervised and Transfer Learning Challenge: a Deep Learning Approach.” JMLR (2012).
+
+[type: article
+title: Deep Learning of Representations for Unsupervised and Transfer Learning
+author: Yoshua Bengio
+year: 2012
+booktitle: JMLR
+]
+
+
+item 2579 :not complete accurate.
+ The query string is : Wang, C., Zhang, L., & Zhang, H.. (2008). Learning to reduce the semantic gap in web image retrieval and annotation. SIGIR.
+
+[type: article
+title: Web mining for Web image retrieval
+author: Zheng Chen and Liu Wenyin and Feng Zhang and Mingjing Li and HongJiang Zhang
+year: 2001
+journal: 831-839
+volume: 52
+]
+
+
+item 2602 :not complete accurate.
+ The query string is : Hoi, S.C., Li, J., Wan, J., Wang, D., Wu, P., Zhu, J., & Zhang, Y.. (2014). Deep Learning for Content-Based Image Retrieval: A Comprehensive Study. MM.
+
+[type: article
+title: Continuous control with deep reinforcement learning
+author: Timothy P. Lillicrap and Jonathan J. Hunt and Alexander Pritzel and Nicolas Heess and Tom Erez and Yuval Tassa and David Silver and Daan Wierstra
+year: 2015
+journal: 
+volume: abs/1509.02971
+]
+
+
+item 2690 :not complete accurate.
+ The query string is : Bengio, Y., Bengio, S., Erhan, D., Manzagol, P., & Vincent, P.. (2009). The Difficulty of Training Deep Architectures and the Effect of Unsupervised Pre-Training. JMLR.
+
+[type: article
+title: Why Does Unsupervised Pre-training Help Deep Learning?
+author: Dumitru Erhan and Yoshua Bengio and Aaron C. Courville and Pierre-Antoine Manzagol and Pascal Vincent and Samy Bengio
+year: 2010
+journal: 625-660
+volume: 11
+]
+
+
+item 2692 :not complete accurate.
+ The query string is : Erhan, Dumitru, Pierre-Antoine Manzagol, Yoshua Bengio, Samy Bengio and Pascal Vincent. “The Difficulty of Training Deep Architectures and the Effect of Unsupervised Pre-Training.” JMLR (2009).
+
+[type: article
+title: Why Does Unsupervised Pre-training Help Deep Learning?
+author: Dumitru Erhan and Yoshua Bengio and Aaron C. Courville and Pierre-Antoine Manzagol and Pascal Vincent and Samy Bengio
+year: 2010
+journal: 625-660
+volume: 11
+]
+
+
+item 2874 :not complete accurate.
+ The query string is : Karpathy, Andrej and Li Fei-Fei. “Deep visual-semantic alignments for generating image descriptions.” CVPR (2015).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 2908 :not complete accurate.
+ The query string is : Karpathy, Andrej and Li Fei-Fei. “Deep visual-semantic alignments for generating image descriptions.” CVPR (2015).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 2948 :not complete accurate.
+ The query string is : Campbell, William M., Douglas E. Sturim, Douglas A. Reynolds and Alex Solomonoff. “SVM Based Speaker Verification using a GMM Supervector Kernel and NAP Variability Compensation.” ICASSP (2006).
+
+[type: article
+title: Support vector machines using GMM supervectors for speaker verification
+author: William M. Campbell and Douglas E. Sturim and Douglas A. Reynolds
+year: 2006
+journal: 308-311
+volume: 13
+]
+
+
+item 2953 :not complete accurate.
+ The query string is : Hsu, Chih-Wei, Chih-Chung Chang and Chih-Jen Lin. “A Practical Guide to Support Vector Classification.” (2010).
+
+[type: article
+title: LIBSVM: A library for support vector machines
+author: Chih-Chung Chang and Chih-Jen Lin
+year: 2011
+journal: 27
+volume: 2
+]
+
+
+item 2993 :not complete accurate.
+ The query string is : Chen, Y., Huang, T.S., & Zhou, X.S.. (2001). One-class SVM for learning in image retrieval. ICIP.
+
+[type: article
+title: An efficient color representation for image retrieval
+author: Yining Deng and B. S. Manjunath and Charles S. Kenney and Michael S. Moore and Hyundoo Shin
+year: 2001
+journal: 140-147
+volume: 10
+]
+
+
+item 2999 :not complete accurate.
+ The query string is : Joachims, T., & Yu, C.J.. (2009). Learning structural SVMs with latent variables. ICML.
+
+[type: article
+title: Cutting-plane training of structural SVMs
+author: Thorsten Joachims and Thomas Finley and Chun-Nam John Yu
+year: 2009
+journal: 27-59
+volume: 77
+]
+
+
+item 3001 :not complete accurate.
+ The query string is : Yu, Chun-Nam John and Thorsten Joachims. “Learning structural SVMs with latent variables.” ICML (2009).
+
+[type: article
+title: Cutting-plane training of structural SVMs
+author: Thorsten Joachims and Thomas Finley and Chun-Nam John Yu
+year: 2009
+journal: 27-59
+volume: 77
+]
+
+
+item 3003 :not complete accurate.
+ The query string is : Yu, Chun-Nam John and Thorsten Joachims. “Learning structural SVMs with latent variables.” ICML (2009).
+
+[type: article
+title: Cutting-plane training of structural SVMs
+author: Thorsten Joachims and Thomas Finley and Chun-Nam John Yu
+year: 2009
+journal: 27-59
+volume: 77
+]
+
+
+item 3064 :not complete accurate.
+ The query string is : Hoi, S.C., Jin, R., Lyu, M.R., & Zhu, J.. (2008). Semi-supervised SVM batch mode active learning for image retrieval. CVPR.
+
+[type: article
+title: Collaborative image retrieval via regularized metric learning
+author: Luo Si and Rong Jin and Steven C. H. Hoi and Michael R. Lyu
+year: 2006
+journal: 34-44
+volume: 12
+]
+
+
+item 3066 :not complete accurate.
+ The query string is : Hoi, Steven C. H., Rong Jin, Jianke Zhu and Michael R. Lyu. “Semi-supervised SVM batch mode active learning for image retrieval.” CVPR (2008).
+
+[type: article
+title: Collaborative image retrieval via regularized metric learning
+author: Luo Si and Rong Jin and Steven C. H. Hoi and Michael R. Lyu
+year: 2006
+journal: 34-44
+volume: 12
+]
+
+
+item 3068 :not complete accurate.
+ The query string is : Hoi, Steven C. H. et al. “Semi-supervised SVM batch mode active learning for image retrieval.” CVPR (2008).
+
+[type: article
+title: A Semi-Supervised Active Learning Framework for Image Retrieval
+author: Steven C. H. Hoi and Michael R. Lyu
+year: 2005
+booktitle: CVPR
+]
+
+
+item 3097 :not complete accurate.
+ The query string is : Altun, Y., Hofmann, T., Joachims, T., & Tsochantaridis, I.. (2004). Support vector machine learning for interdependent and structured output spaces. ICML.
+
+[type: article
+title: Large Margin Methods for Structured and Interdependent Output Variables
+author: Ioannis Tsochantaridis and Thorsten Joachims and Thomas Hofmann and Yasemin Altun
+year: 2005
+journal: 1453-1484
+volume: 6
+]
+
+
+item 3099 :not complete accurate.
+ The query string is : Tsochantaridis, Ioannis et al. “Support vector machine learning for interdependent and structured output spaces.” ICML (2004).
+
+[type: article
+title: Large Margin Methods for Structured and Interdependent Output Variables
+author: Ioannis Tsochantaridis and Thorsten Joachims and Thomas Hofmann and Yasemin Altun
+year: 2005
+journal: 1453-1484
+volume: 6
+]
+
+
+item 3101 :not complete accurate.
+ The query string is : Tsochantaridis, Ioannis et al. “Support vector machine learning for interdependent and structured output spaces.” ICML (2004).
+
+[type: article
+title: Large Margin Methods for Structured and Interdependent Output Variables
+author: Ioannis Tsochantaridis and Thorsten Joachims and Thomas Hofmann and Yasemin Altun
+year: 2005
+journal: 1453-1484
+volume: 6
+]
+
+
+item 3178 :not complete accurate.
+ The query string is : R?tsch, G., Sonnenburg, S., & Sch?lkopf, B.. (2005). Large scale genomic sequence SVM classifiers. ICML.
+
+[type: article
+title: Large Scale Multiple Kernel Learning
+author: S?ren Sonnenburg and Gunnar R?tsch and Christin Sch?fer and Bernhard Sch?lkopf
+year: 2006
+journal: 1531-1565
+volume: 7
+]
+
+
+item 3189 :not complete accurate.
+ The query string is : Chawla, N.V., Krasser, S., Tang, Y., & Zhang, Y.. (2009). SVMs Modeling for Highly Imbalanced Classification. IEEE Transactions on Systems, Man, and Cybernetics, Part B, 39, 281-288.
+
+[type: article
+title: SVMs Modeling for Highly Imbalanced Classification
+author: Yuchun Tang and Yan-Qing Zhang and Nitesh V. Chawla and Sven Krasser
+year: 2009
+journal: 281-288
+volume: 39
+]
+
+
+item 3200 :not complete accurate.
+ The query string is : Li, Li-Jia, Hao Su, Eric P. Xing and Li Fei-Fei. “Object Bank: A High-Level Image Representation for Scene Classification & Semantic Feature Sparsification.” NIPS (2010).
+
+[type: article
+title: ImageNet Large Scale Visual Recognition Challenge
+author: Aditya Khosla and Li Fei-Fei and Olga Russakovsky and Sanjeev Satheesh and Hao Su and Alexander C. Berg and Jonathan Krause and Sean Ma and Jia Deng and Andrej Karpathy and Zhiheng Huang and Michael S. Bernstein
+year: 2015
+journal: 
+volume: abs/1409.0575
+]
+
+
+item 3201 :not complete accurate.
+ The query string is : Bang, S.Y., Je, H., Kim, H., Kim, D., & Pang, S.. (2002). Support Vector Machine Ensemble with Bagging. SVM.
+
+[type: article
+title: Constructing support vector machine ensemble
+author: Hyun-Chul Kim and Shaoning Pang and Hong-Mo Je and Daijin Kim and Sung Yang Bang
+year: 2003
+journal: 2757-2767
+volume: 36
+]
+
+
+item 3203 :not complete accurate.
+ The query string is : Kim, Hyun-Chul et al. “Support Vector Machine Ensemble with Bagging.” SVM (2002).
+
+[type: article
+title: Constructing support vector machine ensemble
+author: Hyun-Chul Kim and Shaoning Pang and Hong-Mo Je and Daijin Kim and Sung Yang Bang
+year: 2003
+journal: 2757-2767
+volume: 36
+]
+
+
+item 3205 :not complete accurate.
+ The query string is : Kim, Hyun-Chul et al. “Support Vector Machine Ensemble with Bagging.” SVM (2002).
+
+[type: article
+title: Constructing support vector machine ensemble
+author: Hyun-Chul Kim and Shaoning Pang and Hong-Mo Je and Daijin Kim and Sung Yang Bang
+year: 2003
+journal: 2757-2767
+volume: 36
+]
+
+
+item 3282 :not complete accurate.
+ The query string is : Dehak, N., Dehak, R., Dumouchel, P., Kenny, P., & Ouellet, P.. (2011). Front-End Factor Analysis for Speaker Verification. IEEE Transactions on Audio, Speech & Language Processing, 19, 788-798.
+
+[type: article
+title: Front-End Factor Analysis for Speaker Verification
+author: Najim Dehak and Patrick Kenny and Réda Dehak and Pierre Dumouchel and Pierre Ouellet
+year: 2011
+journal: 788-798
+volume: 19
+]
+
+
+item 3303 :not complete accurate.
+ The query string is : Ayat, N., Cheriet, M., & Suen, C.Y.. (2002). Optimization of the SVM Kernels Using an Empirical Error Minimization Scheme. SVM.
+
+[type: article
+title: Automatic model selection for the optimization of SVM kernels
+author: Nedjem-Eddine Ayat and Mohamed Cheriet and Ching Y. Suen
+year: 2005
+journal: 1733-1745
+volume: 38
+]
+
+
+item 3305 :not complete accurate.
+ The query string is : Ayat, Nedjem-Eddine, Mohamed Cheriet and Ching Y. Suen. “Optimization of the SVM Kernels Using an Empirical Error Minimization Scheme.” SVM (2002).
+
+[type: article
+title: Automatic model selection for the optimization of SVM kernels
+author: Nedjem-Eddine Ayat and Mohamed Cheriet and Ching Y. Suen
+year: 2005
+journal: 1733-1745
+volume: 38
+]
+
+
+item 3307 :not complete accurate.
+ The query string is : Ayat, Nedjem-Eddine et al. “Optimization of the SVM Kernels Using an Empirical Error Minimization Scheme.” SVM (2002).
+
+[type: article
+title: Automatic model selection for the optimization of SVM kernels
+author: Nedjem-Eddine Ayat and Mohamed Cheriet and Ching Y. Suen
+year: 2005
+journal: 1733-1745
+volume: 38
+]
+
+
+item 3367 :not complete accurate.
+ The query string is : Clough, Paul D. et al. “The CLEF 2005 Cross-Language Image Retrieval Track.” CLEF (2003).
+
+[type: article
+title: The CLEF Cross Language Image Retrieval Track (ImageCLEF) 2004
+author: Paul D. Clough and Mark Sanderson and Henning Müller
+year: 2004
+booktitle: CIVR
+]
+
+

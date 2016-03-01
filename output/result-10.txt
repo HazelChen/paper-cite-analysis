@@ -1,0 +1,7127 @@
+item 1 :search with 10 result(s) accuracy: 1.0
+
+item 2 :search with 10 result(s) accuracy: 1.0
+
+item 3 :search with 10 result(s) accuracy: 1.0
+
+item 4 :search with 10 result(s) accuracy: 1.0
+
+item 5 :search with 10 result(s) accuracy: 1.0
+
+item 6 :search with 10 result(s) accuracy: 1.0
+
+item 7 :search with 10 result(s) accuracy: 1.0
+
+item 8 :search with 10 result(s) accuracy: 1.0
+
+item 9 :search with 10 result(s) accuracy: 1.0
+
+item 10 :search with 10 result(s) accuracy: 1.0
+
+item 11 :search with 10 result(s) accuracy: 1.0
+
+item 12 :search with 10 result(s) accuracy: 1.0
+
+item 13 :search with 10 result(s) accuracy: 1.0
+
+item 14 :search with 10 result(s) accuracy: 1.0
+
+item 15 :search with 10 result(s) accuracy: 1.0
+
+item 16 :search with 10 result(s) accuracy: 1.0
+
+item 17 :search with 10 result(s) accuracy: 1.0
+
+item 18 :search with 10 result(s) accuracy: 1.0
+
+item 19 :search with 10 result(s) accuracy: 1.0
+
+item 20 :search with 10 result(s) accuracy: 1.0
+
+item 21 :search with 10 result(s) accuracy: 1.0
+
+item 22 :search with 10 result(s) accuracy: 1.0
+
+item 23 :search with 10 result(s) accuracy: 1.0
+
+item 24 :search with 10 result(s) accuracy: 1.0
+
+item 25 :search with 10 result(s) accuracy: 1.0
+
+item 26 :search with 10 result(s) accuracy: 1.0
+
+item 27 :search with 10 result(s) accuracy: 1.0
+
+item 28 :search with 10 result(s) accuracy: 1.0
+
+item 29 :search with 10 result(s) accuracy: 1.0
+
+item 30 :search with 10 result(s) accuracy: 1.0
+
+item 31 :search with 10 result(s) accuracy: 1.0
+
+item 32 :search with 10 result(s) accuracy: 1.0
+
+item 33 :search with 10 result(s) accuracy: 1.0
+
+item 34 :search with 10 result(s) accuracy: 1.0
+
+item 35 :search with 10 result(s) accuracy: 1.0
+
+item 36 :search with 10 result(s) accuracy: 1.0
+
+item 37 :search with 10 result(s) accuracy: 1.0
+
+item 38 :search with 10 result(s) accuracy: 1.0
+
+item 39 :search with 10 result(s) accuracy: 1.0
+
+item 40 :search with 10 result(s) accuracy: 1.0
+
+item 41 :search with 10 result(s) accuracy: 1.0
+
+item 42 :search with 10 result(s) accuracy: 1.0
+
+item 43 :search with 10 result(s) accuracy: 1.0
+
+item 44 :search with 10 result(s) accuracy: 1.0
+
+item 45 :search with 10 result(s) accuracy: 1.0
+
+item 46 :search with 10 result(s) accuracy: 1.0
+
+item 47 :search with 10 result(s) accuracy: 1.0
+
+item 48 :search with 10 result(s) accuracy: 1.0
+
+item 49 :search with 10 result(s) accuracy: 1.0
+
+item 50 :search with 10 result(s) accuracy: 1.0
+
+item 51 :search with 10 result(s) accuracy: 1.0
+
+item 52 :search with 10 result(s) accuracy: 1.0
+
+item 53 :search with 10 result(s) accuracy: 1.0
+
+item 54 :search with 10 result(s) accuracy: 1.0
+
+item 55 :search with 10 result(s) accuracy: 1.0
+
+item 56 :search with 10 result(s) accuracy: 1.0
+
+item 57 :search with 10 result(s) accuracy: 1.0
+
+item 58 :search with 10 result(s) accuracy: 1.0
+
+item 59 :search with 10 result(s) accuracy: 1.0
+
+item 60 :search with 10 result(s) accuracy: 1.0
+
+item 61 :search with 10 result(s) accuracy: 1.0
+
+item 62 :search with 10 result(s) accuracy: 1.0
+
+item 63 :search with 10 result(s) accuracy: 1.0
+
+item 64 :search with 10 result(s) accuracy: 1.0
+
+item 65 :search with 10 result(s) accuracy: 1.0
+
+item 66 :search with 10 result(s) accuracy: 1.0
+
+item 67 :search with 10 result(s) accuracy: 1.0
+
+item 68 :search with 10 result(s) accuracy: 1.0
+
+item 69 :search with 10 result(s) accuracy: 1.0
+
+item 70 :search with 10 result(s) accuracy: 1.0
+
+item 71 :search with 10 result(s) accuracy: 1.0
+
+item 72 :search with 10 result(s) accuracy: 1.0
+
+item 73 :search with 10 result(s) accuracy: 1.0
+
+item 74 :search with 10 result(s) accuracy: 1.0
+
+item 75 :search with 10 result(s) accuracy: 1.0
+
+item 76 :search with 10 result(s) accuracy: 1.0
+
+item 77 :search with 10 result(s) accuracy: 1.0
+
+item 78 :search with 10 result(s) accuracy: 1.0
+
+item 79 :search with 10 result(s) accuracy: 1.0
+
+item 80 :search with 10 result(s) accuracy: 1.0
+
+item 81 :search with 10 result(s) accuracy: 1.0
+
+item 82 :search with 10 result(s) accuracy: 1.0
+
+item 83 :search with 10 result(s) accuracy: 1.0
+
+item 84 :search with 10 result(s) accuracy: 1.0
+
+item 85 :search with 10 result(s) accuracy: 1.0
+
+item 86 :search with 10 result(s) accuracy: 1.0
+
+item 87 :search with 10 result(s) accuracy: 1.0
+
+item 88 :search with 10 result(s) accuracy: 1.0
+
+item 89 :search with 10 result(s) accuracy: 1.0
+
+item 90 :search with 10 result(s) accuracy: 1.0
+
+item 91 :search with 10 result(s) accuracy: 1.0
+
+item 92 :search with 10 result(s) accuracy: 1.0
+
+item 93 :search with 10 result(s) accuracy: 1.0
+
+item 94 :search with 10 result(s) accuracy: 1.0
+
+item 95 :search with 10 result(s) accuracy: 1.0
+
+item 96 :search with 10 result(s) accuracy: 1.0
+
+item 97 :search with 10 result(s) accuracy: 1.0
+
+item 98 :search with 10 result(s) accuracy: 1.0
+
+item 99 :search with 10 result(s) accuracy: 1.0
+
+item 100 :search with 10 result(s) accuracy: 1.0
+
+item 101 :search with 10 result(s) accuracy: 1.0
+
+item 102 :search with 10 result(s) accuracy: 1.0
+
+item 103 :search with 10 result(s) accuracy: 1.0
+
+item 104 :search with 10 result(s) accuracy: 1.0
+
+item 105 :search with 10 result(s) accuracy: 1.0
+
+item 106 :search with 10 result(s) accuracy: 1.0
+
+item 107 :search with 10 result(s) accuracy: 1.0
+
+item 108 :search with 10 result(s) accuracy: 1.0
+
+item 109 :search with 10 result(s) accuracy: 1.0
+
+item 110 :search with 10 result(s) accuracy: 1.0
+
+item 111 :search with 10 result(s) accuracy: 1.0
+
+item 112 :search with 10 result(s) accuracy: 1.0
+
+item 113 :search with 10 result(s) accuracy: 1.0
+
+item 114 :search with 10 result(s) accuracy: 1.0
+
+item 115 :search with 10 result(s) accuracy: 1.0
+
+item 116 :search with 10 result(s) accuracy: 1.0
+
+item 117 :search with 10 result(s) accuracy: 1.0
+
+item 118 :search with 10 result(s) accuracy: 1.0
+
+item 119 :search with 10 result(s) accuracy: 1.0
+
+item 120 :search with 10 result(s) accuracy: 1.0
+
+item 121 :search with 10 result(s) accuracy: 1.0
+
+item 122 :search with 10 result(s) accuracy: 1.0
+
+item 123 :search with 10 result(s) accuracy: 1.0
+
+item 124 :search with 10 result(s) accuracy: 1.0
+
+item 125 :search with 10 result(s) accuracy: 1.0
+
+item 126 :search with 10 result(s) accuracy: 1.0
+
+item 127 :search with 10 result(s) accuracy: 0.9
+
+item 128 :search with 10 result(s) accuracy: 1.0
+
+item 129 :search with 10 result(s) accuracy: 1.0
+
+item 130 :search with 10 result(s) accuracy: 1.0
+
+item 131 :search with 10 result(s) accuracy: 0.9
+
+item 132 :search with 10 result(s) accuracy: 1.0
+
+item 133 :search with 10 result(s) accuracy: 0.9
+
+item 134 :search with 10 result(s) accuracy: 1.0
+
+item 135 :search with 10 result(s) accuracy: 0.9
+
+item 136 :search with 10 result(s) accuracy: 1.0
+
+item 137 :search with 10 result(s) accuracy: 1.0
+
+item 138 :search with 10 result(s) accuracy: 1.0
+
+item 139 :search with 10 result(s) accuracy: 1.0
+
+item 140 :search with 10 result(s) accuracy: 1.0
+
+item 141 :search with 10 result(s) accuracy: 1.0
+
+item 142 :search with 10 result(s) accuracy: 1.0
+
+item 143 :search with 10 result(s) accuracy: 1.0
+
+item 144 :search with 10 result(s) accuracy: 1.0
+
+item 145 :search with 10 result(s) accuracy: 1.0
+
+item 146 :search with 10 result(s) accuracy: 1.0
+
+item 147 :search with 10 result(s) accuracy: 1.0
+
+item 148 :search with 10 result(s) accuracy: 1.0
+
+item 149 :search with 10 result(s) accuracy: 1.0
+
+item 150 :search with 10 result(s) accuracy: 1.0
+
+item 151 :search with 10 result(s) accuracy: 1.0
+
+item 152 :search with 10 result(s) accuracy: 1.0
+
+item 153 :search with 10 result(s) accuracy: 1.0
+
+item 154 :search with 10 result(s) accuracy: 1.0
+
+item 155 :search with 10 result(s) accuracy: 1.0
+
+item 156 :search with 10 result(s) accuracy: 1.0
+
+item 157 :search with 10 result(s) accuracy: 1.0
+
+item 158 :search with 10 result(s) accuracy: 1.0
+
+item 159 :search with 10 result(s) accuracy: 1.0
+
+item 160 :search with 10 result(s) accuracy: 1.0
+
+item 161 :search with 10 result(s) accuracy: 1.0
+
+item 162 :search with 10 result(s) accuracy: 1.0
+
+item 163 :search with 10 result(s) accuracy: 1.0
+
+item 164 :search with 10 result(s) accuracy: 1.0
+
+item 165 :search with 10 result(s) accuracy: 1.0
+
+item 166 :search with 10 result(s) accuracy: 1.0
+
+item 167 :search with 10 result(s) accuracy: 1.0
+
+item 168 :search with 10 result(s) accuracy: 1.0
+
+item 169 :search with 10 result(s) accuracy: 1.0
+
+item 170 :search with 10 result(s) accuracy: 1.0
+
+item 171 :search with 10 result(s) accuracy: 1.0
+
+item 172 :search with 10 result(s) accuracy: 1.0
+
+item 173 :search with 10 result(s) accuracy: 1.0
+
+item 174 :search with 10 result(s) accuracy: 1.0
+
+item 175 :search with 10 result(s) accuracy: 1.0
+
+item 176 :search with 10 result(s) accuracy: 1.0
+
+item 177 :search with 10 result(s) accuracy: 1.0
+
+item 178 :search with 10 result(s) accuracy: 1.0
+
+item 179 :search with 10 result(s) accuracy: 1.0
+
+item 180 :search with 10 result(s) accuracy: 1.0
+
+item 181 :search with 10 result(s) accuracy: 1.0
+
+item 182 :search with 10 result(s) accuracy: 1.0
+
+item 183 :search with 10 result(s) accuracy: 1.0
+
+item 184 :search with 10 result(s) accuracy: 1.0
+
+item 185 :search with 10 result(s) accuracy: 1.0
+
+item 186 :search with 10 result(s) accuracy: 1.0
+
+item 187 :search with 10 result(s) accuracy: 1.0
+
+item 188 :search with 10 result(s) accuracy: 1.0
+
+item 189 :search with 10 result(s) accuracy: 1.0
+
+item 190 :search with 10 result(s) accuracy: 1.0
+
+item 191 :search with 10 result(s) accuracy: 1.0
+
+item 192 :search with 10 result(s) accuracy: 1.0
+
+item 193 :search with 10 result(s) accuracy: 1.0
+
+item 194 :search with 10 result(s) accuracy: 1.0
+
+item 195 :search with 10 result(s) accuracy: 1.0
+
+item 196 :search with 10 result(s) accuracy: 1.0
+
+item 197 :search with 10 result(s) accuracy: 1.0
+
+item 198 :search with 10 result(s) accuracy: 1.0
+
+item 199 :search with 10 result(s) accuracy: 1.0
+
+item 200 :search with 10 result(s) accuracy: 1.0
+
+item 201 :search with 10 result(s) accuracy: 1.0
+
+item 202 :search with 10 result(s) accuracy: 1.0
+
+item 203 :search with 10 result(s) accuracy: 1.0
+
+item 204 :search with 10 result(s) accuracy: 1.0
+
+item 205 :search with 10 result(s) accuracy: 1.0
+
+item 206 :search with 10 result(s) accuracy: 1.0
+
+item 207 :search with 10 result(s) accuracy: 1.0
+
+item 208 :search with 10 result(s) accuracy: 1.0
+
+item 209 :search with 10 result(s) accuracy: 1.0
+
+item 210 :search with 10 result(s) accuracy: 1.0
+
+item 211 :search with 10 result(s) accuracy: 1.0
+
+item 212 :search with 10 result(s) accuracy: 1.0
+
+item 213 :search with 10 result(s) accuracy: 1.0
+
+item 214 :search with 10 result(s) accuracy: 1.0
+
+item 215 :search with 10 result(s) accuracy: 1.0
+
+item 216 :search with 10 result(s) accuracy: 1.0
+
+item 217 :search with 10 result(s) accuracy: 1.0
+
+item 218 :search with 10 result(s) accuracy: 1.0
+
+item 219 :search with 10 result(s) accuracy: 1.0
+
+item 220 :search with 10 result(s) accuracy: 1.0
+
+item 221 :search with 10 result(s) accuracy: 1.0
+
+item 222 :search with 10 result(s) accuracy: 1.0
+
+item 223 :search with 10 result(s) accuracy: 1.0
+
+item 224 :search with 10 result(s) accuracy: 1.0
+
+item 225 :search with 10 result(s) accuracy: 1.0
+
+item 226 :search with 10 result(s) accuracy: 1.0
+
+item 227 :search with 10 result(s) accuracy: 1.0
+
+item 228 :search with 10 result(s) accuracy: 1.0
+
+item 229 :search with 10 result(s) accuracy: 1.0
+
+item 230 :search with 10 result(s) accuracy: 1.0
+
+item 231 :search with 10 result(s) accuracy: 1.0
+
+item 232 :search with 10 result(s) accuracy: 1.0
+
+item 233 :search with 10 result(s) accuracy: 1.0
+
+item 234 :search with 10 result(s) accuracy: 1.0
+
+item 235 :search with 10 result(s) accuracy: 1.0
+
+item 236 :search with 10 result(s) accuracy: 0.9
+
+item 237 :search with 10 result(s) accuracy: 1.0
+
+item 238 :search with 10 result(s) accuracy: 0.9
+
+item 239 :search with 10 result(s) accuracy: 1.0
+
+item 240 :search with 10 result(s) accuracy: 1.0
+
+item 241 :search with 10 result(s) accuracy: 1.0
+
+item 242 :search with 10 result(s) accuracy: 1.0
+
+item 243 :search with 10 result(s) accuracy: 1.0
+
+item 244 :search with 10 result(s) accuracy: 1.0
+
+item 245 :search with 10 result(s) accuracy: 1.0
+
+item 246 :search with 10 result(s) accuracy: 1.0
+
+item 247 :search with 10 result(s) accuracy: 1.0
+
+item 248 :search with 10 result(s) accuracy: 1.0
+
+item 249 :search with 10 result(s) accuracy: 1.0
+
+item 250 :search with 10 result(s) accuracy: 1.0
+
+item 251 :search with 10 result(s) accuracy: 1.0
+
+item 252 :search with 10 result(s) accuracy: 1.0
+
+item 253 :search with 10 result(s) accuracy: 1.0
+
+item 254 :search with 10 result(s) accuracy: 1.0
+
+item 255 :search with 10 result(s) accuracy: 1.0
+
+item 256 :search with 10 result(s) accuracy: 1.0
+
+item 257 :search with 10 result(s) accuracy: 1.0
+
+item 258 :search with 10 result(s) accuracy: 1.0
+
+item 259 :search with 10 result(s) accuracy: 1.0
+
+item 260 :search with 10 result(s) accuracy: 1.0
+
+item 261 :search with 10 result(s) accuracy: 1.0
+
+item 262 :search with 10 result(s) accuracy: 1.0
+
+item 263 :search with 10 result(s) accuracy: 1.0
+
+item 264 :search with 10 result(s) accuracy: 1.0
+
+item 265 :search with 10 result(s) accuracy: 1.0
+
+item 266 :search with 10 result(s) accuracy: 1.0
+
+item 267 :search with 10 result(s) accuracy: 1.0
+
+item 268 :search with 10 result(s) accuracy: 1.0
+
+item 269 :search with 10 result(s) accuracy: 1.0
+
+item 270 :search with 10 result(s) accuracy: 1.0
+
+item 271 :search with 10 result(s) accuracy: 1.0
+
+item 272 :search with 10 result(s) accuracy: 1.0
+
+item 273 :search with 10 result(s) accuracy: 1.0
+
+item 274 :search with 10 result(s) accuracy: 1.0
+
+item 275 :search with 10 result(s) accuracy: 1.0
+
+item 276 :search with 10 result(s) accuracy: 1.0
+
+item 277 :search with 10 result(s) accuracy: 1.0
+
+item 278 :search with 10 result(s) accuracy: 1.0
+
+item 279 :search with 10 result(s) accuracy: 1.0
+
+item 280 :search with 10 result(s) accuracy: 1.0
+
+item 281 :search with 10 result(s) accuracy: 1.0
+
+item 282 :search with 10 result(s) accuracy: 1.0
+
+item 283 :search with 10 result(s) accuracy: 1.0
+
+item 284 :search with 10 result(s) accuracy: 1.0
+
+item 285 :search with 10 result(s) accuracy: 1.0
+
+item 286 :search with 10 result(s) accuracy: 1.0
+
+item 287 :search with 10 result(s) accuracy: 1.0
+
+item 288 :search with 10 result(s) accuracy: 1.0
+
+item 289 :search with 10 result(s) accuracy: 1.0
+
+item 290 :search with 10 result(s) accuracy: 1.0
+
+item 291 :search with 10 result(s) accuracy: 1.0
+
+item 292 :search with 10 result(s) accuracy: 1.0
+
+item 293 :search with 10 result(s) accuracy: 1.0
+
+item 294 :search with 10 result(s) accuracy: 1.0
+
+item 295 :search with 10 result(s) accuracy: 1.0
+
+item 296 :search with 10 result(s) accuracy: 1.0
+
+item 297 :search with 10 result(s) accuracy: 1.0
+
+item 298 :search with 10 result(s) accuracy: 1.0
+
+item 299 :search with 10 result(s) accuracy: 1.0
+
+item 300 :search with 10 result(s) accuracy: 1.0
+
+item 301 :search with 10 result(s) accuracy: 1.0
+
+item 302 :search with 10 result(s) accuracy: 1.0
+
+item 303 :search with 10 result(s) accuracy: 1.0
+
+item 304 :search with 10 result(s) accuracy: 1.0
+
+item 305 :search with 10 result(s) accuracy: 1.0
+
+item 306 :search with 10 result(s) accuracy: 1.0
+
+item 307 :search with 10 result(s) accuracy: 1.0
+
+item 308 :search with 10 result(s) accuracy: 1.0
+
+item 309 :search with 10 result(s) accuracy: 1.0
+
+item 310 :search with 10 result(s) accuracy: 1.0
+
+item 311 :search with 10 result(s) accuracy: 1.0
+
+item 312 :search with 10 result(s) accuracy: 1.0
+
+item 313 :search with 10 result(s) accuracy: 1.0
+
+item 314 :search with 10 result(s) accuracy: 1.0
+
+item 315 :search with 10 result(s) accuracy: 1.0
+
+item 316 :search with 10 result(s) accuracy: 1.0
+
+item 317 :search with 10 result(s) accuracy: 1.0
+
+item 318 :search with 10 result(s) accuracy: 1.0
+
+item 319 :search with 10 result(s) accuracy: 1.0
+
+item 320 :search with 10 result(s) accuracy: 1.0
+
+item 321 :search with 10 result(s) accuracy: 1.0
+
+item 322 :search with 10 result(s) accuracy: 1.0
+
+item 323 :search with 10 result(s) accuracy: 1.0
+
+item 324 :search with 10 result(s) accuracy: 1.0
+
+item 325 :search with 10 result(s) accuracy: 1.0
+
+item 326 :search with 10 result(s) accuracy: 1.0
+
+item 327 :search with 10 result(s) accuracy: 1.0
+
+item 328 :search with 10 result(s) accuracy: 1.0
+
+item 329 :search with 10 result(s) accuracy: 1.0
+
+item 330 :search with 10 result(s) accuracy: 1.0
+
+item 331 :search with 10 result(s) accuracy: 1.0
+
+item 332 :search with 10 result(s) accuracy: 1.0
+
+item 333 :search with 10 result(s) accuracy: 1.0
+
+item 334 :search with 10 result(s) accuracy: 1.0
+
+item 335 :search with 10 result(s) accuracy: 1.0
+
+item 336 :search with 10 result(s) accuracy: 1.0
+
+item 337 :search with 10 result(s) accuracy: 1.0
+
+item 338 :search with 10 result(s) accuracy: 0.9
+
+item 339 :search with 10 result(s) accuracy: 1.0
+
+item 340 :search with 10 result(s) accuracy: 1.0
+
+item 341 :search with 10 result(s) accuracy: 1.0
+
+item 342 :search with 10 result(s) accuracy: 1.0
+
+item 343 :search with 10 result(s) accuracy: 1.0
+
+item 344 :search with 10 result(s) accuracy: 1.0
+
+item 345 :search with 10 result(s) accuracy: 1.0
+
+item 346 :search with 10 result(s) accuracy: 1.0
+
+item 347 :search with 10 result(s) accuracy: 1.0
+
+item 348 :search with 10 result(s) accuracy: 1.0
+
+item 349 :search with 10 result(s) accuracy: 1.0
+
+item 350 :search with 10 result(s) accuracy: 1.0
+
+item 351 :search with 10 result(s) accuracy: 1.0
+
+item 352 :search with 10 result(s) accuracy: 1.0
+
+item 353 :search with 10 result(s) accuracy: 1.0
+
+item 354 :search with 10 result(s) accuracy: 1.0
+
+item 355 :search with 10 result(s) accuracy: 1.0
+
+item 356 :search with 10 result(s) accuracy: 1.0
+
+item 357 :search with 10 result(s) accuracy: 1.0
+
+item 358 :search with 10 result(s) accuracy: 1.0
+
+item 359 :search with 10 result(s) accuracy: 1.0
+
+item 360 :search with 10 result(s) accuracy: 1.0
+
+item 361 :search with 10 result(s) accuracy: 1.0
+
+item 362 :search with 10 result(s) accuracy: 1.0
+
+item 363 :search with 10 result(s) accuracy: 1.0
+
+item 364 :search with 10 result(s) accuracy: 1.0
+
+item 365 :search with 10 result(s) accuracy: 1.0
+
+item 366 :search with 10 result(s) accuracy: 1.0
+
+item 367 :search with 10 result(s) accuracy: 1.0
+
+item 368 :search with 10 result(s) accuracy: 1.0
+
+item 369 :search with 10 result(s) accuracy: 1.0
+
+item 370 :search with 10 result(s) accuracy: 1.0
+
+item 371 :search with 10 result(s) accuracy: 1.0
+
+item 372 :search with 10 result(s) accuracy: 1.0
+
+item 373 :search with 10 result(s) accuracy: 1.0
+
+item 374 :search with 10 result(s) accuracy: 1.0
+
+item 375 :search with 10 result(s) accuracy: 1.0
+
+item 376 :search with 10 result(s) accuracy: 1.0
+
+item 377 :search with 10 result(s) accuracy: 1.0
+
+item 378 :search with 10 result(s) accuracy: 1.0
+
+item 379 :search with 10 result(s) accuracy: 1.0
+
+item 380 :search with 10 result(s) accuracy: 1.0
+
+item 381 :search with 10 result(s) accuracy: 1.0
+
+item 382 :search with 10 result(s) accuracy: 1.0
+
+item 383 :search with 10 result(s) accuracy: 1.0
+
+item 384 :search with 10 result(s) accuracy: 1.0
+
+item 385 :search with 10 result(s) accuracy: 1.0
+
+item 386 :search with 10 result(s) accuracy: 1.0
+
+item 387 :search with 10 result(s) accuracy: 1.0
+
+item 388 :search with 10 result(s) accuracy: 1.0
+
+item 389 :search with 10 result(s) accuracy: 1.0
+
+item 390 :search with 10 result(s) accuracy: 1.0
+
+item 391 :search with 10 result(s) accuracy: 1.0
+
+item 392 :search with 10 result(s) accuracy: 1.0
+
+item 393 :search with 10 result(s) accuracy: 1.0
+
+item 394 :search with 10 result(s) accuracy: 1.0
+
+item 395 :search with 10 result(s) accuracy: 1.0
+
+item 396 :search with 10 result(s) accuracy: 0.9
+
+item 397 :search with 10 result(s) accuracy: 1.0
+
+item 398 :search with 10 result(s) accuracy: 0.9
+
+item 399 :search with 10 result(s) accuracy: 1.0
+
+item 400 :search with 10 result(s) accuracy: 0.9
+
+item 401 :search with 10 result(s) accuracy: 1.0
+
+item 402 :search with 10 result(s) accuracy: 1.0
+
+item 403 :search with 10 result(s) accuracy: 1.0
+
+item 404 :search with 10 result(s) accuracy: 1.0
+
+item 405 :search with 10 result(s) accuracy: 1.0
+
+item 406 :search with 10 result(s) accuracy: 1.0
+
+item 407 :search with 10 result(s) accuracy: 1.0
+
+item 408 :search with 10 result(s) accuracy: 1.0
+
+item 409 :search with 10 result(s) accuracy: 1.0
+
+item 410 :search with 10 result(s) accuracy: 1.0
+
+item 411 :search with 10 result(s) accuracy: 1.0
+
+item 412 :search with 10 result(s) accuracy: 1.0
+
+item 413 :search with 10 result(s) accuracy: 1.0
+
+item 414 :search with 10 result(s) accuracy: 1.0
+
+item 415 :search with 10 result(s) accuracy: 1.0
+
+item 416 :search with 10 result(s) accuracy: 1.0
+
+item 417 :search with 10 result(s) accuracy: 1.0
+
+item 418 :search with 10 result(s) accuracy: 1.0
+
+item 419 :search with 10 result(s) accuracy: 1.0
+
+item 420 :search with 10 result(s) accuracy: 1.0
+
+item 421 :search with 10 result(s) accuracy: 1.0
+
+item 422 :search with 10 result(s) accuracy: 1.0
+
+item 423 :search with 10 result(s) accuracy: 1.0
+
+item 424 :search with 10 result(s) accuracy: 1.0
+
+item 425 :search with 10 result(s) accuracy: 1.0
+
+item 426 :search with 10 result(s) accuracy: 1.0
+
+item 427 :search with 10 result(s) accuracy: 1.0
+
+item 428 :search with 10 result(s) accuracy: 1.0
+
+item 429 :search with 10 result(s) accuracy: 1.0
+
+item 430 :search with 10 result(s) accuracy: 1.0
+
+item 431 :search with 10 result(s) accuracy: 1.0
+
+item 432 :search with 10 result(s) accuracy: 1.0
+
+item 433 :search with 10 result(s) accuracy: 1.0
+
+item 434 :search with 10 result(s) accuracy: 1.0
+
+item 435 :search with 10 result(s) accuracy: 1.0
+
+item 436 :search with 10 result(s) accuracy: 1.0
+
+item 437 :search with 10 result(s) accuracy: 1.0
+
+item 438 :search with 10 result(s) accuracy: 1.0
+
+item 439 :search with 10 result(s) accuracy: 1.0
+
+item 440 :search with 10 result(s) accuracy: 1.0
+
+item 441 :search with 10 result(s) accuracy: 1.0
+
+item 442 :search with 10 result(s) accuracy: 1.0
+
+item 443 :search with 10 result(s) accuracy: 1.0
+
+item 444 :search with 10 result(s) accuracy: 1.0
+
+item 445 :search with 10 result(s) accuracy: 1.0
+
+item 446 :search with 10 result(s) accuracy: 1.0
+
+item 447 :search with 10 result(s) accuracy: 1.0
+
+item 448 :search with 10 result(s) accuracy: 1.0
+
+item 449 :search with 10 result(s) accuracy: 1.0
+
+item 450 :search with 10 result(s) accuracy: 1.0
+
+item 451 :search with 10 result(s) accuracy: 1.0
+
+item 452 :search with 10 result(s) accuracy: 1.0
+
+item 453 :search with 10 result(s) accuracy: 1.0
+
+item 454 :search with 10 result(s) accuracy: 1.0
+
+item 455 :search with 10 result(s) accuracy: 1.0
+
+item 456 :search with 10 result(s) accuracy: 1.0
+
+item 457 :search with 10 result(s) accuracy: 1.0
+
+item 458 :search with 10 result(s) accuracy: 1.0
+
+item 459 :search with 10 result(s) accuracy: 1.0
+
+item 460 :search with 10 result(s) accuracy: 1.0
+
+item 461 :search with 10 result(s) accuracy: 1.0
+
+item 462 :search with 10 result(s) accuracy: 1.0
+
+item 463 :search with 10 result(s) accuracy: 1.0
+
+item 464 :search with 10 result(s) accuracy: 1.0
+
+item 465 :search with 10 result(s) accuracy: 1.0
+
+item 466 :search with 10 result(s) accuracy: 1.0
+
+item 467 :search with 10 result(s) accuracy: 1.0
+
+item 468 :search with 10 result(s) accuracy: 0.8
+
+item 469 :search with 10 result(s) accuracy: 1.0
+
+item 470 :search with 10 result(s) accuracy: 0.8
+
+item 471 :search with 10 result(s) accuracy: 1.0
+
+item 472 :search with 10 result(s) accuracy: 1.0
+
+item 473 :search with 10 result(s) accuracy: 1.0
+
+item 474 :search with 10 result(s) accuracy: 1.0
+
+item 475 :search with 10 result(s) accuracy: 1.0
+
+item 476 :search with 10 result(s) accuracy: 1.0
+
+item 477 :search with 10 result(s) accuracy: 1.0
+
+item 478 :search with 10 result(s) accuracy: 1.0
+
+item 479 :search with 10 result(s) accuracy: 1.0
+
+item 480 :search with 10 result(s) accuracy: 1.0
+
+item 481 :search with 10 result(s) accuracy: 1.0
+
+item 482 :search with 10 result(s) accuracy: 1.0
+
+item 483 :search with 10 result(s) accuracy: 1.0
+
+item 484 :search with 10 result(s) accuracy: 1.0
+
+item 485 :search with 10 result(s) accuracy: 1.0
+
+item 486 :search with 10 result(s) accuracy: 1.0
+
+item 487 :search with 10 result(s) accuracy: 1.0
+
+item 488 :search with 10 result(s) accuracy: 1.0
+
+item 489 :search with 10 result(s) accuracy: 1.0
+
+item 490 :search with 10 result(s) accuracy: 1.0
+
+item 491 :search with 10 result(s) accuracy: 1.0
+
+item 492 :search with 10 result(s) accuracy: 1.0
+
+item 493 :search with 10 result(s) accuracy: 1.0
+
+item 494 :search with 10 result(s) accuracy: 1.0
+
+item 495 :search with 10 result(s) accuracy: 1.0
+
+item 496 :search with 10 result(s) accuracy: 1.0
+
+item 497 :search with 10 result(s) accuracy: 1.0
+
+item 498 :search with 10 result(s) accuracy: 1.0
+
+item 499 :search with 10 result(s) accuracy: 1.0
+
+item 500 :search with 10 result(s) accuracy: 1.0
+
+item 501 :search with 10 result(s) accuracy: 1.0
+
+item 502 :search with 10 result(s) accuracy: 0.9
+
+item 503 :search with 10 result(s) accuracy: 1.0
+
+item 504 :search with 10 result(s) accuracy: 1.0
+
+item 505 :search with 10 result(s) accuracy: 1.0
+
+item 506 :search with 10 result(s) accuracy: 1.0
+
+item 507 :search with 10 result(s) accuracy: 1.0
+
+item 508 :search with 10 result(s) accuracy: 1.0
+
+item 509 :search with 10 result(s) accuracy: 1.0
+
+item 510 :search with 10 result(s) accuracy: 1.0
+
+item 511 :search with 10 result(s) accuracy: 1.0
+
+item 512 :search with 10 result(s) accuracy: 1.0
+
+item 513 :search with 10 result(s) accuracy: 1.0
+
+item 514 :search with 10 result(s) accuracy: 1.0
+
+item 515 :search with 10 result(s) accuracy: 1.0
+
+item 516 :search with 10 result(s) accuracy: 1.0
+
+item 517 :search with 10 result(s) accuracy: 1.0
+
+item 518 :search with 10 result(s) accuracy: 1.0
+
+item 519 :search with 10 result(s) accuracy: 1.0
+
+item 520 :search with 10 result(s) accuracy: 1.0
+
+item 521 :search with 10 result(s) accuracy: 1.0
+
+item 522 :search with 10 result(s) accuracy: 1.0
+
+item 523 :search with 10 result(s) accuracy: 1.0
+
+item 524 :search with 10 result(s) accuracy: 1.0
+
+item 525 :search with 10 result(s) accuracy: 1.0
+
+item 526 :search with 10 result(s) accuracy: 1.0
+
+item 527 :search with 10 result(s) accuracy: 1.0
+
+item 528 :search with 10 result(s) accuracy: 1.0
+
+item 529 :search with 10 result(s) accuracy: 1.0
+
+item 530 :search with 10 result(s) accuracy: 1.0
+
+item 531 :search with 10 result(s) accuracy: 1.0
+
+item 532 :search with 10 result(s) accuracy: 1.0
+
+item 533 :search with 10 result(s) accuracy: 1.0
+
+item 534 :search with 10 result(s) accuracy: 1.0
+
+item 535 :search with 10 result(s) accuracy: 1.0
+
+item 536 :search with 10 result(s) accuracy: 1.0
+
+item 537 :search with 10 result(s) accuracy: 1.0
+
+item 538 :search with 10 result(s) accuracy: 1.0
+
+item 539 :search with 10 result(s) accuracy: 1.0
+
+item 540 :search with 10 result(s) accuracy: 1.0
+
+item 541 :search with 10 result(s) accuracy: 1.0
+
+item 542 :search with 10 result(s) accuracy: 1.0
+
+item 543 :search with 10 result(s) accuracy: 1.0
+
+item 544 :search with 10 result(s) accuracy: 1.0
+
+item 545 :search with 10 result(s) accuracy: 1.0
+
+item 546 :search with 10 result(s) accuracy: 1.0
+
+item 547 :search with 10 result(s) accuracy: 1.0
+
+item 548 :search with 10 result(s) accuracy: 1.0
+
+item 549 :search with 10 result(s) accuracy: 1.0
+
+item 550 :search with 10 result(s) accuracy: 1.0
+
+item 551 :search with 10 result(s) accuracy: 1.0
+
+item 552 :search with 10 result(s) accuracy: 1.0
+
+item 553 :search with 10 result(s) accuracy: 1.0
+
+item 554 :search with 10 result(s) accuracy: 1.0
+
+item 555 :search with 10 result(s) accuracy: 1.0
+
+item 556 :search with 10 result(s) accuracy: 1.0
+
+item 557 :search with 10 result(s) accuracy: 1.0
+
+item 558 :search with 10 result(s) accuracy: 1.0
+
+item 559 :search with 10 result(s) accuracy: 1.0
+
+item 560 :search with 10 result(s) accuracy: 1.0
+
+item 561 :search with 10 result(s) accuracy: 1.0
+
+item 562 :search with 10 result(s) accuracy: 1.0
+
+item 563 :search with 10 result(s) accuracy: 1.0
+
+item 564 :search with 10 result(s) accuracy: 1.0
+
+item 565 :search with 10 result(s) accuracy: 1.0
+
+item 566 :search with 10 result(s) accuracy: 1.0
+
+item 567 :search with 10 result(s) accuracy: 1.0
+
+item 568 :search with 10 result(s) accuracy: 1.0
+
+item 569 :search with 10 result(s) accuracy: 1.0
+
+item 570 :search with 10 result(s) accuracy: 1.0
+
+item 571 :search with 10 result(s) accuracy: 1.0
+
+item 572 :search with 10 result(s) accuracy: 1.0
+
+item 573 :search with 10 result(s) accuracy: 1.0
+
+item 574 :search with 10 result(s) accuracy: 1.0
+
+item 575 :search with 10 result(s) accuracy: 0.9
+
+item 576 :search with 10 result(s) accuracy: 1.0
+
+item 577 :search with 10 result(s) accuracy: 1.0
+
+item 578 :search with 10 result(s) accuracy: 1.0
+
+item 579 :search with 10 result(s) accuracy: 1.0
+
+item 580 :search with 10 result(s) accuracy: 1.0
+
+item 581 :search with 10 result(s) accuracy: 1.0
+
+item 582 :search with 10 result(s) accuracy: 1.0
+
+item 583 :search with 10 result(s) accuracy: 1.0
+
+item 584 :search with 10 result(s) accuracy: 1.0
+
+item 585 :search with 10 result(s) accuracy: 1.0
+
+item 586 :search with 10 result(s) accuracy: 1.0
+
+item 587 :search with 10 result(s) accuracy: 1.0
+
+item 588 :search with 10 result(s) accuracy: 1.0
+
+item 589 :search with 10 result(s) accuracy: 1.0
+
+item 590 :search with 10 result(s) accuracy: 1.0
+
+item 591 :search with 10 result(s) accuracy: 1.0
+
+item 592 :search with 10 result(s) accuracy: 1.0
+
+item 593 :search with 10 result(s) accuracy: 1.0
+
+item 594 :search with 10 result(s) accuracy: 1.0
+
+item 595 :search with 10 result(s) accuracy: 1.0
+
+item 596 :search with 10 result(s) accuracy: 1.0
+
+item 597 :search with 10 result(s) accuracy: 1.0
+
+item 598 :search with 10 result(s) accuracy: 1.0
+
+item 599 :search with 10 result(s) accuracy: 1.0
+
+item 600 :search with 10 result(s) accuracy: 1.0
+
+item 601 :search with 10 result(s) accuracy: 1.0
+
+item 602 :search with 10 result(s) accuracy: 1.0
+
+item 603 :search with 10 result(s) accuracy: 1.0
+
+item 604 :search with 10 result(s) accuracy: 1.0
+
+item 605 :search with 10 result(s) accuracy: 1.0
+
+item 606 :search with 10 result(s) accuracy: 1.0
+
+item 607 :search with 10 result(s) accuracy: 1.0
+
+item 608 :search with 10 result(s) accuracy: 1.0
+
+item 609 :search with 10 result(s) accuracy: 1.0
+
+item 610 :search with 10 result(s) accuracy: 1.0
+
+item 611 :search with 10 result(s) accuracy: 1.0
+
+item 612 :search with 10 result(s) accuracy: 1.0
+
+item 613 :search with 10 result(s) accuracy: 1.0
+
+item 614 :search with 10 result(s) accuracy: 1.0
+
+item 615 :search with 10 result(s) accuracy: 1.0
+
+item 616 :search with 10 result(s) accuracy: 1.0
+
+item 617 :search with 10 result(s) accuracy: 1.0
+
+item 618 :search with 10 result(s) accuracy: 1.0
+
+item 619 :search with 10 result(s) accuracy: 1.0
+
+item 620 :search with 10 result(s) accuracy: 1.0
+
+item 621 :search with 10 result(s) accuracy: 1.0
+
+item 622 :search with 10 result(s) accuracy: 1.0
+
+item 623 :search with 10 result(s) accuracy: 1.0
+
+item 624 :search with 10 result(s) accuracy: 1.0
+
+item 625 :search with 10 result(s) accuracy: 1.0
+
+item 626 :search with 10 result(s) accuracy: 1.0
+
+item 627 :search with 10 result(s) accuracy: 1.0
+
+item 628 :search with 10 result(s) accuracy: 1.0
+
+item 629 :search with 10 result(s) accuracy: 1.0
+
+item 630 :search with 10 result(s) accuracy: 1.0
+
+item 631 :search with 10 result(s) accuracy: 1.0
+
+item 632 :search with 10 result(s) accuracy: 1.0
+
+item 633 :search with 10 result(s) accuracy: 1.0
+
+item 634 :search with 10 result(s) accuracy: 1.0
+
+item 635 :search with 10 result(s) accuracy: 1.0
+
+item 636 :search with 10 result(s) accuracy: 1.0
+
+item 637 :search with 10 result(s) accuracy: 1.0
+
+item 638 :search with 10 result(s) accuracy: 1.0
+
+item 639 :search with 10 result(s) accuracy: 1.0
+
+item 640 :search with 10 result(s) accuracy: 1.0
+
+item 641 :search with 10 result(s) accuracy: 1.0
+
+item 642 :search with 10 result(s) accuracy: 1.0
+
+item 643 :search with 10 result(s) accuracy: 1.0
+
+item 644 :search with 10 result(s) accuracy: 1.0
+
+item 645 :search with 10 result(s) accuracy: 1.0
+
+item 646 :search with 10 result(s) accuracy: 1.0
+
+item 647 :search with 10 result(s) accuracy: 1.0
+
+item 648 :search with 10 result(s) accuracy: 1.0
+
+item 649 :search with 10 result(s) accuracy: 1.0
+
+item 650 :search with 10 result(s) accuracy: 1.0
+
+item 651 :search with 10 result(s) accuracy: 1.0
+
+item 652 :search with 10 result(s) accuracy: 1.0
+
+item 653 :search with 10 result(s) accuracy: 1.0
+
+item 654 :search with 10 result(s) accuracy: 1.0
+
+item 655 :search with 10 result(s) accuracy: 1.0
+
+item 656 :search with 10 result(s) accuracy: 1.0
+
+item 657 :search with 10 result(s) accuracy: 1.0
+
+item 658 :search with 10 result(s) accuracy: 1.0
+
+item 659 :search with 10 result(s) accuracy: 1.0
+
+item 660 :search with 10 result(s) accuracy: 1.0
+
+item 661 :search with 10 result(s) accuracy: 1.0
+
+item 662 :search with 10 result(s) accuracy: 1.0
+
+item 663 :search with 10 result(s) accuracy: 1.0
+
+item 664 :search with 10 result(s) accuracy: 1.0
+
+item 665 :search with 10 result(s) accuracy: 1.0
+
+item 666 :search with 10 result(s) accuracy: 1.0
+
+item 667 :search with 10 result(s) accuracy: 1.0
+
+item 668 :search with 10 result(s) accuracy: 1.0
+
+item 669 :search with 10 result(s) accuracy: 1.0
+
+item 670 :search with 10 result(s) accuracy: 1.0
+
+item 671 :search with 10 result(s) accuracy: 1.0
+
+item 672 :search with 10 result(s) accuracy: 1.0
+
+item 673 :search with 10 result(s) accuracy: 1.0
+
+item 674 :search with 10 result(s) accuracy: 1.0
+
+item 675 :search with 10 result(s) accuracy: 1.0
+
+item 676 :search with 10 result(s) accuracy: 1.0
+
+item 677 :search with 10 result(s) accuracy: 1.0
+
+item 678 :search with 10 result(s) accuracy: 1.0
+
+item 679 :search with 10 result(s) accuracy: 1.0
+
+item 680 :search with 10 result(s) accuracy: 1.0
+
+item 681 :search with 10 result(s) accuracy: 1.0
+
+item 682 :search with 10 result(s) accuracy: 1.0
+
+item 683 :search with 10 result(s) accuracy: 1.0
+
+item 684 :search with 10 result(s) accuracy: 1.0
+
+item 685 :search with 10 result(s) accuracy: 1.0
+
+item 686 :search with 10 result(s) accuracy: 1.0
+
+item 687 :search with 10 result(s) accuracy: 1.0
+
+item 688 :search with 10 result(s) accuracy: 1.0
+
+item 689 :search with 10 result(s) accuracy: 1.0
+
+item 690 :search with 10 result(s) accuracy: 1.0
+
+item 691 :search with 10 result(s) accuracy: 1.0
+
+item 692 :search with 10 result(s) accuracy: 1.0
+
+item 693 :search with 10 result(s) accuracy: 1.0
+
+item 694 :search with 10 result(s) accuracy: 1.0
+
+item 695 :search with 10 result(s) accuracy: 1.0
+
+item 696 :search with 10 result(s) accuracy: 1.0
+
+item 697 :search with 10 result(s) accuracy: 1.0
+
+item 698 :search with 10 result(s) accuracy: 1.0
+
+item 699 :search with 10 result(s) accuracy: 1.0
+
+item 700 :search with 10 result(s) accuracy: 1.0
+
+item 701 :search with 10 result(s) accuracy: 1.0
+
+item 702 :search with 10 result(s) accuracy: 0.9
+
+item 703 :search with 10 result(s) accuracy: 1.0
+
+item 704 :search with 10 result(s) accuracy: 0.9
+
+item 705 :search with 10 result(s) accuracy: 1.0
+
+item 706 :search with 10 result(s) accuracy: 0.9
+
+item 707 :search with 10 result(s) accuracy: 1.0
+
+item 708 :search with 10 result(s) accuracy: 1.0
+
+item 709 :search with 10 result(s) accuracy: 1.0
+
+item 710 :search with 10 result(s) accuracy: 1.0
+
+item 711 :search with 10 result(s) accuracy: 1.0
+
+item 712 :search with 10 result(s) accuracy: 1.0
+
+item 713 :search with 10 result(s) accuracy: 1.0
+
+item 714 :search with 10 result(s) accuracy: 1.0
+
+item 715 :search with 10 result(s) accuracy: 1.0
+
+item 716 :search with 10 result(s) accuracy: 1.0
+
+item 717 :search with 10 result(s) accuracy: 1.0
+
+item 718 :search with 10 result(s) accuracy: 1.0
+
+item 719 :search with 10 result(s) accuracy: 1.0
+
+item 720 :search with 10 result(s) accuracy: 1.0
+
+item 721 :search with 10 result(s) accuracy: 1.0
+
+item 722 :search with 10 result(s) accuracy: 1.0
+
+item 723 :search with 10 result(s) accuracy: 1.0
+
+item 724 :search with 10 result(s) accuracy: 0.9
+
+item 725 :search with 10 result(s) accuracy: 1.0
+
+item 726 :search with 10 result(s) accuracy: 1.0
+
+item 727 :search with 10 result(s) accuracy: 1.0
+
+item 728 :search with 10 result(s) accuracy: 1.0
+
+item 729 :search with 10 result(s) accuracy: 1.0
+
+item 730 :search with 10 result(s) accuracy: 1.0
+
+item 731 :search with 10 result(s) accuracy: 1.0
+
+item 732 :search with 10 result(s) accuracy: 1.0
+
+item 733 :search with 10 result(s) accuracy: 1.0
+
+item 734 :search with 10 result(s) accuracy: 1.0
+
+item 735 :search with 10 result(s) accuracy: 1.0
+
+item 736 :search with 10 result(s) accuracy: 1.0
+
+item 737 :search with 10 result(s) accuracy: 1.0
+
+item 738 :search with 10 result(s) accuracy: 1.0
+
+item 739 :search with 10 result(s) accuracy: 1.0
+
+item 740 :search with 10 result(s) accuracy: 1.0
+
+item 741 :search with 10 result(s) accuracy: 1.0
+
+item 742 :search with 10 result(s) accuracy: 1.0
+
+item 743 :search with 10 result(s) accuracy: 1.0
+
+item 744 :search with 10 result(s) accuracy: 1.0
+
+item 745 :search with 10 result(s) accuracy: 1.0
+
+item 746 :search with 10 result(s) accuracy: 1.0
+
+item 747 :search with 10 result(s) accuracy: 1.0
+
+item 748 :search with 10 result(s) accuracy: 1.0
+
+item 749 :search with 10 result(s) accuracy: 1.0
+
+item 750 :search with 10 result(s) accuracy: 1.0
+
+item 751 :search with 10 result(s) accuracy: 1.0
+
+item 752 :search with 10 result(s) accuracy: 1.0
+
+item 753 :search with 10 result(s) accuracy: 0.9
+
+item 754 :search with 10 result(s) accuracy: 1.0
+
+item 755 :search with 10 result(s) accuracy: 1.0
+
+item 756 :search with 10 result(s) accuracy: 1.0
+
+item 757 :search with 10 result(s) accuracy: 1.0
+
+item 758 :search with 10 result(s) accuracy: 1.0
+
+item 759 :search with 10 result(s) accuracy: 0.6
+
+item 760 :search with 10 result(s) accuracy: 1.0
+
+item 761 :search with 10 result(s) accuracy: 1.0
+
+item 762 :search with 10 result(s) accuracy: 1.0
+
+item 763 :search with 10 result(s) accuracy: 1.0
+
+item 764 :search with 10 result(s) accuracy: 1.0
+
+item 765 :search with 10 result(s) accuracy: 1.0
+
+item 766 :search with 10 result(s) accuracy: 1.0
+
+item 767 :search with 10 result(s) accuracy: 1.0
+
+item 768 :search with 10 result(s) accuracy: 1.0
+
+item 769 :search with 10 result(s) accuracy: 1.0
+
+item 770 :search with 10 result(s) accuracy: 1.0
+
+item 771 :search with 10 result(s) accuracy: 1.0
+
+item 772 :search with 10 result(s) accuracy: 1.0
+
+item 773 :search with 10 result(s) accuracy: 1.0
+
+item 774 :search with 10 result(s) accuracy: 1.0
+
+item 775 :search with 10 result(s) accuracy: 1.0
+
+item 776 :search with 10 result(s) accuracy: 1.0
+
+item 777 :search with 10 result(s) accuracy: 1.0
+
+item 778 :search with 10 result(s) accuracy: 1.0
+
+item 779 :search with 10 result(s) accuracy: 1.0
+
+item 780 :search with 10 result(s) accuracy: 1.0
+
+item 781 :search with 10 result(s) accuracy: 1.0
+
+item 782 :search with 10 result(s) accuracy: 1.0
+
+item 783 :search with 10 result(s) accuracy: 1.0
+
+item 784 :search with 10 result(s) accuracy: 1.0
+
+item 785 :search with 10 result(s) accuracy: 1.0
+
+item 786 :search with 10 result(s) accuracy: 1.0
+
+item 787 :search with 10 result(s) accuracy: 1.0
+
+item 788 :search with 10 result(s) accuracy: 1.0
+
+item 789 :search with 10 result(s) accuracy: 1.0
+
+item 790 :search with 10 result(s) accuracy: 1.0
+
+item 791 :search with 10 result(s) accuracy: 1.0
+
+item 792 :search with 10 result(s) accuracy: 1.0
+
+item 793 :search with 10 result(s) accuracy: 1.0
+
+item 794 :search with 10 result(s) accuracy: 1.0
+
+item 795 :search with 10 result(s) accuracy: 1.0
+
+item 796 :search with 10 result(s) accuracy: 1.0
+
+item 797 :search with 10 result(s) accuracy: 1.0
+
+item 798 :search with 10 result(s) accuracy: 1.0
+
+item 799 :search with 10 result(s) accuracy: 1.0
+
+item 800 :search with 10 result(s) accuracy: 1.0
+
+item 801 :search with 10 result(s) accuracy: 1.0
+
+item 802 :search with 10 result(s) accuracy: 1.0
+
+item 803 :search with 10 result(s) accuracy: 1.0
+
+item 804 :search with 10 result(s) accuracy: 1.0
+
+item 805 :search with 10 result(s) accuracy: 1.0
+
+item 806 :search with 10 result(s) accuracy: 1.0
+
+item 807 :search with 10 result(s) accuracy: 1.0
+
+item 808 :search with 10 result(s) accuracy: 1.0
+
+item 809 :search with 10 result(s) accuracy: 1.0
+
+item 810 :search with 10 result(s) accuracy: 1.0
+
+item 811 :search with 10 result(s) accuracy: 1.0
+
+item 812 :search with 10 result(s) accuracy: 1.0
+
+item 813 :search with 10 result(s) accuracy: 1.0
+
+item 814 :search with 10 result(s) accuracy: 1.0
+
+item 815 :search with 10 result(s) accuracy: 1.0
+
+item 816 :search with 10 result(s) accuracy: 1.0
+
+item 817 :search with 10 result(s) accuracy: 1.0
+
+item 818 :search with 10 result(s) accuracy: 1.0
+
+item 819 :search with 10 result(s) accuracy: 1.0
+
+item 820 :search with 10 result(s) accuracy: 1.0
+
+item 821 :search with 10 result(s) accuracy: 1.0
+
+item 822 :search with 10 result(s) accuracy: 1.0
+
+item 823 :search with 10 result(s) accuracy: 1.0
+
+item 824 :search with 10 result(s) accuracy: 1.0
+
+item 825 :search with 10 result(s) accuracy: 1.0
+
+item 826 :search with 10 result(s) accuracy: 1.0
+
+item 827 :search with 10 result(s) accuracy: 1.0
+
+item 828 :search with 10 result(s) accuracy: 1.0
+
+item 829 :search with 10 result(s) accuracy: 1.0
+
+item 830 :search with 10 result(s) accuracy: 1.0
+
+item 831 :search with 10 result(s) accuracy: 1.0
+
+item 832 :search with 10 result(s) accuracy: 1.0
+
+item 833 :search with 10 result(s) accuracy: 1.0
+
+item 834 :search with 10 result(s) accuracy: 1.0
+
+item 835 :search with 10 result(s) accuracy: 1.0
+
+item 836 :search with 10 result(s) accuracy: 1.0
+
+item 837 :search with 10 result(s) accuracy: 1.0
+
+item 838 :search with 10 result(s) accuracy: 1.0
+
+item 839 :search with 10 result(s) accuracy: 1.0
+
+item 840 :search with 10 result(s) accuracy: 1.0
+
+item 841 :search with 10 result(s) accuracy: 1.0
+
+item 842 :search with 10 result(s) accuracy: 1.0
+
+item 843 :search with 10 result(s) accuracy: 1.0
+
+item 844 :search with 10 result(s) accuracy: 1.0
+
+item 845 :search with 10 result(s) accuracy: 1.0
+
+item 846 :search with 10 result(s) accuracy: 0.9
+
+item 847 :search with 10 result(s) accuracy: 1.0
+
+item 848 :search with 10 result(s) accuracy: 0.9
+
+item 849 :search with 10 result(s) accuracy: 1.0
+
+item 850 :search with 10 result(s) accuracy: 0.9
+
+item 851 :search with 10 result(s) accuracy: 1.0
+
+item 852 :search with 10 result(s) accuracy: 1.0
+
+item 853 :search with 10 result(s) accuracy: 1.0
+
+item 854 :search with 10 result(s) accuracy: 1.0
+
+item 855 :search with 10 result(s) accuracy: 1.0
+
+item 856 :search with 10 result(s) accuracy: 1.0
+
+item 857 :search with 10 result(s) accuracy: 1.0
+
+item 858 :search with 10 result(s) accuracy: 1.0
+
+item 859 :search with 10 result(s) accuracy: 1.0
+
+item 860 :search with 10 result(s) accuracy: 1.0
+
+item 861 :search with 10 result(s) accuracy: 1.0
+
+item 862 :search with 10 result(s) accuracy: 1.0
+
+item 863 :search with 10 result(s) accuracy: 1.0
+
+item 864 :search with 10 result(s) accuracy: 1.0
+
+item 865 :search with 10 result(s) accuracy: 1.0
+
+item 866 :search with 10 result(s) accuracy: 1.0
+
+item 867 :search with 10 result(s) accuracy: 1.0
+
+item 868 :search with 10 result(s) accuracy: 1.0
+
+item 869 :search with 10 result(s) accuracy: 0.9
+
+item 870 :search with 10 result(s) accuracy: 0.8
+
+item 871 :search with 10 result(s) accuracy: 1.0
+
+item 872 :search with 10 result(s) accuracy: 1.0
+
+item 873 :search with 10 result(s) accuracy: 1.0
+
+item 874 :search with 10 result(s) accuracy: 1.0
+
+item 875 :search with 10 result(s) accuracy: 1.0
+
+item 876 :search with 10 result(s) accuracy: 1.0
+
+item 877 :search with 10 result(s) accuracy: 1.0
+
+item 878 :search with 10 result(s) accuracy: 1.0
+
+item 879 :search with 10 result(s) accuracy: 1.0
+
+item 880 :search with 10 result(s) accuracy: 1.0
+
+item 881 :search with 10 result(s) accuracy: 1.0
+
+item 882 :search with 10 result(s) accuracy: 1.0
+
+item 883 :search with 10 result(s) accuracy: 1.0
+
+item 884 :search with 10 result(s) accuracy: 1.0
+
+item 885 :search with 10 result(s) accuracy: 1.0
+
+item 886 :search with 10 result(s) accuracy: 1.0
+
+item 887 :search with 10 result(s) accuracy: 1.0
+
+item 888 :search with 10 result(s) accuracy: 1.0
+
+item 889 :search with 10 result(s) accuracy: 1.0
+
+item 890 :search with 10 result(s) accuracy: 1.0
+
+item 891 :search with 10 result(s) accuracy: 1.0
+
+item 892 :search with 10 result(s) accuracy: 1.0
+
+item 893 :search with 10 result(s) accuracy: 1.0
+
+item 894 :search with 10 result(s) accuracy: 1.0
+
+item 895 :search with 10 result(s) accuracy: 1.0
+
+item 896 :search with 10 result(s) accuracy: 1.0
+
+item 897 :search with 10 result(s) accuracy: 0.9
+
+item 898 :search with 10 result(s) accuracy: 1.0
+
+item 899 :search with 10 result(s) accuracy: 1.0
+
+item 900 :search with 10 result(s) accuracy: 1.0
+
+item 901 :search with 10 result(s) accuracy: 1.0
+
+item 902 :search with 10 result(s) accuracy: 1.0
+
+item 903 :search with 10 result(s) accuracy: 1.0
+
+item 904 :search with 10 result(s) accuracy: 1.0
+
+item 905 :search with 10 result(s) accuracy: 1.0
+
+item 906 :search with 10 result(s) accuracy: 1.0
+
+item 907 :search with 10 result(s) accuracy: 1.0
+
+item 908 :search with 10 result(s) accuracy: 1.0
+
+item 909 :search with 10 result(s) accuracy: 1.0
+
+item 910 :search with 10 result(s) accuracy: 1.0
+
+item 911 :search with 10 result(s) accuracy: 1.0
+
+item 912 :search with 10 result(s) accuracy: 1.0
+
+item 913 :search with 10 result(s) accuracy: 1.0
+
+item 914 :search with 10 result(s) accuracy: 0.9
+
+item 915 :search with 10 result(s) accuracy: 1.0
+
+item 916 :search with 10 result(s) accuracy: 0.9
+
+item 917 :search with 10 result(s) accuracy: 1.0
+
+item 918 :search with 10 result(s) accuracy: 1.0
+
+item 919 :search with 10 result(s) accuracy: 1.0
+
+item 920 :search with 10 result(s) accuracy: 1.0
+
+item 921 :search with 10 result(s) accuracy: 1.0
+
+item 922 :search with 10 result(s) accuracy: 1.0
+
+item 923 :search with 10 result(s) accuracy: 1.0
+
+item 924 :search with 10 result(s) accuracy: 1.0
+
+item 925 :search with 10 result(s) accuracy: 1.0
+
+item 926 :search with 10 result(s) accuracy: 1.0
+
+item 927 :search with 10 result(s) accuracy: 1.0
+
+item 928 :search with 10 result(s) accuracy: 1.0
+
+item 929 :search with 10 result(s) accuracy: 1.0
+
+item 930 :search with 10 result(s) accuracy: 1.0
+
+item 931 :search with 10 result(s) accuracy: 1.0
+
+item 932 :search with 10 result(s) accuracy: 1.0
+
+item 933 :search with 10 result(s) accuracy: 1.0
+
+item 934 :search with 10 result(s) accuracy: 1.0
+
+item 935 :search with 10 result(s) accuracy: 1.0
+
+item 936 :search with 10 result(s) accuracy: 1.0
+
+item 937 :search with 10 result(s) accuracy: 1.0
+
+item 938 :search with 10 result(s) accuracy: 1.0
+
+item 939 :search with 10 result(s) accuracy: 1.0
+
+item 940 :search with 10 result(s) accuracy: 1.0
+
+item 941 :search with 10 result(s) accuracy: 1.0
+
+item 942 :search with 10 result(s) accuracy: 0.9
+
+item 943 :search with 10 result(s) accuracy: 1.0
+
+item 944 :search with 10 result(s) accuracy: 0.9
+
+item 945 :search with 10 result(s) accuracy: 1.0
+
+item 946 :search with 10 result(s) accuracy: 1.0
+
+item 947 :search with 10 result(s) accuracy: 1.0
+
+item 948 :search with 10 result(s) accuracy: 1.0
+
+item 949 :search with 10 result(s) accuracy: 1.0
+
+item 950 :search with 10 result(s) accuracy: 1.0
+
+item 951 :search with 10 result(s) accuracy: 1.0
+
+item 952 :search with 10 result(s) accuracy: 1.0
+
+item 953 :search with 10 result(s) accuracy: 1.0
+
+item 954 :search with 10 result(s) accuracy: 1.0
+
+item 955 :search with 10 result(s) accuracy: 1.0
+
+item 956 :search with 10 result(s) accuracy: 1.0
+
+item 957 :search with 10 result(s) accuracy: 1.0
+
+item 958 :search with 10 result(s) accuracy: 1.0
+
+item 959 :search with 10 result(s) accuracy: 1.0
+
+item 960 :search with 10 result(s) accuracy: 1.0
+
+item 961 :search with 10 result(s) accuracy: 1.0
+
+item 962 :search with 10 result(s) accuracy: 1.0
+
+item 963 :search with 10 result(s) accuracy: 1.0
+
+item 964 :search with 10 result(s) accuracy: 1.0
+
+item 965 :search with 10 result(s) accuracy: 1.0
+
+item 966 :search with 10 result(s) accuracy: 1.0
+
+item 967 :search with 10 result(s) accuracy: 1.0
+
+item 968 :search with 10 result(s) accuracy: 1.0
+
+item 969 :search with 10 result(s) accuracy: 1.0
+
+item 970 :search with 10 result(s) accuracy: 1.0
+
+item 971 :search with 10 result(s) accuracy: 1.0
+
+item 972 :search with 10 result(s) accuracy: 1.0
+
+item 973 :search with 10 result(s) accuracy: 1.0
+
+item 974 :search with 10 result(s) accuracy: 1.0
+
+item 975 :search with 10 result(s) accuracy: 1.0
+
+item 976 :search with 10 result(s) accuracy: 1.0
+
+item 977 :search with 10 result(s) accuracy: 1.0
+
+item 978 :search with 10 result(s) accuracy: 1.0
+
+item 979 :search with 10 result(s) accuracy: 1.0
+
+item 980 :search with 10 result(s) accuracy: 1.0
+
+item 981 :search with 10 result(s) accuracy: 1.0
+
+item 982 :search with 10 result(s) accuracy: 1.0
+
+item 983 :search with 10 result(s) accuracy: 1.0
+
+item 984 :search with 10 result(s) accuracy: 1.0
+
+item 985 :search with 10 result(s) accuracy: 1.0
+
+item 986 :search with 10 result(s) accuracy: 1.0
+
+item 987 :search with 10 result(s) accuracy: 1.0
+
+item 988 :search with 10 result(s) accuracy: 1.0
+
+item 989 :search with 10 result(s) accuracy: 1.0
+
+item 990 :search with 10 result(s) accuracy: 1.0
+
+item 991 :search with 10 result(s) accuracy: 1.0
+
+item 992 :search with 10 result(s) accuracy: 1.0
+
+item 993 :search with 10 result(s) accuracy: 1.0
+
+item 994 :search with 10 result(s) accuracy: 1.0
+
+item 995 :search with 10 result(s) accuracy: 1.0
+
+item 996 :search with 10 result(s) accuracy: 1.0
+
+item 997 :search with 10 result(s) accuracy: 1.0
+
+item 998 :search with 10 result(s) accuracy: 1.0
+
+item 999 :search with 10 result(s) accuracy: 1.0
+
+item 1000 :search with 10 result(s) accuracy: 1.0
+
+item 1001 :search with 10 result(s) accuracy: 1.0
+
+item 1002 :search with 10 result(s) accuracy: 1.0
+
+item 1003 :search with 10 result(s) accuracy: 1.0
+
+item 1004 :search with 10 result(s) accuracy: 1.0
+
+item 1005 :search with 10 result(s) accuracy: 1.0
+
+item 1006 :search with 10 result(s) accuracy: 1.0
+
+item 1007 :search with 10 result(s) accuracy: 1.0
+
+item 1008 :search with 10 result(s) accuracy: 1.0
+
+item 1009 :search with 10 result(s) accuracy: 1.0
+
+item 1010 :search with 10 result(s) accuracy: 1.0
+
+item 1011 :search with 10 result(s) accuracy: 1.0
+
+item 1012 :search with 10 result(s) accuracy: 1.0
+
+item 1013 :search with 10 result(s) accuracy: 1.0
+
+item 1014 :search with 10 result(s) accuracy: 1.0
+
+item 1015 :search with 10 result(s) accuracy: 1.0
+
+item 1016 :search with 10 result(s) accuracy: 1.0
+
+item 1017 :search with 10 result(s) accuracy: 1.0
+
+item 1018 :search with 10 result(s) accuracy: 1.0
+
+item 1019 :search with 10 result(s) accuracy: 1.0
+
+item 1020 :search with 10 result(s) accuracy: 1.0
+
+item 1021 :search with 10 result(s) accuracy: 1.0
+
+item 1022 :search with 10 result(s) accuracy: 1.0
+
+item 1023 :search with 10 result(s) accuracy: 1.0
+
+item 1024 :search with 10 result(s) accuracy: 1.0
+
+item 1025 :search with 10 result(s) accuracy: 1.0
+
+item 1026 :search with 10 result(s) accuracy: 1.0
+
+item 1027 :search with 10 result(s) accuracy: 1.0
+
+item 1028 :search with 10 result(s) accuracy: 1.0
+
+item 1029 :search with 10 result(s) accuracy: 1.0
+
+item 1030 :search with 10 result(s) accuracy: 1.0
+
+item 1031 :search with 10 result(s) accuracy: 1.0
+
+item 1032 :search with 10 result(s) accuracy: 1.0
+
+item 1033 :search with 10 result(s) accuracy: 1.0
+
+item 1034 :search with 10 result(s) accuracy: 1.0
+
+item 1035 :search with 10 result(s) accuracy: 1.0
+
+item 1036 :search with 10 result(s) accuracy: 1.0
+
+item 1037 :search with 10 result(s) accuracy: 1.0
+
+item 1038 :search with 10 result(s) accuracy: 1.0
+
+item 1039 :search with 10 result(s) accuracy: 1.0
+
+item 1040 :search with 10 result(s) accuracy: 1.0
+
+item 1041 :search with 10 result(s) accuracy: 1.0
+
+item 1042 :search with 10 result(s) accuracy: 1.0
+
+item 1043 :search with 10 result(s) accuracy: 1.0
+
+item 1044 :search with 10 result(s) accuracy: 1.0
+
+item 1045 :search with 10 result(s) accuracy: 1.0
+
+item 1046 :search with 10 result(s) accuracy: 1.0
+
+item 1047 :search with 10 result(s) accuracy: 0.9
+
+item 1048 :search with 10 result(s) accuracy: 1.0
+
+item 1049 :search with 10 result(s) accuracy: 1.0
+
+item 1050 :search with 10 result(s) accuracy: 1.0
+
+item 1051 :search with 10 result(s) accuracy: 1.0
+
+item 1052 :search with 10 result(s) accuracy: 1.0
+
+item 1053 :search with 10 result(s) accuracy: 1.0
+
+item 1054 :search with 10 result(s) accuracy: 1.0
+
+item 1055 :search with 10 result(s) accuracy: 1.0
+
+item 1056 :search with 10 result(s) accuracy: 1.0
+
+item 1057 :search with 10 result(s) accuracy: 1.0
+
+item 1058 :search with 10 result(s) accuracy: 1.0
+
+item 1059 :search with 10 result(s) accuracy: 1.0
+
+item 1060 :search with 10 result(s) accuracy: 1.0
+
+item 1061 :search with 10 result(s) accuracy: 1.0
+
+item 1062 :search with 10 result(s) accuracy: 1.0
+
+item 1063 :search with 10 result(s) accuracy: 1.0
+
+item 1064 :search with 10 result(s) accuracy: 1.0
+
+item 1065 :search with 10 result(s) accuracy: 1.0
+
+item 1066 :search with 10 result(s) accuracy: 1.0
+
+item 1067 :search with 10 result(s) accuracy: 1.0
+
+item 1068 :search with 10 result(s) accuracy: 1.0
+
+item 1069 :search with 10 result(s) accuracy: 1.0
+
+item 1070 :search with 10 result(s) accuracy: 1.0
+
+item 1071 :search with 10 result(s) accuracy: 1.0
+
+item 1072 :search with 10 result(s) accuracy: 1.0
+
+item 1073 :search with 10 result(s) accuracy: 1.0
+
+item 1074 :search with 10 result(s) accuracy: 1.0
+
+item 1075 :search with 10 result(s) accuracy: 1.0
+
+item 1076 :search with 10 result(s) accuracy: 1.0
+
+item 1077 :search with 10 result(s) accuracy: 1.0
+
+item 1078 :search with 10 result(s) accuracy: 1.0
+
+item 1079 :search with 10 result(s) accuracy: 1.0
+
+item 1080 :search with 10 result(s) accuracy: 1.0
+
+item 1081 :search with 10 result(s) accuracy: 1.0
+
+item 1082 :search with 10 result(s) accuracy: 1.0
+
+item 1083 :search with 10 result(s) accuracy: 1.0
+
+item 1084 :search with 10 result(s) accuracy: 1.0
+
+item 1085 :search with 10 result(s) accuracy: 1.0
+
+item 1086 :search with 10 result(s) accuracy: 1.0
+
+item 1087 :search with 10 result(s) accuracy: 1.0
+
+item 1088 :search with 10 result(s) accuracy: 1.0
+
+item 1089 :search with 10 result(s) accuracy: 0.9
+
+item 1090 :search with 10 result(s) accuracy: 1.0
+
+item 1091 :search with 10 result(s) accuracy: 1.0
+
+item 1092 :search with 10 result(s) accuracy: 1.0
+
+item 1093 :search with 10 result(s) accuracy: 1.0
+
+item 1094 :search with 10 result(s) accuracy: 1.0
+
+item 1095 :search with 10 result(s) accuracy: 1.0
+
+item 1096 :search with 10 result(s) accuracy: 1.0
+
+item 1097 :search with 10 result(s) accuracy: 0.8
+
+item 1098 :search with 10 result(s) accuracy: 1.0
+
+item 1099 :search with 10 result(s) accuracy: 1.0
+
+item 1100 :search with 10 result(s) accuracy: 1.0
+
+item 1101 :search with 10 result(s) accuracy: 0.9
+
+item 1102 :search with 10 result(s) accuracy: 1.0
+
+item 1103 :search with 10 result(s) accuracy: 1.0
+
+item 1104 :search with 10 result(s) accuracy: 1.0
+
+item 1105 :search with 10 result(s) accuracy: 1.0
+
+item 1106 :search with 10 result(s) accuracy: 1.0
+
+item 1107 :search with 10 result(s) accuracy: 1.0
+
+item 1108 :search with 10 result(s) accuracy: 1.0
+
+item 1109 :search with 10 result(s) accuracy: 1.0
+
+item 1110 :search with 10 result(s) accuracy: 1.0
+
+item 1111 :search with 10 result(s) accuracy: 1.0
+
+item 1112 :search with 10 result(s) accuracy: 1.0
+
+item 1113 :search with 10 result(s) accuracy: 1.0
+
+item 1114 :search with 10 result(s) accuracy: 1.0
+
+item 1115 :search with 10 result(s) accuracy: 1.0
+
+item 1116 :search with 10 result(s) accuracy: 1.0
+
+item 1117 :search with 10 result(s) accuracy: 0.0
+
+item 1118 :search with 10 result(s) accuracy: 1.0
+
+item 1119 :search with 10 result(s) accuracy: 0.0
+
+item 1120 :search with 10 result(s) accuracy: 1.0
+
+item 1121 :search with 10 result(s) accuracy: 0.0
+
+item 1122 :search with 10 result(s) accuracy: 1.0
+
+item 1123 :search with 10 result(s) accuracy: 1.0
+
+item 1124 :search with 10 result(s) accuracy: 1.0
+
+item 1125 :search with 10 result(s) accuracy: 1.0
+
+item 1126 :search with 10 result(s) accuracy: 1.0
+
+item 1127 :search with 10 result(s) accuracy: 1.0
+
+item 1128 :search with 10 result(s) accuracy: 1.0
+
+item 1129 :search with 10 result(s) accuracy: 1.0
+
+item 1130 :search with 10 result(s) accuracy: 1.0
+
+item 1131 :search with 10 result(s) accuracy: 1.0
+
+item 1132 :search with 10 result(s) accuracy: 1.0
+
+item 1133 :search with 10 result(s) accuracy: 1.0
+
+item 1134 :search with 10 result(s) accuracy: 1.0
+
+item 1135 :search with 10 result(s) accuracy: 1.0
+
+item 1136 :search with 10 result(s) accuracy: 1.0
+
+item 1137 :search with 10 result(s) accuracy: 1.0
+
+item 1138 :search with 10 result(s) accuracy: 1.0
+
+item 1139 :search with 10 result(s) accuracy: 1.0
+
+item 1140 :search with 10 result(s) accuracy: 1.0
+
+item 1141 :search with 10 result(s) accuracy: 1.0
+
+item 1142 :search with 10 result(s) accuracy: 1.0
+
+item 1143 :search with 10 result(s) accuracy: 1.0
+
+item 1144 :search with 10 result(s) accuracy: 1.0
+
+item 1145 :search with 10 result(s) accuracy: 1.0
+
+item 1146 :search with 10 result(s) accuracy: 1.0
+
+item 1147 :search with 10 result(s) accuracy: 0.9
+
+item 1148 :search with 10 result(s) accuracy: 1.0
+
+item 1149 :search with 10 result(s) accuracy: 0.9
+
+item 1150 :search with 10 result(s) accuracy: 1.0
+
+item 1151 :search with 10 result(s) accuracy: 0.7
+
+item 1152 :search with 10 result(s) accuracy: 1.0
+
+item 1153 :search with 10 result(s) accuracy: 1.0
+
+item 1154 :search with 10 result(s) accuracy: 1.0
+
+item 1155 :search with 10 result(s) accuracy: 1.0
+
+item 1156 :search with 10 result(s) accuracy: 1.0
+
+item 1157 :search with 10 result(s) accuracy: 1.0
+
+item 1158 :search with 10 result(s) accuracy: 1.0
+
+item 1159 :search with 10 result(s) accuracy: 1.0
+
+item 1160 :search with 10 result(s) accuracy: 1.0
+
+item 1161 :search with 10 result(s) accuracy: 1.0
+
+item 1162 :search with 10 result(s) accuracy: 1.0
+
+item 1163 :search with 10 result(s) accuracy: 1.0
+
+item 1164 :search with 10 result(s) accuracy: 1.0
+
+item 1165 :search with 10 result(s) accuracy: 1.0
+
+item 1166 :search with 10 result(s) accuracy: 1.0
+
+item 1167 :search with 10 result(s) accuracy: 1.0
+
+item 1168 :search with 10 result(s) accuracy: 1.0
+
+item 1169 :search with 10 result(s) accuracy: 1.0
+
+item 1170 :search with 10 result(s) accuracy: 1.0
+
+item 1171 :search with 10 result(s) accuracy: 1.0
+
+item 1172 :search with 10 result(s) accuracy: 1.0
+
+item 1173 :search with 10 result(s) accuracy: 1.0
+
+item 1174 :search with 10 result(s) accuracy: 1.0
+
+item 1175 :search with 10 result(s) accuracy: 1.0
+
+item 1176 :search with 10 result(s) accuracy: 1.0
+
+item 1177 :search with 10 result(s) accuracy: 1.0
+
+item 1178 :search with 10 result(s) accuracy: 1.0
+
+item 1179 :search with 10 result(s) accuracy: 1.0
+
+item 1180 :search with 10 result(s) accuracy: 1.0
+
+item 1181 :search with 10 result(s) accuracy: 1.0
+
+item 1182 :search with 10 result(s) accuracy: 1.0
+
+item 1183 :search with 10 result(s) accuracy: 1.0
+
+item 1184 :search with 10 result(s) accuracy: 1.0
+
+item 1185 :search with 10 result(s) accuracy: 0.0
+
+item 1186 :search with 10 result(s) accuracy: 1.0
+
+item 1187 :search with 10 result(s) accuracy: 0.0
+
+item 1188 :search with 10 result(s) accuracy: 0.9
+
+item 1189 :search with 10 result(s) accuracy: 1.0
+
+item 1190 :search with 10 result(s) accuracy: 1.0
+
+item 1191 :search with 10 result(s) accuracy: 1.0
+
+item 1192 :search with 10 result(s) accuracy: 1.0
+
+item 1193 :search with 10 result(s) accuracy: 1.0
+
+item 1194 :search with 10 result(s) accuracy: 1.0
+
+item 1195 :search with 10 result(s) accuracy: 1.0
+
+item 1196 :search with 10 result(s) accuracy: 1.0
+
+item 1197 :search with 10 result(s) accuracy: 1.0
+
+item 1198 :search with 10 result(s) accuracy: 1.0
+
+item 1199 :search with 10 result(s) accuracy: 1.0
+
+item 1200 :search with 10 result(s) accuracy: 1.0
+
+item 1201 :search with 10 result(s) accuracy: 1.0
+
+item 1202 :search with 10 result(s) accuracy: 1.0
+
+item 1203 :search with 10 result(s) accuracy: 1.0
+
+item 1204 :search with 10 result(s) accuracy: 1.0
+
+item 1205 :search with 10 result(s) accuracy: 1.0
+
+item 1206 :search with 10 result(s) accuracy: 1.0
+
+item 1207 :search with 10 result(s) accuracy: 1.0
+
+item 1208 :search with 10 result(s) accuracy: 1.0
+
+item 1209 :search with 10 result(s) accuracy: 1.0
+
+item 1210 :search with 10 result(s) accuracy: 1.0
+
+item 1211 :search with 10 result(s) accuracy: 1.0
+
+item 1212 :search with 10 result(s) accuracy: 1.0
+
+item 1213 :search with 10 result(s) accuracy: 1.0
+
+item 1214 :search with 10 result(s) accuracy: 1.0
+
+item 1215 :search with 10 result(s) accuracy: 1.0
+
+item 1216 :search with 10 result(s) accuracy: 1.0
+
+item 1217 :search with 10 result(s) accuracy: 1.0
+
+item 1218 :search with 10 result(s) accuracy: 1.0
+
+item 1219 :search with 10 result(s) accuracy: 1.0
+
+item 1220 :search with 10 result(s) accuracy: 1.0
+
+item 1221 :search with 10 result(s) accuracy: 1.0
+
+item 1222 :search with 10 result(s) accuracy: 1.0
+
+item 1223 :search with 10 result(s) accuracy: 1.0
+
+item 1224 :search with 10 result(s) accuracy: 1.0
+
+item 1225 :search with 10 result(s) accuracy: 1.0
+
+item 1226 :search with 10 result(s) accuracy: 1.0
+
+item 1227 :search with 10 result(s) accuracy: 1.0
+
+item 1228 :search with 10 result(s) accuracy: 1.0
+
+item 1229 :search with 10 result(s) accuracy: 1.0
+
+item 1230 :search with 10 result(s) accuracy: 1.0
+
+item 1231 :search with 10 result(s) accuracy: 1.0
+
+item 1232 :search with 10 result(s) accuracy: 1.0
+
+item 1233 :search with 10 result(s) accuracy: 1.0
+
+item 1234 :search with 10 result(s) accuracy: 1.0
+
+item 1235 :search with 10 result(s) accuracy: 1.0
+
+item 1236 :search with 10 result(s) accuracy: 1.0
+
+item 1237 :search with 10 result(s) accuracy: 1.0
+
+item 1238 :search with 10 result(s) accuracy: 1.0
+
+item 1239 :search with 10 result(s) accuracy: 1.0
+
+item 1240 :search with 10 result(s) accuracy: 1.0
+
+item 1241 :search with 10 result(s) accuracy: 1.0
+
+item 1242 :search with 10 result(s) accuracy: 1.0
+
+item 1243 :search with 10 result(s) accuracy: 1.0
+
+item 1244 :search with 10 result(s) accuracy: 1.0
+
+item 1245 :search with 10 result(s) accuracy: 1.0
+
+item 1246 :search with 10 result(s) accuracy: 1.0
+
+item 1247 :search with 10 result(s) accuracy: 1.0
+
+item 1248 :search with 10 result(s) accuracy: 1.0
+
+item 1249 :search with 10 result(s) accuracy: 1.0
+
+item 1250 :search with 10 result(s) accuracy: 1.0
+
+item 1251 :search with 10 result(s) accuracy: 1.0
+
+item 1252 :search with 10 result(s) accuracy: 1.0
+
+item 1253 :search with 10 result(s) accuracy: 1.0
+
+item 1254 :search with 10 result(s) accuracy: 1.0
+
+item 1255 :search with 10 result(s) accuracy: 1.0
+
+item 1256 :search with 10 result(s) accuracy: 1.0
+
+item 1257 :search with 10 result(s) accuracy: 1.0
+
+item 1258 :search with 10 result(s) accuracy: 1.0
+
+item 1259 :search with 10 result(s) accuracy: 1.0
+
+item 1260 :search with 10 result(s) accuracy: 1.0
+
+item 1261 :search with 10 result(s) accuracy: 1.0
+
+item 1262 :search with 10 result(s) accuracy: 1.0
+
+item 1263 :search with 10 result(s) accuracy: 0.0
+
+item 1264 :search with 10 result(s) accuracy: 1.0
+
+item 1265 :search with 10 result(s) accuracy: 0.0
+
+item 1266 :search with 10 result(s) accuracy: 1.0
+
+item 1267 :search with 10 result(s) accuracy: 1.0
+
+item 1268 :search with 10 result(s) accuracy: 1.0
+
+item 1269 :search with 10 result(s) accuracy: 1.0
+
+item 1270 :search with 10 result(s) accuracy: 1.0
+
+item 1271 :search with 10 result(s) accuracy: 1.0
+
+item 1272 :search with 10 result(s) accuracy: 1.0
+
+item 1273 :search with 10 result(s) accuracy: 1.0
+
+item 1274 :search with 10 result(s) accuracy: 1.0
+
+item 1275 :search with 10 result(s) accuracy: 1.0
+
+item 1276 :search with 10 result(s) accuracy: 1.0
+
+item 1277 :search with 10 result(s) accuracy: 1.0
+
+item 1278 :search with 10 result(s) accuracy: 1.0
+
+item 1279 :search with 10 result(s) accuracy: 1.0
+
+item 1280 :search with 10 result(s) accuracy: 1.0
+
+item 1281 :search with 10 result(s) accuracy: 1.0
+
+item 1282 :search with 10 result(s) accuracy: 1.0
+
+item 1283 :search with 10 result(s) accuracy: 1.0
+
+item 1284 :search with 10 result(s) accuracy: 1.0
+
+item 1285 :search with 10 result(s) accuracy: 1.0
+
+item 1286 :search with 10 result(s) accuracy: 1.0
+
+item 1287 :search with 10 result(s) accuracy: 1.0
+
+item 1288 :search with 10 result(s) accuracy: 1.0
+
+item 1289 :search with 10 result(s) accuracy: 1.0
+
+item 1290 :search with 10 result(s) accuracy: 1.0
+
+item 1291 :search with 10 result(s) accuracy: 1.0
+
+item 1292 :search with 10 result(s) accuracy: 1.0
+
+item 1293 :search with 10 result(s) accuracy: 1.0
+
+item 1294 :search with 10 result(s) accuracy: 1.0
+
+item 1295 :search with 10 result(s) accuracy: 1.0
+
+item 1296 :search with 10 result(s) accuracy: 1.0
+
+item 1297 :search with 10 result(s) accuracy: 1.0
+
+item 1298 :search with 10 result(s) accuracy: 1.0
+
+item 1299 :search with 10 result(s) accuracy: 1.0
+
+item 1300 :search with 10 result(s) accuracy: 1.0
+
+item 1301 :search with 10 result(s) accuracy: 1.0
+
+item 1302 :search with 10 result(s) accuracy: 1.0
+
+item 1303 :search with 10 result(s) accuracy: 1.0
+
+item 1304 :search with 10 result(s) accuracy: 1.0
+
+item 1305 :search with 10 result(s) accuracy: 1.0
+
+item 1306 :search with 10 result(s) accuracy: 1.0
+
+item 1307 :search with 10 result(s) accuracy: 1.0
+
+item 1308 :search with 10 result(s) accuracy: 0.9
+
+item 1309 :search with 10 result(s) accuracy: 1.0
+
+item 1310 :search with 10 result(s) accuracy: 1.0
+
+item 1311 :search with 10 result(s) accuracy: 1.0
+
+item 1312 :search with 10 result(s) accuracy: 1.0
+
+item 1313 :search with 10 result(s) accuracy: 1.0
+
+item 1314 :search with 10 result(s) accuracy: 1.0
+
+item 1315 :search with 10 result(s) accuracy: 1.0
+
+item 1316 :search with 10 result(s) accuracy: 1.0
+
+item 1317 :search with 10 result(s) accuracy: 1.0
+
+item 1318 :search with 10 result(s) accuracy: 1.0
+
+item 1319 :search with 10 result(s) accuracy: 1.0
+
+item 1320 :search with 10 result(s) accuracy: 1.0
+
+item 1321 :search with 10 result(s) accuracy: 1.0
+
+item 1322 :search with 10 result(s) accuracy: 1.0
+
+item 1323 :search with 10 result(s) accuracy: 1.0
+
+item 1324 :search with 10 result(s) accuracy: 1.0
+
+item 1325 :search with 10 result(s) accuracy: 1.0
+
+item 1326 :search with 10 result(s) accuracy: 1.0
+
+item 1327 :search with 10 result(s) accuracy: 1.0
+
+item 1328 :search with 10 result(s) accuracy: 1.0
+
+item 1329 :search with 10 result(s) accuracy: 1.0
+
+item 1330 :search with 10 result(s) accuracy: 1.0
+
+item 1331 :search with 10 result(s) accuracy: 1.0
+
+item 1332 :search with 10 result(s) accuracy: 1.0
+
+item 1333 :search with 10 result(s) accuracy: 1.0
+
+item 1334 :search with 10 result(s) accuracy: 0.9
+
+item 1335 :search with 10 result(s) accuracy: 1.0
+
+item 1336 :search with 10 result(s) accuracy: 1.0
+
+item 1337 :search with 10 result(s) accuracy: 1.0
+
+item 1338 :search with 10 result(s) accuracy: 1.0
+
+item 1339 :search with 10 result(s) accuracy: 1.0
+
+item 1340 :search with 10 result(s) accuracy: 1.0
+
+item 1341 :search with 10 result(s) accuracy: 1.0
+
+item 1342 :search with 10 result(s) accuracy: 1.0
+
+item 1343 :search with 10 result(s) accuracy: 1.0
+
+item 1344 :search with 10 result(s) accuracy: 1.0
+
+item 1345 :search with 10 result(s) accuracy: 1.0
+
+item 1346 :search with 10 result(s) accuracy: 1.0
+
+item 1347 :search with 10 result(s) accuracy: 1.0
+
+item 1348 :search with 10 result(s) accuracy: 1.0
+
+item 1349 :search with 10 result(s) accuracy: 1.0
+
+item 1350 :search with 10 result(s) accuracy: 1.0
+
+item 1351 :search with 10 result(s) accuracy: 1.0
+
+item 1352 :search with 10 result(s) accuracy: 1.0
+
+item 1353 :search with 10 result(s) accuracy: 1.0
+
+item 1354 :search with 10 result(s) accuracy: 1.0
+
+item 1355 :search with 10 result(s) accuracy: 1.0
+
+item 1356 :search with 10 result(s) accuracy: 1.0
+
+item 1357 :search with 10 result(s) accuracy: 1.0
+
+item 1358 :search with 10 result(s) accuracy: 1.0
+
+item 1359 :search with 10 result(s) accuracy: 1.0
+
+item 1360 :search with 10 result(s) accuracy: 1.0
+
+item 1361 :search with 10 result(s) accuracy: 1.0
+
+item 1362 :search with 10 result(s) accuracy: 1.0
+
+item 1363 :search with 10 result(s) accuracy: 0.9
+
+item 1364 :search with 10 result(s) accuracy: 1.0
+
+item 1365 :search with 10 result(s) accuracy: 0.9
+
+item 1366 :search with 10 result(s) accuracy: 1.0
+
+item 1367 :search with 10 result(s) accuracy: 0.9
+
+item 1368 :search with 10 result(s) accuracy: 1.0
+
+item 1369 :search with 10 result(s) accuracy: 1.0
+
+item 1370 :search with 10 result(s) accuracy: 1.0
+
+item 1371 :search with 10 result(s) accuracy: 1.0
+
+item 1372 :search with 10 result(s) accuracy: 1.0
+
+item 1373 :search with 10 result(s) accuracy: 1.0
+
+item 1374 :search with 10 result(s) accuracy: 1.0
+
+item 1375 :search with 10 result(s) accuracy: 1.0
+
+item 1376 :search with 10 result(s) accuracy: 1.0
+
+item 1377 :search with 10 result(s) accuracy: 1.0
+
+item 1378 :search with 10 result(s) accuracy: 1.0
+
+item 1379 :search with 10 result(s) accuracy: 1.0
+
+item 1380 :search with 10 result(s) accuracy: 1.0
+
+item 1381 :search with 10 result(s) accuracy: 1.0
+
+item 1382 :search with 10 result(s) accuracy: 1.0
+
+item 1383 :search with 10 result(s) accuracy: 1.0
+
+item 1384 :search with 10 result(s) accuracy: 1.0
+
+item 1385 :search with 10 result(s) accuracy: 1.0
+
+item 1386 :search with 10 result(s) accuracy: 1.0
+
+item 1387 :search with 10 result(s) accuracy: 1.0
+
+item 1388 :search with 10 result(s) accuracy: 1.0
+
+item 1389 :search with 10 result(s) accuracy: 1.0
+
+item 1390 :search with 10 result(s) accuracy: 1.0
+
+item 1391 :search with 10 result(s) accuracy: 1.0
+
+item 1392 :search with 10 result(s) accuracy: 1.0
+
+item 1393 :search with 10 result(s) accuracy: 1.0
+
+item 1394 :search with 10 result(s) accuracy: 1.0
+
+item 1395 :search with 10 result(s) accuracy: 1.0
+
+item 1396 :search with 10 result(s) accuracy: 1.0
+
+item 1397 :search with 10 result(s) accuracy: 1.0
+
+item 1398 :search with 10 result(s) accuracy: 1.0
+
+item 1399 :search with 10 result(s) accuracy: 1.0
+
+item 1400 :search with 10 result(s) accuracy: 1.0
+
+item 1401 :search with 10 result(s) accuracy: 1.0
+
+item 1402 :search with 10 result(s) accuracy: 1.0
+
+item 1403 :search with 10 result(s) accuracy: 0.8
+
+item 1404 :search with 10 result(s) accuracy: 1.0
+
+item 1405 :search with 10 result(s) accuracy: 1.0
+
+item 1406 :search with 10 result(s) accuracy: 1.0
+
+item 1407 :search with 10 result(s) accuracy: 0.9
+
+item 1408 :search with 10 result(s) accuracy: 1.0
+
+item 1409 :search with 10 result(s) accuracy: 0.9
+
+item 1410 :search with 10 result(s) accuracy: 1.0
+
+item 1411 :search with 10 result(s) accuracy: 0.9
+
+item 1412 :search with 10 result(s) accuracy: 1.0
+
+item 1413 :search with 10 result(s) accuracy: 0.8
+
+item 1414 :search with 10 result(s) accuracy: 1.0
+
+item 1415 :search with 10 result(s) accuracy: 1.0
+
+item 1416 :search with 10 result(s) accuracy: 1.0
+
+item 1417 :search with 10 result(s) accuracy: 1.0
+
+item 1418 :search with 10 result(s) accuracy: 1.0
+
+item 1419 :search with 10 result(s) accuracy: 0.9
+
+item 1420 :search with 10 result(s) accuracy: 1.0
+
+item 1421 :search with 10 result(s) accuracy: 1.0
+
+item 1422 :search with 10 result(s) accuracy: 1.0
+
+item 1423 :search with 10 result(s) accuracy: 0.9
+
+item 1424 :search with 10 result(s) accuracy: 1.0
+
+item 1425 :search with 10 result(s) accuracy: 0.9
+
+item 1426 :search with 10 result(s) accuracy: 1.0
+
+item 1427 :search with 10 result(s) accuracy: 0.9
+
+item 1428 :search with 10 result(s) accuracy: 1.0
+
+item 1429 :search with 10 result(s) accuracy: 1.0
+
+item 1430 :search with 10 result(s) accuracy: 1.0
+
+item 1431 :search with 10 result(s) accuracy: 1.0
+
+item 1432 :search with 10 result(s) accuracy: 1.0
+
+item 1433 :search with 10 result(s) accuracy: 1.0
+
+item 1434 :search with 10 result(s) accuracy: 1.0
+
+item 1435 :search with 10 result(s) accuracy: 1.0
+
+item 1436 :search with 10 result(s) accuracy: 1.0
+
+item 1437 :search with 10 result(s) accuracy: 1.0
+
+item 1438 :search with 10 result(s) accuracy: 1.0
+
+item 1439 :search with 10 result(s) accuracy: 1.0
+
+item 1440 :search with 10 result(s) accuracy: 0.9
+
+item 1441 :search with 10 result(s) accuracy: 1.0
+
+item 1442 :search with 10 result(s) accuracy: 1.0
+
+item 1443 :search with 10 result(s) accuracy: 1.0
+
+item 1444 :search with 10 result(s) accuracy: 1.0
+
+item 1445 :search with 10 result(s) accuracy: 1.0
+
+item 1446 :search with 10 result(s) accuracy: 1.0
+
+item 1447 :search with 10 result(s) accuracy: 1.0
+
+item 1448 :search with 10 result(s) accuracy: 1.0
+
+item 1449 :search with 10 result(s) accuracy: 1.0
+
+item 1450 :search with 10 result(s) accuracy: 1.0
+
+item 1451 :search with 10 result(s) accuracy: 0.9
+
+item 1452 :search with 10 result(s) accuracy: 1.0
+
+item 1453 :search with 10 result(s) accuracy: 1.0
+
+item 1454 :search with 10 result(s) accuracy: 1.0
+
+item 1455 :search with 10 result(s) accuracy: 1.0
+
+item 1456 :search with 10 result(s) accuracy: 0.9
+
+item 1457 :search with 10 result(s) accuracy: 1.0
+
+item 1458 :search with 10 result(s) accuracy: 1.0
+
+item 1459 :search with 10 result(s) accuracy: 1.0
+
+item 1460 :search with 10 result(s) accuracy: 1.0
+
+item 1461 :search with 10 result(s) accuracy: 1.0
+
+item 1462 :search with 10 result(s) accuracy: 1.0
+
+item 1463 :search with 10 result(s) accuracy: 1.0
+
+item 1464 :search with 10 result(s) accuracy: 1.0
+
+item 1465 :search with 10 result(s) accuracy: 1.0
+
+item 1466 :search with 10 result(s) accuracy: 1.0
+
+item 1467 :search with 10 result(s) accuracy: 1.0
+
+item 1468 :search with 10 result(s) accuracy: 1.0
+
+item 1469 :search with 10 result(s) accuracy: 1.0
+
+item 1470 :search with 10 result(s) accuracy: 1.0
+
+item 1471 :search with 10 result(s) accuracy: 1.0
+
+item 1472 :search with 10 result(s) accuracy: 1.0
+
+item 1473 :search with 10 result(s) accuracy: 1.0
+
+item 1474 :search with 10 result(s) accuracy: 1.0
+
+item 1475 :search with 10 result(s) accuracy: 1.0
+
+item 1476 :search with 10 result(s) accuracy: 1.0
+
+item 1477 :search with 10 result(s) accuracy: 1.0
+
+item 1478 :search with 10 result(s) accuracy: 1.0
+
+item 1479 :search with 10 result(s) accuracy: 1.0
+
+item 1480 :search with 10 result(s) accuracy: 1.0
+
+item 1481 :search with 10 result(s) accuracy: 1.0
+
+item 1482 :search with 10 result(s) accuracy: 1.0
+
+item 1483 :search with 10 result(s) accuracy: 1.0
+
+item 1484 :search with 10 result(s) accuracy: 1.0
+
+item 1485 :search with 10 result(s) accuracy: 1.0
+
+item 1486 :search with 10 result(s) accuracy: 1.0
+
+item 1487 :search with 10 result(s) accuracy: 1.0
+
+item 1488 :search with 10 result(s) accuracy: 1.0
+
+item 1489 :search with 10 result(s) accuracy: 1.0
+
+item 1490 :search with 10 result(s) accuracy: 1.0
+
+item 1491 :search with 10 result(s) accuracy: 1.0
+
+item 1492 :search with 10 result(s) accuracy: 1.0
+
+item 1493 :search with 10 result(s) accuracy: 1.0
+
+item 1494 :search with 10 result(s) accuracy: 1.0
+
+item 1495 :search with 10 result(s) accuracy: 0.9
+
+item 1496 :search with 10 result(s) accuracy: 1.0
+
+item 1497 :search with 10 result(s) accuracy: 0.9
+
+item 1498 :search with 10 result(s) accuracy: 1.0
+
+item 1499 :search with 10 result(s) accuracy: 0.9
+
+item 1500 :search with 10 result(s) accuracy: 1.0
+
+item 1501 :search with 10 result(s) accuracy: 1.0
+
+item 1502 :search with 10 result(s) accuracy: 1.0
+
+item 1503 :search with 10 result(s) accuracy: 1.0
+
+item 1504 :search with 10 result(s) accuracy: 1.0
+
+item 1505 :search with 10 result(s) accuracy: 1.0
+
+item 1506 :search with 10 result(s) accuracy: 1.0
+
+item 1507 :search with 10 result(s) accuracy: 1.0
+
+item 1508 :search with 10 result(s) accuracy: 1.0
+
+item 1509 :search with 10 result(s) accuracy: 1.0
+
+item 1510 :search with 10 result(s) accuracy: 1.0
+
+item 1511 :search with 10 result(s) accuracy: 1.0
+
+item 1512 :search with 10 result(s) accuracy: 1.0
+
+item 1513 :search with 10 result(s) accuracy: 1.0
+
+item 1514 :search with 10 result(s) accuracy: 1.0
+
+item 1515 :search with 10 result(s) accuracy: 1.0
+
+item 1516 :search with 10 result(s) accuracy: 1.0
+
+item 1517 :search with 10 result(s) accuracy: 1.0
+
+item 1518 :search with 10 result(s) accuracy: 1.0
+
+item 1519 :search with 10 result(s) accuracy: 1.0
+
+item 1520 :search with 10 result(s) accuracy: 1.0
+
+item 1521 :search with 10 result(s) accuracy: 1.0
+
+item 1522 :search with 10 result(s) accuracy: 1.0
+
+item 1523 :search with 10 result(s) accuracy: 1.0
+
+item 1524 :search with 10 result(s) accuracy: 1.0
+
+item 1525 :search with 10 result(s) accuracy: 1.0
+
+item 1526 :search with 10 result(s) accuracy: 1.0
+
+item 1527 :search with 10 result(s) accuracy: 1.0
+
+item 1528 :search with 10 result(s) accuracy: 1.0
+
+item 1529 :search with 10 result(s) accuracy: 0.9
+
+item 1530 :search with 10 result(s) accuracy: 1.0
+
+item 1531 :search with 10 result(s) accuracy: 1.0
+
+item 1532 :search with 10 result(s) accuracy: 1.0
+
+item 1533 :search with 10 result(s) accuracy: 1.0
+
+item 1534 :search with 10 result(s) accuracy: 1.0
+
+item 1535 :search with 10 result(s) accuracy: 1.0
+
+item 1536 :search with 10 result(s) accuracy: 1.0
+
+item 1537 :search with 10 result(s) accuracy: 1.0
+
+item 1538 :search with 10 result(s) accuracy: 1.0
+
+item 1539 :search with 10 result(s) accuracy: 1.0
+
+item 1540 :search with 10 result(s) accuracy: 1.0
+
+item 1541 :search with 10 result(s) accuracy: 1.0
+
+item 1542 :search with 10 result(s) accuracy: 1.0
+
+item 1543 :search with 10 result(s) accuracy: 1.0
+
+item 1544 :search with 10 result(s) accuracy: 1.0
+
+item 1545 :search with 10 result(s) accuracy: 1.0
+
+item 1546 :search with 10 result(s) accuracy: 0.9
+
+item 1547 :search with 10 result(s) accuracy: 1.0
+
+item 1548 :search with 10 result(s) accuracy: 0.9
+
+item 1549 :search with 10 result(s) accuracy: 1.0
+
+item 1550 :search with 10 result(s) accuracy: 0.9
+
+item 1551 :search with 10 result(s) accuracy: 1.0
+
+item 1552 :search with 10 result(s) accuracy: 1.0
+
+item 1553 :search with 10 result(s) accuracy: 1.0
+
+item 1554 :search with 10 result(s) accuracy: 1.0
+
+item 1555 :search with 10 result(s) accuracy: 0.9
+
+item 1556 :search with 10 result(s) accuracy: 1.0
+
+item 1557 :search with 10 result(s) accuracy: 1.0
+
+item 1558 :search with 10 result(s) accuracy: 1.0
+
+item 1559 :search with 10 result(s) accuracy: 1.0
+
+item 1560 :search with 10 result(s) accuracy: 1.0
+
+item 1561 :search with 10 result(s) accuracy: 1.0
+
+item 1562 :search with 10 result(s) accuracy: 1.0
+
+item 1563 :search with 10 result(s) accuracy: 1.0
+
+item 1564 :search with 10 result(s) accuracy: 1.0
+
+item 1565 :search with 10 result(s) accuracy: 1.0
+
+item 1566 :search with 10 result(s) accuracy: 1.0
+
+item 1567 :search with 10 result(s) accuracy: 1.0
+
+item 1568 :search with 10 result(s) accuracy: 1.0
+
+item 1569 :search with 10 result(s) accuracy: 1.0
+
+item 1570 :search with 10 result(s) accuracy: 1.0
+
+item 1571 :search with 10 result(s) accuracy: 1.0
+
+item 1572 :search with 10 result(s) accuracy: 1.0
+
+item 1573 :search with 10 result(s) accuracy: 1.0
+
+item 1574 :search with 10 result(s) accuracy: 1.0
+
+item 1575 :search with 10 result(s) accuracy: 1.0
+
+item 1576 :search with 10 result(s) accuracy: 1.0
+
+item 1577 :search with 10 result(s) accuracy: 1.0
+
+item 1578 :search with 10 result(s) accuracy: 1.0
+
+item 1579 :search with 10 result(s) accuracy: 1.0
+
+item 1580 :search with 10 result(s) accuracy: 1.0
+
+item 1581 :search with 10 result(s) accuracy: 1.0
+
+item 1582 :search with 10 result(s) accuracy: 1.0
+
+item 1583 :search with 10 result(s) accuracy: 1.0
+
+item 1584 :search with 10 result(s) accuracy: 1.0
+
+item 1585 :search with 10 result(s) accuracy: 1.0
+
+item 1586 :search with 10 result(s) accuracy: 1.0
+
+item 1587 :search with 10 result(s) accuracy: 1.0
+
+item 1588 :search with 10 result(s) accuracy: 1.0
+
+item 1589 :search with 10 result(s) accuracy: 1.0
+
+item 1590 :search with 10 result(s) accuracy: 1.0
+
+item 1591 :search with 10 result(s) accuracy: 1.0
+
+item 1592 :search with 10 result(s) accuracy: 1.0
+
+item 1593 :search with 10 result(s) accuracy: 1.0
+
+item 1594 :search with 10 result(s) accuracy: 1.0
+
+item 1595 :search with 10 result(s) accuracy: 1.0
+
+item 1596 :search with 10 result(s) accuracy: 1.0
+
+item 1597 :search with 10 result(s) accuracy: 1.0
+
+item 1598 :search with 10 result(s) accuracy: 1.0
+
+item 1599 :search with 10 result(s) accuracy: 1.0
+
+item 1600 :search with 10 result(s) accuracy: 1.0
+
+item 1601 :search with 10 result(s) accuracy: 1.0
+
+item 1602 :search with 10 result(s) accuracy: 1.0
+
+item 1603 :search with 10 result(s) accuracy: 1.0
+
+item 1604 :search with 10 result(s) accuracy: 1.0
+
+item 1605 :search with 10 result(s) accuracy: 1.0
+
+item 1606 :search with 10 result(s) accuracy: 1.0
+
+item 1607 :search with 10 result(s) accuracy: 1.0
+
+item 1608 :search with 10 result(s) accuracy: 1.0
+
+item 1609 :search with 10 result(s) accuracy: 1.0
+
+item 1610 :search with 10 result(s) accuracy: 1.0
+
+item 1611 :search with 10 result(s) accuracy: 1.0
+
+item 1612 :search with 10 result(s) accuracy: 1.0
+
+item 1613 :search with 10 result(s) accuracy: 1.0
+
+item 1614 :search with 10 result(s) accuracy: 1.0
+
+item 1615 :search with 10 result(s) accuracy: 1.0
+
+item 1616 :search with 10 result(s) accuracy: 1.0
+
+item 1617 :search with 10 result(s) accuracy: 1.0
+
+item 1618 :search with 10 result(s) accuracy: 1.0
+
+item 1619 :search with 10 result(s) accuracy: 1.0
+
+item 1620 :search with 10 result(s) accuracy: 1.0
+
+item 1621 :search with 10 result(s) accuracy: 1.0
+
+item 1622 :search with 10 result(s) accuracy: 1.0
+
+item 1623 :search with 10 result(s) accuracy: 1.0
+
+item 1624 :search with 10 result(s) accuracy: 1.0
+
+item 1625 :search with 10 result(s) accuracy: 1.0
+
+item 1626 :search with 10 result(s) accuracy: 1.0
+
+item 1627 :search with 10 result(s) accuracy: 1.0
+
+item 1628 :search with 10 result(s) accuracy: 1.0
+
+item 1629 :search with 10 result(s) accuracy: 1.0
+
+item 1630 :search with 10 result(s) accuracy: 1.0
+
+item 1631 :search with 10 result(s) accuracy: 1.0
+
+item 1632 :search with 10 result(s) accuracy: 1.0
+
+item 1633 :search with 10 result(s) accuracy: 1.0
+
+item 1634 :search with 10 result(s) accuracy: 1.0
+
+item 1635 :search with 10 result(s) accuracy: 1.0
+
+item 1636 :search with 10 result(s) accuracy: 1.0
+
+item 1637 :search with 10 result(s) accuracy: 1.0
+
+item 1638 :search with 10 result(s) accuracy: 1.0
+
+item 1639 :search with 10 result(s) accuracy: 1.0
+
+item 1640 :search with 10 result(s) accuracy: 1.0
+
+item 1641 :search with 10 result(s) accuracy: 1.0
+
+item 1642 :search with 10 result(s) accuracy: 1.0
+
+item 1643 :search with 10 result(s) accuracy: 1.0
+
+item 1644 :search with 10 result(s) accuracy: 1.0
+
+item 1645 :search with 10 result(s) accuracy: 1.0
+
+item 1646 :search with 10 result(s) accuracy: 1.0
+
+item 1647 :search with 10 result(s) accuracy: 0.0
+
+item 1648 :search with 10 result(s) accuracy: 1.0
+
+item 1649 :search with 10 result(s) accuracy: 0.0
+
+item 1650 :search with 10 result(s) accuracy: 1.0
+
+item 1651 :search with 10 result(s) accuracy: 1.0
+
+item 1652 :search with 10 result(s) accuracy: 1.0
+
+item 1653 :search with 10 result(s) accuracy: 1.0
+
+item 1654 :search with 10 result(s) accuracy: 1.0
+
+item 1655 :search with 10 result(s) accuracy: 1.0
+
+item 1656 :search with 10 result(s) accuracy: 1.0
+
+item 1657 :search with 10 result(s) accuracy: 0.9
+
+item 1658 :search with 10 result(s) accuracy: 1.0
+
+item 1659 :search with 10 result(s) accuracy: 0.9
+
+item 1660 :search with 10 result(s) accuracy: 0.9
+
+item 1661 :search with 10 result(s) accuracy: 1.0
+
+item 1662 :search with 10 result(s) accuracy: 0.9
+
+item 1663 :search with 10 result(s) accuracy: 1.0
+
+item 1664 :search with 10 result(s) accuracy: 0.7
+
+item 1665 :search with 10 result(s) accuracy: 1.0
+
+item 1666 :search with 10 result(s) accuracy: 1.0
+
+item 1667 :search with 10 result(s) accuracy: 1.0
+
+item 1668 :search with 10 result(s) accuracy: 1.0
+
+item 1669 :search with 10 result(s) accuracy: 1.0
+
+item 1670 :search with 10 result(s) accuracy: 1.0
+
+item 1671 :search with 10 result(s) accuracy: 1.0
+
+item 1672 :search with 10 result(s) accuracy: 1.0
+
+item 1673 :search with 10 result(s) accuracy: 1.0
+
+item 1674 :search with 10 result(s) accuracy: 1.0
+
+item 1675 :search with 10 result(s) accuracy: 1.0
+
+item 1676 :search with 10 result(s) accuracy: 1.0
+
+item 1677 :search with 10 result(s) accuracy: 1.0
+
+item 1678 :search with 10 result(s) accuracy: 1.0
+
+item 1679 :search with 10 result(s) accuracy: 1.0
+
+item 1680 :search with 10 result(s) accuracy: 1.0
+
+item 1681 :search with 10 result(s) accuracy: 0.0
+
+item 1682 :search with 10 result(s) accuracy: 1.0
+
+item 1683 :search with 10 result(s) accuracy: 0.0
+
+item 1684 :search with 10 result(s) accuracy: 1.0
+
+item 1685 :search with 10 result(s) accuracy: 1.0
+
+item 1686 :search with 10 result(s) accuracy: 1.0
+
+item 1687 :search with 10 result(s) accuracy: 1.0
+
+item 1688 :search with 10 result(s) accuracy: 0.0
+
+item 1689 :search with 10 result(s) accuracy: 1.0
+
+item 1690 :search with 10 result(s) accuracy: 1.0
+
+item 1691 :search with 10 result(s) accuracy: 1.0
+
+item 1692 :search with 10 result(s) accuracy: 1.0
+
+item 1693 :search with 10 result(s) accuracy: 1.0
+
+item 1694 :search with 10 result(s) accuracy: 1.0
+
+item 1695 :search with 10 result(s) accuracy: 1.0
+
+item 1696 :search with 10 result(s) accuracy: 1.0
+
+item 1697 :search with 10 result(s) accuracy: 1.0
+
+item 1698 :search with 10 result(s) accuracy: 1.0
+
+item 1699 :search with 10 result(s) accuracy: 1.0
+
+item 1700 :search with 10 result(s) accuracy: 1.0
+
+item 1701 :search with 10 result(s) accuracy: 1.0
+
+item 1702 :search with 10 result(s) accuracy: 1.0
+
+item 1703 :search with 10 result(s) accuracy: 1.0
+
+item 1704 :search with 10 result(s) accuracy: 1.0
+
+item 1705 :search with 10 result(s) accuracy: 1.0
+
+item 1706 :search with 10 result(s) accuracy: 1.0
+
+item 1707 :search with 10 result(s) accuracy: 1.0
+
+item 1708 :search with 10 result(s) accuracy: 1.0
+
+item 1709 :search with 10 result(s) accuracy: 1.0
+
+item 1710 :search with 10 result(s) accuracy: 1.0
+
+item 1711 :search with 10 result(s) accuracy: 1.0
+
+item 1712 :search with 10 result(s) accuracy: 1.0
+
+item 1713 :search with 10 result(s) accuracy: 1.0
+
+item 1714 :search with 10 result(s) accuracy: 0.0
+
+item 1715 :search with 10 result(s) accuracy: 1.0
+
+item 1716 :search with 10 result(s) accuracy: 0.0
+
+item 1717 :search with 10 result(s) accuracy: 1.0
+
+item 1718 :search with 10 result(s) accuracy: 1.0
+
+item 1719 :search with 10 result(s) accuracy: 1.0
+
+item 1720 :search with 10 result(s) accuracy: 1.0
+
+item 1721 :search with 10 result(s) accuracy: 0.0
+
+item 1722 :search with 10 result(s) accuracy: 1.0
+
+item 1723 :search with 10 result(s) accuracy: 1.0
+
+item 1724 :search with 10 result(s) accuracy: 1.0
+
+item 1725 :search with 10 result(s) accuracy: 1.0
+
+item 1726 :search with 10 result(s) accuracy: 1.0
+
+item 1727 :search with 10 result(s) accuracy: 1.0
+
+item 1728 :search with 10 result(s) accuracy: 1.0
+
+item 1729 :search with 10 result(s) accuracy: 1.0
+
+item 1730 :search with 10 result(s) accuracy: 1.0
+
+item 1731 :search with 10 result(s) accuracy: 1.0
+
+item 1732 :search with 10 result(s) accuracy: 1.0
+
+item 1733 :search with 10 result(s) accuracy: 1.0
+
+item 1734 :search with 10 result(s) accuracy: 1.0
+
+item 1735 :search with 10 result(s) accuracy: 1.0
+
+item 1736 :search with 10 result(s) accuracy: 1.0
+
+item 1737 :search with 10 result(s) accuracy: 1.0
+
+item 1738 :search with 10 result(s) accuracy: 1.0
+
+item 1739 :search with 10 result(s) accuracy: 1.0
+
+item 1740 :search with 10 result(s) accuracy: 1.0
+
+item 1741 :search with 10 result(s) accuracy: 1.0
+
+item 1742 :search with 10 result(s) accuracy: 1.0
+
+item 1743 :search with 10 result(s) accuracy: 1.0
+
+item 1744 :search with 10 result(s) accuracy: 1.0
+
+item 1745 :search with 10 result(s) accuracy: 1.0
+
+item 1746 :search with 10 result(s) accuracy: 1.0
+
+item 1747 :search with 10 result(s) accuracy: 1.0
+
+item 1748 :search with 10 result(s) accuracy: 1.0
+
+item 1749 :search with 10 result(s) accuracy: 1.0
+
+item 1750 :search with 10 result(s) accuracy: 1.0
+
+item 1751 :search with 10 result(s) accuracy: 1.0
+
+item 1752 :search with 10 result(s) accuracy: 1.0
+
+item 1753 :search with 10 result(s) accuracy: 1.0
+
+item 1754 :search with 10 result(s) accuracy: 1.0
+
+item 1755 :search with 10 result(s) accuracy: 1.0
+
+item 1756 :search with 10 result(s) accuracy: 1.0
+
+item 1757 :search with 10 result(s) accuracy: 1.0
+
+item 1758 :search with 10 result(s) accuracy: 1.0
+
+item 1759 :search with 10 result(s) accuracy: 1.0
+
+item 1760 :search with 10 result(s) accuracy: 1.0
+
+item 1761 :search with 10 result(s) accuracy: 1.0
+
+item 1762 :search with 10 result(s) accuracy: 1.0
+
+item 1763 :search with 10 result(s) accuracy: 1.0
+
+item 1764 :search with 10 result(s) accuracy: 1.0
+
+item 1765 :search with 10 result(s) accuracy: 1.0
+
+item 1766 :search with 10 result(s) accuracy: 1.0
+
+item 1767 :search with 10 result(s) accuracy: 1.0
+
+item 1768 :search with 10 result(s) accuracy: 1.0
+
+item 1769 :search with 10 result(s) accuracy: 1.0
+
+item 1770 :search with 10 result(s) accuracy: 1.0
+
+item 1771 :search with 10 result(s) accuracy: 1.0
+
+item 1772 :search with 10 result(s) accuracy: 1.0
+
+item 1773 :search with 10 result(s) accuracy: 1.0
+
+item 1774 :search with 10 result(s) accuracy: 1.0
+
+item 1775 :search with 10 result(s) accuracy: 1.0
+
+item 1776 :search with 10 result(s) accuracy: 1.0
+
+item 1777 :search with 10 result(s) accuracy: 1.0
+
+item 1778 :search with 10 result(s) accuracy: 1.0
+
+item 1779 :search with 10 result(s) accuracy: 1.0
+
+item 1780 :search with 10 result(s) accuracy: 1.0
+
+item 1781 :search with 10 result(s) accuracy: 1.0
+
+item 1782 :search with 10 result(s) accuracy: 1.0
+
+item 1783 :search with 10 result(s) accuracy: 1.0
+
+item 1784 :search with 10 result(s) accuracy: 1.0
+
+item 1785 :search with 10 result(s) accuracy: 1.0
+
+item 1786 :search with 10 result(s) accuracy: 1.0
+
+item 1787 :search with 10 result(s) accuracy: 1.0
+
+item 1788 :search with 10 result(s) accuracy: 1.0
+
+item 1789 :search with 10 result(s) accuracy: 1.0
+
+item 1790 :search with 10 result(s) accuracy: 1.0
+
+item 1791 :search with 10 result(s) accuracy: 1.0
+
+item 1792 :search with 10 result(s) accuracy: 1.0
+
+item 1793 :search with 10 result(s) accuracy: 1.0
+
+item 1794 :search with 10 result(s) accuracy: 1.0
+
+item 1795 :search with 10 result(s) accuracy: 1.0
+
+item 1796 :search with 10 result(s) accuracy: 1.0
+
+item 1797 :search with 10 result(s) accuracy: 1.0
+
+item 1798 :search with 10 result(s) accuracy: 1.0
+
+item 1799 :search with 10 result(s) accuracy: 1.0
+
+item 1800 :search with 10 result(s) accuracy: 1.0
+
+item 1801 :search with 10 result(s) accuracy: 1.0
+
+item 1802 :search with 10 result(s) accuracy: 1.0
+
+item 1803 :search with 10 result(s) accuracy: 1.0
+
+item 1804 :search with 10 result(s) accuracy: 1.0
+
+item 1805 :search with 10 result(s) accuracy: 1.0
+
+item 1806 :search with 10 result(s) accuracy: 1.0
+
+item 1807 :search with 10 result(s) accuracy: 1.0
+
+item 1808 :search with 10 result(s) accuracy: 1.0
+
+item 1809 :search with 10 result(s) accuracy: 1.0
+
+item 1810 :search with 10 result(s) accuracy: 1.0
+
+item 1811 :search with 10 result(s) accuracy: 1.0
+
+item 1812 :search with 10 result(s) accuracy: 1.0
+
+item 1813 :search with 10 result(s) accuracy: 1.0
+
+item 1814 :search with 10 result(s) accuracy: 1.0
+
+item 1815 :search with 10 result(s) accuracy: 1.0
+
+item 1816 :search with 10 result(s) accuracy: 1.0
+
+item 1817 :search with 10 result(s) accuracy: 1.0
+
+item 1818 :search with 10 result(s) accuracy: 1.0
+
+item 1819 :search with 10 result(s) accuracy: 1.0
+
+item 1820 :search with 10 result(s) accuracy: 1.0
+
+item 1821 :search with 10 result(s) accuracy: 1.0
+
+item 1822 :search with 10 result(s) accuracy: 1.0
+
+item 1823 :search with 10 result(s) accuracy: 1.0
+
+item 1824 :search with 10 result(s) accuracy: 1.0
+
+item 1825 :search with 10 result(s) accuracy: 1.0
+
+item 1826 :search with 10 result(s) accuracy: 1.0
+
+item 1827 :search with 10 result(s) accuracy: 1.0
+
+item 1828 :search with 10 result(s) accuracy: 1.0
+
+item 1829 :search with 10 result(s) accuracy: 1.0
+
+item 1830 :search with 10 result(s) accuracy: 1.0
+
+item 1831 :search with 10 result(s) accuracy: 1.0
+
+item 1832 :search with 10 result(s) accuracy: 1.0
+
+item 1833 :search with 10 result(s) accuracy: 1.0
+
+item 1834 :search with 10 result(s) accuracy: 1.0
+
+item 1835 :search with 10 result(s) accuracy: 1.0
+
+item 1836 :search with 10 result(s) accuracy: 1.0
+
+item 1837 :search with 10 result(s) accuracy: 1.0
+
+item 1838 :search with 10 result(s) accuracy: 1.0
+
+item 1839 :search with 10 result(s) accuracy: 1.0
+
+item 1840 :search with 10 result(s) accuracy: 1.0
+
+item 1841 :search with 10 result(s) accuracy: 1.0
+
+item 1842 :search with 10 result(s) accuracy: 1.0
+
+item 1843 :search with 10 result(s) accuracy: 1.0
+
+item 1844 :search with 10 result(s) accuracy: 1.0
+
+item 1845 :search with 10 result(s) accuracy: 1.0
+
+item 1846 :search with 10 result(s) accuracy: 1.0
+
+item 1847 :search with 10 result(s) accuracy: 1.0
+
+item 1848 :search with 10 result(s) accuracy: 1.0
+
+item 1849 :search with 10 result(s) accuracy: 1.0
+
+item 1850 :search with 10 result(s) accuracy: 1.0
+
+item 1851 :search with 10 result(s) accuracy: 1.0
+
+item 1852 :search with 10 result(s) accuracy: 1.0
+
+item 1853 :search with 10 result(s) accuracy: 1.0
+
+item 1854 :search with 10 result(s) accuracy: 1.0
+
+item 1855 :search with 10 result(s) accuracy: 1.0
+
+item 1856 :search with 10 result(s) accuracy: 1.0
+
+item 1857 :search with 10 result(s) accuracy: 1.0
+
+item 1858 :search with 10 result(s) accuracy: 1.0
+
+item 1859 :search with 10 result(s) accuracy: 1.0
+
+item 1860 :search with 10 result(s) accuracy: 1.0
+
+item 1861 :search with 10 result(s) accuracy: 1.0
+
+item 1862 :search with 10 result(s) accuracy: 1.0
+
+item 1863 :search with 10 result(s) accuracy: 1.0
+
+item 1864 :search with 10 result(s) accuracy: 1.0
+
+item 1865 :search with 10 result(s) accuracy: 1.0
+
+item 1866 :search with 10 result(s) accuracy: 1.0
+
+item 1867 :search with 10 result(s) accuracy: 1.0
+
+item 1868 :search with 10 result(s) accuracy: 1.0
+
+item 1869 :search with 10 result(s) accuracy: 1.0
+
+item 1870 :search with 10 result(s) accuracy: 1.0
+
+item 1871 :search with 10 result(s) accuracy: 1.0
+
+item 1872 :search with 10 result(s) accuracy: 1.0
+
+item 1873 :search with 10 result(s) accuracy: 1.0
+
+item 1874 :search with 10 result(s) accuracy: 1.0
+
+item 1875 :search with 10 result(s) accuracy: 1.0
+
+item 1876 :search with 10 result(s) accuracy: 1.0
+
+item 1877 :search with 10 result(s) accuracy: 1.0
+
+item 1878 :search with 10 result(s) accuracy: 1.0
+
+item 1879 :search with 10 result(s) accuracy: 1.0
+
+item 1880 :search with 10 result(s) accuracy: 1.0
+
+item 1881 :search with 10 result(s) accuracy: 1.0
+
+item 1882 :search with 10 result(s) accuracy: 1.0
+
+item 1883 :search with 10 result(s) accuracy: 1.0
+
+item 1884 :search with 10 result(s) accuracy: 1.0
+
+item 1885 :search with 10 result(s) accuracy: 1.0
+
+item 1886 :search with 10 result(s) accuracy: 1.0
+
+item 1887 :search with 10 result(s) accuracy: 1.0
+
+item 1888 :search with 10 result(s) accuracy: 1.0
+
+item 1889 :search with 10 result(s) accuracy: 1.0
+
+item 1890 :search with 10 result(s) accuracy: 1.0
+
+item 1891 :search with 10 result(s) accuracy: 1.0
+
+item 1892 :search with 10 result(s) accuracy: 1.0
+
+item 1893 :search with 10 result(s) accuracy: 1.0
+
+item 1894 :search with 10 result(s) accuracy: 1.0
+
+item 1895 :search with 10 result(s) accuracy: 1.0
+
+item 1896 :search with 10 result(s) accuracy: 1.0
+
+item 1897 :search with 10 result(s) accuracy: 1.0
+
+item 1898 :search with 10 result(s) accuracy: 1.0
+
+item 1899 :search with 10 result(s) accuracy: 1.0
+
+item 1900 :search with 10 result(s) accuracy: 1.0
+
+item 1901 :search with 10 result(s) accuracy: 1.0
+
+item 1902 :search with 10 result(s) accuracy: 1.0
+
+item 1903 :search with 10 result(s) accuracy: 1.0
+
+item 1904 :search with 10 result(s) accuracy: 1.0
+
+item 1905 :search with 10 result(s) accuracy: 1.0
+
+item 1906 :search with 10 result(s) accuracy: 1.0
+
+item 1907 :search with 10 result(s) accuracy: 1.0
+
+item 1908 :search with 10 result(s) accuracy: 1.0
+
+item 1909 :search with 10 result(s) accuracy: 1.0
+
+item 1910 :search with 10 result(s) accuracy: 1.0
+
+item 1911 :search with 10 result(s) accuracy: 1.0
+
+item 1912 :search with 10 result(s) accuracy: 1.0
+
+item 1913 :search with 10 result(s) accuracy: 1.0
+
+item 1914 :search with 10 result(s) accuracy: 1.0
+
+item 1915 :search with 10 result(s) accuracy: 1.0
+
+item 1916 :search with 10 result(s) accuracy: 1.0
+
+item 1917 :search with 10 result(s) accuracy: 1.0
+
+item 1918 :search with 10 result(s) accuracy: 1.0
+
+item 1919 :search with 10 result(s) accuracy: 1.0
+
+item 1920 :search with 10 result(s) accuracy: 1.0
+
+item 1921 :search with 10 result(s) accuracy: 1.0
+
+item 1922 :search with 10 result(s) accuracy: 1.0
+
+item 1923 :search with 10 result(s) accuracy: 1.0
+
+item 1924 :search with 10 result(s) accuracy: 1.0
+
+item 1925 :search with 10 result(s) accuracy: 1.0
+
+item 1926 :search with 10 result(s) accuracy: 1.0
+
+item 1927 :search with 10 result(s) accuracy: 1.0
+
+item 1928 :search with 10 result(s) accuracy: 1.0
+
+item 1929 :search with 10 result(s) accuracy: 1.0
+
+item 1930 :search with 10 result(s) accuracy: 1.0
+
+item 1931 :search with 10 result(s) accuracy: 1.0
+
+item 1932 :search with 10 result(s) accuracy: 1.0
+
+item 1933 :search with 10 result(s) accuracy: 1.0
+
+item 1934 :search with 10 result(s) accuracy: 1.0
+
+item 1935 :search with 10 result(s) accuracy: 1.0
+
+item 1936 :search with 10 result(s) accuracy: 1.0
+
+item 1937 :search with 10 result(s) accuracy: 1.0
+
+item 1938 :search with 10 result(s) accuracy: 1.0
+
+item 1939 :search with 10 result(s) accuracy: 1.0
+
+item 1940 :search with 10 result(s) accuracy: 1.0
+
+item 1941 :search with 10 result(s) accuracy: 1.0
+
+item 1942 :search with 10 result(s) accuracy: 1.0
+
+item 1943 :search with 10 result(s) accuracy: 1.0
+
+item 1944 :search with 10 result(s) accuracy: 1.0
+
+item 1945 :search with 10 result(s) accuracy: 1.0
+
+item 1946 :search with 10 result(s) accuracy: 1.0
+
+item 1947 :search with 10 result(s) accuracy: 1.0
+
+item 1948 :search with 10 result(s) accuracy: 1.0
+
+item 1949 :search with 10 result(s) accuracy: 1.0
+
+item 1950 :search with 10 result(s) accuracy: 1.0
+
+item 1951 :search with 10 result(s) accuracy: 1.0
+
+item 1952 :search with 10 result(s) accuracy: 1.0
+
+item 1953 :search with 10 result(s) accuracy: 1.0
+
+item 1954 :search with 10 result(s) accuracy: 1.0
+
+item 1955 :search with 10 result(s) accuracy: 1.0
+
+item 1956 :search with 10 result(s) accuracy: 1.0
+
+item 1957 :search with 10 result(s) accuracy: 1.0
+
+item 1958 :search with 10 result(s) accuracy: 1.0
+
+item 1959 :search with 10 result(s) accuracy: 1.0
+
+item 1960 :search with 10 result(s) accuracy: 1.0
+
+item 1961 :search with 10 result(s) accuracy: 1.0
+
+item 1962 :search with 10 result(s) accuracy: 1.0
+
+item 1963 :search with 10 result(s) accuracy: 1.0
+
+item 1964 :search with 10 result(s) accuracy: 1.0
+
+item 1965 :search with 10 result(s) accuracy: 1.0
+
+item 1966 :search with 10 result(s) accuracy: 1.0
+
+item 1967 :search with 10 result(s) accuracy: 1.0
+
+item 1968 :search with 10 result(s) accuracy: 1.0
+
+item 1969 :search with 10 result(s) accuracy: 1.0
+
+item 1970 :search with 10 result(s) accuracy: 1.0
+
+item 1971 :search with 10 result(s) accuracy: 1.0
+
+item 1972 :search with 10 result(s) accuracy: 1.0
+
+item 1973 :search with 10 result(s) accuracy: 1.0
+
+item 1974 :search with 10 result(s) accuracy: 1.0
+
+item 1975 :search with 10 result(s) accuracy: 1.0
+
+item 1976 :search with 10 result(s) accuracy: 1.0
+
+item 1977 :search with 10 result(s) accuracy: 1.0
+
+item 1978 :search with 10 result(s) accuracy: 1.0
+
+item 1979 :search with 10 result(s) accuracy: 1.0
+
+item 1980 :search with 10 result(s) accuracy: 1.0
+
+item 1981 :search with 10 result(s) accuracy: 1.0
+
+item 1982 :search with 10 result(s) accuracy: 1.0
+
+item 1983 :search with 10 result(s) accuracy: 1.0
+
+item 1984 :search with 10 result(s) accuracy: 1.0
+
+item 1985 :search with 10 result(s) accuracy: 1.0
+
+item 1986 :search with 10 result(s) accuracy: 1.0
+
+item 1987 :search with 10 result(s) accuracy: 1.0
+
+item 1988 :search with 10 result(s) accuracy: 1.0
+
+item 1989 :search with 10 result(s) accuracy: 1.0
+
+item 1990 :search with 10 result(s) accuracy: 1.0
+
+item 1991 :search with 10 result(s) accuracy: 1.0
+
+item 1992 :search with 10 result(s) accuracy: 1.0
+
+item 1993 :search with 10 result(s) accuracy: 1.0
+
+item 1994 :search with 10 result(s) accuracy: 1.0
+
+item 1995 :search with 10 result(s) accuracy: 1.0
+
+item 1996 :search with 10 result(s) accuracy: 1.0
+
+item 1997 :search with 10 result(s) accuracy: 1.0
+
+item 1998 :search with 10 result(s) accuracy: 1.0
+
+item 1999 :search with 10 result(s) accuracy: 1.0
+
+item 2000 :search with 10 result(s) accuracy: 1.0
+
+item 2001 :search with 10 result(s) accuracy: 1.0
+
+item 2002 :search with 10 result(s) accuracy: 1.0
+
+item 2003 :search with 10 result(s) accuracy: 1.0
+
+item 2004 :search with 10 result(s) accuracy: 1.0
+
+item 2005 :search with 10 result(s) accuracy: 1.0
+
+item 2006 :search with 10 result(s) accuracy: 1.0
+
+item 2007 :search with 10 result(s) accuracy: 1.0
+
+item 2008 :search with 10 result(s) accuracy: 1.0
+
+item 2009 :search with 10 result(s) accuracy: 1.0
+
+item 2010 :search with 10 result(s) accuracy: 1.0
+
+item 2011 :search with 10 result(s) accuracy: 1.0
+
+item 2012 :search with 10 result(s) accuracy: 1.0
+
+item 2013 :search with 10 result(s) accuracy: 1.0
+
+item 2014 :search with 10 result(s) accuracy: 1.0
+
+item 2015 :search with 10 result(s) accuracy: 1.0
+
+item 2016 :search with 10 result(s) accuracy: 1.0
+
+item 2017 :search with 10 result(s) accuracy: 1.0
+
+item 2018 :search with 10 result(s) accuracy: 1.0
+
+item 2019 :search with 10 result(s) accuracy: 1.0
+
+item 2020 :search with 10 result(s) accuracy: 1.0
+
+item 2021 :search with 10 result(s) accuracy: 1.0
+
+item 2022 :search with 10 result(s) accuracy: 1.0
+
+item 2023 :search with 10 result(s) accuracy: 1.0
+
+item 2024 :search with 10 result(s) accuracy: 1.0
+
+item 2025 :search with 10 result(s) accuracy: 1.0
+
+item 2026 :search with 10 result(s) accuracy: 1.0
+
+item 2027 :search with 10 result(s) accuracy: 1.0
+
+item 2028 :search with 10 result(s) accuracy: 1.0
+
+item 2029 :search with 10 result(s) accuracy: 1.0
+
+item 2030 :search with 10 result(s) accuracy: 1.0
+
+item 2031 :search with 10 result(s) accuracy: 1.0
+
+item 2032 :search with 10 result(s) accuracy: 1.0
+
+item 2033 :search with 10 result(s) accuracy: 1.0
+
+item 2034 :search with 10 result(s) accuracy: 1.0
+
+item 2035 :search with 10 result(s) accuracy: 1.0
+
+item 2036 :search with 10 result(s) accuracy: 1.0
+
+item 2037 :search with 10 result(s) accuracy: 1.0
+
+item 2038 :search with 10 result(s) accuracy: 1.0
+
+item 2039 :search with 10 result(s) accuracy: 1.0
+
+item 2040 :search with 10 result(s) accuracy: 1.0
+
+item 2041 :search with 10 result(s) accuracy: 1.0
+
+item 2042 :search with 10 result(s) accuracy: 1.0
+
+item 2043 :search with 10 result(s) accuracy: 1.0
+
+item 2044 :search with 10 result(s) accuracy: 1.0
+
+item 2045 :search with 10 result(s) accuracy: 1.0
+
+item 2046 :search with 10 result(s) accuracy: 1.0
+
+item 2047 :search with 10 result(s) accuracy: 1.0
+
+item 2048 :search with 10 result(s) accuracy: 0.9
+
+item 2049 :search with 10 result(s) accuracy: 1.0
+
+item 2050 :search with 10 result(s) accuracy: 0.9
+
+item 2051 :search with 10 result(s) accuracy: 1.0
+
+item 2052 :search with 10 result(s) accuracy: 1.0
+
+item 2053 :search with 10 result(s) accuracy: 1.0
+
+item 2054 :search with 10 result(s) accuracy: 1.0
+
+item 2055 :search with 10 result(s) accuracy: 1.0
+
+item 2056 :search with 10 result(s) accuracy: 1.0
+
+item 2057 :search with 10 result(s) accuracy: 1.0
+
+item 2058 :search with 10 result(s) accuracy: 1.0
+
+item 2059 :search with 10 result(s) accuracy: 1.0
+
+item 2060 :search with 10 result(s) accuracy: 1.0
+
+item 2061 :search with 10 result(s) accuracy: 1.0
+
+item 2062 :search with 10 result(s) accuracy: 1.0
+
+item 2063 :search with 10 result(s) accuracy: 1.0
+
+item 2064 :search with 10 result(s) accuracy: 1.0
+
+item 2065 :search with 10 result(s) accuracy: 1.0
+
+item 2066 :search with 10 result(s) accuracy: 1.0
+
+item 2067 :search with 10 result(s) accuracy: 1.0
+
+item 2068 :search with 10 result(s) accuracy: 1.0
+
+item 2069 :search with 10 result(s) accuracy: 1.0
+
+item 2070 :search with 10 result(s) accuracy: 1.0
+
+item 2071 :search with 10 result(s) accuracy: 1.0
+
+item 2072 :search with 10 result(s) accuracy: 1.0
+
+item 2073 :search with 10 result(s) accuracy: 1.0
+
+item 2074 :search with 10 result(s) accuracy: 1.0
+
+item 2075 :search with 10 result(s) accuracy: 1.0
+
+item 2076 :search with 10 result(s) accuracy: 1.0
+
+item 2077 :search with 10 result(s) accuracy: 1.0
+
+item 2078 :search with 10 result(s) accuracy: 1.0
+
+item 2079 :search with 10 result(s) accuracy: 1.0
+
+item 2080 :search with 10 result(s) accuracy: 1.0
+
+item 2081 :search with 10 result(s) accuracy: 1.0
+
+item 2082 :search with 10 result(s) accuracy: 1.0
+
+item 2083 :search with 10 result(s) accuracy: 1.0
+
+item 2084 :search with 10 result(s) accuracy: 1.0
+
+item 2085 :search with 10 result(s) accuracy: 1.0
+
+item 2086 :search with 10 result(s) accuracy: 1.0
+
+item 2087 :search with 10 result(s) accuracy: 1.0
+
+item 2088 :search with 10 result(s) accuracy: 1.0
+
+item 2089 :search with 10 result(s) accuracy: 1.0
+
+item 2090 :search with 10 result(s) accuracy: 1.0
+
+item 2091 :search with 10 result(s) accuracy: 1.0
+
+item 2092 :search with 10 result(s) accuracy: 1.0
+
+item 2093 :search with 10 result(s) accuracy: 1.0
+
+item 2094 :search with 10 result(s) accuracy: 1.0
+
+item 2095 :search with 10 result(s) accuracy: 1.0
+
+item 2096 :search with 10 result(s) accuracy: 1.0
+
+item 2097 :search with 10 result(s) accuracy: 1.0
+
+item 2098 :search with 10 result(s) accuracy: 1.0
+
+item 2099 :search with 10 result(s) accuracy: 1.0
+
+item 2100 :search with 10 result(s) accuracy: 1.0
+
+item 2101 :search with 10 result(s) accuracy: 1.0
+
+item 2102 :search with 10 result(s) accuracy: 1.0
+
+item 2103 :search with 10 result(s) accuracy: 1.0
+
+item 2104 :search with 10 result(s) accuracy: 0.0
+
+item 2105 :search with 10 result(s) accuracy: 1.0
+
+item 2106 :search with 10 result(s) accuracy: 1.0
+
+item 2107 :search with 10 result(s) accuracy: 1.0
+
+item 2108 :search with 10 result(s) accuracy: 1.0
+
+item 2109 :search with 10 result(s) accuracy: 1.0
+
+item 2110 :search with 10 result(s) accuracy: 1.0
+
+item 2111 :search with 10 result(s) accuracy: 1.0
+
+item 2112 :search with 10 result(s) accuracy: 1.0
+
+item 2113 :search with 10 result(s) accuracy: 1.0
+
+item 2114 :search with 10 result(s) accuracy: 1.0
+
+item 2115 :search with 10 result(s) accuracy: 1.0
+
+item 2116 :search with 10 result(s) accuracy: 1.0
+
+item 2117 :search with 10 result(s) accuracy: 1.0
+
+item 2118 :search with 10 result(s) accuracy: 1.0
+
+item 2119 :search with 10 result(s) accuracy: 1.0
+
+item 2120 :search with 10 result(s) accuracy: 1.0
+
+item 2121 :search with 10 result(s) accuracy: 1.0
+
+item 2122 :search with 10 result(s) accuracy: 1.0
+
+item 2123 :search with 10 result(s) accuracy: 1.0
+
+item 2124 :search with 10 result(s) accuracy: 1.0
+
+item 2125 :search with 10 result(s) accuracy: 1.0
+
+item 2126 :search with 10 result(s) accuracy: 1.0
+
+item 2127 :search with 10 result(s) accuracy: 1.0
+
+item 2128 :search with 10 result(s) accuracy: 1.0
+
+item 2129 :search with 10 result(s) accuracy: 1.0
+
+item 2130 :search with 10 result(s) accuracy: 1.0
+
+item 2131 :search with 10 result(s) accuracy: 1.0
+
+item 2132 :search with 10 result(s) accuracy: 1.0
+
+item 2133 :search with 10 result(s) accuracy: 1.0
+
+item 2134 :search with 10 result(s) accuracy: 1.0
+
+item 2135 :search with 10 result(s) accuracy: 1.0
+
+item 2136 :search with 10 result(s) accuracy: 0.0
+
+item 2137 :search with 10 result(s) accuracy: 1.0
+
+item 2138 :search with 10 result(s) accuracy: 0.0
+
+item 2139 :search with 10 result(s) accuracy: 1.0
+
+item 2140 :search with 10 result(s) accuracy: 1.0
+
+item 2141 :search with 10 result(s) accuracy: 1.0
+
+item 2142 :search with 10 result(s) accuracy: 1.0
+
+item 2143 :search with 10 result(s) accuracy: 1.0
+
+item 2144 :search with 10 result(s) accuracy: 1.0
+
+item 2145 :search with 10 result(s) accuracy: 1.0
+
+item 2146 :search with 10 result(s) accuracy: 1.0
+
+item 2147 :search with 10 result(s) accuracy: 1.0
+
+item 2148 :search with 10 result(s) accuracy: 1.0
+
+item 2149 :search with 10 result(s) accuracy: 1.0
+
+item 2150 :search with 10 result(s) accuracy: 1.0
+
+item 2151 :search with 10 result(s) accuracy: 1.0
+
+item 2152 :search with 10 result(s) accuracy: 1.0
+
+item 2153 :search with 10 result(s) accuracy: 1.0
+
+item 2154 :search with 10 result(s) accuracy: 1.0
+
+item 2155 :search with 10 result(s) accuracy: 1.0
+
+item 2156 :search with 10 result(s) accuracy: 1.0
+
+item 2157 :search with 10 result(s) accuracy: 1.0
+
+item 2158 :search with 10 result(s) accuracy: 1.0
+
+item 2159 :search with 10 result(s) accuracy: 1.0
+
+item 2160 :search with 10 result(s) accuracy: 1.0
+
+item 2161 :search with 10 result(s) accuracy: 1.0
+
+item 2162 :search with 10 result(s) accuracy: 1.0
+
+item 2163 :search with 10 result(s) accuracy: 1.0
+
+item 2164 :search with 10 result(s) accuracy: 1.0
+
+item 2165 :search with 10 result(s) accuracy: 1.0
+
+item 2166 :search with 10 result(s) accuracy: 1.0
+
+item 2167 :search with 10 result(s) accuracy: 1.0
+
+item 2168 :search with 10 result(s) accuracy: 1.0
+
+item 2169 :search with 10 result(s) accuracy: 1.0
+
+item 2170 :search with 10 result(s) accuracy: 1.0
+
+item 2171 :search with 10 result(s) accuracy: 1.0
+
+item 2172 :search with 10 result(s) accuracy: 1.0
+
+item 2173 :search with 10 result(s) accuracy: 1.0
+
+item 2174 :search with 10 result(s) accuracy: 1.0
+
+item 2175 :search with 10 result(s) accuracy: 1.0
+
+item 2176 :search with 10 result(s) accuracy: 1.0
+
+item 2177 :search with 10 result(s) accuracy: 1.0
+
+item 2178 :search with 10 result(s) accuracy: 1.0
+
+item 2179 :search with 10 result(s) accuracy: 1.0
+
+item 2180 :search with 10 result(s) accuracy: 1.0
+
+item 2181 :search with 10 result(s) accuracy: 1.0
+
+item 2182 :search with 10 result(s) accuracy: 1.0
+
+item 2183 :search with 10 result(s) accuracy: 1.0
+
+item 2184 :search with 10 result(s) accuracy: 1.0
+
+item 2185 :search with 10 result(s) accuracy: 1.0
+
+item 2186 :search with 10 result(s) accuracy: 1.0
+
+item 2187 :search with 10 result(s) accuracy: 1.0
+
+item 2188 :search with 10 result(s) accuracy: 1.0
+
+item 2189 :search with 10 result(s) accuracy: 1.0
+
+item 2190 :search with 10 result(s) accuracy: 1.0
+
+item 2191 :search with 10 result(s) accuracy: 1.0
+
+item 2192 :search with 10 result(s) accuracy: 1.0
+
+item 2193 :search with 10 result(s) accuracy: 1.0
+
+item 2194 :search with 10 result(s) accuracy: 1.0
+
+item 2195 :search with 10 result(s) accuracy: 1.0
+
+item 2196 :search with 10 result(s) accuracy: 1.0
+
+item 2197 :search with 10 result(s) accuracy: 1.0
+
+item 2198 :search with 10 result(s) accuracy: 1.0
+
+item 2199 :search with 10 result(s) accuracy: 1.0
+
+item 2200 :search with 10 result(s) accuracy: 1.0
+
+item 2201 :search with 10 result(s) accuracy: 1.0
+
+item 2202 :search with 10 result(s) accuracy: 1.0
+
+item 2203 :search with 10 result(s) accuracy: 1.0
+
+item 2204 :search with 10 result(s) accuracy: 0.9
+
+item 2205 :search with 10 result(s) accuracy: 1.0
+
+item 2206 :search with 10 result(s) accuracy: 0.0
+
+item 2207 :search with 10 result(s) accuracy: 1.0
+
+item 2208 :search with 10 result(s) accuracy: 1.0
+
+item 2209 :search with 10 result(s) accuracy: 1.0
+
+item 2210 :search with 10 result(s) accuracy: 1.0
+
+item 2211 :search with 10 result(s) accuracy: 1.0
+
+item 2212 :search with 10 result(s) accuracy: 1.0
+
+item 2213 :search with 10 result(s) accuracy: 1.0
+
+item 2214 :search with 10 result(s) accuracy: 1.0
+
+item 2215 :search with 10 result(s) accuracy: 1.0
+
+item 2216 :search with 10 result(s) accuracy: 1.0
+
+item 2217 :search with 10 result(s) accuracy: 1.0
+
+item 2218 :search with 10 result(s) accuracy: 1.0
+
+item 2219 :search with 10 result(s) accuracy: 1.0
+
+item 2220 :search with 10 result(s) accuracy: 1.0
+
+item 2221 :search with 10 result(s) accuracy: 1.0
+
+item 2222 :search with 10 result(s) accuracy: 1.0
+
+item 2223 :search with 10 result(s) accuracy: 1.0
+
+item 2224 :search with 10 result(s) accuracy: 1.0
+
+item 2225 :search with 10 result(s) accuracy: 1.0
+
+item 2226 :search with 10 result(s) accuracy: 1.0
+
+item 2227 :search with 10 result(s) accuracy: 1.0
+
+item 2228 :search with 10 result(s) accuracy: 1.0
+
+item 2229 :search with 10 result(s) accuracy: 1.0
+
+item 2230 :search with 10 result(s) accuracy: 1.0
+
+item 2231 :search with 10 result(s) accuracy: 1.0
+
+item 2232 :search with 10 result(s) accuracy: 1.0
+
+item 2233 :search with 10 result(s) accuracy: 1.0
+
+item 2234 :search with 10 result(s) accuracy: 1.0
+
+item 2235 :search with 10 result(s) accuracy: 1.0
+
+item 2236 :search with 10 result(s) accuracy: 1.0
+
+item 2237 :search with 10 result(s) accuracy: 1.0
+
+item 2238 :search with 10 result(s) accuracy: 1.0
+
+item 2239 :search with 10 result(s) accuracy: 1.0
+
+item 2240 :search with 10 result(s) accuracy: 1.0
+
+item 2241 :search with 10 result(s) accuracy: 1.0
+
+item 2242 :search with 10 result(s) accuracy: 1.0
+
+item 2243 :search with 10 result(s) accuracy: 1.0
+
+item 2244 :search with 10 result(s) accuracy: 1.0
+
+item 2245 :search with 10 result(s) accuracy: 1.0
+
+item 2246 :search with 10 result(s) accuracy: 1.0
+
+item 2247 :search with 10 result(s) accuracy: 1.0
+
+item 2248 :search with 10 result(s) accuracy: 1.0
+
+item 2249 :search with 10 result(s) accuracy: 1.0
+
+item 2250 :search with 10 result(s) accuracy: 1.0
+
+item 2251 :search with 10 result(s) accuracy: 1.0
+
+item 2252 :search with 10 result(s) accuracy: 1.0
+
+item 2253 :search with 10 result(s) accuracy: 1.0
+
+item 2254 :search with 10 result(s) accuracy: 1.0
+
+item 2255 :search with 10 result(s) accuracy: 1.0
+
+item 2256 :search with 10 result(s) accuracy: 1.0
+
+item 2257 :search with 10 result(s) accuracy: 1.0
+
+item 2258 :search with 10 result(s) accuracy: 1.0
+
+item 2259 :search with 10 result(s) accuracy: 1.0
+
+item 2260 :search with 10 result(s) accuracy: 1.0
+
+item 2261 :search with 10 result(s) accuracy: 1.0
+
+item 2262 :search with 10 result(s) accuracy: 1.0
+
+item 2263 :search with 10 result(s) accuracy: 1.0
+
+item 2264 :search with 10 result(s) accuracy: 1.0
+
+item 2265 :search with 10 result(s) accuracy: 1.0
+
+item 2266 :search with 10 result(s) accuracy: 0.9
+
+item 2267 :search with 10 result(s) accuracy: 1.0
+
+item 2268 :search with 10 result(s) accuracy: 0.9
+
+item 2269 :search with 10 result(s) accuracy: 1.0
+
+item 2270 :search with 10 result(s) accuracy: 0.9
+
+item 2271 :search with 10 result(s) accuracy: 1.0
+
+item 2272 :search with 10 result(s) accuracy: 1.0
+
+item 2273 :search with 10 result(s) accuracy: 1.0
+
+item 2274 :search with 10 result(s) accuracy: 1.0
+
+item 2275 :search with 10 result(s) accuracy: 1.0
+
+item 2276 :search with 10 result(s) accuracy: 1.0
+
+item 2277 :search with 10 result(s) accuracy: 1.0
+
+item 2278 :search with 10 result(s) accuracy: 1.0
+
+item 2279 :search with 10 result(s) accuracy: 1.0
+
+item 2280 :search with 10 result(s) accuracy: 1.0
+
+item 2281 :search with 10 result(s) accuracy: 1.0
+
+item 2282 :search with 10 result(s) accuracy: 1.0
+
+item 2283 :search with 10 result(s) accuracy: 1.0
+
+item 2284 :search with 10 result(s) accuracy: 1.0
+
+item 2285 :search with 10 result(s) accuracy: 1.0
+
+item 2286 :search with 10 result(s) accuracy: 1.0
+
+item 2287 :search with 10 result(s) accuracy: 1.0
+
+item 2288 :search with 10 result(s) accuracy: 1.0
+
+item 2289 :search with 10 result(s) accuracy: 1.0
+
+item 2290 :search with 10 result(s) accuracy: 1.0
+
+item 2291 :search with 10 result(s) accuracy: 1.0
+
+item 2292 :search with 10 result(s) accuracy: 1.0
+
+item 2293 :search with 10 result(s) accuracy: 1.0
+
+item 2294 :search with 10 result(s) accuracy: 1.0
+
+item 2295 :search with 10 result(s) accuracy: 1.0
+
+item 2296 :search with 10 result(s) accuracy: 1.0
+
+item 2297 :search with 10 result(s) accuracy: 1.0
+
+item 2298 :search with 10 result(s) accuracy: 1.0
+
+item 2299 :search with 10 result(s) accuracy: 1.0
+
+item 2300 :search with 10 result(s) accuracy: 1.0
+
+item 2301 :search with 10 result(s) accuracy: 1.0
+
+item 2302 :search with 10 result(s) accuracy: 1.0
+
+item 2303 :search with 10 result(s) accuracy: 1.0
+
+item 2304 :search with 10 result(s) accuracy: 1.0
+
+item 2305 :search with 10 result(s) accuracy: 1.0
+
+item 2306 :search with 10 result(s) accuracy: 1.0
+
+item 2307 :search with 10 result(s) accuracy: 1.0
+
+item 2308 :search with 10 result(s) accuracy: 0.9
+
+item 2309 :search with 10 result(s) accuracy: 1.0
+
+item 2310 :search with 10 result(s) accuracy: 0.9
+
+item 2311 :search with 10 result(s) accuracy: 1.0
+
+item 2312 :search with 10 result(s) accuracy: 0.9
+
+item 2313 :search with 10 result(s) accuracy: 1.0
+
+item 2314 :search with 10 result(s) accuracy: 1.0
+
+item 2315 :search with 10 result(s) accuracy: 1.0
+
+item 2316 :search with 10 result(s) accuracy: 1.0
+
+item 2317 :search with 10 result(s) accuracy: 1.0
+
+item 2318 :search with 10 result(s) accuracy: 1.0
+
+item 2319 :search with 10 result(s) accuracy: 1.0
+
+item 2320 :search with 10 result(s) accuracy: 1.0
+
+item 2321 :search with 10 result(s) accuracy: 1.0
+
+item 2322 :search with 10 result(s) accuracy: 1.0
+
+item 2323 :search with 10 result(s) accuracy: 1.0
+
+item 2324 :search with 10 result(s) accuracy: 0.9
+
+item 2325 :search with 10 result(s) accuracy: 1.0
+
+item 2326 :search with 10 result(s) accuracy: 1.0
+
+item 2327 :search with 10 result(s) accuracy: 0.7
+
+item 2328 :search with 10 result(s) accuracy: 1.0
+
+item 2329 :search with 10 result(s) accuracy: 1.0
+
+item 2330 :search with 10 result(s) accuracy: 1.0
+
+item 2331 :search with 10 result(s) accuracy: 1.0
+
+item 2332 :search with 10 result(s) accuracy: 1.0
+
+item 2333 :search with 10 result(s) accuracy: 1.0
+
+item 2334 :search with 10 result(s) accuracy: 1.0
+
+item 2335 :search with 10 result(s) accuracy: 0.7
+
+item 2336 :search with 10 result(s) accuracy: 1.0
+
+item 2337 :search with 10 result(s) accuracy: 1.0
+
+item 2338 :search with 10 result(s) accuracy: 1.0
+
+item 2339 :search with 10 result(s) accuracy: 0.5
+
+item 2340 :search with 10 result(s) accuracy: 1.0
+
+item 2341 :search with 10 result(s) accuracy: 1.0
+
+item 2342 :search with 10 result(s) accuracy: 1.0
+
+item 2343 :search with 10 result(s) accuracy: 1.0
+
+item 2344 :search with 10 result(s) accuracy: 1.0
+
+item 2345 :search with 10 result(s) accuracy: 1.0
+
+item 2346 :search with 10 result(s) accuracy: 1.0
+
+item 2347 :search with 10 result(s) accuracy: 1.0
+
+item 2348 :search with 10 result(s) accuracy: 1.0
+
+item 2349 :search with 10 result(s) accuracy: 1.0
+
+item 2350 :search with 10 result(s) accuracy: 1.0
+
+item 2351 :search with 10 result(s) accuracy: 1.0
+
+item 2352 :search with 10 result(s) accuracy: 1.0
+
+item 2353 :search with 10 result(s) accuracy: 1.0
+
+item 2354 :search with 10 result(s) accuracy: 0.9
+
+item 2355 :search with 10 result(s) accuracy: 1.0
+
+item 2356 :search with 10 result(s) accuracy: 1.0
+
+item 2357 :search with 10 result(s) accuracy: 1.0
+
+item 2358 :search with 10 result(s) accuracy: 1.0
+
+item 2359 :search with 10 result(s) accuracy: 1.0
+
+item 2360 :search with 10 result(s) accuracy: 1.0
+
+item 2361 :search with 10 result(s) accuracy: 1.0
+
+item 2362 :search with 10 result(s) accuracy: 1.0
+
+item 2363 :search with 10 result(s) accuracy: 1.0
+
+item 2364 :search with 10 result(s) accuracy: 1.0
+
+item 2365 :search with 10 result(s) accuracy: 1.0
+
+item 2366 :search with 10 result(s) accuracy: 1.0
+
+item 2367 :search with 10 result(s) accuracy: 1.0
+
+item 2368 :search with 10 result(s) accuracy: 1.0
+
+item 2369 :search with 10 result(s) accuracy: 1.0
+
+item 2370 :search with 10 result(s) accuracy: 1.0
+
+item 2371 :search with 10 result(s) accuracy: 1.0
+
+item 2372 :search with 10 result(s) accuracy: 1.0
+
+item 2373 :search with 10 result(s) accuracy: 1.0
+
+item 2374 :search with 10 result(s) accuracy: 1.0
+
+item 2375 :search with 10 result(s) accuracy: 1.0
+
+item 2376 :search with 10 result(s) accuracy: 1.0
+
+item 2377 :search with 10 result(s) accuracy: 1.0
+
+item 2378 :search with 10 result(s) accuracy: 1.0
+
+item 2379 :search with 10 result(s) accuracy: 1.0
+
+item 2380 :search with 10 result(s) accuracy: 1.0
+
+item 2381 :search with 10 result(s) accuracy: 1.0
+
+item 2382 :search with 10 result(s) accuracy: 1.0
+
+item 2383 :search with 10 result(s) accuracy: 1.0
+
+item 2384 :search with 10 result(s) accuracy: 1.0
+
+item 2385 :search with 10 result(s) accuracy: 1.0
+
+item 2386 :search with 10 result(s) accuracy: 1.0
+
+item 2387 :search with 10 result(s) accuracy: 1.0
+
+item 2388 :search with 10 result(s) accuracy: 1.0
+
+item 2389 :search with 10 result(s) accuracy: 1.0
+
+item 2390 :search with 10 result(s) accuracy: 1.0
+
+item 2391 :search with 10 result(s) accuracy: 1.0
+
+item 2392 :search with 10 result(s) accuracy: 0.0
+
+item 2393 :search with 10 result(s) accuracy: 1.0
+
+item 2394 :search with 10 result(s) accuracy: 1.0
+
+item 2395 :search with 10 result(s) accuracy: 1.0
+
+item 2396 :search with 10 result(s) accuracy: 1.0
+
+item 2397 :search with 10 result(s) accuracy: 1.0
+
+item 2398 :search with 10 result(s) accuracy: 1.0
+
+item 2399 :search with 10 result(s) accuracy: 0.9
+
+item 2400 :search with 10 result(s) accuracy: 1.0
+
+item 2401 :search with 10 result(s) accuracy: 1.0
+
+item 2402 :search with 10 result(s) accuracy: 1.0
+
+item 2403 :search with 10 result(s) accuracy: 1.0
+
+item 2404 :search with 10 result(s) accuracy: 1.0
+
+item 2405 :search with 10 result(s) accuracy: 1.0
+
+item 2406 :search with 10 result(s) accuracy: 1.0
+
+item 2407 :search with 10 result(s) accuracy: 1.0
+
+item 2408 :search with 10 result(s) accuracy: 1.0
+
+item 2409 :search with 10 result(s) accuracy: 1.0
+
+item 2410 :search with 10 result(s) accuracy: 1.0
+
+item 2411 :search with 10 result(s) accuracy: 1.0
+
+item 2412 :search with 10 result(s) accuracy: 1.0
+
+item 2413 :search with 10 result(s) accuracy: 1.0
+
+item 2414 :search with 10 result(s) accuracy: 1.0
+
+item 2415 :search with 10 result(s) accuracy: 1.0
+
+item 2416 :search with 10 result(s) accuracy: 1.0
+
+item 2417 :search with 10 result(s) accuracy: 1.0
+
+item 2418 :search with 10 result(s) accuracy: 1.0
+
+item 2419 :search with 10 result(s) accuracy: 0.0
+
+item 2420 :search with 10 result(s) accuracy: 1.0
+
+item 2421 :search with 10 result(s) accuracy: 1.0
+
+item 2422 :search with 10 result(s) accuracy: 1.0
+
+item 2423 :search with 10 result(s) accuracy: 1.0
+
+item 2424 :search with 10 result(s) accuracy: 1.0
+
+item 2425 :search with 10 result(s) accuracy: 1.0
+
+item 2426 :search with 10 result(s) accuracy: 1.0
+
+item 2427 :search with 10 result(s) accuracy: 1.0
+
+item 2428 :search with 10 result(s) accuracy: 1.0
+
+item 2429 :search with 10 result(s) accuracy: 1.0
+
+item 2430 :search with 10 result(s) accuracy: 1.0
+
+item 2431 :search with 10 result(s) accuracy: 1.0
+
+item 2432 :search with 10 result(s) accuracy: 1.0
+
+item 2433 :search with 10 result(s) accuracy: 1.0
+
+item 2434 :search with 10 result(s) accuracy: 1.0
+
+item 2435 :search with 10 result(s) accuracy: 1.0
+
+item 2436 :search with 10 result(s) accuracy: 1.0
+
+item 2437 :search with 10 result(s) accuracy: 1.0
+
+item 2438 :search with 10 result(s) accuracy: 1.0
+
+item 2439 :search with 10 result(s) accuracy: 1.0
+
+item 2440 :search with 10 result(s) accuracy: 1.0
+
+item 2441 :search with 10 result(s) accuracy: 1.0
+
+item 2442 :search with 10 result(s) accuracy: 1.0
+
+item 2443 :search with 10 result(s) accuracy: 1.0
+
+item 2444 :search with 10 result(s) accuracy: 1.0
+
+item 2445 :search with 10 result(s) accuracy: 1.0
+
+item 2446 :search with 10 result(s) accuracy: 1.0
+
+item 2447 :search with 10 result(s) accuracy: 1.0
+
+item 2448 :search with 10 result(s) accuracy: 1.0
+
+item 2449 :search with 10 result(s) accuracy: 1.0
+
+item 2450 :search with 10 result(s) accuracy: 1.0
+
+item 2451 :search with 10 result(s) accuracy: 1.0
+
+item 2452 :search with 10 result(s) accuracy: 1.0
+
+item 2453 :search with 10 result(s) accuracy: 1.0
+
+item 2454 :search with 10 result(s) accuracy: 1.0
+
+item 2455 :search with 10 result(s) accuracy: 1.0
+
+item 2456 :search with 10 result(s) accuracy: 1.0
+
+item 2457 :search with 10 result(s) accuracy: 1.0
+
+item 2458 :search with 10 result(s) accuracy: 1.0
+
+item 2459 :search with 10 result(s) accuracy: 1.0
+
+item 2460 :search with 10 result(s) accuracy: 1.0
+
+item 2461 :search with 10 result(s) accuracy: 1.0
+
+item 2462 :search with 10 result(s) accuracy: 0.9
+
+item 2463 :search with 10 result(s) accuracy: 1.0
+
+item 2464 :search with 10 result(s) accuracy: 1.0
+
+item 2465 :search with 10 result(s) accuracy: 1.0
+
+item 2466 :search with 10 result(s) accuracy: 1.0
+
+item 2467 :search with 10 result(s) accuracy: 1.0
+
+item 2468 :search with 10 result(s) accuracy: 1.0
+
+item 2469 :search with 10 result(s) accuracy: 1.0
+
+item 2470 :search with 10 result(s) accuracy: 1.0
+
+item 2471 :search with 10 result(s) accuracy: 1.0
+
+item 2472 :search with 10 result(s) accuracy: 1.0
+
+item 2473 :search with 10 result(s) accuracy: 1.0
+
+item 2474 :search with 10 result(s) accuracy: 1.0
+
+item 2475 :search with 10 result(s) accuracy: 1.0
+
+item 2476 :search with 10 result(s) accuracy: 1.0
+
+item 2477 :search with 10 result(s) accuracy: 1.0
+
+item 2478 :search with 10 result(s) accuracy: 1.0
+
+item 2479 :search with 10 result(s) accuracy: 1.0
+
+item 2480 :search with 10 result(s) accuracy: 1.0
+
+item 2481 :search with 10 result(s) accuracy: 1.0
+
+item 2482 :search with 10 result(s) accuracy: 1.0
+
+item 2483 :search with 10 result(s) accuracy: 1.0
+
+item 2484 :search with 10 result(s) accuracy: 1.0
+
+item 2485 :search with 10 result(s) accuracy: 0.9
+
+item 2486 :search with 10 result(s) accuracy: 1.0
+
+item 2487 :search with 10 result(s) accuracy: 0.9
+
+item 2488 :search with 10 result(s) accuracy: 1.0
+
+item 2489 :search with 10 result(s) accuracy: 1.0
+
+item 2490 :search with 10 result(s) accuracy: 1.0
+
+item 2491 :search with 10 result(s) accuracy: 1.0
+
+item 2492 :search with 10 result(s) accuracy: 1.0
+
+item 2493 :search with 10 result(s) accuracy: 1.0
+
+item 2494 :search with 10 result(s) accuracy: 1.0
+
+item 2495 :search with 10 result(s) accuracy: 1.0
+
+item 2496 :search with 10 result(s) accuracy: 1.0
+
+item 2497 :search with 10 result(s) accuracy: 1.0
+
+item 2498 :search with 10 result(s) accuracy: 1.0
+
+item 2499 :search with 10 result(s) accuracy: 1.0
+
+item 2500 :search with 10 result(s) accuracy: 1.0
+
+item 2501 :search with 10 result(s) accuracy: 1.0
+
+item 2502 :search with 10 result(s) accuracy: 1.0
+
+item 2503 :search with 10 result(s) accuracy: 1.0
+
+item 2504 :search with 10 result(s) accuracy: 1.0
+
+item 2505 :search with 10 result(s) accuracy: 1.0
+
+item 2506 :search with 10 result(s) accuracy: 1.0
+
+item 2507 :search with 10 result(s) accuracy: 1.0
+
+item 2508 :search with 10 result(s) accuracy: 1.0
+
+item 2509 :search with 10 result(s) accuracy: 1.0
+
+item 2510 :search with 10 result(s) accuracy: 0.9
+
+item 2511 :search with 10 result(s) accuracy: 1.0
+
+item 2512 :search with 10 result(s) accuracy: 0.9
+
+item 2513 :search with 10 result(s) accuracy: 1.0
+
+item 2514 :search with 10 result(s) accuracy: 1.0
+
+item 2515 :search with 10 result(s) accuracy: 1.0
+
+item 2516 :search with 10 result(s) accuracy: 1.0
+
+item 2517 :search with 10 result(s) accuracy: 1.0
+
+item 2518 :search with 10 result(s) accuracy: 1.0
+
+item 2519 :search with 10 result(s) accuracy: 1.0
+
+item 2520 :search with 10 result(s) accuracy: 1.0
+
+item 2521 :search with 10 result(s) accuracy: 1.0
+
+item 2522 :search with 10 result(s) accuracy: 1.0
+
+item 2523 :search with 10 result(s) accuracy: 1.0
+
+item 2524 :search with 10 result(s) accuracy: 1.0
+
+item 2525 :search with 10 result(s) accuracy: 1.0
+
+item 2526 :search with 10 result(s) accuracy: 1.0
+
+item 2527 :search with 10 result(s) accuracy: 1.0
+
+item 2528 :search with 10 result(s) accuracy: 1.0
+
+item 2529 :search with 10 result(s) accuracy: 1.0
+
+item 2530 :search with 10 result(s) accuracy: 1.0
+
+item 2531 :search with 10 result(s) accuracy: 1.0
+
+item 2532 :search with 10 result(s) accuracy: 1.0
+
+item 2533 :search with 10 result(s) accuracy: 1.0
+
+item 2534 :search with 10 result(s) accuracy: 1.0
+
+item 2535 :search with 10 result(s) accuracy: 1.0
+
+item 2536 :search with 10 result(s) accuracy: 1.0
+
+item 2537 :search with 10 result(s) accuracy: 1.0
+
+item 2538 :search with 10 result(s) accuracy: 1.0
+
+item 2539 :search with 10 result(s) accuracy: 0.9
+
+item 2540 :search with 10 result(s) accuracy: 1.0
+
+item 2541 :search with 10 result(s) accuracy: 0.9
+
+item 2542 :search with 10 result(s) accuracy: 1.0
+
+item 2543 :search with 10 result(s) accuracy: 1.0
+
+item 2544 :search with 10 result(s) accuracy: 0.9
+
+item 2545 :search with 10 result(s) accuracy: 1.0
+
+item 2546 :search with 10 result(s) accuracy: 1.0
+
+item 2547 :search with 10 result(s) accuracy: 1.0
+
+item 2548 :search with 10 result(s) accuracy: 1.0
+
+item 2549 :search with 10 result(s) accuracy: 1.0
+
+item 2550 :search with 10 result(s) accuracy: 1.0
+
+item 2551 :search with 10 result(s) accuracy: 1.0
+
+item 2552 :search with 10 result(s) accuracy: 0.6
+
+item 2553 :search with 10 result(s) accuracy: 1.0
+
+item 2554 :search with 10 result(s) accuracy: 0.7
+
+item 2555 :search with 10 result(s) accuracy: 1.0
+
+item 2556 :search with 10 result(s) accuracy: 0.3
+
+item 2557 :search with 10 result(s) accuracy: 1.0
+
+item 2558 :search with 10 result(s) accuracy: 1.0
+
+item 2559 :search with 10 result(s) accuracy: 1.0
+
+item 2560 :search with 10 result(s) accuracy: 1.0
+
+item 2561 :search with 10 result(s) accuracy: 1.0
+
+item 2562 :search with 10 result(s) accuracy: 1.0
+
+item 2563 :search with 10 result(s) accuracy: 1.0
+
+item 2564 :search with 10 result(s) accuracy: 1.0
+
+item 2565 :search with 10 result(s) accuracy: 1.0
+
+item 2566 :search with 10 result(s) accuracy: 1.0
+
+item 2567 :search with 10 result(s) accuracy: 1.0
+
+item 2568 :search with 10 result(s) accuracy: 1.0
+
+item 2569 :search with 10 result(s) accuracy: 1.0
+
+item 2570 :search with 10 result(s) accuracy: 1.0
+
+item 2571 :search with 10 result(s) accuracy: 1.0
+
+item 2572 :search with 10 result(s) accuracy: 1.0
+
+item 2573 :search with 10 result(s) accuracy: 1.0
+
+item 2574 :search with 10 result(s) accuracy: 1.0
+
+item 2575 :search with 10 result(s) accuracy: 1.0
+
+item 2576 :search with 10 result(s) accuracy: 1.0
+
+item 2577 :search with 10 result(s) accuracy: 1.0
+
+item 2578 :search with 10 result(s) accuracy: 1.0
+
+item 2579 :search with 10 result(s) accuracy: 0.9
+
+item 2580 :search with 10 result(s) accuracy: 1.0
+
+item 2581 :search with 10 result(s) accuracy: 1.0
+
+item 2582 :search with 10 result(s) accuracy: 1.0
+
+item 2583 :search with 10 result(s) accuracy: 1.0
+
+item 2584 :search with 10 result(s) accuracy: 1.0
+
+item 2585 :search with 10 result(s) accuracy: 1.0
+
+item 2586 :search with 10 result(s) accuracy: 1.0
+
+item 2587 :search with 10 result(s) accuracy: 1.0
+
+item 2588 :search with 10 result(s) accuracy: 1.0
+
+item 2589 :search with 10 result(s) accuracy: 1.0
+
+item 2590 :search with 10 result(s) accuracy: 1.0
+
+item 2591 :search with 10 result(s) accuracy: 1.0
+
+item 2592 :search with 10 result(s) accuracy: 1.0
+
+item 2593 :search with 10 result(s) accuracy: 1.0
+
+item 2594 :search with 10 result(s) accuracy: 1.0
+
+item 2595 :search with 10 result(s) accuracy: 1.0
+
+item 2596 :search with 10 result(s) accuracy: 1.0
+
+item 2597 :search with 10 result(s) accuracy: 1.0
+
+item 2598 :search with 10 result(s) accuracy: 1.0
+
+item 2599 :search with 10 result(s) accuracy: 1.0
+
+item 2600 :search with 10 result(s) accuracy: 1.0
+
+item 2601 :search with 10 result(s) accuracy: 1.0
+
+item 2602 :search with 10 result(s) accuracy: 0.7
+
+item 2603 :search with 10 result(s) accuracy: 1.0
+
+item 2604 :search with 10 result(s) accuracy: 1.0
+
+item 2605 :search with 10 result(s) accuracy: 1.0
+
+item 2606 :search with 10 result(s) accuracy: 1.0
+
+item 2607 :search with 10 result(s) accuracy: 1.0
+
+item 2608 :search with 10 result(s) accuracy: 1.0
+
+item 2609 :search with 10 result(s) accuracy: 1.0
+
+item 2610 :search with 10 result(s) accuracy: 1.0
+
+item 2611 :search with 10 result(s) accuracy: 1.0
+
+item 2612 :search with 10 result(s) accuracy: 1.0
+
+item 2613 :search with 10 result(s) accuracy: 1.0
+
+item 2614 :search with 10 result(s) accuracy: 1.0
+
+item 2615 :search with 10 result(s) accuracy: 1.0
+
+item 2616 :search with 10 result(s) accuracy: 1.0
+
+item 2617 :search with 10 result(s) accuracy: 1.0
+
+item 2618 :search with 10 result(s) accuracy: 1.0
+
+item 2619 :search with 10 result(s) accuracy: 1.0
+
+item 2620 :search with 10 result(s) accuracy: 1.0
+
+item 2621 :search with 10 result(s) accuracy: 1.0
+
+item 2622 :search with 10 result(s) accuracy: 1.0
+
+item 2623 :search with 10 result(s) accuracy: 1.0
+
+item 2624 :search with 10 result(s) accuracy: 1.0
+
+item 2625 :search with 10 result(s) accuracy: 1.0
+
+item 2626 :search with 10 result(s) accuracy: 1.0
+
+item 2627 :search with 10 result(s) accuracy: 1.0
+
+item 2628 :search with 10 result(s) accuracy: 1.0
+
+item 2629 :search with 10 result(s) accuracy: 1.0
+
+item 2630 :search with 10 result(s) accuracy: 1.0
+
+item 2631 :search with 10 result(s) accuracy: 1.0
+
+item 2632 :search with 10 result(s) accuracy: 1.0
+
+item 2633 :search with 10 result(s) accuracy: 1.0
+
+item 2634 :search with 10 result(s) accuracy: 1.0
+
+item 2635 :search with 10 result(s) accuracy: 1.0
+
+item 2636 :search with 10 result(s) accuracy: 1.0
+
+item 2637 :search with 10 result(s) accuracy: 1.0
+
+item 2638 :search with 10 result(s) accuracy: 1.0
+
+item 2639 :search with 10 result(s) accuracy: 1.0
+
+item 2640 :search with 10 result(s) accuracy: 1.0
+
+item 2641 :search with 10 result(s) accuracy: 1.0
+
+item 2642 :search with 10 result(s) accuracy: 1.0
+
+item 2643 :search with 10 result(s) accuracy: 1.0
+
+item 2644 :search with 10 result(s) accuracy: 1.0
+
+item 2645 :search with 10 result(s) accuracy: 1.0
+
+item 2646 :search with 10 result(s) accuracy: 1.0
+
+item 2647 :search with 10 result(s) accuracy: 1.0
+
+item 2648 :search with 10 result(s) accuracy: 1.0
+
+item 2649 :search with 10 result(s) accuracy: 1.0
+
+item 2650 :search with 10 result(s) accuracy: 1.0
+
+item 2651 :search with 10 result(s) accuracy: 1.0
+
+item 2652 :search with 10 result(s) accuracy: 1.0
+
+item 2653 :search with 10 result(s) accuracy: 1.0
+
+item 2654 :search with 10 result(s) accuracy: 1.0
+
+item 2655 :search with 10 result(s) accuracy: 1.0
+
+item 2656 :search with 10 result(s) accuracy: 1.0
+
+item 2657 :search with 10 result(s) accuracy: 1.0
+
+item 2658 :search with 10 result(s) accuracy: 1.0
+
+item 2659 :search with 10 result(s) accuracy: 1.0
+
+item 2660 :search with 10 result(s) accuracy: 1.0
+
+item 2661 :search with 10 result(s) accuracy: 1.0
+
+item 2662 :search with 10 result(s) accuracy: 1.0
+
+item 2663 :search with 10 result(s) accuracy: 1.0
+
+item 2664 :search with 10 result(s) accuracy: 1.0
+
+item 2665 :search with 10 result(s) accuracy: 1.0
+
+item 2666 :search with 10 result(s) accuracy: 1.0
+
+item 2667 :search with 10 result(s) accuracy: 1.0
+
+item 2668 :search with 10 result(s) accuracy: 1.0
+
+item 2669 :search with 10 result(s) accuracy: 1.0
+
+item 2670 :search with 10 result(s) accuracy: 1.0
+
+item 2671 :search with 10 result(s) accuracy: 1.0
+
+item 2672 :search with 10 result(s) accuracy: 1.0
+
+item 2673 :search with 10 result(s) accuracy: 1.0
+
+item 2674 :search with 10 result(s) accuracy: 1.0
+
+item 2675 :search with 10 result(s) accuracy: 1.0
+
+item 2676 :search with 10 result(s) accuracy: 1.0
+
+item 2677 :search with 10 result(s) accuracy: 1.0
+
+item 2678 :search with 10 result(s) accuracy: 1.0
+
+item 2679 :search with 10 result(s) accuracy: 1.0
+
+item 2680 :search with 10 result(s) accuracy: 1.0
+
+item 2681 :search with 10 result(s) accuracy: 1.0
+
+item 2682 :search with 10 result(s) accuracy: 1.0
+
+item 2683 :search with 10 result(s) accuracy: 1.0
+
+item 2684 :search with 10 result(s) accuracy: 1.0
+
+item 2685 :search with 10 result(s) accuracy: 1.0
+
+item 2686 :search with 10 result(s) accuracy: 1.0
+
+item 2687 :search with 10 result(s) accuracy: 1.0
+
+item 2688 :search with 10 result(s) accuracy: 1.0
+
+item 2689 :search with 10 result(s) accuracy: 1.0
+
+item 2690 :search with 10 result(s) accuracy: 0.9
+
+item 2691 :search with 10 result(s) accuracy: 1.0
+
+item 2692 :search with 10 result(s) accuracy: 0.9
+
+item 2693 :search with 10 result(s) accuracy: 1.0
+
+item 2694 :search with 10 result(s) accuracy: 1.0
+
+item 2695 :search with 10 result(s) accuracy: 1.0
+
+item 2696 :search with 10 result(s) accuracy: 1.0
+
+item 2697 :search with 10 result(s) accuracy: 1.0
+
+item 2698 :search with 10 result(s) accuracy: 1.0
+
+item 2699 :search with 10 result(s) accuracy: 1.0
+
+item 2700 :search with 10 result(s) accuracy: 1.0
+
+item 2701 :search with 10 result(s) accuracy: 1.0
+
+item 2702 :search with 10 result(s) accuracy: 1.0
+
+item 2703 :search with 10 result(s) accuracy: 1.0
+
+item 2704 :search with 10 result(s) accuracy: 1.0
+
+item 2705 :search with 10 result(s) accuracy: 1.0
+
+item 2706 :search with 10 result(s) accuracy: 1.0
+
+item 2707 :search with 10 result(s) accuracy: 1.0
+
+item 2708 :search with 10 result(s) accuracy: 1.0
+
+item 2709 :search with 10 result(s) accuracy: 1.0
+
+item 2710 :search with 10 result(s) accuracy: 1.0
+
+item 2711 :search with 10 result(s) accuracy: 1.0
+
+item 2712 :search with 10 result(s) accuracy: 1.0
+
+item 2713 :search with 10 result(s) accuracy: 1.0
+
+item 2714 :search with 10 result(s) accuracy: 1.0
+
+item 2715 :search with 10 result(s) accuracy: 1.0
+
+item 2716 :search with 10 result(s) accuracy: 1.0
+
+item 2717 :search with 10 result(s) accuracy: 1.0
+
+item 2718 :search with 10 result(s) accuracy: 1.0
+
+item 2719 :search with 10 result(s) accuracy: 1.0
+
+item 2720 :search with 10 result(s) accuracy: 1.0
+
+item 2721 :search with 10 result(s) accuracy: 1.0
+
+item 2722 :search with 10 result(s) accuracy: 1.0
+
+item 2723 :search with 10 result(s) accuracy: 1.0
+
+item 2724 :search with 10 result(s) accuracy: 1.0
+
+item 2725 :search with 10 result(s) accuracy: 1.0
+
+item 2726 :search with 10 result(s) accuracy: 1.0
+
+item 2727 :search with 10 result(s) accuracy: 1.0
+
+item 2728 :search with 10 result(s) accuracy: 1.0
+
+item 2729 :search with 10 result(s) accuracy: 1.0
+
+item 2730 :search with 10 result(s) accuracy: 1.0
+
+item 2731 :search with 10 result(s) accuracy: 1.0
+
+item 2732 :search with 10 result(s) accuracy: 1.0
+
+item 2733 :search with 10 result(s) accuracy: 1.0
+
+item 2734 :search with 10 result(s) accuracy: 1.0
+
+item 2735 :search with 10 result(s) accuracy: 1.0
+
+item 2736 :search with 10 result(s) accuracy: 1.0
+
+item 2737 :search with 10 result(s) accuracy: 1.0
+
+item 2738 :search with 10 result(s) accuracy: 1.0
+
+item 2739 :search with 10 result(s) accuracy: 1.0
+
+item 2740 :search with 10 result(s) accuracy: 1.0
+
+item 2741 :search with 10 result(s) accuracy: 1.0
+
+item 2742 :search with 10 result(s) accuracy: 1.0
+
+item 2743 :search with 10 result(s) accuracy: 1.0
+
+item 2744 :search with 10 result(s) accuracy: 1.0
+
+item 2745 :search with 10 result(s) accuracy: 1.0
+
+item 2746 :search with 10 result(s) accuracy: 1.0
+
+item 2747 :search with 10 result(s) accuracy: 1.0
+
+item 2748 :search with 10 result(s) accuracy: 1.0
+
+item 2749 :search with 10 result(s) accuracy: 1.0
+
+item 2750 :search with 10 result(s) accuracy: 1.0
+
+item 2751 :search with 10 result(s) accuracy: 1.0
+
+item 2752 :search with 10 result(s) accuracy: 1.0
+
+item 2753 :search with 10 result(s) accuracy: 1.0
+
+item 2754 :search with 10 result(s) accuracy: 1.0
+
+item 2755 :search with 10 result(s) accuracy: 1.0
+
+item 2756 :search with 10 result(s) accuracy: 1.0
+
+item 2757 :search with 10 result(s) accuracy: 1.0
+
+item 2758 :search with 10 result(s) accuracy: 1.0
+
+item 2759 :search with 10 result(s) accuracy: 1.0
+
+item 2760 :search with 10 result(s) accuracy: 1.0
+
+item 2761 :search with 10 result(s) accuracy: 1.0
+
+item 2762 :search with 10 result(s) accuracy: 1.0
+
+item 2763 :search with 10 result(s) accuracy: 1.0
+
+item 2764 :search with 10 result(s) accuracy: 1.0
+
+item 2765 :search with 10 result(s) accuracy: 1.0
+
+item 2766 :search with 10 result(s) accuracy: 1.0
+
+item 2767 :search with 10 result(s) accuracy: 1.0
+
+item 2768 :search with 10 result(s) accuracy: 1.0
+
+item 2769 :search with 10 result(s) accuracy: 1.0
+
+item 2770 :search with 10 result(s) accuracy: 1.0
+
+item 2771 :search with 10 result(s) accuracy: 1.0
+
+item 2772 :search with 10 result(s) accuracy: 1.0
+
+item 2773 :search with 10 result(s) accuracy: 1.0
+
+item 2774 :search with 10 result(s) accuracy: 1.0
+
+item 2775 :search with 10 result(s) accuracy: 1.0
+
+item 2776 :search with 10 result(s) accuracy: 1.0
+
+item 2777 :search with 10 result(s) accuracy: 1.0
+
+item 2778 :search with 10 result(s) accuracy: 1.0
+
+item 2779 :search with 10 result(s) accuracy: 1.0
+
+item 2780 :search with 10 result(s) accuracy: 1.0
+
+item 2781 :search with 10 result(s) accuracy: 1.0
+
+item 2782 :search with 10 result(s) accuracy: 1.0
+
+item 2783 :search with 10 result(s) accuracy: 1.0
+
+item 2784 :search with 10 result(s) accuracy: 1.0
+
+item 2785 :search with 10 result(s) accuracy: 1.0
+
+item 2786 :search with 10 result(s) accuracy: 1.0
+
+item 2787 :search with 10 result(s) accuracy: 1.0
+
+item 2788 :search with 10 result(s) accuracy: 1.0
+
+item 2789 :search with 10 result(s) accuracy: 1.0
+
+item 2790 :search with 10 result(s) accuracy: 1.0
+
+item 2791 :search with 10 result(s) accuracy: 1.0
+
+item 2792 :search with 10 result(s) accuracy: 1.0
+
+item 2793 :search with 10 result(s) accuracy: 1.0
+
+item 2794 :search with 10 result(s) accuracy: 1.0
+
+item 2795 :search with 10 result(s) accuracy: 1.0
+
+item 2796 :search with 10 result(s) accuracy: 1.0
+
+item 2797 :search with 10 result(s) accuracy: 1.0
+
+item 2798 :search with 10 result(s) accuracy: 1.0
+
+item 2799 :search with 10 result(s) accuracy: 1.0
+
+item 2800 :search with 10 result(s) accuracy: 1.0
+
+item 2801 :search with 10 result(s) accuracy: 1.0
+
+item 2802 :search with 10 result(s) accuracy: 1.0
+
+item 2803 :search with 10 result(s) accuracy: 1.0
+
+item 2804 :search with 10 result(s) accuracy: 1.0
+
+item 2805 :search with 10 result(s) accuracy: 1.0
+
+item 2806 :search with 10 result(s) accuracy: 1.0
+
+item 2807 :search with 10 result(s) accuracy: 1.0
+
+item 2808 :search with 10 result(s) accuracy: 1.0
+
+item 2809 :search with 10 result(s) accuracy: 1.0
+
+item 2810 :search with 10 result(s) accuracy: 1.0
+
+item 2811 :search with 10 result(s) accuracy: 1.0
+
+item 2812 :search with 10 result(s) accuracy: 1.0
+
+item 2813 :search with 10 result(s) accuracy: 1.0
+
+item 2814 :search with 10 result(s) accuracy: 1.0
+
+item 2815 :search with 10 result(s) accuracy: 1.0
+
+item 2816 :search with 10 result(s) accuracy: 1.0
+
+item 2817 :search with 10 result(s) accuracy: 1.0
+
+item 2818 :search with 10 result(s) accuracy: 1.0
+
+item 2819 :search with 10 result(s) accuracy: 1.0
+
+item 2820 :search with 10 result(s) accuracy: 1.0
+
+item 2821 :search with 10 result(s) accuracy: 1.0
+
+item 2822 :search with 10 result(s) accuracy: 1.0
+
+item 2823 :search with 10 result(s) accuracy: 1.0
+
+item 2824 :search with 10 result(s) accuracy: 1.0
+
+item 2825 :search with 10 result(s) accuracy: 1.0
+
+item 2826 :search with 10 result(s) accuracy: 1.0
+
+item 2827 :search with 10 result(s) accuracy: 1.0
+
+item 2828 :search with 10 result(s) accuracy: 1.0
+
+item 2829 :search with 10 result(s) accuracy: 1.0
+
+item 2830 :search with 10 result(s) accuracy: 1.0
+
+item 2831 :search with 10 result(s) accuracy: 1.0
+
+item 2832 :search with 10 result(s) accuracy: 1.0
+
+item 2833 :search with 10 result(s) accuracy: 1.0
+
+item 2834 :search with 10 result(s) accuracy: 1.0
+
+item 2835 :search with 10 result(s) accuracy: 1.0
+
+item 2836 :search with 10 result(s) accuracy: 1.0
+
+item 2837 :search with 10 result(s) accuracy: 1.0
+
+item 2838 :search with 10 result(s) accuracy: 1.0
+
+item 2839 :search with 10 result(s) accuracy: 1.0
+
+item 2840 :search with 10 result(s) accuracy: 1.0
+
+item 2841 :search with 10 result(s) accuracy: 1.0
+
+item 2842 :search with 10 result(s) accuracy: 1.0
+
+item 2843 :search with 10 result(s) accuracy: 1.0
+
+item 2844 :search with 10 result(s) accuracy: 1.0
+
+item 2845 :search with 10 result(s) accuracy: 1.0
+
+item 2846 :search with 10 result(s) accuracy: 1.0
+
+item 2847 :search with 10 result(s) accuracy: 1.0
+
+item 2848 :search with 10 result(s) accuracy: 1.0
+
+item 2849 :search with 10 result(s) accuracy: 1.0
+
+item 2850 :search with 10 result(s) accuracy: 1.0
+
+item 2851 :search with 10 result(s) accuracy: 1.0
+
+item 2852 :search with 10 result(s) accuracy: 1.0
+
+item 2853 :search with 10 result(s) accuracy: 1.0
+
+item 2854 :search with 10 result(s) accuracy: 1.0
+
+item 2855 :search with 10 result(s) accuracy: 1.0
+
+item 2856 :search with 10 result(s) accuracy: 1.0
+
+item 2857 :search with 10 result(s) accuracy: 1.0
+
+item 2858 :search with 10 result(s) accuracy: 1.0
+
+item 2859 :search with 10 result(s) accuracy: 1.0
+
+item 2860 :search with 10 result(s) accuracy: 1.0
+
+item 2861 :search with 10 result(s) accuracy: 1.0
+
+item 2862 :search with 10 result(s) accuracy: 1.0
+
+item 2863 :search with 10 result(s) accuracy: 1.0
+
+item 2864 :search with 10 result(s) accuracy: 1.0
+
+item 2865 :search with 10 result(s) accuracy: 1.0
+
+item 2866 :search with 10 result(s) accuracy: 1.0
+
+item 2867 :search with 10 result(s) accuracy: 1.0
+
+item 2868 :search with 10 result(s) accuracy: 1.0
+
+item 2869 :search with 10 result(s) accuracy: 1.0
+
+item 2870 :search with 10 result(s) accuracy: 1.0
+
+item 2871 :search with 10 result(s) accuracy: 1.0
+
+item 2872 :search with 10 result(s) accuracy: 1.0
+
+item 2873 :search with 10 result(s) accuracy: 1.0
+
+item 2874 :search with 10 result(s) accuracy: 0.9
+
+item 2875 :search with 10 result(s) accuracy: 1.0
+
+item 2876 :search with 10 result(s) accuracy: 1.0
+
+item 2877 :search with 10 result(s) accuracy: 1.0
+
+item 2878 :search with 10 result(s) accuracy: 1.0
+
+item 2879 :search with 10 result(s) accuracy: 1.0
+
+item 2880 :search with 10 result(s) accuracy: 1.0
+
+item 2881 :search with 10 result(s) accuracy: 1.0
+
+item 2882 :search with 10 result(s) accuracy: 1.0
+
+item 2883 :search with 10 result(s) accuracy: 1.0
+
+item 2884 :search with 10 result(s) accuracy: 1.0
+
+item 2885 :search with 10 result(s) accuracy: 1.0
+
+item 2886 :search with 10 result(s) accuracy: 1.0
+
+item 2887 :search with 10 result(s) accuracy: 1.0
+
+item 2888 :search with 10 result(s) accuracy: 1.0
+
+item 2889 :search with 10 result(s) accuracy: 1.0
+
+item 2890 :search with 10 result(s) accuracy: 1.0
+
+item 2891 :search with 10 result(s) accuracy: 1.0
+
+item 2892 :search with 10 result(s) accuracy: 1.0
+
+item 2893 :search with 10 result(s) accuracy: 1.0
+
+item 2894 :search with 10 result(s) accuracy: 1.0
+
+item 2895 :search with 10 result(s) accuracy: 1.0
+
+item 2896 :search with 10 result(s) accuracy: 1.0
+
+item 2897 :search with 10 result(s) accuracy: 1.0
+
+item 2898 :search with 10 result(s) accuracy: 1.0
+
+item 2899 :search with 10 result(s) accuracy: 1.0
+
+item 2900 :search with 10 result(s) accuracy: 1.0
+
+item 2901 :search with 10 result(s) accuracy: 1.0
+
+item 2902 :search with 10 result(s) accuracy: 1.0
+
+item 2903 :search with 10 result(s) accuracy: 1.0
+
+item 2904 :search with 10 result(s) accuracy: 1.0
+
+item 2905 :search with 10 result(s) accuracy: 1.0
+
+item 2906 :search with 10 result(s) accuracy: 1.0
+
+item 2907 :search with 10 result(s) accuracy: 1.0
+
+item 2908 :search with 10 result(s) accuracy: 0.9
+
+item 2909 :search with 10 result(s) accuracy: 1.0
+
+item 2910 :search with 10 result(s) accuracy: 1.0
+
+item 2911 :search with 10 result(s) accuracy: 1.0
+
+item 2912 :search with 10 result(s) accuracy: 1.0
+
+item 2913 :search with 10 result(s) accuracy: 1.0
+
+item 2914 :search with 10 result(s) accuracy: 1.0
+
+item 2915 :search with 10 result(s) accuracy: 1.0
+
+item 2916 :search with 10 result(s) accuracy: 1.0
+
+item 2917 :search with 10 result(s) accuracy: 1.0
+
+item 2918 :search with 10 result(s) accuracy: 1.0
+
+item 2919 :search with 10 result(s) accuracy: 1.0
+
+item 2920 :search with 10 result(s) accuracy: 1.0
+
+item 2921 :search with 10 result(s) accuracy: 1.0
+
+item 2922 :search with 10 result(s) accuracy: 1.0
+
+item 2923 :search with 10 result(s) accuracy: 1.0
+
+item 2924 :search with 10 result(s) accuracy: 1.0
+
+item 2925 :search with 10 result(s) accuracy: 1.0
+
+item 2926 :search with 10 result(s) accuracy: 1.0
+
+item 2927 :search with 10 result(s) accuracy: 1.0
+
+item 2928 :search with 10 result(s) accuracy: 1.0
+
+item 2929 :search with 10 result(s) accuracy: 1.0
+
+item 2930 :search with 10 result(s) accuracy: 1.0
+
+item 2931 :search with 10 result(s) accuracy: 1.0
+
+item 2932 :search with 10 result(s) accuracy: 1.0
+
+item 2933 :search with 10 result(s) accuracy: 1.0
+
+item 2934 :search with 10 result(s) accuracy: 1.0
+
+item 2935 :search with 10 result(s) accuracy: 1.0
+
+item 2936 :search with 10 result(s) accuracy: 1.0
+
+item 2937 :search with 10 result(s) accuracy: 1.0
+
+item 2938 :search with 10 result(s) accuracy: 1.0
+
+item 2939 :search with 10 result(s) accuracy: 1.0
+
+item 2940 :search with 10 result(s) accuracy: 1.0
+
+item 2941 :search with 10 result(s) accuracy: 1.0
+
+item 2942 :search with 10 result(s) accuracy: 1.0
+
+item 2943 :search with 10 result(s) accuracy: 1.0
+
+item 2944 :search with 10 result(s) accuracy: 1.0
+
+item 2945 :search with 10 result(s) accuracy: 1.0
+
+item 2946 :search with 10 result(s) accuracy: 1.0
+
+item 2947 :search with 10 result(s) accuracy: 1.0
+
+item 2948 :search with 10 result(s) accuracy: 0.9
+
+item 2949 :search with 10 result(s) accuracy: 1.0
+
+item 2950 :search with 10 result(s) accuracy: 1.0
+
+item 2951 :search with 10 result(s) accuracy: 1.0
+
+item 2952 :search with 10 result(s) accuracy: 1.0
+
+item 2953 :search with 10 result(s) accuracy: 0.9
+
+item 2954 :search with 10 result(s) accuracy: 1.0
+
+item 2955 :search with 10 result(s) accuracy: 1.0
+
+item 2956 :search with 10 result(s) accuracy: 1.0
+
+item 2957 :search with 10 result(s) accuracy: 1.0
+
+item 2958 :search with 10 result(s) accuracy: 1.0
+
+item 2959 :search with 10 result(s) accuracy: 1.0
+
+item 2960 :search with 10 result(s) accuracy: 1.0
+
+item 2961 :search with 10 result(s) accuracy: 1.0
+
+item 2962 :search with 10 result(s) accuracy: 1.0
+
+item 2963 :search with 10 result(s) accuracy: 1.0
+
+item 2964 :search with 10 result(s) accuracy: 1.0
+
+item 2965 :search with 10 result(s) accuracy: 1.0
+
+item 2966 :search with 10 result(s) accuracy: 1.0
+
+item 2967 :search with 10 result(s) accuracy: 1.0
+
+item 2968 :search with 10 result(s) accuracy: 1.0
+
+item 2969 :search with 10 result(s) accuracy: 1.0
+
+item 2970 :search with 10 result(s) accuracy: 1.0
+
+item 2971 :search with 10 result(s) accuracy: 1.0
+
+item 2972 :search with 10 result(s) accuracy: 1.0
+
+item 2973 :search with 10 result(s) accuracy: 1.0
+
+item 2974 :search with 10 result(s) accuracy: 1.0
+
+item 2975 :search with 10 result(s) accuracy: 1.0
+
+item 2976 :search with 10 result(s) accuracy: 1.0
+
+item 2977 :search with 10 result(s) accuracy: 1.0
+
+item 2978 :search with 10 result(s) accuracy: 1.0
+
+item 2979 :search with 10 result(s) accuracy: 1.0
+
+item 2980 :search with 10 result(s) accuracy: 1.0
+
+item 2981 :search with 10 result(s) accuracy: 1.0
+
+item 2982 :search with 10 result(s) accuracy: 1.0
+
+item 2983 :search with 10 result(s) accuracy: 1.0
+
+item 2984 :search with 10 result(s) accuracy: 1.0
+
+item 2985 :search with 10 result(s) accuracy: 1.0
+
+item 2986 :search with 10 result(s) accuracy: 1.0
+
+item 2987 :search with 10 result(s) accuracy: 1.0
+
+item 2988 :search with 10 result(s) accuracy: 1.0
+
+item 2989 :search with 10 result(s) accuracy: 1.0
+
+item 2990 :search with 10 result(s) accuracy: 1.0
+
+item 2991 :search with 10 result(s) accuracy: 1.0
+
+item 2992 :search with 10 result(s) accuracy: 1.0
+
+item 2993 :search with 10 result(s) accuracy: 0.9
+
+item 2994 :search with 10 result(s) accuracy: 1.0
+
+item 2995 :search with 10 result(s) accuracy: 1.0
+
+item 2996 :search with 10 result(s) accuracy: 1.0
+
+item 2997 :search with 10 result(s) accuracy: 1.0
+
+item 2998 :search with 10 result(s) accuracy: 1.0
+
+item 2999 :search with 10 result(s) accuracy: 0.9
+
+item 3000 :search with 10 result(s) accuracy: 1.0
+
+item 3001 :search with 10 result(s) accuracy: 0.9
+
+item 3002 :search with 10 result(s) accuracy: 1.0
+
+item 3003 :search with 10 result(s) accuracy: 0.9
+
+item 3004 :search with 10 result(s) accuracy: 1.0
+
+item 3005 :search with 10 result(s) accuracy: 1.0
+
+item 3006 :search with 10 result(s) accuracy: 1.0
+
+item 3007 :search with 10 result(s) accuracy: 1.0
+
+item 3008 :search with 10 result(s) accuracy: 1.0
+
+item 3009 :search with 10 result(s) accuracy: 1.0
+
+item 3010 :search with 10 result(s) accuracy: 1.0
+
+item 3011 :search with 10 result(s) accuracy: 1.0
+
+item 3012 :search with 10 result(s) accuracy: 1.0
+
+item 3013 :search with 10 result(s) accuracy: 1.0
+
+item 3014 :search with 10 result(s) accuracy: 1.0
+
+item 3015 :search with 10 result(s) accuracy: 1.0
+
+item 3016 :search with 10 result(s) accuracy: 1.0
+
+item 3017 :search with 10 result(s) accuracy: 1.0
+
+item 3018 :search with 10 result(s) accuracy: 1.0
+
+item 3019 :search with 10 result(s) accuracy: 1.0
+
+item 3020 :search with 10 result(s) accuracy: 1.0
+
+item 3021 :search with 10 result(s) accuracy: 1.0
+
+item 3022 :search with 10 result(s) accuracy: 1.0
+
+item 3023 :search with 10 result(s) accuracy: 1.0
+
+item 3024 :search with 10 result(s) accuracy: 1.0
+
+item 3025 :search with 10 result(s) accuracy: 1.0
+
+item 3026 :search with 10 result(s) accuracy: 1.0
+
+item 3027 :search with 10 result(s) accuracy: 1.0
+
+item 3028 :search with 10 result(s) accuracy: 1.0
+
+item 3029 :search with 10 result(s) accuracy: 1.0
+
+item 3030 :search with 10 result(s) accuracy: 1.0
+
+item 3031 :search with 10 result(s) accuracy: 1.0
+
+item 3032 :search with 10 result(s) accuracy: 1.0
+
+item 3033 :search with 10 result(s) accuracy: 1.0
+
+item 3034 :search with 10 result(s) accuracy: 1.0
+
+item 3035 :search with 10 result(s) accuracy: 1.0
+
+item 3036 :search with 10 result(s) accuracy: 1.0
+
+item 3037 :search with 10 result(s) accuracy: 1.0
+
+item 3038 :search with 10 result(s) accuracy: 1.0
+
+item 3039 :search with 10 result(s) accuracy: 1.0
+
+item 3040 :search with 10 result(s) accuracy: 1.0
+
+item 3041 :search with 10 result(s) accuracy: 1.0
+
+item 3042 :search with 10 result(s) accuracy: 1.0
+
+item 3043 :search with 10 result(s) accuracy: 1.0
+
+item 3044 :search with 10 result(s) accuracy: 1.0
+
+item 3045 :search with 10 result(s) accuracy: 1.0
+
+item 3046 :search with 10 result(s) accuracy: 1.0
+
+item 3047 :search with 10 result(s) accuracy: 1.0
+
+item 3048 :search with 10 result(s) accuracy: 1.0
+
+item 3049 :search with 10 result(s) accuracy: 1.0
+
+item 3050 :search with 10 result(s) accuracy: 1.0
+
+item 3051 :search with 10 result(s) accuracy: 1.0
+
+item 3052 :search with 10 result(s) accuracy: 1.0
+
+item 3053 :search with 10 result(s) accuracy: 1.0
+
+item 3054 :search with 10 result(s) accuracy: 1.0
+
+item 3055 :search with 10 result(s) accuracy: 1.0
+
+item 3056 :search with 10 result(s) accuracy: 1.0
+
+item 3057 :search with 10 result(s) accuracy: 1.0
+
+item 3058 :search with 10 result(s) accuracy: 1.0
+
+item 3059 :search with 10 result(s) accuracy: 1.0
+
+item 3060 :search with 10 result(s) accuracy: 1.0
+
+item 3061 :search with 10 result(s) accuracy: 1.0
+
+item 3062 :search with 10 result(s) accuracy: 1.0
+
+item 3063 :search with 10 result(s) accuracy: 1.0
+
+item 3064 :search with 10 result(s) accuracy: 0.9
+
+item 3065 :search with 10 result(s) accuracy: 1.0
+
+item 3066 :search with 10 result(s) accuracy: 0.9
+
+item 3067 :search with 10 result(s) accuracy: 1.0
+
+item 3068 :search with 10 result(s) accuracy: 0.9
+
+item 3069 :search with 10 result(s) accuracy: 1.0
+
+item 3070 :search with 10 result(s) accuracy: 1.0
+
+item 3071 :search with 10 result(s) accuracy: 1.0
+
+item 3072 :search with 10 result(s) accuracy: 1.0
+
+item 3073 :search with 10 result(s) accuracy: 1.0
+
+item 3074 :search with 10 result(s) accuracy: 1.0
+
+item 3075 :search with 10 result(s) accuracy: 1.0
+
+item 3076 :search with 10 result(s) accuracy: 1.0
+
+item 3077 :search with 10 result(s) accuracy: 1.0
+
+item 3078 :search with 10 result(s) accuracy: 1.0
+
+item 3079 :search with 10 result(s) accuracy: 1.0
+
+item 3080 :search with 10 result(s) accuracy: 1.0
+
+item 3081 :search with 10 result(s) accuracy: 1.0
+
+item 3082 :search with 10 result(s) accuracy: 1.0
+
+item 3083 :search with 10 result(s) accuracy: 1.0
+
+item 3084 :search with 10 result(s) accuracy: 1.0
+
+item 3085 :search with 10 result(s) accuracy: 1.0
+
+item 3086 :search with 10 result(s) accuracy: 1.0
+
+item 3087 :search with 10 result(s) accuracy: 1.0
+
+item 3088 :search with 10 result(s) accuracy: 1.0
+
+item 3089 :search with 10 result(s) accuracy: 1.0
+
+item 3090 :search with 10 result(s) accuracy: 1.0
+
+item 3091 :search with 10 result(s) accuracy: 1.0
+
+item 3092 :search with 10 result(s) accuracy: 1.0
+
+item 3093 :search with 10 result(s) accuracy: 1.0
+
+item 3094 :search with 10 result(s) accuracy: 1.0
+
+item 3095 :search with 10 result(s) accuracy: 1.0
+
+item 3096 :search with 10 result(s) accuracy: 1.0
+
+item 3097 :search with 10 result(s) accuracy: 0.9
+
+item 3098 :search with 10 result(s) accuracy: 1.0
+
+item 3099 :search with 10 result(s) accuracy: 0.9
+
+item 3100 :search with 10 result(s) accuracy: 1.0
+
+item 3101 :search with 10 result(s) accuracy: 0.9
+
+item 3102 :search with 10 result(s) accuracy: 1.0
+
+item 3103 :search with 10 result(s) accuracy: 1.0
+
+item 3104 :search with 10 result(s) accuracy: 1.0
+
+item 3105 :search with 10 result(s) accuracy: 1.0
+
+item 3106 :search with 10 result(s) accuracy: 1.0
+
+item 3107 :search with 10 result(s) accuracy: 1.0
+
+item 3108 :search with 10 result(s) accuracy: 1.0
+
+item 3109 :search with 10 result(s) accuracy: 1.0
+
+item 3110 :search with 10 result(s) accuracy: 1.0
+
+item 3111 :search with 10 result(s) accuracy: 1.0
+
+item 3112 :search with 10 result(s) accuracy: 1.0
+
+item 3113 :search with 10 result(s) accuracy: 1.0
+
+item 3114 :search with 10 result(s) accuracy: 1.0
+
+item 3115 :search with 10 result(s) accuracy: 1.0
+
+item 3116 :search with 10 result(s) accuracy: 1.0
+
+item 3117 :search with 10 result(s) accuracy: 1.0
+
+item 3118 :search with 10 result(s) accuracy: 1.0
+
+item 3119 :search with 10 result(s) accuracy: 1.0
+
+item 3120 :search with 10 result(s) accuracy: 1.0
+
+item 3121 :search with 10 result(s) accuracy: 1.0
+
+item 3122 :search with 10 result(s) accuracy: 1.0
+
+item 3123 :search with 10 result(s) accuracy: 1.0
+
+item 3124 :search with 10 result(s) accuracy: 1.0
+
+item 3125 :search with 10 result(s) accuracy: 1.0
+
+item 3126 :search with 10 result(s) accuracy: 1.0
+
+item 3127 :search with 10 result(s) accuracy: 1.0
+
+item 3128 :search with 10 result(s) accuracy: 1.0
+
+item 3129 :search with 10 result(s) accuracy: 1.0
+
+item 3130 :search with 10 result(s) accuracy: 1.0
+
+item 3131 :search with 10 result(s) accuracy: 1.0
+
+item 3132 :search with 10 result(s) accuracy: 1.0
+
+item 3133 :search with 10 result(s) accuracy: 1.0
+
+item 3134 :search with 10 result(s) accuracy: 1.0
+
+item 3135 :search with 10 result(s) accuracy: 1.0
+
+item 3136 :search with 10 result(s) accuracy: 1.0
+
+item 3137 :search with 10 result(s) accuracy: 1.0
+
+item 3138 :search with 10 result(s) accuracy: 1.0
+
+item 3139 :search with 10 result(s) accuracy: 1.0
+
+item 3140 :search with 10 result(s) accuracy: 1.0
+
+item 3141 :search with 10 result(s) accuracy: 1.0
+
+item 3142 :search with 10 result(s) accuracy: 1.0
+
+item 3143 :search with 10 result(s) accuracy: 1.0
+
+item 3144 :search with 10 result(s) accuracy: 1.0
+
+item 3145 :search with 10 result(s) accuracy: 1.0
+
+item 3146 :search with 10 result(s) accuracy: 1.0
+
+item 3147 :search with 10 result(s) accuracy: 1.0
+
+item 3148 :search with 10 result(s) accuracy: 1.0
+
+item 3149 :search with 10 result(s) accuracy: 1.0
+
+item 3150 :search with 10 result(s) accuracy: 1.0
+
+item 3151 :search with 10 result(s) accuracy: 1.0
+
+item 3152 :search with 10 result(s) accuracy: 1.0
+
+item 3153 :search with 10 result(s) accuracy: 1.0
+
+item 3154 :search with 10 result(s) accuracy: 1.0
+
+item 3155 :search with 10 result(s) accuracy: 1.0
+
+item 3156 :search with 10 result(s) accuracy: 1.0
+
+item 3157 :search with 10 result(s) accuracy: 1.0
+
+item 3158 :search with 10 result(s) accuracy: 1.0
+
+item 3159 :search with 10 result(s) accuracy: 1.0
+
+item 3160 :search with 10 result(s) accuracy: 1.0
+
+item 3161 :search with 10 result(s) accuracy: 1.0
+
+item 3162 :search with 10 result(s) accuracy: 1.0
+
+item 3163 :search with 10 result(s) accuracy: 1.0
+
+item 3164 :search with 10 result(s) accuracy: 1.0
+
+item 3165 :search with 10 result(s) accuracy: 1.0
+
+item 3166 :search with 10 result(s) accuracy: 1.0
+
+item 3167 :search with 10 result(s) accuracy: 1.0
+
+item 3168 :search with 10 result(s) accuracy: 1.0
+
+item 3169 :search with 10 result(s) accuracy: 1.0
+
+item 3170 :search with 10 result(s) accuracy: 1.0
+
+item 3171 :search with 10 result(s) accuracy: 1.0
+
+item 3172 :search with 10 result(s) accuracy: 1.0
+
+item 3173 :search with 10 result(s) accuracy: 1.0
+
+item 3174 :search with 10 result(s) accuracy: 1.0
+
+item 3175 :search with 10 result(s) accuracy: 1.0
+
+item 3176 :search with 10 result(s) accuracy: 1.0
+
+item 3177 :search with 10 result(s) accuracy: 1.0
+
+item 3178 :search with 10 result(s) accuracy: 0.9
+
+item 3179 :search with 10 result(s) accuracy: 1.0
+
+item 3180 :search with 10 result(s) accuracy: 1.0
+
+item 3181 :search with 10 result(s) accuracy: 1.0
+
+item 3182 :search with 10 result(s) accuracy: 1.0
+
+item 3183 :search with 10 result(s) accuracy: 1.0
+
+item 3184 :search with 10 result(s) accuracy: 1.0
+
+item 3185 :search with 10 result(s) accuracy: 1.0
+
+item 3186 :search with 10 result(s) accuracy: 1.0
+
+item 3187 :search with 10 result(s) accuracy: 1.0
+
+item 3188 :search with 10 result(s) accuracy: 1.0
+
+item 3189 :search with 10 result(s) accuracy: 0.0
+
+item 3190 :search with 10 result(s) accuracy: 1.0
+
+item 3191 :search with 10 result(s) accuracy: 1.0
+
+item 3192 :search with 10 result(s) accuracy: 1.0
+
+item 3193 :search with 10 result(s) accuracy: 1.0
+
+item 3194 :search with 10 result(s) accuracy: 1.0
+
+item 3195 :search with 10 result(s) accuracy: 1.0
+
+item 3196 :search with 10 result(s) accuracy: 1.0
+
+item 3197 :search with 10 result(s) accuracy: 1.0
+
+item 3198 :search with 10 result(s) accuracy: 1.0
+
+item 3199 :search with 10 result(s) accuracy: 1.0
+
+item 3200 :search with 10 result(s) accuracy: 0.9
+
+item 3201 :search with 10 result(s) accuracy: 0.9
+
+item 3202 :search with 10 result(s) accuracy: 1.0
+
+item 3203 :search with 10 result(s) accuracy: 0.9
+
+item 3204 :search with 10 result(s) accuracy: 1.0
+
+item 3205 :search with 10 result(s) accuracy: 0.9
+
+item 3206 :search with 10 result(s) accuracy: 1.0
+
+item 3207 :search with 10 result(s) accuracy: 1.0
+
+item 3208 :search with 10 result(s) accuracy: 1.0
+
+item 3209 :search with 10 result(s) accuracy: 1.0
+
+item 3210 :search with 10 result(s) accuracy: 1.0
+
+item 3211 :search with 10 result(s) accuracy: 1.0
+
+item 3212 :search with 10 result(s) accuracy: 1.0
+
+item 3213 :search with 10 result(s) accuracy: 1.0
+
+item 3214 :search with 10 result(s) accuracy: 1.0
+
+item 3215 :search with 10 result(s) accuracy: 1.0
+
+item 3216 :search with 10 result(s) accuracy: 1.0
+
+item 3217 :search with 10 result(s) accuracy: 1.0
+
+item 3218 :search with 10 result(s) accuracy: 1.0
+
+item 3219 :search with 10 result(s) accuracy: 1.0
+
+item 3220 :search with 10 result(s) accuracy: 1.0
+
+item 3221 :search with 10 result(s) accuracy: 1.0
+
+item 3222 :search with 10 result(s) accuracy: 1.0
+
+item 3223 :search with 10 result(s) accuracy: 1.0
+
+item 3224 :search with 10 result(s) accuracy: 1.0
+
+item 3225 :search with 10 result(s) accuracy: 1.0
+
+item 3226 :search with 10 result(s) accuracy: 1.0
+
+item 3227 :search with 10 result(s) accuracy: 1.0
+
+item 3228 :search with 10 result(s) accuracy: 1.0
+
+item 3229 :search with 10 result(s) accuracy: 1.0
+
+item 3230 :search with 10 result(s) accuracy: 1.0
+
+item 3231 :search with 10 result(s) accuracy: 1.0
+
+item 3232 :search with 10 result(s) accuracy: 1.0
+
+item 3233 :search with 10 result(s) accuracy: 1.0
+
+item 3234 :search with 10 result(s) accuracy: 1.0
+
+item 3235 :search with 10 result(s) accuracy: 1.0
+
+item 3236 :search with 10 result(s) accuracy: 1.0
+
+item 3237 :search with 10 result(s) accuracy: 1.0
+
+item 3238 :search with 10 result(s) accuracy: 1.0
+
+item 3239 :search with 10 result(s) accuracy: 1.0
+
+item 3240 :search with 10 result(s) accuracy: 1.0
+
+item 3241 :search with 10 result(s) accuracy: 1.0
+
+item 3242 :search with 10 result(s) accuracy: 1.0
+
+item 3243 :search with 10 result(s) accuracy: 1.0
+
+item 3244 :search with 10 result(s) accuracy: 1.0
+
+item 3245 :search with 10 result(s) accuracy: 1.0
+
+item 3246 :search with 10 result(s) accuracy: 1.0
+
+item 3247 :search with 10 result(s) accuracy: 1.0
+
+item 3248 :search with 10 result(s) accuracy: 1.0
+
+item 3249 :search with 10 result(s) accuracy: 1.0
+
+item 3250 :search with 10 result(s) accuracy: 1.0
+
+item 3251 :search with 10 result(s) accuracy: 1.0
+
+item 3252 :search with 10 result(s) accuracy: 1.0
+
+item 3253 :search with 10 result(s) accuracy: 1.0
+
+item 3254 :search with 10 result(s) accuracy: 1.0
+
+item 3255 :search with 10 result(s) accuracy: 1.0
+
+item 3256 :search with 10 result(s) accuracy: 1.0
+
+item 3257 :search with 10 result(s) accuracy: 1.0
+
+item 3258 :search with 10 result(s) accuracy: 1.0
+
+item 3259 :search with 10 result(s) accuracy: 1.0
+
+item 3260 :search with 10 result(s) accuracy: 1.0
+
+item 3261 :search with 10 result(s) accuracy: 1.0
+
+item 3262 :search with 10 result(s) accuracy: 1.0
+
+item 3263 :search with 10 result(s) accuracy: 1.0
+
+item 3264 :search with 10 result(s) accuracy: 1.0
+
+item 3265 :search with 10 result(s) accuracy: 1.0
+
+item 3266 :search with 10 result(s) accuracy: 1.0
+
+item 3267 :search with 10 result(s) accuracy: 1.0
+
+item 3268 :search with 10 result(s) accuracy: 1.0
+
+item 3269 :search with 10 result(s) accuracy: 1.0
+
+item 3270 :search with 10 result(s) accuracy: 1.0
+
+item 3271 :search with 10 result(s) accuracy: 1.0
+
+item 3272 :search with 10 result(s) accuracy: 1.0
+
+item 3273 :search with 10 result(s) accuracy: 1.0
+
+item 3274 :search with 10 result(s) accuracy: 1.0
+
+item 3275 :search with 10 result(s) accuracy: 1.0
+
+item 3276 :search with 10 result(s) accuracy: 1.0
+
+item 3277 :search with 10 result(s) accuracy: 1.0
+
+item 3278 :search with 10 result(s) accuracy: 1.0
+
+item 3279 :search with 10 result(s) accuracy: 1.0
+
+item 3280 :search with 10 result(s) accuracy: 1.0
+
+item 3281 :search with 10 result(s) accuracy: 1.0
+
+item 3282 :search with 10 result(s) accuracy: 0.0
+
+item 3283 :search with 10 result(s) accuracy: 1.0
+
+item 3284 :search with 10 result(s) accuracy: 1.0
+
+item 3285 :search with 10 result(s) accuracy: 1.0
+
+item 3286 :search with 10 result(s) accuracy: 1.0
+
+item 3287 :search with 10 result(s) accuracy: 1.0
+
+item 3288 :search with 10 result(s) accuracy: 1.0
+
+item 3289 :search with 10 result(s) accuracy: 1.0
+
+item 3290 :search with 10 result(s) accuracy: 1.0
+
+item 3291 :search with 10 result(s) accuracy: 1.0
+
+item 3292 :search with 10 result(s) accuracy: 1.0
+
+item 3293 :search with 10 result(s) accuracy: 1.0
+
+item 3294 :search with 10 result(s) accuracy: 1.0
+
+item 3295 :search with 10 result(s) accuracy: 1.0
+
+item 3296 :search with 10 result(s) accuracy: 1.0
+
+item 3297 :search with 10 result(s) accuracy: 1.0
+
+item 3298 :search with 10 result(s) accuracy: 1.0
+
+item 3299 :search with 10 result(s) accuracy: 1.0
+
+item 3300 :search with 10 result(s) accuracy: 1.0
+
+item 3301 :search with 10 result(s) accuracy: 1.0
+
+item 3302 :search with 10 result(s) accuracy: 1.0
+
+item 3303 :search with 10 result(s) accuracy: 0.9
+
+item 3304 :search with 10 result(s) accuracy: 1.0
+
+item 3305 :search with 10 result(s) accuracy: 0.9
+
+item 3306 :search with 10 result(s) accuracy: 1.0
+
+item 3307 :search with 10 result(s) accuracy: 0.9
+
+item 3308 :search with 10 result(s) accuracy: 1.0
+
+item 3309 :search with 10 result(s) accuracy: 1.0
+
+item 3310 :search with 10 result(s) accuracy: 1.0
+
+item 3311 :search with 10 result(s) accuracy: 1.0
+
+item 3312 :search with 10 result(s) accuracy: 1.0
+
+item 3313 :search with 10 result(s) accuracy: 1.0
+
+item 3314 :search with 10 result(s) accuracy: 1.0
+
+item 3315 :search with 10 result(s) accuracy: 1.0
+
+item 3316 :search with 10 result(s) accuracy: 1.0
+
+item 3317 :search with 10 result(s) accuracy: 1.0
+
+item 3318 :search with 10 result(s) accuracy: 1.0
+
+item 3319 :search with 10 result(s) accuracy: 1.0
+
+item 3320 :search with 10 result(s) accuracy: 1.0
+
+item 3321 :search with 10 result(s) accuracy: 1.0
+
+item 3322 :search with 10 result(s) accuracy: 1.0
+
+item 3323 :search with 10 result(s) accuracy: 1.0
+
+item 3324 :search with 10 result(s) accuracy: 1.0
+
+item 3325 :search with 10 result(s) accuracy: 1.0
+
+item 3326 :search with 10 result(s) accuracy: 1.0
+
+item 3327 :search with 10 result(s) accuracy: 1.0
+
+item 3328 :search with 10 result(s) accuracy: 1.0
+
+item 3329 :search with 10 result(s) accuracy: 1.0
+
+item 3330 :search with 10 result(s) accuracy: 1.0
+
+item 3331 :search with 10 result(s) accuracy: 1.0
+
+item 3332 :search with 10 result(s) accuracy: 1.0
+
+item 3333 :search with 10 result(s) accuracy: 1.0
+
+item 3334 :search with 10 result(s) accuracy: 1.0
+
+item 3335 :search with 10 result(s) accuracy: 1.0
+
+item 3336 :search with 10 result(s) accuracy: 1.0
+
+item 3337 :search with 10 result(s) accuracy: 1.0
+
+item 3338 :search with 10 result(s) accuracy: 1.0
+
+item 3339 :search with 10 result(s) accuracy: 1.0
+
+item 3340 :search with 10 result(s) accuracy: 1.0
+
+item 3341 :search with 10 result(s) accuracy: 1.0
+
+item 3342 :search with 10 result(s) accuracy: 1.0
+
+item 3343 :search with 10 result(s) accuracy: 1.0
+
+item 3344 :search with 10 result(s) accuracy: 1.0
+
+item 3345 :search with 10 result(s) accuracy: 1.0
+
+item 3346 :search with 10 result(s) accuracy: 1.0
+
+item 3347 :search with 10 result(s) accuracy: 1.0
+
+item 3348 :search with 10 result(s) accuracy: 1.0
+
+item 3349 :search with 10 result(s) accuracy: 1.0
+
+item 3350 :search with 10 result(s) accuracy: 1.0
+
+item 3351 :search with 10 result(s) accuracy: 1.0
+
+item 3352 :search with 10 result(s) accuracy: 1.0
+
+item 3353 :search with 10 result(s) accuracy: 1.0
+
+item 3354 :search with 10 result(s) accuracy: 1.0
+
+item 3355 :search with 10 result(s) accuracy: 1.0
+
+item 3356 :search with 10 result(s) accuracy: 1.0
+
+item 3357 :search with 10 result(s) accuracy: 1.0
+
+item 3358 :search with 10 result(s) accuracy: 1.0
+
+item 3359 :search with 10 result(s) accuracy: 1.0
+
+item 3360 :search with 10 result(s) accuracy: 1.0
+
+item 3361 :search with 10 result(s) accuracy: 1.0
+
+item 3362 :search with 10 result(s) accuracy: 1.0
+
+item 3363 :search with 10 result(s) accuracy: 1.0
+
+item 3364 :search with 10 result(s) accuracy: 1.0
+
+item 3365 :search with 10 result(s) accuracy: 1.0
+
+item 3366 :search with 10 result(s) accuracy: 1.0
+
+item 3367 :search with 10 result(s) accuracy: 0.9
+
+item 3368 :search with 10 result(s) accuracy: 1.0
+
+item 3369 :search with 10 result(s) accuracy: 1.0
+
+item 3370 :search with 10 result(s) accuracy: 1.0
+
+item 3371 :search with 10 result(s) accuracy: 1.0
+
+item 3372 :search with 10 result(s) accuracy: 1.0
+
+item 3373 :search with 10 result(s) accuracy: 1.0
+
+item 3374 :search with 10 result(s) accuracy: 1.0
+
+item 3375 :search with 10 result(s) accuracy: 1.0
+
+item 3376 :search with 10 result(s) accuracy: 1.0
+
+item 3377 :search with 10 result(s) accuracy: 1.0
+
+item 3378 :search with 10 result(s) accuracy: 1.0
+
+item 3379 :search with 10 result(s) accuracy: 1.0
+
+item 3380 :search with 10 result(s) accuracy: 1.0
+
+item 3381 :search with 10 result(s) accuracy: 1.0
+
+item 3382 :search with 10 result(s) accuracy: 1.0
+
+item 3383 :search with 10 result(s) accuracy: 1.0
+
+item 3384 :search with 10 result(s) accuracy: 1.0
+
+item 3385 :search with 10 result(s) accuracy: 1.0
+
+item 3386 :search with 10 result(s) accuracy: 1.0
+
+item 3387 :search with 10 result(s) accuracy: 1.0
+
+item 3388 :search with 10 result(s) accuracy: 1.0
+
+item 3389 :search with 10 result(s) accuracy: 1.0
+
+item 3390 :search with 10 result(s) accuracy: 1.0
+
+item 3391 :search with 10 result(s) accuracy: 1.0
+
+item 3392 :search with 10 result(s) accuracy: 1.0
+
+item 3393 :search with 10 result(s) accuracy: 1.0
+
+item 3394 :search with 10 result(s) accuracy: 1.0
+
+item 3395 :search with 10 result(s) accuracy: 1.0
+
+item 3396 :search with 10 result(s) accuracy: 1.0
+
+item 3397 :search with 10 result(s) accuracy: 1.0
+
+item 3398 :search with 10 result(s) accuracy: 1.0
+
+item 3399 :search with 10 result(s) accuracy: 1.0
+
+item 3400 :search with 10 result(s) accuracy: 1.0
+
+item 3401 :search with 10 result(s) accuracy: 1.0
+
+item 3402 :search with 10 result(s) accuracy: 1.0
+
+item 3403 :search with 10 result(s) accuracy: 1.0
+
+item 3404 :search with 10 result(s) accuracy: 1.0
+
+item 3405 :search with 10 result(s) accuracy: 1.0
+
+item 3406 :search with 10 result(s) accuracy: 1.0
+
+item 3407 :search with 10 result(s) accuracy: 1.0
+
+item 3408 :search with 10 result(s) accuracy: 1.0
+
+item 3409 :search with 10 result(s) accuracy: 1.0
+
+item 3410 :search with 10 result(s) accuracy: 1.0
+
+item 3411 :search with 10 result(s) accuracy: 1.0
+
+item 3412 :search with 10 result(s) accuracy: 1.0
+
+item 3413 :search with 10 result(s) accuracy: 1.0
+
+item 3414 :search with 10 result(s) accuracy: 1.0
+
+item 3415 :search with 10 result(s) accuracy: 1.0
+
+item 3416 :search with 10 result(s) accuracy: 1.0
+
+item 3417 :search with 10 result(s) accuracy: 1.0
+
+item 3418 :search with 10 result(s) accuracy: 1.0
+
+item 3419 :search with 10 result(s) accuracy: 1.0
+
+item 3420 :search with 10 result(s) accuracy: 1.0
+
+item 3421 :search with 10 result(s) accuracy: 1.0
+
+item 3422 :search with 10 result(s) accuracy: 1.0
+
+item 3423 :search with 10 result(s) accuracy: 1.0
+
+item 3424 :search with 10 result(s) accuracy: 1.0
+
+item 3425 :search with 10 result(s) accuracy: 1.0
+
+item 3426 :search with 10 result(s) accuracy: 1.0
+
+item 3427 :search with 10 result(s) accuracy: 1.0
+
+item 3428 :search with 10 result(s) accuracy: 1.0
+
+item 3429 :search with 10 result(s) accuracy: 1.0
+
+item 3430 :search with 10 result(s) accuracy: 1.0
+
+item 3431 :search with 10 result(s) accuracy: 1.0
+
+item 3432 :search with 10 result(s) accuracy: 1.0
+
+item 3433 :search with 10 result(s) accuracy: 1.0
+
+item 3434 :search with 10 result(s) accuracy: 1.0
+
+item 3435 :search with 10 result(s) accuracy: 1.0
+
+item 3436 :search with 10 result(s) accuracy: 1.0
+
+item 3437 :search with 10 result(s) accuracy: 1.0
+
+item 3438 :search with 10 result(s) accuracy: 1.0
+
+item 3439 :search with 10 result(s) accuracy: 1.0
+
+item 3440 :search with 10 result(s) accuracy: 1.0
+
+item 3441 :search with 10 result(s) accuracy: 1.0
+
+item 3442 :search with 10 result(s) accuracy: 1.0
+
+item 3443 :search with 10 result(s) accuracy: 1.0
+
+item 3444 :search with 10 result(s) accuracy: 1.0
+
+item 3445 :search with 10 result(s) accuracy: 1.0
+
+item 3446 :search with 10 result(s) accuracy: 1.0
+
+item 3447 :search with 10 result(s) accuracy: 1.0
+
+item 3448 :search with 10 result(s) accuracy: 1.0
+
+item 3449 :search with 10 result(s) accuracy: 1.0
+
+item 3450 :search with 10 result(s) accuracy: 1.0
+
+item 3451 :search with 10 result(s) accuracy: 1.0
+
+item 3452 :search with 10 result(s) accuracy: 1.0
+
+item 3453 :search with 10 result(s) accuracy: 1.0
+
+item 3454 :search with 10 result(s) accuracy: 1.0
+
+item 3455 :search with 10 result(s) accuracy: 1.0
+
+item 3456 :search with 10 result(s) accuracy: 1.0
+
+item 3457 :search with 10 result(s) accuracy: 1.0
+
+item 3458 :search with 10 result(s) accuracy: 1.0
+
+item 3459 :search with 10 result(s) accuracy: 1.0
+
+item 3460 :search with 10 result(s) accuracy: 1.0
+
+item 3461 :search with 10 result(s) accuracy: 1.0
+
+item 3462 :search with 10 result(s) accuracy: 1.0
+
+item 3463 :search with 10 result(s) accuracy: 1.0
+
+item 3464 :search with 10 result(s) accuracy: 1.0
+
+item 3465 :search with 10 result(s) accuracy: 1.0
+
+item 3466 :search with 10 result(s) accuracy: 1.0
+
+item 3467 :search with 10 result(s) accuracy: 1.0
+
+item 3468 :search with 10 result(s) accuracy: 1.0
+
+item 3469 :search with 10 result(s) accuracy: 1.0
+
+item 3470 :search with 10 result(s) accuracy: 1.0
+
+item 3471 :search with 10 result(s) accuracy: 1.0
+
+item 3472 :search with 10 result(s) accuracy: 1.0
+
+item 3473 :search with 10 result(s) accuracy: 1.0
+
+item 3474 :search with 10 result(s) accuracy: 1.0
+
+item 3475 :search with 10 result(s) accuracy: 1.0
+
+item 3476 :search with 10 result(s) accuracy: 1.0
+
+item 3477 :search with 10 result(s) accuracy: 1.0
+
+item 3478 :search with 10 result(s) accuracy: 1.0
+
+item 3479 :search with 10 result(s) accuracy: 1.0
+
+item 3480 :search with 10 result(s) accuracy: 1.0
+
+item 3481 :search with 10 result(s) accuracy: 1.0
+
+item 3482 :search with 10 result(s) accuracy: 1.0
+
+item 3483 :search with 10 result(s) accuracy: 1.0
+
+item 3484 :search with 10 result(s) accuracy: 1.0
+
+item 3485 :search with 10 result(s) accuracy: 1.0
+
+item 3486 :search with 10 result(s) accuracy: 1.0
+
+item 3487 :search with 10 result(s) accuracy: 1.0
+
+item 3488 :search with 10 result(s) accuracy: 1.0
+
+item 3489 :search with 10 result(s) accuracy: 1.0
+
+item 3490 :search with 10 result(s) accuracy: 1.0
+
+item 3491 :search with 10 result(s) accuracy: 1.0
+
+item 3492 :search with 10 result(s) accuracy: 1.0
+
+item 3493 :search with 10 result(s) accuracy: 1.0
+
+item 3494 :search with 10 result(s) accuracy: 1.0
+
+item 3495 :search with 10 result(s) accuracy: 1.0
+
+item 3496 :search with 10 result(s) accuracy: 1.0
+
+item 3497 :search with 10 result(s) accuracy: 1.0
+
+item 3498 :search with 10 result(s) accuracy: 1.0
+
+item 3499 :search with 10 result(s) accuracy: 1.0
+
+item 3500 :search with 10 result(s) accuracy: 1.0
+
+item 3501 :search with 10 result(s) accuracy: 1.0
+
+item 3502 :search with 10 result(s) accuracy: 1.0
+
+item 3503 :search with 10 result(s) accuracy: 1.0
+
+item 3504 :search with 10 result(s) accuracy: 1.0
+
+item 3505 :search with 10 result(s) accuracy: 1.0
+
+item 3506 :search with 10 result(s) accuracy: 1.0
+
+item 3507 :search with 10 result(s) accuracy: 1.0
+
+item 3508 :search with 10 result(s) accuracy: 1.0
+
+item 3509 :search with 10 result(s) accuracy: 1.0
+
+item 3510 :search with 10 result(s) accuracy: 1.0
+
+item 3511 :search with 10 result(s) accuracy: 1.0
+
+item 3512 :search with 10 result(s) accuracy: 1.0
+
+item 3513 :search with 10 result(s) accuracy: 1.0
+
+item 3514 :search with 10 result(s) accuracy: 1.0
+
+item 3515 :search with 10 result(s) accuracy: 1.0
+
+item 3516 :search with 10 result(s) accuracy: 1.0
+
+item 3517 :search with 10 result(s) accuracy: 1.0
+
+item 3518 :search with 10 result(s) accuracy: 1.0
+
+item 3519 :search with 10 result(s) accuracy: 1.0
+
+item 3520 :search with 10 result(s) accuracy: 1.0
+
+item 3521 :search with 10 result(s) accuracy: 1.0
+
+item 3522 :search with 10 result(s) accuracy: 1.0
+
+item 3523 :search with 10 result(s) accuracy: 1.0
+
+item 3524 :search with 10 result(s) accuracy: 1.0
+
+item 3525 :search with 10 result(s) accuracy: 1.0
+
+item 3526 :search with 10 result(s) accuracy: 1.0
+
+item 3527 :search with 10 result(s) accuracy: 1.0
+
+item 3528 :search with 10 result(s) accuracy: 1.0
+
+item 3529 :search with 10 result(s) accuracy: 1.0
+
+item 3530 :search with 10 result(s) accuracy: 1.0
+
+item 3531 :search with 10 result(s) accuracy: 1.0
+
+item 3532 :search with 10 result(s) accuracy: 1.0
+
+item 3533 :search with 10 result(s) accuracy: 1.0
+
+item 3534 :search with 10 result(s) accuracy: 1.0
+
+item 3535 :search with 10 result(s) accuracy: 1.0
+
+item 3536 :search with 10 result(s) accuracy: 1.0
+
+item 3537 :search with 10 result(s) accuracy: 1.0
+
+item 3538 :search with 10 result(s) accuracy: 1.0
+
+item 3539 :search with 10 result(s) accuracy: 1.0
+
+item 3540 :search with 10 result(s) accuracy: 1.0
+
+item 3541 :search with 10 result(s) accuracy: 1.0
+
+item 3542 :search with 10 result(s) accuracy: 1.0
+
+item 3543 :search with 10 result(s) accuracy: 1.0
+
+item 3544 :search with 10 result(s) accuracy: 1.0
+
+item 3545 :search with 10 result(s) accuracy: 1.0
+
+item 3546 :search with 10 result(s) accuracy: 1.0
+
+item 3547 :search with 10 result(s) accuracy: 1.0
+
+item 3548 :search with 10 result(s) accuracy: 1.0
+
+item 3549 :search with 10 result(s) accuracy: 1.0
+
+item 3550 :search with 10 result(s) accuracy: 1.0
+
+item 3551 :search with 10 result(s) accuracy: 1.0
+
+item 3552 :search with 10 result(s) accuracy: 1.0
+
+item 3553 :search with 10 result(s) accuracy: 1.0
+
+item 3554 :search with 10 result(s) accuracy: 1.0
+
+item 3555 :search with 10 result(s) accuracy: 1.0
+
+item 3556 :search with 10 result(s) accuracy: 1.0
+
+item 3557 :search with 10 result(s) accuracy: 1.0
+
+item 3558 :search with 10 result(s) accuracy: 1.0
+
+item 3559 :search with 10 result(s) accuracy: 1.0
+
+item 3560 :search with 10 result(s) accuracy: 1.0
+
+item 3561 :search with 10 result(s) accuracy: 1.0
+
+apa average accuracy: 0.9609674728940782
+mla average accuracy: 0.9873333333333331
+chicago average accuracy: 0.9887406171809839
+average accuracy: 0.989188430216233
+
