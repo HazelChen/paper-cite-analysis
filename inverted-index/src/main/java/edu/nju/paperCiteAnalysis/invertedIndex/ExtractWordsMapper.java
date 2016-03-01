@@ -28,53 +28,66 @@ public class ExtractWordsMapper extends TableMapper<Text, Text> {
 
         if (articleTitleByte != null) {
             //Is article
-            participleAndWriteToContext(articleTitleByte, rowKey, context);
-            participleAndWriteToContext(
-                    getValue(value, PropertyConstant.ARTICLE, PropertyConstant.AUTHOR),
-                    rowKey, context);
-            participleAndWriteToContext(
-                    getValue(value, PropertyConstant.ARTICLE, PropertyConstant.JOURNAL),
-                    rowKey, context);
-            participleAndWriteToContext(
-                    getValue(value, PropertyConstant.ARTICLE, PropertyConstant.YEAR),
-                    rowKey, context);
+            List<String> titleWords = split(articleTitleByte);
+            List<String> authorWords = split(
+                    getValue(value, PropertyConstant.ARTICLE, PropertyConstant.AUTHOR));
+            List<String> journalWords = split(
+                    getValue(value, PropertyConstant.ARTICLE, PropertyConstant.JOURNAL));
+            List<String> yearWords = split(
+                    getValue(value, PropertyConstant.ARTICLE, PropertyConstant.YEAR));
+
+            int count = 0;
+            count += titleWords == null ? 0 : titleWords.size();
+            count += journalWords == null ? 0 : journalWords.size();
+            count += yearWords == null ? 0 : yearWords.size();
+
+            writeToContext(titleWords, count, rowKey, context);
+            writeToContext(authorWords, count, rowKey, context);
+            writeToContext(journalWords, count, rowKey, context);
+            writeToContext(yearWords, count, rowKey, context);
         } else {
             //Is inproceedings
-            participleAndWriteToContext(
-                    getValue(value, PropertyConstant.INPROCEEDINGS, PropertyConstant.TITLE),
-                    rowKey, context);
-            participleAndWriteToContext(
-                    getValue(value, PropertyConstant.INPROCEEDINGS, PropertyConstant.AUTHOR),
-                    rowKey, context);
-            participleAndWriteToContext(
-                    getValue(value, PropertyConstant.INPROCEEDINGS, PropertyConstant.BOOKTITLE),
-                    rowKey, context);
-            participleAndWriteToContext(
-                    getValue(value, PropertyConstant.INPROCEEDINGS, PropertyConstant.YEAR),
-                    rowKey, context);
+            List<String> titleWords = split(
+                    getValue(value, PropertyConstant.INPROCEEDINGS, PropertyConstant.TITLE));
+            List<String> authorWords = split(
+                    getValue(value, PropertyConstant.INPROCEEDINGS, PropertyConstant.AUTHOR));
+            List<String> bookTitleWords = split(
+                    getValue(value, PropertyConstant.INPROCEEDINGS, PropertyConstant.BOOKTITLE));
+            List<String> yearWords = split(
+                    getValue(value, PropertyConstant.INPROCEEDINGS, PropertyConstant.YEAR));
+
+            int count = 0;
+            count += titleWords == null ? 0 : titleWords.size();
+            count += authorWords == null ? 0 : authorWords.size();
+            count += bookTitleWords == null ? 0 : bookTitleWords.size();
+            count += yearWords == null ? 0 : yearWords.size();
+
+            writeToContext(titleWords, count, rowKey, context);
+            writeToContext(authorWords, count, rowKey, context);
+            writeToContext(bookTitleWords, count, rowKey, context);
+            writeToContext(yearWords, count, rowKey, context);
+
         }
     }
 
     private byte[] getValue(Result value, String columnFamily, String column) {
-        byte[] bytes = value.getValue(Bytes.toBytes(columnFamily), Bytes.toBytes(column));
-//        if (bytes == null) {
-//            throw new RuntimeException(
-//                    "Error: Null sentence input with column family: " + columnFamily
-//                            + " column: " + column);
-//        }
-        return bytes;
+        return value.getValue(Bytes.toBytes(columnFamily), Bytes.toBytes(column));
     }
 
-    private void participleAndWriteToContext(byte[] sentence, String rowKey, Context context)
-            throws IOException, InterruptedException {
+    private List<String> split(byte[] sentence) {
         if (sentence == null) {
-            return;
+            return null;
         }
         String sentenceString = new String(sentence);
 
         List<String> words = tokenAnalyzer.wordSplit(sentenceString);
         System.out.println(sentenceString + ": " + words);
+        return words;
+    }
 
+    private void writeToContext(List<String> words, int allCount,
+                                String rowKey, Context context)
+                                    throws IOException, InterruptedException {
         Map<String, Integer> wordCountMap = new HashMap<String, Integer>();
         for (String word : words) {
             Integer count = wordCountMap.get(word);
@@ -87,7 +100,7 @@ public class ExtractWordsMapper extends TableMapper<Text, Text> {
 
         for (Map.Entry<String, Integer> wordAndCount : wordCountMap.entrySet()) {
             String contextValue = "<" + rowKey + "," +
-                    wordAndCount.getValue() * 100 / words.size() + ">";
+                    wordAndCount.getValue() * 100 / allCount + ">";
             context.write(new Text(wordAndCount.getKey()), new Text(contextValue));
         }
     }
