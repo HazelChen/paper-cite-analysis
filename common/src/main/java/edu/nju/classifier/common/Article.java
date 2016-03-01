@@ -19,9 +19,6 @@ public class Article extends Bibtex {
             return false;
 
         Article other = (Article) o;
-        if(other.journal.equals("CoRR")) {
-            int x = 5;
-        }
         if (StringUtils.isNotEmpty(title) && !title.equals(other.title) ||
                 (StringUtils.isEmpty(title) && StringUtils.isNotEmpty(title))){
             return false;
