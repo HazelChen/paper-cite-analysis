@@ -2,6 +2,7 @@ package edu.nju.classifier.common;
 
 import lombok.Data;
 import org.apache.commons.lang3.StringUtils;
+import org.omg.Messaging.SYNC_WITH_TRANSPORT;
 
 /**
  * Created by nathan on 16-2-27.
@@ -18,6 +19,9 @@ public class Article extends Bibtex {
             return false;
 
         Article other = (Article) o;
+        if(other.journal.equals("CoRR")) {
+            int x = 5;
+        }
         if (StringUtils.isNotEmpty(title) && !title.equals(other.title) ||
                 (StringUtils.isEmpty(title) && StringUtils.isNotEmpty(title))){
             return false;
@@ -58,4 +62,12 @@ public class Article extends Bibtex {
                 "volume: " + volume + "\n";
     }
 
+    public static void main(String[] args) {
+        Article a = new Article();
+        a.setVolume("abs/1301.6939");
+        Article b = new Article();
+        b.setVolume("CoRR, abs/1301.6939");
+
+        System.out.print(a.equals(b));
+    }
 }

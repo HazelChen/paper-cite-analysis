@@ -95,14 +95,13 @@ public class Analysis {
             return 0.0;
         }
         count++;
-        System.out.println(queryStr);
+        System.out.println(count);
         List<Bibtex> results = seachEngine.search(queryStr, k);
 
         double accuracy = 0.0;
         int i = 0;
         int hitIndex = -1;
 
-        FileHelper.append(results.toString(), "output/detail.txt");
         if (CollectionUtils.isNotEmpty(results)) {
             for (Bibtex one : results) {
                 if (one.equals(validate)) {
@@ -115,6 +114,7 @@ public class Analysis {
         }
         if (hitIndex == -1) {
             FileHelper.append("item " + count + " :No hit, search fail. The query string is : " + queryStr, noHitFilePath);
+            FileHelper.append(results.toString()+"\r\n", noHitFilePath);
         } else {
             List<String> contents = new ArrayList<String>();
 //

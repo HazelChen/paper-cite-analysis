@@ -10,6 +10,6 @@ public class CustomedHashMap extends HashMap {
     @Override
     public Object get(Object key) {
        Object val = super.get(key);
-      return  val == null ? "undefined" : val;
+      return  val == null ? "" : val;
     }
 }

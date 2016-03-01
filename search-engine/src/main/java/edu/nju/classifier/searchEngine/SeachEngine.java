@@ -8,7 +8,6 @@ import edu.nju.tokenAnalyzer.TokenAnalyzer;
 import org.apache.commons.collections.CollectionUtils;
 import org.apache.commons.collections.MapUtils;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 /**

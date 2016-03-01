@@ -88,6 +88,8 @@ public class ExtractWordsMapper extends TableMapper<Text, Text> {
     private void writeToContext(List<String> words, int allCount,
                                 String rowKey, Context context)
                                     throws IOException, InterruptedException {
+        if(words==null)
+            return;
         Map<String, Integer> wordCountMap = new HashMap<String, Integer>();
         for (String word : words) {
             Integer count = wordCountMap.get(word);

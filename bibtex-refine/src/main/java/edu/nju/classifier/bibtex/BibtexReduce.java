@@ -73,6 +73,7 @@ public class BibtexReduce extends Reducer<Text, Text, Text, Text> {
             bibtextCite = preProcess(bibtextCite);
             String[] elements = bibtextCite.split(endSymbol);
             for (String element : elements) {
+                element = element.trim();
                 if (element.equals("") || !element.contains(startSymbol))
                     continue;
 
