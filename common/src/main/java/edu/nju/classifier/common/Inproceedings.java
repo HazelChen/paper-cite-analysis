@@ -1,6 +1,7 @@
 package edu.nju.classifier.common;
 
 import lombok.Data;
+import org.apache.commons.lang3.StringUtils;
 
 /**
  * Created by nathan on 16-2-27.
@@ -14,16 +15,18 @@ public class Inproceedings extends Bibtex {
         if (o == null || !(o instanceof Inproceedings))
             return false;
         Inproceedings other = (Inproceedings)o;
-        if (title != null && !title.equals(other.title) ||
-                (title == null && other.title != null)){
+
+        if (StringUtils.isNotEmpty(title) && !title.equals(other.title) ||
+                (StringUtils.isEmpty(title) && StringUtils.isNotEmpty(title))){
             return false;
         }
-        if (year != null && !year.equals(other.year) ||
-                (year == null && other.year != null)){
+        if (StringUtils.isNotEmpty(year) && !year.equals(other.year) ||
+                (StringUtils.isEmpty(year) && StringUtils.isNotEmpty(year))) {
             return false;
         }
-        if (booktitle != null && !booktitle.equals(other.booktitle) ||
-                (booktitle == null && other.booktitle != null)){
+
+        if (StringUtils.isNotEmpty(booktitle) && !booktitle.equals(other.booktitle) ||
+                (StringUtils.isEmpty(booktitle) && StringUtils.isNotEmpty(booktitle))) {
             return false;
         }
         return true;
@@ -31,10 +34,10 @@ public class Inproceedings extends Bibtex {
 
     @Override
     public int hashCode(){
-        return title.hashCode()*33 +
-                author.hashCode()*33 +
-                year.hashCode()*33 +
-                booktitle.hashCode()*33;
+        return (StringUtils.isEmpty(title)?0:title.hashCode()*33) +
+                (StringUtils.isEmpty(author)?0:author.hashCode()*33) +
+                (StringUtils.isEmpty(year)?0:year.hashCode()*33) +
+                (StringUtils.isEmpty(booktitle)?0:booktitle.hashCode()*33);
     }
 
     @Override
