@@ -14,7 +14,9 @@ import org.apache.hadoop.hbase.util.Bytes;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 /**
  * Created by nathan on 16-2-29.
@@ -46,14 +48,18 @@ public class BibtexFactory {
         }
     }
 
-    public static List<Bibtex> fetchResultList(List<MatchScore> orderedList) {
-        List<Bibtex> bibtexList = new ArrayList<Bibtex>();
+    public static Set<Bibtex> fetchResultList(List<MatchScore> orderedList, int num) {
+        Set<Bibtex> bibtexList = new HashSet<Bibtex>();
         if(CollectionUtils.isEmpty(orderedList))
             return bibtexList;
 
         setup();
         try{
-            for(MatchScore ms:orderedList) {
+            int count = 0;
+            while(bibtexList.size() != num) {
+                if(orderedList.size() < num && count==orderedList.size())
+                    break;
+                MatchScore ms = orderedList.get(count++);
                 Result result = HBaseDAO.getRow(table, ms.getRowKey());
 
                 byte[] articleTitleByte = result.getValue(
