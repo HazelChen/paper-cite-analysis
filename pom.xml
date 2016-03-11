@@ -23,6 +23,7 @@
         <module>format-extract</module>
         <module>token-analyzer</module>
         <module>search-engine</module>
+        <module>recommendation</module>
     </modules>
 
     <packaging>pom</packaging>
