@@ -7,6 +7,6 @@ public class Launch {
 
     public static void main(String[] args){
         Analysis analysis = new Analysis();
-        analysis.execute(3);
+        analysis.execute(10);
     }
 }
