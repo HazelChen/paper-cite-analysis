@@ -6,9 +6,9 @@ import org.eclipse.jetty.webapp.WebAppContext;
 
 /**
  * Created by hazel on 2016-03-11.
- * Main
+ * Recommendation Main
  */
-public class Main {
+public class Recommendation {
 
     public static void main(String[] args) {
         initJettyServer();
@@ -17,8 +17,8 @@ public class Main {
     private static void initJettyServer() {
         Server jettyServer = new Server(8080);
         WebAppContext ctx = new WebAppContext();
-        ctx.setDescriptor(Main.class.getResource("/webapp/WEB-INF/web.xml").getPath());
-        ctx.setResourceBase(Main.class.getResource("/webapp").getPath());
+        ctx.setDescriptor(Recommendation.class.getResource("/webapp/WEB-INF/web.xml").getPath());
+        ctx.setResourceBase(Recommendation.class.getResource("/webapp").getPath());
         ctx.setContextPath("/");
 
         //Including the JSTL jars for the webapp.
