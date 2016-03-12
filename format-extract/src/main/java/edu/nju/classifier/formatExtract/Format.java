@@ -3,8 +3,10 @@ package edu.nju.classifier.formatExtract;
 import edu.nju.classifier.common.Article;
 import edu.nju.classifier.common.Bibtex;
 import edu.nju.classifier.common.Inproceedings;
+import edu.nju.classifier.common.PropertyConstant;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
