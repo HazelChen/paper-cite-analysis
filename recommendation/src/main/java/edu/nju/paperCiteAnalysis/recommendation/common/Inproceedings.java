@@ -10,6 +10,8 @@ import org.apache.commons.lang3.StringUtils;
 public class Inproceedings extends Bibtex {
     private String booktitle;
 
+    public Inproceedings() {}
+
     public Inproceedings(String author, String title, String year,
                    String booktitle) {
 

@@ -27,7 +27,7 @@ public class Search {
         return search(tmp);
     }
 
-    public List<Bibtex> search(ArrayList<String> sources) {
+    public List<Bibtex> search(List<String> sources) {
         Set<String> rowkeySets = new HashSet<String>();
         List<String> keywords = new ArrayList<String>();
         for (String source : sources){
@@ -59,94 +59,6 @@ public class Search {
         }
         return  keys;
     }
-
-    private class ConvertToBibtex {
-        String startSymbol = "={";
-        String endSymbol = "},";
-        String setStr = "set";
-        String article = "article";
-        String inproceedings = "inproceedings";
-
-        Bibtex convert(String citeStr) {
-            Bibtex bibtex = null;
-            /**get cite type*/
-            if (citeStr.equals("") || !citeStr.contains("@")) {
-            }
-            String type = citeStr.substring(citeStr.indexOf("@") + 1, citeStr.indexOf("{"));
-            if (article.equals(type)) {
-                bibtex = new Article();
-            } else if (inproceedings.equals(type)) {
-                bibtex = new Inproceedings();
-            }
-
-            if (bibtex != null) {
-                citeStr = preProcess(citeStr);
-                String[] elements = citeStr.split(endSymbol);
-                for (String element : elements) {
-                    element = element.trim();
-                    if (element.equals("") || !element.contains(startSymbol))
-                        continue;
-
-                    String propertyName = element.substring(0, element.indexOf(startSymbol));
-                    String propertyValue = element.substring(element.indexOf(startSymbol) + startSymbol.length());
-
-                    if (hasField(bibtex.getClass(), propertyName)) {
-                        invokeMethod(bibtex.getClass(), bibtex, propertyName, propertyValue);
-                    } else {
-                        invokeMethod(bibtex.getClass().getSuperclass(),bibtex, propertyName, propertyValue);
-                    }
-                }
-            }
-            return bibtex;
-        }
-
-        private void invokeMethod(Class o, Bibtex bibtex, String fieldName, String value) {
-            Class[] parameterTypes = new Class[1];
-            String methodName = null;
-            try {
-                parameterTypes[0] = String.class;
-                StringBuffer sb = new StringBuffer();
-                sb.append(setStr);
-                sb.append(fieldName.substring(0, 1).toUpperCase());
-                sb.append(fieldName.substring(1));
-                methodName = sb.toString();
-                Method method = o.getDeclaredMethod(methodName, parameterTypes);
-                method.invoke(bibtex, new Object[]{value});
-            } catch (NoSuchMethodException e) {
-                System.err.println("Error: while convert String to bibtex in method " + methodName + " " + e);
-                System.exit(-1);
-            } catch (IllegalAccessException e) {
-                System.err.println("Error: while convert String to bibtex in method " + methodName + " " + e);
-                System.exit(-2);
-
-            } catch (InvocationTargetException e) {
-                System.err.println("Error: while convert string to bibtex " +e);
-                System.exit(-3);
-
-            }
-        }
-
-        private boolean hasField(Class<?> clazz, String fieldName) {
-            Field[] fields = clazz.getDeclaredFields();
-            for (Field field : fields) {
-                if (field.getName().equals(fieldName))
-                    return true;
-            }
-            return false;
-        }
-
-        private String preProcess(String s) {
-            Pattern p = Pattern.compile("\t|\n|\r");
-            Matcher m = p.matcher(s);
-            s = m.replaceAll("");
-
-            StringBuffer buffer = new StringBuffer(s);
-            buffer.setLength(s.length() - 2);
-            buffer.append(endSymbol);
-            return buffer.substring(buffer.indexOf(",") + 1);
-        }
-    }
-
     public static void main(String[] args) {
         Search search = new Search();
         search.search("@article{Bowyer2000IEEETransPatternAnalMachIntell,\n" +

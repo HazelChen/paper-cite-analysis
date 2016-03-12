@@ -9,6 +9,7 @@ import javax.servlet.ServletContext;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
@@ -29,25 +30,22 @@ public class RecommendFrontService {
     @Path("/recommend")
     @GET
     public String recommend(@DefaultValue("") @QueryParam("input") String input) {
-
-//        List<String> inputBibtexs = gson.fromJson(input,
-//                new TypeToken<List<String>>() {}.getType());
-        List<String> inputBibtexs = new ArrayList<String>();
-        Map<Bibtex, Integer> bibtexWithGoal = controller.recommend(inputBibtexs);
+        String[] inputs = input.split("\n");
+        Map<Bibtex, Double> bibtexWithGoal = controller.recommend(Arrays.asList(inputs));
         return gson.toJson(bibtexWithGoal);
     }
 
     @Path("/like")
     @POST
-    public String like(@DefaultValue("") @QueryParam("input") String inputJson) {
-        Bibtex bibtex = gson.fromJson(inputJson, Bibtex.class);
+    public String like(@DefaultValue("") @QueryParam("like") String like) {
+        Bibtex bibtex = gson.fromJson(like, Bibtex.class);
         return "";
     }
 
     @Path("/dislike")
     @POST
-    public String dislike(@DefaultValue("") @QueryParam("input") String inputJson) {
-        Bibtex bibtex = gson.fromJson(inputJson, Bibtex.class);
+    public String dislike(@DefaultValue("") @QueryParam("dislike") String dislike) {
+        Bibtex bibtex = gson.fromJson(dislike, Bibtex.class);
         return "";
     }
 

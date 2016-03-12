@@ -10,5 +10,9 @@ import java.util.Map;
  */
 public interface RecommendController {
 
-    Map<Bibtex, Integer> recommend(List<String> bibtexStrings);
+    Map<Bibtex, Double> recommend(List<String> bibtexStrings);
+
+    void like(Bibtex bibtex);
+
+    void dislike(Bibtex bibtex);
 }

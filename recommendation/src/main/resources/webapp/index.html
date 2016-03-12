@@ -114,7 +114,7 @@
 	function like(index){
 		$.post(
 			'/api/recommend-service/like',
-			{input: info_data[index][0]},
+			{like: info_data[index][0]},
 			function(){
 				$("#search").click();
 			}
@@ -124,7 +124,7 @@
 	function dislike(index){
 		$.post(
 			'/api/recommend-service/dislike',
-			{input: info_data[index][0]},
+			{dislike: info_data[index][0]},
 			function(){
 				$("#search").click();
 			}
