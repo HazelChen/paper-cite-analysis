@@ -28,6 +28,7 @@ public class SearchWeight {
         if(CollectionUtils.isNotEmpty(searchInfo)) {
             initCountMap();
             if(searchInfo.size() == 1) {
+                this.weight = new HashMap<String, Double>();
                 weight.put(PropertyConstant.AUTHOR, 30.0);
                 weight.put(PropertyConstant.TITLE, 50.0);
                 weight.put(PropertyConstant.JOURNAL, 20.0);
