@@ -10,6 +10,14 @@ import org.apache.commons.lang3.StringUtils;
 public class Inproceedings extends Bibtex {
     private String booktitle;
 
+    public Inproceedings(String author, String title, String year,
+                   String booktitle) {
+
+        super(author, title, year);
+
+        this.booktitle = booktitle;
+    }
+
     @Override
     public boolean equals(Object o){
         if (o == null || !(o instanceof Inproceedings))

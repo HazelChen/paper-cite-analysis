@@ -1,8 +1,13 @@
 package edu.nju.paperCiteAnalysis.recommendation;
 
+import edu.nju.paperCiteAnalysis.recommendation.front.RecommendFrontService;
+import org.eclipse.jetty.server.Handler;
 import org.eclipse.jetty.server.Server;
-import org.eclipse.jetty.webapp.Configuration;
+import org.eclipse.jetty.server.handler.HandlerCollection;
+import org.eclipse.jetty.servlet.ServletContextHandler;
+import org.eclipse.jetty.servlet.ServletHolder;
 import org.eclipse.jetty.webapp.WebAppContext;
+import org.glassfish.jersey.servlet.ServletContainer;
 
 /**
  * Created by hazel on 2016-03-11.
@@ -16,25 +21,22 @@ public class Recommendation {
 
     private static void initJettyServer() {
         Server jettyServer = new Server(8080);
-        WebAppContext ctx = new WebAppContext();
-        ctx.setDescriptor(Recommendation.class.getResource("/webapp/WEB-INF/web.xml").getPath());
-        ctx.setResourceBase(Recommendation.class.getResource("/webapp").getPath());
-        ctx.setContextPath("/");
 
-        //Including the JSTL jars for the webapp.
-        ctx.setAttribute("org.eclipse.jetty.server.webapp.ContainerIncludeJarPattern",
-                ".*/[^/]*jstl.*\\.jar$");
+        WebAppContext webAppContext = new WebAppContext();
+        webAppContext.setResourceBase(Recommendation.class.getResource("/webapp").getPath());
+        webAppContext.setContextPath("/client");
 
-        //Enabling the Annotation based configuration
-        Configuration.ClassList classList =
-                Configuration.ClassList.setServerDefault(jettyServer);
-        classList.addAfter("org.eclipse.jetty.webapp.FragmentConfiguration",
-                "org.eclipse.jetty.plus.webapp.EnvConfiguration",
-                "org.eclipse.jetty.plus.webapp.PlusConfiguration");
-        classList.addBefore("org.eclipse.jetty.webapp.JettyWebXmlConfiguration",
-                "org.eclipse.jetty.annotations.AnnotationConfiguration");
+        ServletHolder servletHolder = new ServletHolder(ServletContainer.class);
+        servletHolder.setInitParameter("jersey.config.server.provider.classnames",
+                RecommendFrontService.class.getCanonicalName());
+        ServletContextHandler servletContextHandler = new ServletContextHandler(jettyServer, "/api/", ServletContextHandler.SESSIONS);
+        servletContextHandler.addServlet(servletHolder, "/*");
 
-        jettyServer.setHandler(ctx);
+        HandlerCollection collection = new HandlerCollection();
+        collection.setHandlers(new Handler[]{webAppContext, servletContextHandler});
+
+        jettyServer.setHandler(collection);
+
         try {
             jettyServer.start();
             jettyServer.join();

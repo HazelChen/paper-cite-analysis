@@ -4,17 +4,11 @@ import edu.nju.paperCiteAnalysis.recommendation.common.Bibtex;
 
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 
 /**
- * Created by hazel on 2016-03-11.
- * Before recommendation
+ * Created by hazel on 2016-03-12.
  */
-public class RecommendationFront {
-    private Map<List<Bibtex>, Set<Bibtex>> trash;
+public interface RecommendController {
 
-
-
-
-
+    Map<Bibtex, Integer> recommend(List<String> bibtexStrings);
 }

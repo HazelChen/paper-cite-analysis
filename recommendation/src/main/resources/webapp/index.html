@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>test</title>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="./jquery-1.12.1.min.js"></script>
+    <style type="text/css">
+        .content {left:50%; margin-left: -250px; width: 500px; position: absolute;}
+        .content .title {font-size: 50px; margin-bottom: 30px; margin-top: 10px;text-align: center;}
+        .input-div {text-align: center;}
+        .input-div .recommnend-area {height: 100px; width: 100%;box-sizing:border-box}
+        .input-div .button-row {margin-top: 10px;height: 60px;}
+        .input-div .button {cursor:pointer;background: #356eb7; width: 100px; height: 40px; color: white; line-height: 40px; float: right; border-radius: 5px;text-align: center;}
+        .input-div .button:active {background: blue;}
+        .content-div {margin-left: -250px; width: 1000px;}
+        .content-div table {border-spacing: 15px; width: 1000px;}
+        .content-div table tr td:first-child {width: 76%;}
+        .content-div table tr td:nth-child(2) {width: 8%;}
+        .content-div table tr td:nth-child(3) {width: 8%;}
+        .content-div table tr td:nth-child(4) {width: 8%;}
+        .content-div .button {cursor:pointer;background: #356eb7; width: 50px; height: 30px; color: white; line-height: 30px; float: right; border-radius: 5px;text-align: center;}
+        .content-div .like {background: #ff5951; }
+        .content-div .dislike {background: #356eb7; }
+    </style>
+</head>
+<body>
+<div class="content">
+    <div class="title">我是输入框</div>
+    <div class="input-div">
+        <textarea class="recommnend-area" id="input"></textarea>
+        <div class="button-row"><div class="button" id="search">OK</div></div>
+    </div>
+
+    <div class="content-div">
+        <table id="content-info">
+        </table>
+    </div>
+</div>
+</body>
+<script type="text/html" id="ROW_TPL">
+    <tr>
+        <td>{info}</td>
+        <td>{goal}</td>
+        <td><div class="button like">like</div></td>
+        <td><div class="button dislike">dislike</div></td>
+    </tr>
+</script>
+<script type="text/javascript">
+
+	var info_data = [];
+
+	$(function(){
+
+        initClick();
+
+
+	});
+
+	function preprocess(data){
+		for(var i in data){
+			var str = "";
+			for(var j in data[i][0]){
+				str += j + ':' + data[i][0][j] + '<br>';
+			}
+			data[i]['info'] = str;
+			data[i]['goal'] = data[i][1];
+		}
+		return data;
+	}
+
+	function initClick(){
+		$("#search").click(function(){
+		    search(function(data){
+                info_data = data;
+                loadContentInfo(preprocess(data));
+            });
+        });
+
+		$("#content-info").on('click','.like',function(){
+			var index = $(this).parent().parent().index();
+			like(index);
+		});
+		$("#content-info").on('click','.dislike',function(){
+			var index = $(this).parent().parent().index();
+			dislike(index);
+		});
+	}
+
+	function search(callBack){
+		$.getJSON(
+			'/api/recommend-service/recommend',
+			{input: $("#input").val()},
+			function(ret){
+				if(typeof callBack == "function"){
+					callBack(ret);
+				}
+			}
+		)
+	}
+
+	function loadContentInfo(data){
+		var str = "";
+		for(var i in data){
+			str += "<tr>";
+			str += "<td>" + data[i]['info'] + "</td>";
+			str += "<td>" + data[i]['goal'] + "</td>";
+			str += "<td><div class=\"button like\">like</div></td>";
+			str += "<td><div class=\"button dislike\">dislike</div></td>";
+			str += "</tr>";
+		}
+		$("#content-info").html(str);
+	}
+
+	function like(index){
+		$.post(
+			'/api/recommend-service/like',
+			{input: info_data[index][0]},
+			function(){
+				$("#search").click();
+			}
+		)
+	}
+
+	function dislike(index){
+		$.post(
+			'/api/recommend-service/dislike',
+			{input: info_data[index][0]},
+			function(){
+				$("#search").click();
+			}
+		)
+	}
+</script>
+</html>
