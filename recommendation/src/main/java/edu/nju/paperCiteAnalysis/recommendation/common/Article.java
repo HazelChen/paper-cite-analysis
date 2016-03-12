@@ -5,12 +5,25 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  * Created by nathan on 16-2-27.
+ * Article
  */
 @Data
 public class Article extends Bibtex {
     private String journal;
     private String pages;
     private String volume;
+
+    public Article(){}
+
+    public Article(String author, String title, String year,
+                   String journal, String pages, String volume) {
+
+        super(author, title, year);
+
+        this.journal = journal;
+        this.pages = pages;
+        this.volume = volume;
+    }
 
     @Override
     public boolean equals(Object o){
@@ -62,6 +75,6 @@ public class Article extends Bibtex {
                 "author: " + author + "\n"+
                 "year: " + year + "\n"+
                 "journal: " + pages + "\n"+
-                "volume: " + volume + "\n";
+                "volume: " + volume;
     }
 }
