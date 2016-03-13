@@ -49,7 +49,7 @@ public class DataHelper {
         }
     }
 
-    public List<Bibtex> getResults(Collection<String> keys){
+    protected List<Bibtex> getResults(Collection<String> keys){
         List<Bibtex> results = new ArrayList<Bibtex>();
         setup();
         try {

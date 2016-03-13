@@ -11,13 +11,27 @@ import java.util.*;
  */
 public class Sort {
     private double threshhold;
+    private int topNum;
 
     public Sort() {
         threshhold = 5.0;
+        topNum = 10;
     }
 
     public Sort(double threshhold) {
+        super();
         this.threshhold = threshhold;
+    }
+
+    public Sort(double threshhold, int topNum) {
+        this.threshhold = threshhold;
+        this.topNum = topNum;
+    }
+
+    public Sort(int topNum) {
+        super();
+        if (topNum > 0)
+            this.topNum = topNum;
     }
 
     public void setThreshhold(double threshhold) {
@@ -25,8 +39,7 @@ public class Sort {
     }
 
     public LinkedHashMap<Bibtex, Double> sort(Map<Bibtex, Double> origin) {
-        int size = origin.size();
-        List<ScoreBibtex> lists  = new ArrayList<ScoreBibtex>();
+        List<ScoreBibtex> lists = new ArrayList<ScoreBibtex>();
 
         Set<Bibtex> keySet = origin.keySet();
         Iterator<Bibtex> iterator = keySet.iterator();
@@ -38,17 +51,17 @@ public class Sort {
         Collections.sort(lists);
 
         LinkedHashMap<Bibtex, Double> results = new LinkedHashMap<Bibtex, Double>();
-        for (int k = 0; k < size ; k ++){
+        for (int k = 0; k < topNum; k++) {
             results.put(lists.get(k).bibtex, lists.get(k).score);
         }
         return results;
     }
 
-    class ScoreBibtex implements Comparable<ScoreBibtex>{
+    class ScoreBibtex implements Comparable<ScoreBibtex> {
         Bibtex bibtex;
         double score;
 
-        ScoreBibtex(Bibtex bibtex, double score ){
+        ScoreBibtex(Bibtex bibtex, double score) {
             this.bibtex = bibtex;
             this.score = score;
         }
@@ -64,7 +77,7 @@ public class Sort {
                 if (gap < 0 || gap > threshhold || (gap > 0 && gap < threshhold && year >= otherYear)) {
                     return Double.compare(other.score, score);
                 }
-            }catch (NumberFormatException e){
+            } catch (NumberFormatException e) {
                 System.err.println("Error: invalid year found while sort " + e);
                 System.exit(-1);
             }
@@ -72,7 +85,7 @@ public class Sort {
         }
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Sort sort = new Sort();
 
         Map<Bibtex, Double> map = new HashMap<Bibtex, Double>();
