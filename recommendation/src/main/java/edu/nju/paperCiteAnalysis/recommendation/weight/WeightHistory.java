@@ -15,19 +15,17 @@ import java.util.Map;
 public class WeightHistory {
     private static List<SearchWeight> historyList = new ArrayList<SearchWeight>();
 
-    @Deprecated
-    public SearchWeight SearchWeight(List<Bibtex> searchInfo) {
+    public SearchWeight getSearchWeight(List<Bibtex> searchInfo) {
         int pos = getPos(searchInfo);
-        return pos!=-1?historyList.get(pos):new SearchWeight(searchInfo);
-    }
-
-    public SearchWeight SearchWeight(int pos) {
-        if(pos>=0 && pos<historyList.size())
+        if(pos!=-1) {
             return historyList.get(pos);
-        return null;
+        }
+        SearchWeight newWeight = new SearchWeight(searchInfo);
+        historyList.add(newWeight);
+        return newWeight;
     }
 
-    public int getPos(List<Bibtex> searchInfo) {
+    private int getPos(List<Bibtex> searchInfo) {
         if(CollectionUtils.isEmpty(searchInfo))
             return -1;
         for(int i=0; i<historyList.size(); ++i) {
@@ -42,20 +40,22 @@ public class WeightHistory {
         return -1;
     }
 
-    public void like(int pos, List<Bibtex> likeInfo) {
-        if(pos>=0 && pos<historyList.size())
+    public SearchWeight like(SearchWeight traget, List<Bibtex> likeInfo) {
+        int pos = getPos(traget.getSearchInfo());
+        if(pos != -1) {
             historyList.get(pos).like(likeInfo);
+            return historyList.get(pos);
+        }
+        return traget;
     }
 
-    public void dislike(int pos, List<Bibtex> likeInfo) {
-        if(pos>=0 && pos<historyList.size())
-            historyList.get(pos).like(likeInfo);
-    }
-
-    public Map<String, Double> getWeight(int pos) {
-        if(pos>=0 && pos<historyList.size())
-            return historyList.get(pos).getWeight();
-        return null;
+    public SearchWeight dislike(SearchWeight traget, List<Bibtex> dislikeInfo) {
+        int pos = getPos(traget.getSearchInfo());
+        if(pos != -1) {
+            historyList.get(pos).dislike(dislikeInfo);
+            return historyList.get(pos);
+        }
+        return traget;
     }
 
     private boolean equals(List<Bibtex> list1, List<Bibtex> list2) {
