@@ -144,7 +144,11 @@ public class Score {
         }
 
         for(int i = 0; i < relevantVec.length; i++){
-            relevantVec[i] = (relevantVec[i] - min) / (max - min);
+            if(min == max){
+                relevantVec[i] = 1;
+            }else{
+                relevantVec[i] = (relevantVec[i] - min) / (max - min);
+            }
         }
         return c.cosineSimilarity(titleVec,relevantVec);
     }
