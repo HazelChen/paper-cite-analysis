@@ -4,7 +4,9 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
 import com.sun.xml.internal.ws.api.pipe.ServerTubeAssemblerContext;
+import edu.nju.paperCiteAnalysis.recommendation.common.Article;
 import edu.nju.paperCiteAnalysis.recommendation.common.Bibtex;
+import edu.nju.paperCiteAnalysis.recommendation.common.Inproceedings;
 
 import javax.servlet.ServletContext;
 import javax.ws.rs.*;
@@ -41,7 +43,7 @@ public class RecommendFrontService {
     @Path("/like")
     @POST
     public String like(@DefaultValue("") @FormParam("like") String like) {
-        Bibtex bibtex = gson.fromJson(like, Bibtex.class);
+        Bibtex bibtex = getBibtexFromJson(like);
         controller.like(bibtex);
         return "";
     }
@@ -49,9 +51,19 @@ public class RecommendFrontService {
     @Path("/dislike")
     @POST
     public String dislike(@DefaultValue("") @FormParam("dislike") String dislike) {
-        Bibtex bibtex = gson.fromJson(dislike, Bibtex.class);
+        Bibtex bibtex = getBibtexFromJson(dislike);
         controller.dislike(bibtex);
         return "";
+    }
+
+    private Bibtex getBibtexFromJson(String json) {
+        Article article = gson.fromJson(json, Article.class);
+        if (article.getJournal() != null) {
+            return article;
+        } else {
+            Inproceedings inproceedings = gson.fromJson(json, Inproceedings.class);
+            return inproceedings;
+        }
     }
 
     private void initGson() {
