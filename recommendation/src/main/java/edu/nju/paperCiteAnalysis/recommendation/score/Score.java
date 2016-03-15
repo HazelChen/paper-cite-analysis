@@ -5,6 +5,7 @@ import edu.nju.paperCiteAnalysis.recommendation.common.Article;
 import edu.nju.paperCiteAnalysis.recommendation.common.Bibtex;
 import edu.nju.paperCiteAnalysis.recommendation.common.Inproceedings;
 import edu.nju.paperCiteAnalysis.recommendation.weight.SearchWeight;
+import edu.nju.paperCiteAnalysis.recommendation.weight.WeightHistory;
 import edu.nju.tokenAnalyzer.TokenAnalyzer;
 
 import java.util.*;
@@ -23,6 +24,7 @@ public class Score {
     private double[] titleVec;
     private List<String[]> allTitles = new ArrayList<String[]>();
     private TokenAnalyzer tokenAnalyzer = new TokenAnalyzer();
+    private WeightHistory weightHistory = new WeightHistory();
 
     private CosineSimilarity c = new CosineSimilarity();
     private Tfidf tfidf = new Tfidf();
@@ -35,7 +37,7 @@ public class Score {
             System.out.println("搜索不到相关论文");
             return null;
         }else{
-            SearchWeight searchWeight = new SearchWeight(inputPaper);
+            SearchWeight searchWeight = weightHistory.getSearchWeight(inputPaper);
             Map<String, Double> weight = searchWeight.getWeight();
             double authorRate = weight.get(PropertyConstant.AUTHOR);
             double titleRate = weight.get(PropertyConstant.TITLE);
