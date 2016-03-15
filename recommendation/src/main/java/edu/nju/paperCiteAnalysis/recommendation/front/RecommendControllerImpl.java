@@ -80,4 +80,5 @@ public class RecommendControllerImpl implements RecommendController{
         }
         searchWeight = weightHistory.dislike(searchWeight, Arrays.asList(bibtex));
     }
+
 }
