@@ -90,12 +90,6 @@ public class Score {
             authorVec[i] = 1.0;
         }
 
-        inputTitles = splitTitle(titleStr);
-        titleVec = new double[inputTitles.length];
-        for (int i = 0; i < inputTitles.length; i++){
-            titleVec[i] = 1.0;
-        }
-
         this.relevantPapers = relevantPapers;
         for (Bibtex b : relevantPapers) {
             String title = b.getTitle();
@@ -104,9 +98,10 @@ public class Score {
             allTitles.add(titles);
         }
 
-        for(int i = 0; i < inputAuthors.length; i++){
-            System.out.println("作者为：" + inputAuthors[i]);
-        }
+        //输入向量初始化
+        inputTitles = splitTitle(titleStr);
+        titleVec = titleVelCal(titleStr);
+
     }
 
     private double authorScore(String authors){
@@ -127,14 +122,18 @@ public class Score {
     }
 
     private double titleScore(String title){
+        double relevantVec[] = titleVelCal(title);
+        return c.cosineSimilarity(titleVec,relevantVec);
+    }
+
+    private double[] titleVelCal(String title){
         String[] titleArr = splitTitle(title);
         double[] relevantVec = new double[inputTitles.length];
         double min = 1000;
         double max = 0;
 
         for(int i = 0; i < inputTitles.length; i++){
-            double w = tfidf.tfIdfCalculator(allTitles,titleArr,inputTitles[i]);
-            relevantVec[i] = w;
+            relevantVec[i] = tfidf.tfIdfCalculator(allTitles,titleArr,inputTitles[i]);
 
             if(relevantVec[i] < min){
                 min = relevantVec[i];
@@ -144,30 +143,33 @@ public class Score {
         }
 
         for(int i = 0; i < relevantVec.length; i++){
-            if(min == max){
-                relevantVec[i] = 1;
-            }else{
+            if(Double.compare(min,max) != 0){
                 relevantVec[i] = (relevantVec[i] - min) / (max - min);
             }
         }
-        return c.cosineSimilarity(titleVec,relevantVec);
+
+        return relevantVec;
     }
 
     private double bookTitleScore(String bookTitle){
-        if(inputPaper instanceof Inproceedings){
-            Inproceedings inproceedings = (Inproceedings) inputPaper;
-            if(inproceedings.getBooktitle().equalsIgnoreCase(bookTitle)){
-                return 1.0;
+        for(Bibtex bibtex : inputPaper){
+            if(bibtex instanceof Inproceedings){
+                Inproceedings inproceedings = (Inproceedings) bibtex;
+                if(inproceedings.getBooktitle().equalsIgnoreCase(bookTitle)){
+                    return 1.0;
+                }
             }
         }
         return 0.0;
     }
 
     private double journalScore(String journal){
-        if(inputPaper instanceof Article){
-            Article inputArticle = (Article) inputPaper;
-            if (inputArticle.getJournal().equalsIgnoreCase(journal)){
-                return 1.0;
+        for(Bibtex bibtex : inputPaper){
+            if(bibtex instanceof Article){
+                Article inputArticle = (Article) bibtex;
+                if (inputArticle.getJournal().equalsIgnoreCase(journal)){
+                    return 1.0;
+                }
             }
         }
         return 0.0;
@@ -191,9 +193,10 @@ public class Score {
 //
 //        List<Bibtex> relevantPapers = new ArrayList<Bibtex>();
 //        Article re1 = new Article();
-//        re1.setAuthor("Yossi Rubner and Carlo Tomasi");
-//        re1.setTitle("The Earth Mover's Distance as a Metric for Image");
+//        re1.setAuthor("Yossi Rubner and Carlo Tomasi and Leonidas J. Guibas");
+//        re1.setTitle("The Earth Mover's Distance as a Metric for Image Retrieval");
 //        re1.setJournal("International Journal of Computer Vision");
+//        re1.setYear("2000");
 //
 //        Article re2 = new Article();
 //        re2.setAuthor("Yossi Rubner and Carlo Tomasi");
