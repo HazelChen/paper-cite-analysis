@@ -30,7 +30,7 @@ public class RecommendControllerStub implements RecommendController{
     }
 
     public void like(Bibtex bibtex) {
-
+        System.out.println(bibtex);
     }
 
     public void dislike(Bibtex bibtex) {

@@ -78,7 +78,6 @@
 
 		$("#content-info").on('click','.like',function(){
 			var index = $(this).parent().parent().index();
-			console.log(info_data[index][0]);
 			like(index);
 		});
 		$("#content-info").on('click','.dislike',function(){
@@ -113,21 +112,20 @@
 	}
 
 	function like(index){
-	    console.log("like");
 		$.post(
 			'/api/recommend-service/like',
-			{input: info_data[index][0]},
+			{like: JSON.stringify(info_data[index][0])},
 			function(){
 				$("#search").click();
-			}
+			},
+			'json'
 		)
-		console.log("like end");
 	}
 
 	function dislike(index){
 		$.post(
 			'/api/recommend-service/dislike',
-			{dislike: info_data[index][0]},
+			{dislike: JSON.stringify(info_data[index][0])},
 			function(){
 				$("#search").click();
 			}

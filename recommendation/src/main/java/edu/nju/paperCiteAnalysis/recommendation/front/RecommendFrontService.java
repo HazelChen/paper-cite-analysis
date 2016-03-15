@@ -26,7 +26,7 @@ public class RecommendFrontService {
         initGson();
 
         if (controller == null) {
-            controller = new RecommendControllerImpl();
+            controller = new RecommendControllerStub();
         }
     }
 
@@ -40,7 +40,7 @@ public class RecommendFrontService {
 
     @Path("/like")
     @POST
-    public String like(@DefaultValue("") @QueryParam("input") String like) {
+    public String like(@DefaultValue("") @FormParam("input") String like) {
         Bibtex bibtex = gson.fromJson(like, Bibtex.class);
         controller.like(bibtex);
         return "";
@@ -48,7 +48,7 @@ public class RecommendFrontService {
 
     @Path("/dislike")
     @POST
-    public String dislike(@DefaultValue("") @QueryParam("dislike") String dislike) {
+    public String dislike(@DefaultValue("") @FormParam("dislike") String dislike) {
         Bibtex bibtex = gson.fromJson(dislike, Bibtex.class);
         controller.dislike(bibtex);
         return "";
