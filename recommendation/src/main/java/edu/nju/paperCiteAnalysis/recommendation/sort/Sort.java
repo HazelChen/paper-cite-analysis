@@ -51,7 +51,8 @@ public class Sort {
         Collections.sort(lists);
 
         LinkedHashMap<Bibtex, Double> results = new LinkedHashMap<Bibtex, Double>();
-        for (int k = 0; k < topNum; k++) {
+        int size = topNum <=  lists.size() ? topNum : lists.size();
+        for (int k = 0; k < size; k++) {
             results.put(lists.get(k).bibtex, lists.get(k).score);
         }
         return results;
@@ -71,7 +72,7 @@ public class Sort {
                 int year = Integer.valueOf(bibtex.getYear());
                 int otherYear = Integer.valueOf(other.bibtex.getYear());
                 double gap = score - other.score;
-                if (gap > 0 && gap < threshhold && year < otherYear) {
+                if (gap > 0 && gap <= threshhold && year < otherYear) {
                     return 1;
                 }
                 if (gap < 0 || gap > threshhold || (gap > 0 && gap < threshhold && year >= otherYear)) {
@@ -90,7 +91,7 @@ public class Sort {
 
         Map<Bibtex, Double> map = new HashMap<Bibtex, Double>();
         Bibtex bibtex1 = new Article();
-        bibtex1.setYear("2013");
+        bibtex1.setYear("2010");
         map.put(bibtex1, Double.valueOf(90));
 
         Bibtex bibtex2 = new Inproceedings();
