@@ -78,6 +78,7 @@
 
 		$("#content-info").on('click','.like',function(){
 			var index = $(this).parent().parent().index();
+			console.log(info_data[index][0]);
 			like(index);
 		});
 		$("#content-info").on('click','.dislike',function(){
@@ -112,6 +113,7 @@
 	}
 
 	function like(index){
+	    console.log("like");
 		$.post(
 			'/api/recommend-service/like',
 			{like: info_data[index][0]},
@@ -119,6 +121,7 @@
 				$("#search").click();
 			}
 		)
+		console.log("like end");
 	}
 
 	function dislike(index){
