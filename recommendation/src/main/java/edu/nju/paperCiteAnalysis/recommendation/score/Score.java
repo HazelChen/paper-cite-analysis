@@ -182,31 +182,32 @@ public class Score {
         return titles;
     }
 
-//    public static void main(String[] args){
-//        List<Bibtex> input = new ArrayList<Bibtex>();
-//        Article falseInput = new Article();
-//        falseInput.setAuthor("Yossi Rubner and Carlo Tomasi and Leonidas J. Guibas");
-//        falseInput.setTitle("The Earth Mover's Distance as a Metric for Image Retrieval");
-//        falseInput.setYear("2000");
-//        falseInput.setJournal("International Journal of Computer Vision");
-//        input.add(falseInput);
-//
-//        List<Bibtex> relevantPapers = new ArrayList<Bibtex>();
-//        Article re1 = new Article();
-//        re1.setAuthor("Yossi Rubner and Carlo Tomasi and Leonidas J. Guibas");
-//        re1.setTitle("The Earth Mover's Distance as a Metric for Image Retrieval");
-//        re1.setJournal("International Journal of Computer Vision");
-//        re1.setYear("2000");
-//
-//        Article re2 = new Article();
-//        re2.setAuthor("Yossi Rubner and Carlo Tomasi");
-//        re2.setTitle("The Earth Mover's as a Metric for Image");
-//        re2.setJournal("International of Computer Vision");
-//
-//        relevantPapers.add(re2);
-//        relevantPapers.add(re1);
-//
-//        Score score = new Score();
-//        score.score(input,relevantPapers);
-//    }
+    public static void main(String[] args){
+        List<Bibtex> input = new ArrayList<Bibtex>();
+        Inproceedings falseInput = new Inproceedings();
+        falseInput.setAuthor("Chenliang Xu and Caiming Xiong and Jason J. Corso");
+        falseInput.setTitle("Streaming Hierarchical Video Segmentation");
+        falseInput.setYear("2012");
+        falseInput.setBooktitle("ECCV");
+        input.add(falseInput);
+
+        List<Bibtex> relevantPapers = new ArrayList<Bibtex>();
+        Inproceedings re1 = new Inproceedings();
+        re1.setAuthor("Kenneth L. Clarkson and David P. Woodruff");
+        re1.setTitle("Numerical linear algebra in the streaming model");
+        re1.setBooktitle("STOC");
+        re1.setYear("2009");
+
+        Inproceedings re2 = new Inproceedings();
+        re2.setAuthor("Fabio Galasso and Margret Keuper and Thomas Brox and Bernt Schiele");
+        re2.setTitle("Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation");
+        re2.setBooktitle("CVPR");
+        re2.setYear("2014");
+
+        relevantPapers.add(re1);
+        relevantPapers.add(re2);
+
+        Score score = new Score();
+        score.score(input,relevantPapers);
+    }
 }
