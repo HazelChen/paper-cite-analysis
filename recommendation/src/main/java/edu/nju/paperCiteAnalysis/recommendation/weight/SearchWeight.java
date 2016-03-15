@@ -173,6 +173,12 @@ public class SearchWeight {
         double weight3 = CollectionUtils.isNotEmpty(jounal)?jounal.get(0).getValue():0;
 
         double sum = weight1 + weight2 + weight3;
+        if(sum == 0) {
+            weight.put(PropertyConstant.AUTHOR, 30.0);
+            weight.put(PropertyConstant.TITLE, 50.0);
+            weight.put(PropertyConstant.JOURNAL, 20.0);
+            return;
+        }
         weight.put(PropertyConstant.AUTHOR, weight1/sum*100);
         weight.put(PropertyConstant.TITLE, weight2/sum*100);
         weight.put(PropertyConstant.JOURNAL, weight3/sum*100);
