@@ -40,7 +40,7 @@ public class RecommendFrontService {
 
     @Path("/like")
     @POST
-    public String like(@DefaultValue("") @FormParam("input") String like) {
+    public String like(@DefaultValue("") @FormParam("like") String like) {
         Bibtex bibtex = gson.fromJson(like, Bibtex.class);
         controller.like(bibtex);
         return "";
