@@ -1,5 +1,6 @@
 package edu.nju.paperCiteAnalysis.recommendation.front;
 
+import edu.nju.classifier.common.PropertyConstant;
 import edu.nju.paperCiteAnalysis.recommendation.common.Bibtex;
 import edu.nju.paperCiteAnalysis.recommendation.score.Score;
 import edu.nju.paperCiteAnalysis.recommendation.search.Search;
