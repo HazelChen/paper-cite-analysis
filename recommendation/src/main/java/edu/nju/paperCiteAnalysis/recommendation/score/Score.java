@@ -127,12 +127,23 @@ public class Score {
     private double titleScore(String title){
         String[] titleArr = splitTitle(title);
         double[] relevantVec = new double[inputTitles.length];
+        double min = 1000;
+        double max = 0;
 
         for(int i = 0; i < inputTitles.length; i++){
             double w = tfidf.tfIdfCalculator(allTitles,titleArr,inputTitles[i]);
             relevantVec[i] = w;
+
+            if(relevantVec[i] < min){
+                min = relevantVec[i];
+            }else if(relevantVec[i] > max){
+                max = relevantVec[i];
+            }
         }
 
+        for(int i = 0; i < relevantVec.length; i++){
+            relevantVec[i] = (relevantVec[i] - min) / (max - min);
+        }
         return c.cosineSimilarity(titleVec,relevantVec);
     }
 
