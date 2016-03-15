@@ -116,7 +116,7 @@
 	    console.log("like");
 		$.post(
 			'/api/recommend-service/like',
-			{like: info_data[index][0]},
+			{input: info_data[index][0]},
 			function(){
 				$("#search").click();
 			}

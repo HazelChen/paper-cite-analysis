@@ -14,8 +14,8 @@ public class StringToBibtex {
     private static final String START_SYMBOL = "={";
     private static final String END_SYMBOL = "},";
     private static final String SET_STR = "set";
-    private static final String ARTICLE = "ARTICLE";
-    private static final String INPROCEEDINGS = "INPROCEEDINGS";
+    private static final String ARTICLE = "article";
+    private static final String INPROCEEDINGS = "inproceedings";
 
     public static Bibtex convert(String citeStr) {
         Bibtex bibtex = null;
@@ -24,7 +24,7 @@ public class StringToBibtex {
             return null;
         }
         String type = citeStr.substring(citeStr.indexOf("@") + 1, citeStr.indexOf("{"));
-        if (ARTICLE.equals(type)) {
+        if (ARTICLE.equals(type.toLowerCase())) {
             bibtex = new Article();
         } else if (INPROCEEDINGS.equals(type)) {
             bibtex = new Inproceedings();

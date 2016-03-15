@@ -40,7 +40,7 @@ public class Tfidf {
         if(count == 0){
             return 0;
         }else{
-            double rate = allTerms.size() / count;
+            double rate = 1200 / count;
             return Math.log(rate);
         }
     }
@@ -53,16 +53,6 @@ public class Tfidf {
         double idf = idfCalculator(checkTerm);
         double tfIdf = tf * idf;
 
-        //权重归一化
-        double tfIdfSum = 0;
-        for (String term: totalTerms){
-            tfIdfSum += Math.pow(tfCalculator(term) * idfCalculator(term),2);
-        }
-
-        if(tfIdfSum == 0){
-            return 0;
-        }else{
-            return tfIdf / Math.sqrt(tfIdfSum);
-        }
+        return tfIdf;
     }
 }

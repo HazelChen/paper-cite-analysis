@@ -5,6 +5,7 @@ import edu.nju.paperCiteAnalysis.recommendation.common.Article;
 import edu.nju.paperCiteAnalysis.recommendation.common.Bibtex;
 import edu.nju.paperCiteAnalysis.recommendation.common.Inproceedings;
 import edu.nju.paperCiteAnalysis.recommendation.weight.SearchWeight;
+import edu.nju.paperCiteAnalysis.recommendation.weight.WeightHistory;
 import edu.nju.tokenAnalyzer.TokenAnalyzer;
 
 import java.util.*;
@@ -23,6 +24,7 @@ public class Score {
     private double[] titleVec;
     private List<String[]> allTitles = new ArrayList<String[]>();
     private TokenAnalyzer tokenAnalyzer = new TokenAnalyzer();
+    private WeightHistory weightHistory = new WeightHistory();
 
     private CosineSimilarity c = new CosineSimilarity();
     private Tfidf tfidf = new Tfidf();
@@ -35,7 +37,7 @@ public class Score {
             System.out.println("搜索不到相关论文");
             return null;
         }else{
-            SearchWeight searchWeight = new SearchWeight(inputPaper);
+            SearchWeight searchWeight = weightHistory.getSearchWeight(inputPaper);
             Map<String, Double> weight = searchWeight.getWeight();
             double authorRate = weight.get(PropertyConstant.AUTHOR);
             double titleRate = weight.get(PropertyConstant.TITLE);
@@ -127,12 +129,23 @@ public class Score {
     private double titleScore(String title){
         String[] titleArr = splitTitle(title);
         double[] relevantVec = new double[inputTitles.length];
+        double min = 1000;
+        double max = 0;
 
         for(int i = 0; i < inputTitles.length; i++){
             double w = tfidf.tfIdfCalculator(allTitles,titleArr,inputTitles[i]);
             relevantVec[i] = w;
+
+            if(relevantVec[i] < min){
+                min = relevantVec[i];
+            }else if(relevantVec[i] > max){
+                max = relevantVec[i];
+            }
         }
 
+        for(int i = 0; i < relevantVec.length; i++){
+            relevantVec[i] = (relevantVec[i] - min) / (max - min);
+        }
         return c.cosineSimilarity(titleVec,relevantVec);
     }
 

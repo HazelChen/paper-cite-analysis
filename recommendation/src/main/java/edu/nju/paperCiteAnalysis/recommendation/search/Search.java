@@ -1,17 +1,10 @@
 package edu.nju.paperCiteAnalysis.recommendation.search;
 
 import edu.nju.classifier.searchEngine.InvertedIndexFactory;
-import edu.nju.paperCiteAnalysis.recommendation.common.Article;
 import edu.nju.paperCiteAnalysis.recommendation.common.Bibtex;
-import edu.nju.paperCiteAnalysis.recommendation.common.Inproceedings;
 import edu.nju.tokenAnalyzer.TokenAnalyzer;
 
-import java.lang.reflect.Field;
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * Created by margine on 16-3-12.

@@ -3,6 +3,7 @@ package edu.nju.paperCiteAnalysis.recommendation.front;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
+import com.sun.xml.internal.ws.api.pipe.ServerTubeAssemblerContext;
 import edu.nju.paperCiteAnalysis.recommendation.common.Bibtex;
 
 import javax.servlet.ServletContext;
@@ -19,12 +20,14 @@ import java.util.Map;
 @Path("/recommend-service")
 public class RecommendFrontService {
     private Gson gson;
-    private RecommendController controller;
+    private static RecommendController controller;
 
     public RecommendFrontService() {
         initGson();
 
-        controller = new RecommendControllerStub();
+        if (controller == null) {
+            controller = new RecommendControllerImpl();
+        }
     }
 
     @Path("/recommend")
@@ -37,8 +40,9 @@ public class RecommendFrontService {
 
     @Path("/like")
     @POST
-    public String like(@DefaultValue("") @QueryParam("like") String like) {
+    public String like(@DefaultValue("") @QueryParam("input") String like) {
         Bibtex bibtex = gson.fromJson(like, Bibtex.class);
+        controller.like(bibtex);
         return "";
     }
 
@@ -46,6 +50,7 @@ public class RecommendFrontService {
     @POST
     public String dislike(@DefaultValue("") @QueryParam("dislike") String dislike) {
         Bibtex bibtex = gson.fromJson(dislike, Bibtex.class);
+        controller.dislike(bibtex);
         return "";
     }
 
