@@ -26,7 +26,7 @@ public class RecommendFrontService {
         initGson();
 
         if (controller == null) {
-            controller = new RecommendControllerStub();
+            controller = new RecommendControllerImpl();
         }
     }
 
