@@ -11,10 +11,7 @@ import edu.nju.paperCiteAnalysis.recommendation.common.Inproceedings;
 import javax.servlet.ServletContext;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Created by hazel on 2016-03-12.
@@ -37,6 +34,12 @@ public class RecommendFrontService {
     public String recommend(@DefaultValue("") @QueryParam("input") String input) {
         String[] inputs = input.split("\n");
         Map<Bibtex, Double> bibtexWithGoal = controller.recommend(Arrays.asList(inputs));
+
+        for(Map.Entry<Bibtex, Double> entry : bibtexWithGoal.entrySet()){
+            double doubleValue = entry.getValue();
+            int intValue = (int) (doubleValue * 100);
+            entry.setValue(intValue / 100.0);
+        }
         return gson.toJson(bibtexWithGoal);
     }
 
