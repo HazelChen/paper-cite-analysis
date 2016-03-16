@@ -48,10 +48,12 @@ public class Sort {
             ScoreBibtex scoreBibtex = new ScoreBibtex(bibtex, origin.get(bibtex));
             lists.add(scoreBibtex);
         }
+
         Collections.sort(lists);
 
         LinkedHashMap<Bibtex, Double> results = new LinkedHashMap<Bibtex, Double>();
-        for (int k = 0; k < topNum; k++) {
+        int size = topNum <= lists.size() ? topNum : lists.size();
+        for (int k = 0; k < size; k++) {
             results.put(lists.get(k).bibtex, lists.get(k).score);
         }
         return results;
@@ -67,21 +69,14 @@ public class Sort {
         }
 
         public int compareTo(ScoreBibtex other) {
-            try {
-                int year = Integer.valueOf(bibtex.getYear());
-                int otherYear = Integer.valueOf(other.bibtex.getYear());
-                double gap = score - other.score;
-                if (gap > 0 && gap < threshhold && year < otherYear) {
-                    return 1;
-                }
-                if (gap < 0 || gap > threshhold || (gap > 0 && gap < threshhold && year >= otherYear)) {
-                    return Double.compare(other.score, score);
-                }
-            } catch (NumberFormatException e) {
-                System.err.println("Error: invalid year found while sort " + e);
-                System.exit(-1);
+            int year = Integer.valueOf(bibtex.getYear());
+            int otherYear = Integer.valueOf(other.bibtex.getYear());
+            double gap = score - other.score;
+            if (Double.compare(gap, 0) > 1 && Double.compare(gap, threshhold) < 1 && year < otherYear) {
+                return 1;
+            } else {
+                return Double.compare(other.score, score);
             }
-            return 0;
         }
     }
 
@@ -90,16 +85,16 @@ public class Sort {
 
         Map<Bibtex, Double> map = new HashMap<Bibtex, Double>();
         Bibtex bibtex1 = new Article();
-        bibtex1.setYear("2013");
-        map.put(bibtex1, Double.valueOf(90));
+        bibtex1.setYear("2011");
+        map.put(bibtex1, Double.valueOf(1.707));
 
         Bibtex bibtex2 = new Inproceedings();
         bibtex2.setYear("2010");
-        map.put(bibtex2, Double.valueOf(91));
+        map.put(bibtex2, Double.valueOf(0.0));
 
-        Bibtex bibtex3 = new Article();
-        bibtex3.setYear("2015");
-        map.put(bibtex3, Double.valueOf(70));
+//        Bibtex bibtex3 = new Article();
+//        bibtex3.setYear("2015");
+//        map.put(bibtex3, Double.valueOf(70));
 
         sort.sort(map);
     }

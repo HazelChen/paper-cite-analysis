@@ -2,6 +2,7 @@ package edu.nju.paperCiteAnalysis.recommendation.search;
 
 import edu.nju.classifier.searchEngine.InvertedIndexFactory;
 import edu.nju.paperCiteAnalysis.recommendation.common.Bibtex;
+import edu.nju.paperCiteAnalysis.recommendation.tools.StringToBibtex;
 import edu.nju.tokenAnalyzer.TokenAnalyzer;
 
 import java.util.*;
@@ -36,17 +37,21 @@ public class Search {
             }
         }
         dataHelper = new DataHelper();
-        List<Bibtex> results = dataHelper.getResults(rowkeySets);
+        List<Bibtex> results = new ArrayList<Bibtex>();
+        results.addAll(dataHelper.getResults(rowkeySets));
         return  results;
     }
 
     private List<String> getSearchKeys(String source){
         tokenAnalyzer = new TokenAnalyzer();
+        Bibtex bibtex = StringToBibtex.convert(source);
+        bibtex.setYear("");
+
         //filter symbol
         String[] removeKeys = new String[]{"article", "inproceedings", "author", "title", "year","pages", "journal", "booktitle", "volume"};
 
         List<String> keys = new ArrayList<String>();
-        keys.addAll(tokenAnalyzer.wordSplit(source));
+        keys.addAll(tokenAnalyzer.wordSplit(bibtex.toString()));
         for (int i = 0; i < removeKeys.length ; i++){
             keys.remove(removeKeys[i]);
         }
@@ -63,6 +68,4 @@ public class Search {
                 "\t\t\t  pages={1348}\n" +
                 "\t\t\t}");
     }
-
-
 }

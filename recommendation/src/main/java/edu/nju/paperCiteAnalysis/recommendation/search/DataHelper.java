@@ -15,9 +15,7 @@ import org.apache.hadoop.hbase.client.Table;
 import org.apache.hadoop.hbase.util.Bytes;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
+import java.util.*;
 
 /**
  * Created by margine on 16-3-12.
@@ -49,8 +47,8 @@ public class DataHelper {
         }
     }
 
-    protected List<Bibtex> getResults(Collection<String> keys){
-        List<Bibtex> results = new ArrayList<Bibtex>();
+    protected Set<Bibtex> getResults(Collection<String> keys){
+        Set<Bibtex> results = new HashSet<Bibtex>();
         setup();
         try {
             for (String key: keys){
